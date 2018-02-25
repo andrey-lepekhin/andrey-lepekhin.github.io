@@ -22,6 +22,7 @@ I _love_ dancing to popular music (like [_Hurts - Ready to Go_](https://www.yout
 If you are from Moscow, and want to meet - shoot me an email - I would love to chat offline. I've found that meeting with like-minded people makes for captivating dialogues and that is another thing that I absolutely love.
 
 
+I welcome criticism, one of this blog's goals is to help me improve. If you think something could have been done/written better, you're probably right and I will thank you if you'll share it with me.
 
 ### Contact me
 
