@@ -14,7 +14,8 @@ be it accountability partners, anti-procrastination techniques, psychotherapy or
 
 
 
-I'm fascinated by IT and I work as a product & project manager. I read a lot of fiction (any _HPMOR_ or _Worm_ fans out here?).
+I'm fascinated by IT and I work as a product & project manager.  
+I read a lot of fiction (any _HPMOR_ or _Worm_ fans out here?).
 
 I _love_ dancing to popular music (like [_Hurts - Ready to Go_](https://www.youtube.com/watch?v=PP2G3dm_fsc&t=37)) and I do indulge myself daily.  
 
