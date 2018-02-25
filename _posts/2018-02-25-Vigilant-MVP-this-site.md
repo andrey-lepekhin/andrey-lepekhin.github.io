@@ -41,12 +41,12 @@ Realization struck: I just really didn't see the end product. And when I tried p
 
 That's when a stray thought of MVP came to me and I understood how wrong I've been.
 I don’t need fancy pagination or archived posts. I just need something to start pouring my thoughts into that also doesn't look hideous.
-That's when I installed [Jekyll-now](https://github.com/barryclark/jekyll-now) and slapped a [Pixyll](https://github.com/johnotander/pixyll) theme on it and here we are.
+That's when I installed [Jekyll-now](https://github.com/barryclark/jekyll-now) and slapped the [Pixyll](https://github.com/johnotander/pixyll) theme on it and here we are.
 
 
 ### Summary of what I learned
 
 Before diving into a new sexy project
 1. Describe the end result in necessary detail 
-1. Remember why do you want to do this at all. Is this new project the best way to achieve it?
+1. Remember why _do_ you want to do this at all. Is this new project the best way to achieve your end goal?
 1. Cut out everything that is not essential
