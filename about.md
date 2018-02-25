@@ -6,7 +6,9 @@ permalink: /about
 
 Hey there!
 
-I'm Andrey. Sometimes _humaning_ is hard and I've fallen many a time.  
+![That's me]({{ "/images/Andrey_Lepekhin.png" | absolute_url }})
+
+I'm Andrey. Sometimes being a human is hard and I've fallen many a time.  
 I seek, test and implement systems to help me with reaching my goals:  
 be it accountability partners, anti-procrastination techniques, psychotherapy or even Goal-Crafting Intensives :)
 
@@ -23,3 +25,8 @@ If you are from Moscow, and want to meet - shoot me an email - I would love to c
 ### Contact me
 
 Andrey @ this domain
+
+### Links
+
+* [LinkedIn](https://www.linkedin.com/in/{{site.footer-links.linkedin}})
+* [RSS]({{ "/feed.xml" | prepend: site.baseurl }})
