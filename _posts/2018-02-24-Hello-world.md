@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello, World!
+categories: blog
 ---
 
 I've bit the bullet and decided to create this thing.

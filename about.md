@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about
 ---
 
 Hey there!
 
 I'm Andrey. Sometimes _humaning_ is hard and I've fallen many a time.  
-I seek, test and implement 'external' systems to help me with reaching my goals:  
+I seek, test and implement systems to help me with reaching my goals:  
 be it accountability partners, anti-procrastination techniques, psychotherapy or even Goal-Crafting Intensives :)
 
 
