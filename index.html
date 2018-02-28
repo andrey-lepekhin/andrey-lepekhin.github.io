@@ -11,9 +11,8 @@ pagination:
     <div class="posts">
       {% for post in paginator.posts %}
         <div class="post py3">
-          <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+          <p class="post-meta">{{ post.date | date: site.date_format }} {% include post_categories.html %}</p>
           <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
-          {% include post_categories.html %}
           <span class="post-summary">
 
             <p>
