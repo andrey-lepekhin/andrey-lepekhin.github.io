@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Andrey Lepekhin</title>
+    <link>https://andrey-lepekhin.github.io</link>
+    <description>
+      personal page
+    </description>
+    
+        
+            <item>
+                <title>Dealing with internal conflict immediately</title>
+                <link>https://andrey-lepekhin.github.io/2018/02/28/Dealing-with-internal-conflict-immediately</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>This feels extremely valuable. Adding this as a goal myself.</p>
+
+<blockquote>
+  <p>So I now have a double commitment: to act in each moment out of a sense of purposeful discipline, and also to not waste my energy fighting myself.</p>
+
+  <p>And, as Dogen recommends: “to practise the Way as though saving my head from fire.”</p>
+
+  <p>This means that if I notice myself feeling aimless, or I notice myself feeling stuck or oscillating, <strong>dealing with that immediately rather than acting <em>from</em> it</strong>. Focusing on addressing internal conflicts might yield less short-term output than if I were to stay focused on the object-level and push through with “willpower”, trying to win my internal conflict. Focusing on staying purpose-driven in each moment will almost certainly be less comfortable than a more calm spaciousness, but if I don’t then I can’t actually trust myself to resolve my conflicts in service of what I care about.</p>
+
+  <p>Conflict is inherently wasteful, as energy is spent by both sides but the effects cancel each other out. Tiago Forte points out in The Throughput of Learning that Toyota’s production line aims for zero waste. They don’t expect to reach literally zero, but having that as a target makes it clear to the whole system that they’re playing a totally different game than mere waste mitigation or waste reduction.</p>
+</blockquote>
+
+<p><em>Malcolm Ocean</em><br />
+<a href="http://malcolmocean.com/2017/06/towards-being-purpose-driven-without-fighting-myself/">http://malcolmocean.com/2017/06/towards-being-purpose-driven-without-fighting-myself/</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/02/28/Dealing-with-internal-conflict-immediately</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Wed, 28 Feb 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Vigilant MVPing: the case of this blog</title>
+                <link>https://andrey-lepekhin.github.io/2018/02/25/Vigilant-MVP-case-of-this-blog</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>During my day job I frequently have to optimize software development tasks to
+leave only the most important, essential functionality and cut away all the bells and whistles.<br />
+This is sometimes abbreviated as MVP — Minimal Viable Product.</p>
+
+<p>This blog is an example of a situation where I slipped into wanting to build a <em>maximum</em> viable product but steadied myself, albeit I little late.</p>
+
+<blockquote>
+  <p>
+    OK, I need a new web-site
+  </p>
+  <footer><cite>Me, some time ago</cite></footer>
+</blockquote>
+
+<p><strong>The worst mistake</strong> was that I started working on a solution right away… without defining a problem. I slipped into <em>“ooh, shiny”</em> techie-tinker mindset and was dead set on exploring new and fascinating frontiers of static site generators. The more I researched the more bells and whistles I gathered in my wish-list. It was like a trance.</p>
+
+<blockquote>
+  <p>
+    Of course I need pagination! But not just any pagination, only the best kind: by categories, by tags, by months. Hm, maybe by music and mood too?  
+	To do that I just need to quickly read on about Jekyll collections and another couple of posts about how to do it all in a Github-preferred way.
+  </p>
+  <footer><cite>Me, high on new tech</cite></footer>
+</blockquote>
+
+<p>That’s when my weekend ended and, still having nothing to show for a site, I felt sad and disappointed. I gave up and decided that <em>if</em> I even were to get new site, I will hire a professional to do it.
+Some weeks later I even started making a tech spec to post on a freelance exchange. Including the fancy pagination et al, of course.</p>
+
+<p>There was a slight problem though. I noticed a strange thing: it was really hard for me to describe in technical language what was required. Interesting. How come? 
+Realization struck: I just really didn’t see the end product. And when I tried probing questions to elicit requirements from myself I understood that I was the proverbial <em>perpetually-almost-satisfied</em> client with an unlimited number of edits and improvements because he doesn’t know what he wants.</p>
+
+<p>That’s when a stray thought of MVP came to me and I understood how wrong I’ve been.
+I don’t need fancy pagination or archived posts. I just need something to start pouring my thoughts into that also doesn’t look hideous.
+That’s when I installed <a href="https://github.com/barryclark/jekyll-now">Jekyll-now</a> and slapped the <a href="https://github.com/johnotander/pixyll">Pixyll</a> theme on it and here we are.</p>
+
+<h3 id="summary-of-what-i-learned">Summary of what I learned</h3>
+
+<p>Before diving into a new sexy project</p>
+<ol>
+  <li>Describe the end result in necessary detail</li>
+  <li>Remember why <em>do</em> you want to do this at all. Is this new project the best way to achieve your end goal?</li>
+  <li>Cut out everything that is not essential</li>
+</ol>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/02/25/Vigilant-MVP-case-of-this-blog</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sun, 25 Feb 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Hello, World!</title>
+                <link>https://andrey-lepekhin.github.io/2018/02/24/Hello-world</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>I’ve bit the bullet and decided to create this thing.
+I plan to use it for</p>
+
+<ul>
+  <li>post links to articles, images, videos — anything that I like, with a small comment or quote about what in particular got my attenton</li>
+  <li>post about my [thought, goal-setting, etc] processes with the goal of internal and external audit. As Zvi put it:</li>
+</ul>
+
+<blockquote>
+  <p>Writing down your conclusions often makes you realize where your conclusions are wrong, or your techniques can be improved. Having to put  all of your justifications into precise words, in a place others could read them, makes most bad reasoning obvious if you are paying attention.</p>
+</blockquote>
+<p><a href="https://thezvi.wordpress.com/2017/07/24/write-down-your-process/">https://thezvi.wordpress.com/2017/07/24/write-down-your-process/</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/02/24/Hello-world</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 24 Feb 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+  </channel>
+</rss>
