@@ -1,5 +1,9 @@
+<a href="{{ site.url }}/category/links">Link posts</a>
+<a></a><a></a><a></a>
+
 {% assign default_paths = site.pages | map: "path" %}
 {% assign page_paths = site.header_pages | default: default_paths %}
+
 
 {% for path in page_paths %}
     
@@ -11,3 +15,5 @@
 
     
 {% endfor %}
+
+

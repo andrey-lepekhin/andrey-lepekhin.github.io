@@ -60,7 +60,7 @@ show_drafts: null
 #
 
 permalink: /:year/:month/:day/:title
-paginate:     4
+#paginate:     4
 date_format: "%b %-d, %Y"
 
 # The release of Jekyll Now that you're using
@@ -86,7 +86,7 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag
   - jemoji
-  - jekyll-paginate
+  - jekyll-paginate-v2
 
 # Exclude these files from your production _site
 exclude:
@@ -186,3 +186,48 @@ share_stumbleupon: false
 share_hackernews: false
 
 use_font_awesome: false
+
+
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 3
+  permalink: '/page/:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+############################################################
+# Site configuration for the Auto-Pages feature
+# The values here represent the defaults if nothing is set
+autopages:
+
+  # Site-wide kill switch, disable here and it doesn't run at all 
+  enabled: true
+
+  # Category pages, omit entire config element to disable
+  categories: 
+    # Optional, the list of layouts that should be processed for every category found in the site
+    layouts: 
+      - 'autopage_category.html'
+    # Optional, the title that each category paginate page should get (:cat is replaced by the Category name)
+    title: 'Posts in category :cat'
+    # Optional, the permalink for the  pagination page (:cat is replaced), 
+    # the pagination permalink path is then appended to this permalink structure
+    permalink: '/category/:cat'
+
+  # Collection pages, omit to disable
+  collections:
+    layouts: 
+      - 'autopage_collection.html'
+    title: 'Posts in collection :coll' # :coll is replaced by the collection name
+    permalink: '/collection/:coll'
+  
+  # Tag pages, omit to disable
+  tags:
+    layouts: 
+      - 'autopage_tags.html'
+    title: 'Posts tagged with :tag' # :tag is replaced by the tag name
+    permalink: '/tag/:tag'

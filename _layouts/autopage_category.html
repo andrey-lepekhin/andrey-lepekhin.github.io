@@ -1,11 +1,10 @@
 ---
 layout: default
-pagination: 
-  enabled: true
-  category: blog
 ---
-{% assign posts_count = paginator.posts | size %}
 
+<h1>Posts in category: {{page.autopages.display_name}}</h1>
+
+{% assign posts_count = paginator.posts | size %}
 <div class="home">
   {% if posts_count > 0 %}
     <div class="posts">
@@ -13,9 +12,7 @@ pagination:
         <div class="post py3">
           <p class="post-meta">{{ post.date | date: site.date_format }}</p>
           <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
-          {% include post_categories.html %}
           <span class="post-summary">
-
             <p>
             {% if post.summary %}
               {{ post.summary | remove: '<p>' | remove: '</p>' }}
@@ -23,10 +20,7 @@ pagination:
               {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
             {% endif %}
             </br>
-            
-            </br>
             &hellip; <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">continue reading</a>
-
           </p>
           </span>
         </div>
@@ -38,5 +32,3 @@ pagination:
     <h1 class='center'>{{ site.text.index.coming_soon }}</h1>
   {% endif %}
 </div>
-
-
