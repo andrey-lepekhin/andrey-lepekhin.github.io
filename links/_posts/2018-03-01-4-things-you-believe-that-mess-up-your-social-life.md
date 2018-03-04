@@ -2,7 +2,7 @@
 layout: post
 title: '4 Things You Believe That Mess Up Your Social Life'
 categories: links goals
-tags: 'Comfort Zone Crusher'
+tags: Comfort-Zone-Crusher
 ---
 
 I plan to start my [Comfort Zone Crusher course](http://www.comfortzonecrusher.com/) some time this year.  

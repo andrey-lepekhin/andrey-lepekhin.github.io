@@ -2,7 +2,7 @@
 layout: post
 title: 'The Acceleration of Addictiveness'
 categories: links
-tags: 'The Zvi'
+tags: Paul-Graham
 ---
 
 
