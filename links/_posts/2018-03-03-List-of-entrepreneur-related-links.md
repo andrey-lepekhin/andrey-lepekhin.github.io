@@ -3,6 +3,7 @@ layout: post
 title: 'List of entrepreneur-related links'
 categories: links goals
 tags: entrepreneurship
+update_date: 2018-03-04
 ---
 
 From time to time I pocket articles that seem like they would help me when I'll start working toward my own business.  
@@ -91,8 +92,9 @@ When I come reading, I'll mark them off the list and maybe even leave comments a
 1.   [Stripe Atlas: Getting Your First 10 Customers](https://stripe.com/atlas/guides/starting-sales)
 1.   [First Search](https://search.firstround.com/lists)
 1.   [Stripe Atlas: Software as a Service, as a business](https://stripe.com/atlas/guides/business-of-saas)
+1.   [Ask HN: Successful one-person online businesses?](https://news.ycombinator.com/item?id=16482392)
 
   
   
-Last-updated: —
+Last-updated: {{ page.update_date | date: site.date_format }}
  

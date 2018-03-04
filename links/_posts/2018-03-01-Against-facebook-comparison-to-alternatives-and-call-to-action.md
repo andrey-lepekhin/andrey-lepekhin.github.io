@@ -2,7 +2,7 @@
 layout: post
 title: 'Against Facebook: Comparison to Alternatives and Call to Action'
 categories: links
-tags: facebook, The-Zvi
+tags: facebook, the-zvi
 ---
 
 Basically, Facebook is bad - their goal is maximize the time you use the site (↑ad revenue). That means not allowing for efficient means of getting value out of the site's main feature: a lot of people. Not allowing you control what and how you see (sort, search, The Zvi also wrote about it [here](https://thezvi.wordpress.com/2017/04/22/against-facebook/))
