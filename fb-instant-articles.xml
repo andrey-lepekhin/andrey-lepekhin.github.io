@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Andrey Lepekhin</title>
-    <link>https://andrey-lepekhin.github.io</link>
+    <link>http://localhost:4000</link>
     <description>
       personal page
     </description>
@@ -10,7 +10,7 @@
         
             <item>
                 <title>List of entrepreneur-related links</title>
-                <link>https://andrey-lepekhin.github.io/2018/03/03/List-of-entrepreneur-related-links</link>
+                <link>http://localhost:4000/2018/03/03/List-of-entrepreneur-related-links</link>
                 <content:encoded>
                     <![CDATA[
                     <p>From time to time I pocket articles that seem like they would help me when I’ll start working toward my own business.<br />
@@ -118,7 +118,7 @@ As I see it now, that time wouldn’t come in 2018, so I’ll make a handy stash
         
             <item>
                 <title>Why choices are bad</title>
-                <link>https://andrey-lepekhin.github.io/2018/03/01/Why-choices-are-bad</link>
+                <link>http://localhost:4000/2018/03/01/Why-choices-are-bad</link>
                 <content:encoded>
                     <![CDATA[
                     <p><em>Choosing</em> is an area of life that I plan to optimize by removing as much day-to-day choosing as possible (wakeup routine, outfit choice, meal choice, relaxation routine, etc)</p>
@@ -163,7 +163,7 @@ Sounds obvious but there were quite a few ‘aha’ moments while reading this. 
         
             <item>
                 <title>The Western Elite from a Chinese Perspective</title>
-                <link>https://andrey-lepekhin.github.io/2018/03/01/Western-elite-from-chinese-perspective</link>
+                <link>http://localhost:4000/2018/03/01/Western-elite-from-chinese-perspective</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="https://americanaffairsjournal.org/2017/11/western-elite-chinese-perspective/">The Western Elite from a Chinese Perspective</a> <em>by</em> Puzhong Yao</p>
@@ -201,7 +201,7 @@ I know there are a lot of assumptions embedded, nevertheless I have a newfound r
         
             <item>
                 <title>Good genes are nice, but joy is better</title>
-                <link>https://andrey-lepekhin.github.io/2018/03/01/Good-genes-are-nice-but-joy-is-better</link>
+                <link>http://localhost:4000/2018/03/01/Good-genes-are-nice-but-joy-is-better</link>
                 <content:encoded>
                     <![CDATA[
                     <blockquote>
@@ -225,7 +225,7 @@ I know there are a lot of assumptions embedded, nevertheless I have a newfound r
         
             <item>
                 <title>Against Facebook: Comparison to Alternatives and Call to Action</title>
-                <link>https://andrey-lepekhin.github.io/2018/03/01/Against-facebook-comparison-to-alternatives-and-call-to-action</link>
+                <link>http://localhost:4000/2018/03/01/Against-facebook-comparison-to-alternatives-and-call-to-action</link>
                 <content:encoded>
                     <![CDATA[
                     <p>Basically, Facebook is bad - their goal is maximize the time you use the site (↑ad revenue). That means not allowing for efficient means of getting value out of the site’s main feature: a lot of people. Not allowing you control what and how you see (sort, search, The Zvi also wrote about it <a href="https://thezvi.wordpress.com/2017/04/22/against-facebook/">here</a>)</p>
@@ -248,7 +248,7 @@ I know there are a lot of assumptions embedded, nevertheless I have a newfound r
         
             <item>
                 <title>The Acceleration of Addictiveness</title>
-                <link>https://andrey-lepekhin.github.io/2018/03/01/Acceleration-of-Addictiveness</link>
+                <link>http://localhost:4000/2018/03/01/Acceleration-of-Addictiveness</link>
                 <content:encoded>
                     <![CDATA[
                     <p>Paul Graham on acceleration of addictiveness:</p>
@@ -273,7 +273,7 @@ I know there are a lot of assumptions embedded, nevertheless I have a newfound r
         
             <item>
                 <title>4 Things You Believe That Mess Up Your Social Life</title>
-                <link>https://andrey-lepekhin.github.io/2018/03/01/4-things-you-believe-that-mess-up-your-social-life</link>
+                <link>http://localhost:4000/2018/03/01/4-things-you-believe-that-mess-up-your-social-life</link>
                 <content:encoded>
                     <![CDATA[
                     <p>I plan to start my <a href="http://www.comfortzonecrusher.com/">Comfort Zone Crusher course</a> some time this year.<br />
@@ -314,7 +314,7 @@ Take action despite feeling fear. This is what courage is all about.</p>
         
             <item>
                 <title>Why choices are bad</title>
-                <link>https://andrey-lepekhin.github.io/2018/03/01/Why-choices-are-bad</link>
+                <link>http://localhost:4000/2018/03/01/Why-choices-are-bad</link>
                 <content:encoded>
                     <![CDATA[
                     <p><em>Choosing</em> is an area of life that I plan to optimize by removing as much day-to-day choosing as possible (wakeup routine, outfit choice, meal choice, relaxation routine, etc)</p>
@@ -358,55 +358,8 @@ Sounds obvious but there were quite a few ‘aha’ moments while reading this. 
     
         
             <item>
-                <title>Good genes are nice, but joy is better</title>
-                <link>https://andrey-lepekhin.github.io/2018/03/01/Good-genes-are-nice-but-joy-is-better-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F</link>
-                <content:encoded>
-                    <![CDATA[
-                    <blockquote>
-  <p>Researchers […] found a strong correlation between men’s flourishing lives and their relationships with family, friends, and community. Several studies found that people’s level of satisfaction with their relationships at age 50 was a better predictor of physical health than their cholesterol levels were.</p>
-</blockquote>
-
-<p><a href="https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/">https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/</a></p>
-
-
-                    ]]>
-                </content:encoded>
-                <guid isPermaLink="false">/2018/03/01/Good-genes-are-nice-but-joy-is-better-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F</guid>
-                <description>
-                    
-                </description>
-                <pubDate>Thu, 01 Mar 2018 00:00:00 +0300</pubDate>
-                <author>Andrey Lepekhin</author>
-            </item>
-        
-    
-        
-            <item>
-                <title>Against Facebook: Comparison to Alternatives and Call to Action</title>
-                <link>https://andrey-lepekhin.github.io/2018/03/01/Against-facebook-comparison-to-alternatives-and-call-to-action</link>
-                <content:encoded>
-                    <![CDATA[
-                    <p>Basically, Facebook is bad - their goal is maximise the time you use the site (↑ad revenue). That means not allowing for efficient means of getting value out of the site’s main feature: a lot of people. Not allowing you control what and how you see (sort, search, The Zvi also wrote about it <a href="https://thezvi.wordpress.com/2017/04/22/against-facebook/">here</a>)</p>
-
-<p>So here The Zvi describes the alternatives to Facebook:
-<a href="https://thezvi.wordpress.com/2017/04/22/against-facebook-comparison-to-alternatives-and-call-to-action/">https://thezvi.wordpress.com/2017/04/22/against-facebook-comparison-to-alternatives-and-call-to-action/</a></p>
-
-
-                    ]]>
-                </content:encoded>
-                <guid isPermaLink="false">/2018/03/01/Against-facebook-comparison-to-alternatives-and-call-to-action</guid>
-                <description>
-                    
-                </description>
-                <pubDate>Thu, 01 Mar 2018 00:00:00 +0300</pubDate>
-                <author>Andrey Lepekhin</author>
-            </item>
-        
-    
-        
-            <item>
                 <title>Dealing with internal conflict immediately</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/28/Dealing-with-internal-conflict-immediately</link>
+                <link>http://localhost:4000/2018/02/28/Dealing-with-internal-conflict-immediately</link>
                 <content:encoded>
                     <![CDATA[
                     <p>This feels extremely valuable. Adding this as a goal myself.</p>
@@ -438,7 +391,7 @@ Sounds obvious but there were quite a few ‘aha’ moments while reading this. 
         
             <item>
                 <title>Vigilant MVPing: the case of this blog</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/25/Vigilant-MVP-case-of-this-blog</link>
+                <link>http://localhost:4000/2018/02/25/Vigilant-MVP-case-of-this-blog</link>
                 <content:encoded>
                     <![CDATA[
                     <p>During my day job I frequently have to optimize software development tasks to
@@ -497,7 +450,7 @@ That’s when I installed <a href="https://github.com/barryclark/jekyll-now">Jek
         
             <item>
                 <title>Hello, World!</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/24/Hello-world</link>
+                <link>http://localhost:4000/2018/02/24/Hello-world</link>
                 <content:encoded>
                     <![CDATA[
                     <p>I’ve bit the bullet and decided to create this thing.
@@ -527,7 +480,7 @@ I plan to use it for</p>
         
             <item>
                 <title>Web comic</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/17/Web-comic</link>
+                <link>http://localhost:4000/2018/02/17/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="https://www.smbc-comics.com/comic/the-consolation-of-philosophy"><img src="https://www.smbc-comics.com/comics/1483979801-20170109.png" alt="" /></a>
@@ -547,7 +500,7 @@ I plan to use it for</p>
         
             <item>
                 <title>Web comic</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/16/Web-comic</link>
+                <link>http://localhost:4000/2018/02/16/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="http://extrafabulouscomics.com/comic/380/"><img src="http://extrafabulouscomics.com/wp-content/uploads/2017/05/sirenssm-e1495612384498.png" alt="" /></a>
@@ -567,7 +520,7 @@ I plan to use it for</p>
         
             <item>
                 <title>Web comic</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/15/Web-comic</link>
+                <link>http://localhost:4000/2018/02/15/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="https://www.smbc-comics.com/comic/power"><img src="https://www.smbc-comics.com/comics/1498574982-20170627.png" alt="" /></a>
@@ -587,7 +540,7 @@ I plan to use it for</p>
         
             <item>
                 <title>Web comic</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/14/Web-comic</link>
+                <link>http://localhost:4000/2018/02/14/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="https://www.smbc-comics.com/comic/bedtime"><img src="https://www.smbc-comics.com/comics/1498658331-20170628%20(1).png" alt="" /></a>
@@ -607,7 +560,7 @@ I plan to use it for</p>
         
             <item>
                 <title>Web comic</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/13/Web-comic</link>
+                <link>http://localhost:4000/2018/02/13/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="http://smbc-comics.com/comic/wrestling"><img src="https://smbc-comics.com/comics/1507990450-20171014.png" alt="" /></a>
@@ -627,7 +580,7 @@ I plan to use it for</p>
         
             <item>
                 <title>Web comic</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/12/Web-comic</link>
+                <link>http://localhost:4000/2018/02/12/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="http://smbc-comics.com/comic/a-window"><img src="https://www.smbc-comics.com/comics/1516024741-20180115.png" alt="" /></a>
@@ -647,7 +600,7 @@ I plan to use it for</p>
         
             <item>
                 <title>Web comic</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/11/Web-comic</link>
+                <link>http://localhost:4000/2018/02/11/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="https://www.smbc-comics.com/index.php?id=3866"><img src="https://www.smbc-comics.com/comics/1442658363-20150919%20fixedv2.png" alt="" /></a>
@@ -667,7 +620,7 @@ I plan to use it for</p>
         
             <item>
                 <title>Web comic</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/09/Web-comic</link>
+                <link>http://localhost:4000/2018/02/09/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="https://www.smbc-comics.com/comic/self-driving-car-ethics"><img src="https://www.smbc-comics.com/comics/1467643530-20160704.png" alt="" /></a>
@@ -687,7 +640,7 @@ I plan to use it for</p>
         
             <item>
                 <title>Web comic</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/08/Web-comic</link>
+                <link>http://localhost:4000/2018/02/08/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="https://www.smbc-comics.com/comic/heap-problems"><img src="https://www.smbc-comics.com/comics/1466434160-20160620.png" alt="" /></a>
@@ -707,7 +660,7 @@ I plan to use it for</p>
         
             <item>
                 <title>Web comic</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/07/Web-comic</link>
+                <link>http://localhost:4000/2018/02/07/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="https://www.smbc-comics.com/index.php?id=4142"><img src="https://www.smbc-comics.com/comics/1466002173-20160615.png" alt="" /></a>
@@ -727,7 +680,7 @@ I plan to use it for</p>
         
             <item>
                 <title>Web comic</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/06/Web-comic</link>
+                <link>http://localhost:4000/2018/02/06/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="http://smbc-comics.com/comic/machine-ethics"><img src="https://www.smbc-comics.com/comics/20160614.png" alt="" /></a>
@@ -747,7 +700,7 @@ I plan to use it for</p>
         
             <item>
                 <title>Web comic</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/05/Web-comic</link>
+                <link>http://localhost:4000/2018/02/05/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="https://www.smbc-comics.com/comic/the-talk"><img src="https://www.smbc-comics.com/comics/1454859358-20150207.png" alt="" /></a>
@@ -767,7 +720,7 @@ I plan to use it for</p>
         
             <item>
                 <title>Web comic</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/04/Web-comic</link>
+                <link>http://localhost:4000/2018/02/04/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="http://smbc-comics.com/comic/false"><img src="https://smbc-comics.com/comics/1451228669-20151227.png" alt="" /></a>
@@ -787,7 +740,7 @@ I plan to use it for</p>
         
             <item>
                 <title>Web comic</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/03/Web-comic</link>
+                <link>http://localhost:4000/2018/02/03/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="http://smbc-comics.com/comic/philosophy"><img src="https://www.smbc-comics.com/comics/1441809270-20150909.png" alt="" /></a>
@@ -807,7 +760,7 @@ I plan to use it for</p>
         
             <item>
                 <title>Web comic</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/02/Web-comic</link>
+                <link>http://localhost:4000/2018/02/02/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="http://extrafabulouscomics.com/comic/276/"><img src="http://extrafabulouscomics.com/wp-content/uploads/2016/05/IMG_20160517_201251-e1472103724988.jpg" alt="" /></a>
@@ -827,7 +780,7 @@ I plan to use it for</p>
         
             <item>
                 <title>Web comic</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/01/Web-comic</link>
+                <link>http://localhost:4000/2018/02/01/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="https://www.smbc-comics.com/comic/what39s-really-attractive"><img src="https://www.smbc-comics.com/comics/1467472087-20160702.png" alt="" /></a>
