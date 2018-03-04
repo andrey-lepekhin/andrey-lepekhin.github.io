@@ -1,3 +1,19 @@
-<span class="post-meta small" title="Post categories" style="float:right; !important; font-style: normal;	">
-	[{%- for category in post.categories %}<a href="{{site.url}}/category/{{category}}" style="color: #7a7a7a !important; background-image: none;">{{category}}</a>{% if forloop.last %}{% else %}, {% endif %}{% endfor %}]
+{% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+{% endif %}
+
+{% if post %}
+    {% assign tags = post.tags %}
+  {% else %}
+    {% assign tags = page.tags %}
+{% endif %}
+
+<span class="post-meta small" title="Post tags" style="float:right; !important; font-style: normal;	">
+	{%- for tag in tags %}<a href="{{site.url}}/tag/{{tag}}" style="color: #7a7a7a !important; background-image: none;">{{tag}}</a>{% if forloop.last %}{% else %},&nbsp;{% endif %}{% endfor %}
 </span>
+<span class="post-meta small" title="Post categories" style="float:right; !important; font-style: normal;	">
+	{%- for category in categories %}<a href="{{site.url}}/category/{{category}}" style="color: #7a7a7a !important; background-image: none;">{{category}}</a>{% if forloop.last and tags.size == 0 %}{% else %},&nbsp;{% endif %}{% endfor %}
+</span>
+

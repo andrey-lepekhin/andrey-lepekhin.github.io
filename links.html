@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-
-<h1>Posts with tag: {{page.autopages.display_name}}</h1>
-
 {% assign posts_count = paginator.posts | size %}
+
 <div class="home">
   {% if posts_count > 0 %}
     <div class="posts">

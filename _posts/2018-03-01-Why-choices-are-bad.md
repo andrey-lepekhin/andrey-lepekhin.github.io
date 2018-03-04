@@ -2,7 +2,7 @@
 layout: post
 title: 'Why choices are bad'
 categories: blog links goals
-tags: 'The Zvi'
+tags: The-Zvi
 ---
 
 _Choosing_ is an area of life that I plan to optimize by removing as much day-to-day choosing as possible (wakeup routine, outfit choice, meal choice, relaxation routine, etc) 
