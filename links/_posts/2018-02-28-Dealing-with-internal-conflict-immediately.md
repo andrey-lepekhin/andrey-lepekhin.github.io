@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 'Dealing with internal conflict immediately'
-categories: links goals
+categories: links
+tags: goal
 ---
 
 

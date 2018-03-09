@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'List of entrepreneur-related links'
-categories: links goals
-tags: entrepreneurship
+categories: links
+tags: entrepreneurship goal
 update_date: 2018-03-04
 ---
 
