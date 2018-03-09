@@ -9,8 +9,201 @@
     
         
             <item>
+                <title>Web comics category</title>
+                <link>http://www.lepekhin.com/2099/01/01/Web-comics-category</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>Beware, comics posted here tend to be profane and some are even NSFW.<br />
+Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2099/01/01/Web-comics-category</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Thu, 01 Jan 2099 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>My process and goals for writing in this blog</title>
+                <link>http://www.lepekhin.com/2018/03/10/My-process-and-goals-for-writing-in-this-blog</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>I describe my processes for writing here and the goals behind those processes.<br />
+Previously: <a href="/2018/02/24/Hello-world">Hello, world!</a></p>
+
+<h2 id="link-posts">Link-posts</h2>
+<p><a href="http://www.lepekhin.com/category/links/">Links to articles, posts</a>, <a href="http://www.lepekhin.com/category/comics/">webcomics</a>, <a href="http://www.lepekhin.com/tag/video/">videos</a>, etc
+— are not included in the general blog roll in the root of this blog</p>
+
+<h3 id="goals">Goals</h3>
+<ul>
+  <li>Satisfy the sharing need: when I find something thought-provoking I get a craving to share it</li>
+  <li>Learn something better by explaining it</li>
+</ul>
+
+<h3 id="process">Process</h3>
+<ol>
+  <li>Get a link into my Pocket mainly from: Hacker News and other IT-infused sources, friends, colleagues or RSS.</li>
+  <li>If I find some parts that 1) are interesting new information, and 2) probably will improve my life if applied — I share those parts with myself via email.</li>
+  <li>Once in a blue moon I read through such emails and weed out things that are no longer interesting. Maybe it seemed useful and now does not, or maybe I was trying to be trendy and now I see though my past-self. Time buffer.</li>
+  <li>If I still feel like that info is useful, I then create a <a href="http://www.lepekhin.com/category/links/">link-post</a> with a small description and key quotes so that future-me (and you, dear reader) can get to the point faster.</li>
+  <li><strong>TODO</strong> Schedule re-reading of old posts or make an anki-like thing to remember and use practical parts.</li>
+</ol>
+
+<h2 id="general-blog-posts">General blog posts</h2>
+<p>— the default type of posts that you see in the root if this blog<br />
+General blog posts are almost the same as link-posts above but I feel a lot more strongly about sharing these: their perceived importance is high. Also they tend to contain more text written by yours truly.</p>
+
+<h3 id="more-goals">More Goals</h3>
+<p>Getting more writing experience for</p>
+<ul>
+  <li>the skill of getting my point across <em>quicker</em></li>
+  <li>affecting more people than usual (that is <em>if</em> I make a goal out of making this blog popular in the future)</li>
+  <li>creating a thought-archive which I can analyze, and improve upon my thought processes. I think that the ability to write down thoughts is the first major artificial brain augmentation; it would be a shame not to use it.</li>
+</ul>
+
+<h3 id="process-1">Process</h3>
+<p>Same as for link-posts, but more time-consuming. Also, sometimes I have original ideas.</p>
+
+<hr />
+
+<p>I will update this post if I change the process or the goals.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/10/My-process-and-goals-for-writing-in-this-blog</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 10 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Why don't we try really doing things</title>
+                <link>http://www.lepekhin.com/2018/03/09/Why-dont-we-try-really-doing-things</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="https://thezvi.wordpress.com/2017/12/02/more-dakka/">‘More Dakka’</a> by Zvi starts as a review on Eliezer Yudkowsky’s book Inadequate Eqilibria, and then turns to apply ideas of <a href="https://thezvi.wordpress.com/2015/06/30/the-thing-and-the-symbolic-representation-of-the-thing/">The Thing and the Symbolic Representation of The Thing</a> by Zvi, and Scott Alexander’s <a href="http://slatestarcodex.com/2017/11/07/concept-shaped-holes-can-be-impossible-to-notice/">Concept-Shaped Holes Can Be Impossible To Notice</a> to expand on whys and hows of the problem that I can only vaguely name as “Why don’t we try <em>really</em> doing things”. I do recommend reading all three posts, it was a feel-good delta knowledge for me. Here I will focus on ‘More Dakka’ which expands on why we do not try seemingly obvious solutions, or attempt and never finish.</p>
+
+<blockquote>
+  <p>People express gratitude. We are told it improves subjective well-being in studies. Our subjective well-being improves a little. We could express more gratitude, with no real downsides. Almost all of us don’t.</p>
+</blockquote>
+
+<blockquote>
+  <p>If something is a good idea, you need a reason to not try doing more of it. No, seriously. You need a reason.</p>
+</blockquote>
+
+<blockquote>
+  <p>do more of what is already working and see if it works more</p>
+</blockquote>
+
+<p>Doing <em>the Thing</em> instead of <em>the Symbolic Representation of The Thing</em> is harder because:</p>
+
+<blockquote>
+  <ul>
+    <li>You need to realize the thing might exist at all.</li>
+    <li>You need to realize the symbolic representation of the thing isn’t the thing.</li>
+    <li>You need to ignore the idea that you’ve done your job.</li>
+    <li>You need to actually care about solving the problem.</li>
+    <li>You need to think about the problem a little.</li>
+    <li>You need to ignore the idea that no one could blame you for not trying.<br />
+[…]</li>
+  </ul>
+</blockquote>
+
+<p>And then he explains each one in more detail. It looks like a bunch of small inconveniences that together form a learned helplessness buffer that prevents any actual work getting done.</p>
+<blockquote>
+  <p>Something possibly being slightly socially awkward, or causing a likely nominal failure, acts as a veto. Rationalizations for this are created as needed.</p>
+</blockquote>
+
+<blockquote>
+  <p>Some such worries are real. […] But they’re mostly trying to halt thinking about the object level, to keep you from being the nail that sticks up and gets hammered down. When someone else raises them, mostly <strong>they’re the hammer</strong>. The fears are mirages we’ve been trained and built to see.</p>
+</blockquote>
+
+<p>↑ This is one of my <a href="http://www.lepekhin.com/tag/goal">goals</a>: Getting to the object level, asking ‘why?’ and ‘what can be done to overcome this obstacle?’ until <em>the Thing</em> is <em>really</em> done.</p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/09/Why-dont-we-try-really-doing-things</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Fri, 09 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Why Education Startups Do Not Succeed</title>
+                <link>http://www.lepekhin.com/2018/03/08/Why-education-startups-do-not-succeed</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><em>Avichal Garg</em> on <a href="https://avichal.com/2011/10/07/why-education-startups-do-not-succeed/">Why Education Startups Do Not Succeed</a> — an interesting article from the guy who co-founded one in <em>2001</em>.</p>
+
+<blockquote>
+  <p>You think of education as fundamentally a quality problem. The average person thinks of education as fundamentally a cost problem.</p>
+</blockquote>
+
+<blockquote>
+  <p>Educational companies that focus on delivering higher quality solutions to consumers will not scale to the mainstream. Educational companies built around driving down costs to the end consumer will scale.</p>
+</blockquote>
+
+<p>His other posts also seem interesting if a bit rare (8 total).</p>
+
+<blockquote>
+  <p>If the Chinese person doesn’t get an education there’s a good chance they will not get a job. They will die poor, unable to adequately feed their children, and unable to take care of their parents […]</p>
+</blockquote>
+
+<p>Hmm, I wonder if that has something to do with <a href="/2018/03/01/Western-elite-from-Chinese-perspective">admission rates of <em>thousands</em> to one</a> in China universities.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/08/Why-education-startups-do-not-succeed</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Thu, 08 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Against Facebook: Comparison to Alternatives and Call to Action</title>
+                <link>http://www.lepekhin.com/2018/03/06/Against-facebook-comparison-to-alternatives-and-call-to-action</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>Basically, Facebook is bad - their goal is maximize the time you use the site (↑ad revenue). That means not allowing for efficient means of getting value out of the site’s main feature: a lot of people. Not allowing you control what and how you see (sort, search, The Zvi also wrote about it <a href="https://thezvi.wordpress.com/2017/04/22/against-facebook/">here</a>)</p>
+
+<p>So here The Zvi describes the alternatives to Facebook:
+<a href="https://thezvi.wordpress.com/2017/04/22/against-facebook-comparison-to-alternatives-and-call-to-action/">https://thezvi.wordpress.com/2017/04/22/against-facebook-comparison-to-alternatives-and-call-to-action/</a></p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/06/Against-facebook-comparison-to-alternatives-and-call-to-action</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Tue, 06 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
                 <title>List of entrepreneur-related links</title>
-                <link>http://www.lepekhin.com/2018/03/03/List-of-entrepreneur-related-links</link>
+                <link>http://www.lepekhin.com/2018/03/05/List-of-entrepreneur-related-links</link>
                 <content:encoded>
                     <![CDATA[
                     <p>From time to time I pocket articles that seem like they would help me when I’ll start working toward my own business.<br />
@@ -99,128 +292,19 @@ As I see it now, that time wouldn’t come in 2018, so I’ll make a handy stash
   <li><a href="https://stripe.com/atlas/guides/starting-sales">Stripe Atlas: Getting Your First 10 Customers</a></li>
   <li><a href="https://search.firstround.com/lists">First Search</a></li>
   <li><a href="https://stripe.com/atlas/guides/business-of-saas">Stripe Atlas: Software as a Service, as a business</a></li>
+  <li><a href="https://news.ycombinator.com/item?id=16482392">Ask HN: Successful one-person online businesses?</a></li>
 </ol>
 
-<p>Last-updated: —</p>
+<p>Last-updated: Mar 4, 2018</p>
 
 
                     ]]>
                 </content:encoded>
-                <guid isPermaLink="false">/2018/03/03/List-of-entrepreneur-related-links</guid>
+                <guid isPermaLink="false">/2018/03/05/List-of-entrepreneur-related-links</guid>
                 <description>
                     
                 </description>
-                <pubDate>Sat, 03 Mar 2018 00:00:00 +0300</pubDate>
-                <author>Andrey Lepekhin</author>
-            </item>
-        
-    
-        
-            <item>
-                <title>The Western Elite from a Chinese Perspective</title>
-                <link>http://www.lepekhin.com/2018/03/01/Western-elite-from-chinese-perspective</link>
-                <content:encoded>
-                    <![CDATA[
-                    <p><a href="https://americanaffairsjournal.org/2017/11/western-elite-chinese-perspective/">The Western Elite from a Chinese Perspective</a> <em>by</em> Puzhong Yao</p>
-
-<p>Though I think the author overgeneralizes in his conclusion, this article provided a very interesting tidbit of information: admission ratio in China Universities is around <strong>1500:1</strong>. That’s <em>extremely</em> competitive.</p>
-
-<p>Quick google check found me <a href="https://www.quora.com/What-is-the-admission-rate-at-Tsinghua-University">this Quora question</a> with answers like:</p>
-
-<blockquote>
-  <p>As rule of thumb - it’s 1 in 100 to 1 in 1000 (in some popular fields may be even 1 in 5000).</p>
-</blockquote>
-
-<blockquote>
-  <p>In most provinces, the admission rate ranges from nearly 0.04% to 0.1%</p>
-</blockquote>
-
-<p>O_O Wow</p>
-
-<p>Yao describes his rise from the bottom of his class in China to the top of his class in England, seemingly only because the top level in England corresponds to low one in his University.<br />
-I know there are a lot of assumptions embedded, nevertheless I have a newfound respect for those Chinese who make it though this sieve.</p>
-
-<p>It will be really interesting to meet one of them.</p>
-
-                    ]]>
-                </content:encoded>
-                <guid isPermaLink="false">/2018/03/01/Western-elite-from-chinese-perspective</guid>
-                <description>
-                    
-                </description>
-                <pubDate>Thu, 01 Mar 2018 00:00:00 +0300</pubDate>
-                <author>Andrey Lepekhin</author>
-            </item>
-        
-    
-        
-            <item>
-                <title>Good genes are nice, but joy is better</title>
-                <link>http://www.lepekhin.com/2018/03/01/Good-genes-are-nice-but-joy-is-better</link>
-                <content:encoded>
-                    <![CDATA[
-                    <blockquote>
-  <p>Researchers […] found a strong correlation between men’s flourishing lives and their relationships with family, friends, and community. Several studies found that people’s level of satisfaction with their relationships at age 50 was a better predictor of physical health than their cholesterol levels were.</p>
-</blockquote>
-
-<p><a href="https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/">https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/</a></p>
-
-
-                    ]]>
-                </content:encoded>
-                <guid isPermaLink="false">/2018/03/01/Good-genes-are-nice-but-joy-is-better</guid>
-                <description>
-                    
-                </description>
-                <pubDate>Thu, 01 Mar 2018 00:00:00 +0300</pubDate>
-                <author>Andrey Lepekhin</author>
-            </item>
-        
-    
-        
-            <item>
-                <title>Against Facebook: Comparison to Alternatives and Call to Action</title>
-                <link>http://www.lepekhin.com/2018/03/01/Against-facebook-comparison-to-alternatives-and-call-to-action</link>
-                <content:encoded>
-                    <![CDATA[
-                    <p>Basically, Facebook is bad - their goal is maximize the time you use the site (↑ad revenue). That means not allowing for efficient means of getting value out of the site’s main feature: a lot of people. Not allowing you control what and how you see (sort, search, The Zvi also wrote about it <a href="https://thezvi.wordpress.com/2017/04/22/against-facebook/">here</a>)</p>
-
-<p>So here The Zvi describes the alternatives to Facebook:
-<a href="https://thezvi.wordpress.com/2017/04/22/against-facebook-comparison-to-alternatives-and-call-to-action/">https://thezvi.wordpress.com/2017/04/22/against-facebook-comparison-to-alternatives-and-call-to-action/</a></p>
-
-
-                    ]]>
-                </content:encoded>
-                <guid isPermaLink="false">/2018/03/01/Against-facebook-comparison-to-alternatives-and-call-to-action</guid>
-                <description>
-                    
-                </description>
-                <pubDate>Thu, 01 Mar 2018 00:00:00 +0300</pubDate>
-                <author>Andrey Lepekhin</author>
-            </item>
-        
-    
-        
-            <item>
-                <title>The Acceleration of Addictiveness</title>
-                <link>http://www.lepekhin.com/2018/03/01/Acceleration-of-Addictiveness</link>
-                <content:encoded>
-                    <![CDATA[
-                    <p>Paul Graham on acceleration of addictiveness:</p>
-
-<blockquote>
-  <p>And unless the rate at which social antibodies evolve can increase to match the accelerating rate at which technological progress throws off new addictions, we’ll be increasingly unable to rely on customs to protect us. [3] Unless we want to be canaries in the coal mine of each new addiction—the people whose sad example becomes a lesson to future generations—we’ll have to figure out for ourselves what to avoid and how. It will actually become a reasonable strategy (or a more reasonable strategy) to suspect everything new.</p>
-</blockquote>
-
-<p><a href="http://www.paulgraham.com/addiction.html">http://www.paulgraham.com/addiction.html</a></p>
-
-                    ]]>
-                </content:encoded>
-                <guid isPermaLink="false">/2018/03/01/Acceleration-of-Addictiveness</guid>
-                <description>
-                    
-                </description>
-                <pubDate>Thu, 01 Mar 2018 00:00:00 +0300</pubDate>
+                <pubDate>Mon, 05 Mar 2018 00:00:00 +0300</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -228,7 +312,7 @@ I know there are a lot of assumptions embedded, nevertheless I have a newfound r
         
             <item>
                 <title>4 Things You Believe That Mess Up Your Social Life</title>
-                <link>http://www.lepekhin.com/2018/03/01/4-things-you-believe-that-mess-up-your-social-life</link>
+                <link>http://www.lepekhin.com/2018/03/04/4-things-you-believe-that-mess-up-your-social-life</link>
                 <content:encoded>
                     <![CDATA[
                     <p>I plan to start my <a href="http://www.comfortzonecrusher.com/">Comfort Zone Crusher course</a> some time this year.<br />
@@ -257,7 +341,94 @@ Take action despite feeling fear. This is what courage is all about.</p>
 
                     ]]>
                 </content:encoded>
-                <guid isPermaLink="false">/2018/03/01/4-things-you-believe-that-mess-up-your-social-life</guid>
+                <guid isPermaLink="false">/2018/03/04/4-things-you-believe-that-mess-up-your-social-life</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sun, 04 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>The Acceleration of Addictiveness</title>
+                <link>http://www.lepekhin.com/2018/03/03/Acceleration-of-Addictiveness</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>Paul Graham on acceleration of addictiveness:</p>
+
+<blockquote>
+  <p>And unless the rate at which social antibodies evolve can increase to match the accelerating rate at which technological progress throws off new addictions, we’ll be increasingly unable to rely on customs to protect us. [3] Unless we want to be canaries in the coal mine of each new addiction—the people whose sad example becomes a lesson to future generations—we’ll have to figure out for ourselves what to avoid and how. It will actually become a reasonable strategy (or a more reasonable strategy) to suspect everything new.</p>
+</blockquote>
+
+<p><a href="http://www.paulgraham.com/addiction.html">http://www.paulgraham.com/addiction.html</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/03/Acceleration-of-Addictiveness</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 03 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Good genes are nice, but joy is better</title>
+                <link>http://www.lepekhin.com/2018/03/02/Good-genes-are-nice-but-joy-is-better</link>
+                <content:encoded>
+                    <![CDATA[
+                    <blockquote>
+  <p>Researchers […] found a strong correlation between men’s flourishing lives and their relationships with family, friends, and community. Several studies found that people’s level of satisfaction with their relationships at age 50 was a better predictor of physical health than their cholesterol levels were.</p>
+</blockquote>
+
+<p><a href="https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/">https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/</a></p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/02/Good-genes-are-nice-but-joy-is-better</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Fri, 02 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>The Western Elite from a Chinese Perspective</title>
+                <link>http://www.lepekhin.com/2018/03/01/Western-elite-from-Chinese-perspective</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="https://americanaffairsjournal.org/2017/11/western-elite-chinese-perspective/">The Western Elite from a Chinese Perspective</a> <em>by</em> Puzhong Yao</p>
+
+<p>Though I think the author overgeneralizes in his conclusion, this article provided a very interesting tidbit of information: admission ratio in China Universities is around <strong>1500:1</strong>. That’s <em>extremely</em> competitive.</p>
+
+<p>Quick google check found me <a href="https://www.quora.com/What-is-the-admission-rate-at-Tsinghua-University">this Quora question</a> with answers like:</p>
+
+<blockquote>
+  <p>As rule of thumb - it’s 1 in 100 to 1 in 1000 (in some popular fields may be even 1 in 5000).</p>
+</blockquote>
+
+<blockquote>
+  <p>In most provinces, the admission rate ranges from nearly 0.04% to 0.1%</p>
+</blockquote>
+
+<p>O_O Wow</p>
+
+<p>Yao describes his rise from the bottom of his class in China to the top of his class in England, seemingly only because the top level in England corresponds to low one in his University.<br />
+I know there are a lot of assumptions embedded, nevertheless I have a newfound respect for those Chinese who make it though this sieve.</p>
+
+<p>It will be really interesting to meet one of them.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/01/Western-elite-from-Chinese-perspective</guid>
                 <description>
                     
                 </description>
@@ -409,17 +580,17 @@ That’s when I installed <a href="https://github.com/barryclark/jekyll-now">Jek
                 <content:encoded>
                     <![CDATA[
                     <p>I’ve bit the bullet and decided to create this thing.
-I plan to use it for</p>
+I plan to use it to</p>
 
 <ul>
   <li>post links to articles, images, videos — anything that I like, with a small comment or quote about what in particular got my attenton</li>
-  <li>post about my [thought, goal-setting, etc] processes with the goal of internal and external audit. As Zvi put it:</li>
+  <li>post about my [thought, goal-setting, etc]-processes with the goal of internal and external audit. As The Zvi <a href="https://thezvi.wordpress.com/2017/07/24/write-down-your-process/">put it</a>:</li>
 </ul>
 
 <blockquote>
   <p>Writing down your conclusions often makes you realize where your conclusions are wrong, or your techniques can be improved. Having to put  all of your justifications into precise words, in a place others could read them, makes most bad reasoning obvious if you are paying attention.</p>
 </blockquote>
-<p><a href="https://thezvi.wordpress.com/2017/07/24/write-down-your-process/">https://thezvi.wordpress.com/2017/07/24/write-down-your-process/</a></p>
+
 
                     ]]>
                 </content:encoded>
