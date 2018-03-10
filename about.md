@@ -8,9 +8,8 @@ Hey there!
 
 ![That's me]({{ "/images/Andrey_Lepekhin.png" | absolute_url }})
 
-I'm Andrey. Sometimes being a human is hard and I've failed many times.  
-I seek, test and implement systems that help me reach my goals:  
-be it accountability partners, anti-procrastination techniques, psychotherapy or biohacking.
+My name is Andrey Lepekhin. 
+I seek, test and implement systems that help me reach my goals: be it accountability partners, anti-procrastination techniques, psychotherapy or biohacking.
 
 
 
