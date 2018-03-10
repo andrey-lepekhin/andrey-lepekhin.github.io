@@ -230,3 +230,6 @@ autopages:
       - 'autopage_tags.html'
     title: 'Posts tagged with :tag' # :tag is replaced by the tag name
     permalink: '/tag/:tag'
+
+include: ['CNAME']
+exclude: ['README.md', 'commit_push_and_publish.bat']
