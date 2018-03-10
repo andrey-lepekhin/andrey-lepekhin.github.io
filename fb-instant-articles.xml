@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Andrey Lepekhin</title>
+    <title>The Blog of Andrey Lepekhin</title>
     <link>http://www.lepekhin.com</link>
     <description>
       personal page
@@ -29,6 +29,65 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
     
         
             <item>
+                <title>16 things I know are true but haven’t quite learned yet</title>
+                <link>http://www.lepekhin.com/2018/03/10/16-things-i-know-are-true-but-havent-quite-learned-yet</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><em>David Cain</em> <a href="http://www.raptitude.com/2013/12/16-things-i-know-are-true-but-havent-quite-learned-yet/">about things that he knows are good for him but he still only does them seldomly</a>.</p>
+
+<p>Number 8 will <em>blow your mind</em>! Just kidding. But seriously, I’ll quote the ones that apply to me the most:</p>
+
+<blockquote>
+  <p>2) I never regret working out. […]</p>
+</blockquote>
+
+<blockquote>
+  <p>10) The quickest and most reliable path to personal improvement is to do the things on my list that I resist most. […]</p>
+</blockquote>
+
+<blockquote>
+  <p>11) All you need to do to finish things is keep starting them until they’re done. […]</p>
+</blockquote>
+
+<blockquote>
+  <p>14) The most consistently joyful activities for me are visiting with other people and reading books.</p>
+</blockquote>
+
+<p>After spending most of my life preferring various solitary entertainments to <em>socializing</em>, I’ve recently came to similar understanding about meeting other people. It seems to energize me and fill me with joy (self-reported mood data supports it). The trick is to find like-minded people. Maybe I’ll write a post about it sometime - it was a very big change in my life.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/10/16-things-i-know-are-true-but-havent-quite-learned-yet</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 10 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Web comic</title>
+                <link>http://www.lepekhin.com/2018/03/10/Web-comic</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="http://extrafabulouscomics.com/comic/479/"><img src="http://extrafabulouscomics.com/wp-content/uploads/2018/03/3-e1520299525393.jpg" alt="" /></a>
+<a href="http://extrafabulouscomics.com/comic/479/">http://extrafabulouscomics.com/comic/479/</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/10/Web-comic</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 10 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
                 <title>My process and goals for writing in this blog</title>
                 <link>http://www.lepekhin.com/2018/03/10/My-process-and-goals-for-writing-in-this-blog</link>
                 <content:encoded>
@@ -49,7 +108,7 @@ Previously: <a href="/2018/02/24/Hello-world">Hello, world!</a></p>
 <h3 id="process">Process</h3>
 <ol>
   <li>Get a link into my Pocket mainly from: Hacker News and other IT-infused sources, friends, colleagues or RSS.</li>
-  <li>If I find some parts that 1) are interesting new information, and 2) probably will improve my life if applied — I share those parts with myself via email.</li>
+  <li>Read it. If I find some parts that 1) are interesting new information, and 2) probably will improve my life if applied — I share those parts with myself via email.</li>
   <li>Once in a blue moon I read through such emails and weed out things that are no longer interesting. Maybe it seemed useful and now does not, or maybe I was trying to be trendy and now I see though my past-self. Time buffer.</li>
   <li>If I still feel like that info is useful, I then create a <a href="http://www.lepekhin.com/category/links/">link-post</a> with a small description and key quotes so that future-me (and you, dear reader) can get to the point faster.</li>
   <li><strong>TODO</strong> Schedule re-reading of old posts or make an anki-like thing to remember and use practical parts.</li>
@@ -68,7 +127,7 @@ General blog posts are almost the same as link-posts above but I feel a lot more
 </ul>
 
 <h3 id="process-1">Process</h3>
-<p>Same as for link-posts, but more time-consuming. Also, sometimes I have original ideas.</p>
+<p>Same as for link-posts, but more time-consuming. Also, sometimes I have original ideas whereas link-post are usually just my interpretation of someone else’s ideas.</p>
 
 <hr />
 
