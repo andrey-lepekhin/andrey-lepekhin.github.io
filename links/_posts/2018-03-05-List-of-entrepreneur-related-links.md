@@ -3,7 +3,7 @@ layout: post
 title: 'List of entrepreneur-related links'
 categories: links
 tags: entrepreneurship goal
-update_date: 2018-03-04
+update_date: 2018-03-25
 ---
 
 From time to time I pocket articles that seem like they would help me when I'll start working toward my own business.  
@@ -93,7 +93,10 @@ When I come reading, I'll mark them off the list and maybe even leave comments a
 1.   [First Search](https://search.firstround.com/lists)
 1.   [Stripe Atlas: Software as a Service, as a business](https://stripe.com/atlas/guides/business-of-saas)
 1.   [Ask HN: Successful one-person online businesses?](https://news.ycombinator.com/item?id=16482392)
-
+1.   [tptacek on how to run a consultancy (rise your rates!)](https://news.ycombinator.com/item?id=4247615)
+1.   "“Working harder” is a poor strategy which your competitors can trivially replicate. Instead, spend some time measuring what tasks add value to your business and at what imputed wages. Outsource those tasks which are below your desired imputed wage, automate any task where appropriate, and simply don’t do things which don’t add value."[patio11 on Working smarter, not harder](https://www.kalzumeus.com/2009/10/04/work-smarter-not-harder/)
+1.   [Double Your Freelancing Rate - Book](https://doubleyourfreelancing.com/)
+1.   [Checklist for Picking the Best SaaS Idea - Happy Bootstrapper](http://www.happybootstrapper.com/saas-idea-evaluation-checklist/)
   
   
 Last-updated: {{ page.update_date | date: site.date_format }}
