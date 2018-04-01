@@ -97,6 +97,9 @@ When I come reading, I'll mark them off the list and maybe even leave comments a
 1.   "“Working harder” is a poor strategy which your competitors can trivially replicate. Instead, spend some time measuring what tasks add value to your business and at what imputed wages. Outsource those tasks which are below your desired imputed wage, automate any task where appropriate, and simply don’t do things which don’t add value."[patio11 on Working smarter, not harder](https://www.kalzumeus.com/2009/10/04/work-smarter-not-harder/)
 1.   [Double Your Freelancing Rate - Book](https://doubleyourfreelancing.com/)
 1.   [Checklist for Picking the Best SaaS Idea - Happy Bootstrapper](http://www.happybootstrapper.com/saas-idea-evaluation-checklist/)
+1.   [24 Blogs that Bootstrappers Won’t Want to Miss](https://ryanbattles.com/post/blogs-for-bootstrappers)
+1.   [Most Popular Posts on Fizzle (site about running your business)](https://fizzle.co/popular-posts)
+
   
   
 Last-updated: {{ page.update_date | date: site.date_format }}
