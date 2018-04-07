@@ -29,6 +29,50 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
     
         
             <item>
+                <title>On-demand everything</title>
+                <link>http://www.lepekhin.com/2018/04/07/On-demand-everything</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><em>Lauren Smiley</em> about <a href="https://medium.com/matter/the-shut-in-economy-ec3ec1294816">The Shut-In Economy</a><br />
+“In the new world of on-demand everything, you’re either pampered, isolated royalty — or you’re a 21st century servant.”</p>
+
+<p>Click-bait false dichotomy aside, this is an interesting area to think about. Is the future of work looks like a bunch of APIs for people?</p>
+
+<p>I can image it being quite dystopian: install an app, answer some questions about your abilities, qualifications, schedule, etc. and <em>poof</em> your time is auto-magically assigned to be spent in the most efficient way (most cost-efficient way for the API-hubs companies, that is).</p>
+
+<p>Extreme optimization also may look like little additions to your daily life: The App nudges you to buy extra ice-cream on your way home; when you are on a red light, another <del>drone</del> App user comes up to you and takes the ice-cream. She’s going home herself but is making a small detour to deliver that ice-cream to the one that ordered it. That order was placed automatically too, after analyzing customer’s biometric and social graph data (ML model says: though breakup) and coming to a conclusion that to maximize LTV, this purchase was needed. It also may lead to a need for a fitness programme purchase later, but again, that’s just LTV maximizing, nothing personal.</p>
+
+<p>Ok, back to our totally different world and the article at hand.</p>
+
+<blockquote>
+  <p>The luxuries usually afforded to one-percenters now stretch to the urban upper-middle class, or so the technology industry cheers.</p>
+</blockquote>
+
+<p>There’s <a href="http://www.pnas.org/content/114/32/8523.full">a study</a> saying</p>
+<blockquote>
+  <p>Around the world, increases in wealth have produced an unintended consequence: a rising sense of time scarcity. We provide evidence that using money to buy time can provide a buffer against this time famine, thereby promoting happiness.</p>
+</blockquote>
+
+<p>There’s also the gender angle:</p>
+<blockquote>
+  <p>That’s the other side of this, the gender one. The errands being served up by the on-demand economy — cooking, cleaning, laundry, groceries, runs to the post office — all were all once, and in many places still are, the jobs of stay-at-home mothers. Even now, when women outnumber men in the formal workplace, they continue to bear the brunt of that invisible domestic work, often for many, many hours a week. So women — those who can afford it, at least — have the most to win from passing that load on to somebody else.</p>
+</blockquote>
+
+<p>I usually pre-order food to work, and sometimes hire a cleaning service — it saves a lot of time indeed, and, as I start to have less free time, I increasingly value it. I’m thinking of outsourcing making my breakfast and dinner too.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/04/07/On-demand-everything</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 07 Apr 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
                 <title>Tony Robbins interview with Tim Ferriss - my takeaways</title>
                 <link>http://www.lepekhin.com/2018/03/31/Tony-Robbins-interview-with-Tim-Ferriss-my-takeaways</link>
                 <content:encoded>
@@ -534,7 +578,8 @@ General blog posts are almost the same as link-posts above but I feel a lot more
                     <p>From time to time I pocket articles that seem like they would help me when I’ll start working toward my own business.<br />
 As I see it now, that time wouldn’t come in 2018, so I’ll make a handy stash of these articles here (and empty out my pocket).</p>
 
-<p>When I come reading, I’ll mark them off the list and maybe even leave comments about their utility.</p>
+<p>When I come reading, I’ll mark them off the list and maybe even leave comments about their utility.<br />
+Also, when I come, I will have to think of something that will prevent paralysis by analysis.</p>
 
 <ol>
   <li><a href="http://30sleeps.com/blog/2007/09/27/set-your-hourly-rate/">http://30sleeps.com/blog/2007/09/27/set-your-hourly-rate/</a></li>
@@ -624,9 +669,21 @@ As I see it now, that time wouldn’t come in 2018, so I’ll make a handy stash
   <li><a href="http://www.happybootstrapper.com/saas-idea-evaluation-checklist/">Checklist for Picking the Best SaaS Idea - Happy Bootstrapper</a></li>
   <li><a href="https://ryanbattles.com/post/blogs-for-bootstrappers">24 Blogs that Bootstrappers Won’t Want to Miss</a></li>
   <li><a href="https://fizzle.co/popular-posts">Most Popular Posts on Fizzle (site about running your business)</a></li>
+  <li><a href="https://www.kalzumeus.com/2010/03/20/running-a-software-business-on-5-hours-a-week/">Running A Software Business On 5 Hours A Week - patio11</a>
+    <br />Some select quotes:
+    <br /><br />
+ 	&gt; build time assets: things which will save you time in the future. Code that actually does something useful is a very simple time asset for programmers to understand: you write it once today, then you can execute it tomorrow and every other day, saving you the effort of doing manually whatever it was the code does. Code is far from the only time asset, though: systems and processes for doing your work more efficiently, marketing which scales disproportionate to your time, documentation which answers customers’ questions before they ask you, all of these things are assets. 
+ 	<br /><br />
+ 	&gt; around 90% of the effort, are caused by non-coding activities: dealing with pre-sales inquiries, marketing, SEO, marketing, customer support, marketing, website copywriting, marketing, etc. 
+ 	<br /><br />
+ 	&gt; Cutting your feature set to the bone is the single best advice I can give you which will get you to actually launching. 
+ 	<br /><br />
+ 	&gt; Another thing I’d look for prior to committing to building anything is a marketing hook — something you can take advantage of to market your product in a time-effective way. For bingo cards, I knew there were more activities possible than any one company could ever publish, and that gave me hope that I could eventually out-niche the rest of the market. (This is core idea still drives most of my marketing, four years later.) Maybe your idea has built-in virality (nice if you can get it — I really envy the Facebook crowd sometimes, although I suppose they probably envy having a customer base which pays money for software), a built-in hook for getting links, or something similar. If you can’t come up with anything, fix that before you build it. 
+ 	<br /><br />
+ 	(How to find ↑ this marketing ‘trick’ remains unknown to me)</li>
 </ol>
 
-<p>Last-updated: Mar 25, 2018</p>
+<p>Last-updated: Apr 7, 2018</p>
 
 
                     ]]>
