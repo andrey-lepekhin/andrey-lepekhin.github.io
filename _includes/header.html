@@ -1,7 +1,9 @@
 <header class="site-header px2 px-responsive">
   <div class="mt2 wrap">
     <div class="measure">
+      {% unless page.url == "/index.html" %}
       <a href="{{ site.url }}" class="site-title">Index</a>
+      {% endunless %}
       <nav class="site-nav">
         {% include navigation.html %}
       </nav>

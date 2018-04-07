@@ -3,14 +3,15 @@ layout: post
 title: 'List of entrepreneur-related links'
 categories: links
 tags: entrepreneurship goal
-update_date: 2018-03-25
+update_date: 2018-04-07
 ---
 
 From time to time I pocket articles that seem like they would help me when I'll start working toward my own business.  
 As I see it now, that time wouldn't come in 2018, so I'll make a handy stash of these articles here (and empty out my pocket).
 
 
-When I come reading, I'll mark them off the list and maybe even leave comments about their utility.
+When I come reading, I'll mark them off the list and maybe even leave comments about their utility.  
+Also, when I come, I will have to think of something that will prevent paralysis by analysis.
 
 1.   [http://30sleeps.com/blog/2007/09/27/set-your-hourly-rate/](http://30sleeps.com/blog/2007/09/27/set-your-hourly-rate/)
 1.   [http://m.wikihow.com/Set-Consulting-Fees](http://m.wikihow.com/Set-Consulting-Fees)
@@ -99,7 +100,18 @@ When I come reading, I'll mark them off the list and maybe even leave comments a
 1.   [Checklist for Picking the Best SaaS Idea - Happy Bootstrapper](http://www.happybootstrapper.com/saas-idea-evaluation-checklist/)
 1.   [24 Blogs that Bootstrappers Won’t Want to Miss](https://ryanbattles.com/post/blogs-for-bootstrappers)
 1.   [Most Popular Posts on Fizzle (site about running your business)](https://fizzle.co/popular-posts)
-
+1.   [Running A Software Business On 5 Hours A Week - patio11](https://www.kalzumeus.com/2010/03/20/running-a-software-business-on-5-hours-a-week/)
+	<br />Some select quotes:
+	<br /><br />
+ 	> build time assets: things which will save you time in the future. Code that actually does something useful is a very simple time asset for programmers to understand: you write it once today, then you can execute it tomorrow and every other day, saving you the effort of doing manually whatever it was the code does. Code is far from the only time asset, though: systems and processes for doing your work more efficiently, marketing which scales disproportionate to your time, documentation which answers customers’ questions before they ask you, all of these things are assets. 
+ 	<br /><br />
+ 	> around 90% of the effort, are caused by non-coding activities: dealing with pre-sales inquiries, marketing, SEO, marketing, customer support, marketing, website copywriting, marketing, etc. 
+ 	<br /><br />
+ 	> Cutting your feature set to the bone is the single best advice I can give you which will get you to actually launching. 
+ 	<br /><br />
+ 	> Another thing I’d look for prior to committing to building anything is a marketing hook — something you can take advantage of to market your product in a time-effective way. For bingo cards, I knew there were more activities possible than any one company could ever publish, and that gave me hope that I could eventually out-niche the rest of the market. (This is core idea still drives most of my marketing, four years later.) Maybe your idea has built-in virality (nice if you can get it — I really envy the Facebook crowd sometimes, although I suppose they probably envy having a customer base which pays money for software), a built-in hook for getting links, or something similar. If you can’t come up with anything, fix that before you build it. 
+ 	<br /><br />
+ 	(How to find ↑ this marketing 'trick' remains unknown to me)
   
   
 Last-updated: {{ page.update_date | date: site.date_format }}
