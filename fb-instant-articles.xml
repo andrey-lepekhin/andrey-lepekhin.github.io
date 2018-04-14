@@ -29,6 +29,36 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
     
         
             <item>
+                <title>Planning fallacy</title>
+                <link>http://www.lepekhin.com/2018/04/14/Planning-fallacy</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><em>Eliezer Yudkowsky</em> about <a href="https://www.lesswrong.com/posts/CPm5LTwHrvBJCa9h5/planning-fallacy">Planning Fallacy</a></p>
+<blockquote>
+  <p>The planning fallacy is that people think they can plan, ha ha.</p>
+</blockquote>
+
+<p>While planning, and in need of <em>realistic</em> scenario, people instead think of <em>best-case scenario</em>. (See the article for related studies.)<br />
+Now on to how to fix it:</p>
+
+<blockquote>
+  <p>So there is a fairly reliable way to fix the planning fallacy, if you’re doing something broadly similar to a reference class of previous projects. Just ask how long similar projects have taken in the past, without considering any of the special properties of this project.  Better yet, ask an experienced outsider how long similar projects have taken.<br />
+You’ll get back an answer that sounds hideously long, and clearly reflects no understanding of the special reasons why this particular task will take less time. This answer is true.  Deal with it.</p>
+</blockquote>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/04/14/Planning-fallacy</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 14 Apr 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
                 <title>On-demand everything</title>
                 <link>http://www.lepekhin.com/2018/04/07/On-demand-everything</link>
                 <content:encoded>
