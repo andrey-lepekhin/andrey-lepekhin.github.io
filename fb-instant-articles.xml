@@ -1,16 +1,1046 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Andrey Lepekhin</title>
-    <link>https://andrey-lepekhin.github.io</link>
+    <title>The Blog of Andrey Lepekhin</title>
+    <link>http://www.lepekhin.com</link>
     <description>
       personal page
     </description>
     
         
             <item>
+                <title>Web comics category</title>
+                <link>http://www.lepekhin.com/2099/01/01/Web-comics-category</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>Beware, comics posted here tend to be profane and some are even NSFW.<br />
+Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2099/01/01/Web-comics-category</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Thu, 01 Jan 2099 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Maybe The Real Superintelligent AI Is Extremely Smart Computers</title>
+                <link>http://www.lepekhin.com/2018/05/01/Maybe-the-real-superintelligent-ai-is-extremely-smart-computers</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>I love Ted Chiang novels, especially ‘Understand’, but man-oh-man, that was a hilarious bashing to read. Scott Alexander <a href="http://slatestarcodex.com/2018/01/15/maybe-the-real-superintelligent-ai-is-extremely-smart-computers/">is on the roll</a> with his kabbalah metaphors.</p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/05/01/Maybe-the-real-superintelligent-ai-is-extremely-smart-computers</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Tue, 01 May 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Why Am I So Lazy?</title>
+                <link>http://www.lepekhin.com/2018/04/30/Why-am-i-so-lazy</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><em>Heather Havrilesky</em> with her raw, passionate and poignant article about (re)defining your self. <a href="https://www.thecut.com/2018/01/ask-polly-why-am-i-so-lazy.html">Why Am I So Lazy?</a></p>
+
+<blockquote>
+  <p>You know how they say “Scratch a cynic, find a romantic”? Well, scratch an underachiever and find a hard worker afraid of disappointing herself. Both the cynic and the underachiever are afraid of sticking their necks out and becoming who they deeply, passionately want to become, for fear of looking stupid or failing. […] I’ll bet you’re not even an introvert at heart. You’re someone who wants to live out loud, share herself with the world, and stop overthinking and delaying and avoiding the pesky little tasks that make up a life.</p>
+</blockquote>
+
+<p>Sometimes I wonder if I’m that romantic in hiding. While, indeed, I can be <em>skeptical</em> about all this passion-speech, in the end Heather recommends much of the same approach that I currently support: experimentation.</p>
+
+<blockquote>
+  <p>Get a therapist. Experiment with schedules. Try on different behaviors for size. Get very organized (without piles of things on the floor). Try making new friends. Try vigorous exercise. Try leaving the house more. Try not leaving. Try writing your feelings down. Check in with your body when you do things that stress you out. Notice your feelings. Express your feelings. Be honest, be honest, be honest. Take notes.</p>
+</blockquote>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/04/30/Why-am-i-so-lazy</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Mon, 30 Apr 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Happiness Is a Chore</title>
+                <link>http://www.lepekhin.com/2018/04/21/Happiness-is-chore</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><em><strong>UPD</strong> This post rises some important questions, so I promote it from link-post to the index page for visibility.</em><br />
+The pursuit of happiness defines many parts of my life. Or should I say “happiness”?</p>
+
+<p><em>SquirrelInHell</em> writes about an unbelievable problem that <a href="https://squirrelinhell.blogspot.se/2017/12/happiness-is-chore.html">Happiness Is a Chore</a></p>
+
+<blockquote>
+  <p>See, the human activity you describe as “pursuing happiness” […] seems to be in the same category as other common activities such as “acquiring education”, “helping people”, “talking to friends” (or should I say “talking” to “friends”) and so on. Which is to say, people do them in a way which is outwardly convincing enough to allow everyone to keep up the social pretenses. This is way different from what you’d see people do if they actually cared. The simple matter of fact is that the human brain is a kludge, and people are puppets dancing on the strings of a mad puppetmaster. Almost anything they claim to be doing isn’t for real. This is true even when they themselves know about this.</p>
+</blockquote>
+
+<p>This is strongly related to <a href="/2018/03/09/Why-dont-we-try-really-doing-things">The Thing and the Symbolic Representation of The Thing</a>. (Next quote is still from <em>SquirrelInHell</em>)</p>
+
+<blockquote>
+  <p>[…] I enjoy and see great value in happiness when it happens, but when it doesn’t I only work on it grudgingly. It’s like with exercise, which is great but I’m rarely enthusiastic about starting it. The problem is not that I don’t value happiness enough. The problem is rather that there is no gut-level motivational gradient to get actual happiness. There are gradients for all sorts of things which are crappy, fake substitutes. […] But you still end up optimizing for them, because that’s what your brain does.</p>
+</blockquote>
+
+<p>↑ This indeed, as <a href="https://www.lesswrong.com/posts/3Hkpttb6WsJwr5WdF/happiness-is-a-chore#BP2j9rDHr9SqMjDh9">one LW commenter points out</a>, looks like akrasia. And will probably benefit from methods that are good against akrasia.</p>
+
+<p>Related, SquirrelInHell’s site <a href="http://bewelltuned.com/">Be Well Tuned</a> (“a very unusual guide to improving your brain and your life”). I’ve added it to my to-do list <a href="http://www.lepekhin.com/tag/goal">#goals</a></p>
+
+<hr />
+
+<p><strong>UPD</strong><br />
+After rereading through everything linked above, I see that, at this moment, I’m <em>focused</em> on riding my hedonic treadmill, solving various optimization problems, and I’m <strong>not mindful</strong> about it; also not happy. This is a tendency I have. After talking about it with my psychotherapist, I will experiment with making more unsctrutured time and enjoying it; also spending less time on hardcore goal-oriented activities.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/04/21/Happiness-is-chore</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 21 Apr 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Planning fallacy</title>
+                <link>http://www.lepekhin.com/2018/04/14/Planning-fallacy</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><em>Eliezer Yudkowsky</em> about <a href="https://www.lesswrong.com/posts/CPm5LTwHrvBJCa9h5/planning-fallacy">Planning Fallacy</a></p>
+<blockquote>
+  <p>The planning fallacy is that people think they can plan, ha ha.</p>
+</blockquote>
+
+<p>While planning, and in need of <em>realistic</em> scenario, people instead think of <em>best-case scenario</em>. (See the article for related studies.)<br />
+Now on to how to fix it:</p>
+
+<blockquote>
+  <p>So there is a fairly reliable way to fix the planning fallacy, if you’re doing something broadly similar to a reference class of previous projects. Just ask how long similar projects have taken in the past, without considering any of the special properties of this project.  Better yet, ask an experienced outsider how long similar projects have taken.<br />
+You’ll get back an answer that sounds hideously long, and clearly reflects no understanding of the special reasons why this particular task will take less time. This answer is true.  Deal with it.</p>
+</blockquote>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/04/14/Planning-fallacy</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 14 Apr 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>On-demand everything</title>
+                <link>http://www.lepekhin.com/2018/04/07/On-demand-everything</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><em>Lauren Smiley</em> about <a href="https://medium.com/matter/the-shut-in-economy-ec3ec1294816">The Shut-In Economy</a><br />
+“In the new world of on-demand everything, you’re either pampered, isolated royalty — or you’re a 21st century servant.”</p>
+
+<p>Click-bait false dichotomy aside, this is an interesting area to think about. Is the future of work looks like a bunch of APIs for people?</p>
+
+<p>I can image it being quite dystopian: install an app, answer some questions about your abilities, qualifications, schedule, etc. and <em>poof</em> your time is auto-magically assigned to be spent in the most efficient way (most cost-efficient way for the API-hubs companies, that is).</p>
+
+<p>Extreme optimization also may look like little additions to your daily life: The App nudges you to buy extra ice-cream on your way home; when you are on a red light, another <del>drone</del> App user comes up to you and takes the ice-cream. She’s going home herself but is making a small detour to deliver that ice-cream to the one that ordered it. That order was placed automatically too, after analyzing customer’s biometric and social graph data (ML model says: though breakup) and coming to a conclusion that to maximize LTV, this purchase was needed. It also may lead to a need for a fitness programme purchase later, but again, that’s just LTV maximizing, nothing personal.</p>
+
+<p>Ok, back to our totally different world and the article at hand.</p>
+
+<blockquote>
+  <p>The luxuries usually afforded to one-percenters now stretch to the urban upper-middle class, or so the technology industry cheers.</p>
+</blockquote>
+
+<p>There’s <a href="http://www.pnas.org/content/114/32/8523.full">a study</a> saying</p>
+<blockquote>
+  <p>Around the world, increases in wealth have produced an unintended consequence: a rising sense of time scarcity. We provide evidence that using money to buy time can provide a buffer against this time famine, thereby promoting happiness.</p>
+</blockquote>
+
+<p>There’s also the gender angle:</p>
+<blockquote>
+  <p>That’s the other side of this, the gender one. The errands being served up by the on-demand economy — cooking, cleaning, laundry, groceries, runs to the post office — all were all once, and in many places still are, the jobs of stay-at-home mothers. Even now, when women outnumber men in the formal workplace, they continue to bear the brunt of that invisible domestic work, often for many, many hours a week. So women — those who can afford it, at least — have the most to win from passing that load on to somebody else.</p>
+</blockquote>
+
+<p>I usually pre-order food to work, and sometimes hire a cleaning service — it saves a lot of time indeed, and, as I start to have less free time, I increasingly value it. I’m thinking of outsourcing making my breakfast and dinner too.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/04/07/On-demand-everything</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 07 Apr 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>How successful people work less — and get more done</title>
+                <link>http://www.lepekhin.com/2018/04/07/How-successful-people-work-less-and-get-more-done</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><em>Travis Bradberry</em> on <a href="https://qz.com/386166/how-successful-people-work-less-and-get-more-done/">How successful people work less—and get more done</a><br />
+Quite a diverse list of things, actually:</p>
+
+<ol>
+  <li>They disconnect</li>
+  <li>They <a href="/2018/04/07/On-demand-everything">minimize chores</a></li>
+  <li>They reflect</li>
+  <li>They exercise</li>
+  <li>They pursue a passion</li>
+  <li>They spend quality time with family</li>
+  <li>They schedule micro-adventures</li>
+  <li>They wake up at the same time</li>
+  <li>They designate mornings as “me time”</li>
+  <li>They prepare for the upcoming week</li>
+  <li><del>But most importantly, they attac</del></li>
+</ol>
+
+<p>See the article for more details. This list is by no means scientific, I included it here as a <a href="http://www.lepekhin.com/tag/goal/">goal-reminder</a>: I already do more than half of it, probably should look into what’s left.</p>
+
+<hr />
+
+<blockquote>
+  <p>The study found that productivity per hour declines sharply when the workweek exceeds 50 hours, and productivity drops off so much after 55 hours that there’s no point in working any more. That’s right, people who work as much as 70 hours (or more) per week actually get the same amount done as people who work 55 hours.</p>
+</blockquote>
+
+<p>Note that they studied people productivity in <em>manufacturing</em>, e.g. “Forty Women Milling a Screw Thread on Fuze Bodies”, I’m not sure how well it translates to creative work.</p>
+
+<p>At first I grabbed this article and sent it to people who (I think) overwork. To which they countered that output of 55 hours is still bigger than that of 40 hours of work. Of course you have to pay the price, but still, if you’re willing and can do so sustainably, you really can get more done by working more than 8 hours a day (or without weekends).</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/04/07/How-successful-people-work-less-and-get-more-done</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 07 Apr 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Tony Robbins interview with Tim Ferriss - my takeaways</title>
+                <link>http://www.lepekhin.com/2018/03/31/Tony-Robbins-interview-with-Tim-Ferriss-my-takeaways</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>I’ve first heard Tony Robbins’ interviews sometime in 2016. I was fascinated: a great story-teller and he speaks about things that interest me — mood-states that affect behavior, and how to change your energy levels. Here are my takeaways from one of his <a href="https://encrypted.google.com/search?q=Tony+Robbins+site%3Atim.blog">interviews with Tim Ferriss</a>. Each paragraph is a paraphrased quote from Tony followed by my comment in <em>italics</em>.</p>
+
+<ol>
+  <li>
+    <p>You have to give to prosper. Even if you think you don’t have enough.</p>
+
+    <p><em>That is something I struggle with as it’s not obvious to me <strong>why</strong> I should divert resources from myself. I’m going to speak with effective altruists (EA) and try and get convinced.</em></p>
+  </li>
+  <li>
+    <p>Number one quality to foster is staying hungry, this will bring others along. How to do it? Be among people who are successful. You are who you spend time with. To be happy you need to grow.</p>
+
+    <p><em>This is also something that is hard for me - by default I don’t value friendship that much. At least I understand the logic here and I’m making progress: meeting new people and starting (non-romantic) relationships with them.</em></p>
+  </li>
+  <li>
+    <p>Failure is a part of life. It doesn’t need to stop you. It’s a stepping stone to success, speed bump. I know I’m going to fail, but it’s not failure if you learn something. We don’t value what we don’t fight for. Like cheating in video games. There’s no such thing as effortless approach.</p>
+
+    <p><em>I did have a belief along the lines of “life <strong>should</strong> be easy”. And that was (and still is sometimes) a source of discontent for me.</em></p>
+  </li>
+  <li>
+    <p>Money doesn’t change you, it magnifies what you already are.</p>
+
+    <p><em>That is also why I think I should start donating now, and looks like that is what EA guys preach too (donate at least 1% to create a habit)</em></p>
+  </li>
+  <li>
+    <p>The most important decision in your life is deciding whether you’re truly committed to being happy no matter what. You will experience extreme stress, no matter what. Life’s too short to suffer. Decide to be in a beautiful state. <strong>This brain is not designed to make you happy, it’s designed to make you survive</strong>. You have to work to be happy.</p>
+
+    <p><em>See also Tim Urban about <a href="https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html">Social Survival Mammoth</a></em></p>
+  </li>
+  <li>
+    <p>Highest experiences in life have this in common: there is some growth within ourselves (face fear, overcome something, etc) and some contribution beyond ourselves.
+Worst experiences are about only you. When you are suffering it’s because you’re obsessing about yourself. Something happened and you have less of something, or you lost something (love, money, significance, attention). Loss, less, never are the sources of suffering. All suffering is obsession with self. Snap out of your suffering. Stop expecting and start appreciating things outside of yourself: people, nature. You learn and grow from that. If you love, if you give, if you’re grateful - suffering disappears instantly.</p>
+
+    <p><em>It’s a good a place to paste my favorite quote from a Haruki Murakami book cover: “Pain is inevitable. Suffering is optional.”</em></p>
+  </li>
+</ol>
+
+<p>Later in 2016 I’ve decided to attend one of Tony’s seminars to get some of that energy from the man himself. I attended UPW London 2017 and it was like a giant rave with applied psychology and lots of hugs. I loved it.<br />
+After I go through my notes, I’ll post my takeaways from there as well.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/31/Tony-Robbins-interview-with-Tim-Ferriss-my-takeaways</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 31 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Religion, growth framework and enlightenment</title>
+                <link>http://www.lepekhin.com/2018/03/25/Religion-growth-framework-and-enlightenment</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><em>Tim Urban</em> about <a href="https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html">Religion for the Nonreligious</a><br />
+Like many of his great posts, this one is long. I’ve read it in 2015 when I was struggling to find my way around religion and it stroke a chord. <em>For me</em>, it’s about two things:</p>
+
+<h4 id="1-states-of-mind">1. States of mind</h4>
+<p>(1) Engulfed in primitive, primal thoughts<br />
+(2) See things as they are, enlightenment</p>
+
+<h4 id="2-creating-a-better-belief-system">2. Creating a better belief system</h4>
+<p>…smelted with a <em>growth framework</em>.<br />
+Coincidentally, growth framework is something that I lacked in 2015. I now have a system in place, it’s still new and I’m not as religious about it as Tim. I will make a post about it after 1 year test-drive.</p>
+
+<p>Short quote</p>
+
+<blockquote>
+  <p>Yes, I’m an atheist, but atheism isn’t a growth model any more than “I don’t like rollerblading” is a workout strategy.</p>
+</blockquote>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/25/Religion-growth-framework-and-enlightenment</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sun, 25 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Giving up too hastily on hard goals</title>
+                <link>http://www.lepekhin.com/2018/03/25/Giving-up-too-hastily-on-hard-goals</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><em>Eliezer Yudkowsky</em>’s  <a href="https://www.lesswrong.com/posts/fhEPnveFhb9tmd7Pe/use-the-try-harder-luke">Use the Try Harder, Luke</a>
+— is a short funny story about how we’re conditioned for giving up fast, after (also hastily) labeling something as impossible.</p>
+
+<p>This continues with a longer piece <a href="https://www.lesswrong.com/posts/fpecAJLG9czABgCe9/on-doing-the-impossible">On Doing the Impossible</a></p>
+
+<blockquote>
+  <p>To do things that are very difficult or “impossible”,<br />
+First you have to not run away.  That takes seconds.<br />
+Then you have to work.  That takes hours.<br />
+Then you have to stick at it.  That takes years.</p>
+</blockquote>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/25/Giving-up-too-hastily-on-hard-goals</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sun, 25 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Taking Children Seriously - philosophy of parenting</title>
+                <link>http://www.lepekhin.com/2018/03/24/Taking-children-seriously-philosophy-of-parenting</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><em>Elliot Temple</em> about <a href="http://fallibleideas.com/taking-children-seriously">Taking Children Seriously</a></p>
+
+<blockquote>
+  <p>Taking Children Seriously (TCS) is a rational, non-coercive philosophy of parenting and learning which says:</p>
+</blockquote>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>* The main goal of parenting is to help children learn.  
+* Punishing doesn’t help with learning.  
+* Reason helps everyone win.  
+* Ignorance isn’t stupidity.  
+* Children aren’t fragile.  
+* Obedience and rules are bad.
+</code></pre></div></div>
+
+<p>Looks like a great rational framework for parenting. Many ‘enable everything’ or ‘obedience is the only way’ ways of parenting just don’t sit well with me, this one does. 
+It also underscores my existing belief that <em>parenting is hard</em>.</p>
+
+<p>For the sake of history, my current argument <strong>against having children</strong> goes like this: <br />
+raising children requires a lot of time and this time commitment is at least for <strong>18.75 years</strong>.
+Anecdotal <code class="highlighter-rouge">it's worth it</code> from the parents I know can really be some sort of Stockholm syndrome. I mean, if you have a child already and you don’t like it, you have the choice of suffering (bad for you and the child) or learning how to love it and make the best of the situation. Leaving a child looks like a heavy conscience penalty so it’s out of the consideration.</p>
+
+<p>Please tell me if you have a counter to this line of thinking. It does look shaky and I definitely will need to do a full analysis of this question later.</p>
+
+<p>P.S. Here are some <a href="http://slatestarcodex.com/2018/01/16/bundles-of-joy/">stats on life satisfaction depending on number of children from SSC</a> (spoiler: more children - more satisfaction).</p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/24/Taking-children-seriously-philosophy-of-parenting</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 24 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Why it's easy to start a subpar relationship</title>
+                <link>http://www.lepekhin.com/2018/03/17/Why-its-easy-to-start-a-subpar-relationship</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>And what to do about it.</p>
+
+<p>Here’s what’s happening when I’m not in a relationship for some time.</p>
+
+<p><img src="http://www.lepekhin.com/images/2018-03-17-Why-its-easy-to-start-a-subpar-relationship-graph-1.png" alt="Graph 1, described in text below" /></p>
+
+<p>Acceptable partner attractiveness (APA) is everything I seek for in a partner: physical beauty, personal qualities, etc.</p>
+
+<ul>
+  <li>When I am in a relationship, APA is at max level.</li>
+  <li>As a relationship ends, my APA lingers at max for a bit and then starts to lower.</li>
+  <li>After I start a new relationship, APA goes back to max levels.</li>
+</ul>
+
+<h2 id="problems">Problems</h2>
+
+<h3 id="it-becomes-harder-to-date-more-attractive-partners">It becomes harder to date more attractive partners</h3>
+
+<p><img src="http://www.lepekhin.com/images/scumbag_brain.png" alt="Scumbag brain" /></p>
+
+<p>My primitive mind auto-applies dates’ <em>courting easiness</em> labels based on <em>attractiveness</em>. The less attractive the date, the easier it seems to court her.</p>
+
+<p>I am programmed to do least possible amount work to achieve my goals so, if acting by default, I will court dates with lower perceived attractiveness because it seems like less work, and still gets acceptable result. <strong>Why try hard when easy’s good enough?</strong> My amygdala doesn’t care that the result is only acceptable right in that moment and will become unacceptable soon after that.</p>
+
+<h3 id="its-easier-to-begin-an-unacceptable-relationship">It’s easier to begin an unacceptable relationship</h3>
+
+<p>Maybe it’s just me, but when you’re fresh out of a relationship, you don’t seem too eager to jump start a new one. But as the loneliness goes on, desire for <em>a</em> relationship grows.
+<strong>So not only your requirements are lowered, you actually <em>want</em> being in a relationship more, exactly at the time when they are low</strong>.</p>
+
+<p><img src="http://www.lepekhin.com/images/2018-03-17-Why-its-easy-to-start-a-subpar-relationship-graph-2.png" alt="Graph 2, yearning for a relationship grows with time" /></p>
+
+<h4 id="yearning-for-relationship-correlates-with-easiness-of-starting-a-subpar-relationship-">Yearning for relationship correlates with easiness of starting a subpar relationship :(</h4>
+
+<p>As the acceptable standard lowers, the pool of available partners grows and it’s easier to start a new relationship.
+There would not be a problem if acceptable SO attractiveness didn’t rise to the max after that, but it does and the consequences are dire.</p>
+
+<p>Being in a relationship that doesn’t satisfy you sucks.
+The internal conflict rises: should I stay or should I go? <a href="https://www.youtube.com/watch?v=BN1WwnEDWAM">♫</a><br />
+It’s not an <a href="/2018/03/01/Why-choices-are-bad">easy choice</a>, you have emotional attachment and a whole host of cognitive biases working against you:</p>
+
+<blockquote>
+  <p>
+    Wanting to stay in a relationship is reinforced by many biases (status quo bias, ambiguity effect, choice supportive bias, loss aversion, mere-exposure effect, ostrich effect). For someone to break through all those biases and end things, they must be extremely unhappy.
+  </p>
+  <footer><cite><a href="http://lesswrong.com/lw/m78/strategies_and_tools_for_getting_through_a_break/">Strategies and tools for getting through a break up</a></cite></footer>
+</blockquote>
+
+<p>The more this draws on the more stakes are in opportunity cost and the more it becomes harder to break things apart. Some stay in this state of conflict throughout their whole lives.</p>
+
+<p>Worth mentioning: I am not an <em>extreme</em> idealist, I understand there can be compromises. Here I am speaking of cases when you can’t compromise after standards go up again.</p>
+
+<h2 id="why-do-the-standards-fall">Why do the standards fall</h2>
+<p><img src="http://www.lepekhin.com/images/2018-03-17-Why-its-easy-to-start-a-subpar-relationship-graph-3.png" alt="Graph 3, progression of acceptable partner attractiveness criteria for high (just after relationship) to low (just before starting a relationship) to high again" /></p>
+
+<p>I think that it’s a response to one of the basic needs not being met.<br />
+I’ll try a metaphor. Imagine you do not have a place to sleep. In the morning you do not need to sleep so your idea of a place to sleep is a 5-star hotel. In the afternoon you become a little sleepier and make vague attempts on finding <em>a</em> hotel, <em>any</em> hotel. In the evening you’re sleepy and really need a place to rest, and will agree on a capsule hotel or a hostel.</p>
+
+<p>Or maybe it’s just evolution nudging: “Come on, stop thinking, just fuck whatever”.</p>
+
+<h3 id="why-do-the-standards-rise-again">Why do the standards rise again</h3>
+<p>It looks like a natural thing to happen after a bare minimum of a need is met.
+In a place-to-sleep example above: after a night in a capsule hotel you do feel refreshed, but you also understand that you <em>need</em> silence to sleep really well.</p>
+
+<h2 id="what-to-do">What to do</h2>
+
+<ol>
+  <li>Forewarned is forearmed. Just keeping this whole thing in mind helps me in some cases.</li>
+  <li>I’ve created and maintain my <em>partner criteria list</em> and filter out my new dates under a threat of suffering (unsatisfactory relationship).<br />
+This doesn’t help with increased perceived difficultness of dating more attractive partners; I’m still searching a solution for that.</li>
+</ol>
+
+<p>Maybe it’s solvable by sex without relationships?</p>
+
+<ul>
+  <li>Friends with benefits - doesn’t work for me, as it usually grows into a relationship.</li>
+  <li>One-night-stands - I didn’t have that many encounters so I cannot generalize. Probably should look into it.</li>
+  <li>Paying for sex (here’s <a href="https://hackernoon.com/biohack-your-intelligence-now-or-become-obsolete-97cdd15e395f">Serge Faguet’s take on it</a>) - same as above.</li>
+</ul>
+
+<p><strong>What did I miss?</strong> How do <em>you</em> solve this problem? Please <a href="http://www.lepekhin.com/about#contact-me">share</a>.</p>
+
+<h3 id="ps-dear-ladies">P.S. Dear ladies</h3>
+
+<p>If you are my partner and you’re wondering what if I secretly think of you as a subpar choice, I have good news.
+This post is a public commitment: I will only start relationships with those who meet my criteria for a partner. It still doesn’t make our relationship bulletproof and there are ways it can go awry, but at least I (and you) have one less thing to worry about.</p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/17/Why-its-easy-to-start-a-subpar-relationship</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 17 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>16 things I know are true but haven’t quite learned yet</title>
+                <link>http://www.lepekhin.com/2018/03/10/16-things-i-know-are-true-but-havent-quite-learned-yet</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><em>David Cain</em> <a href="http://www.raptitude.com/2013/12/16-things-i-know-are-true-but-havent-quite-learned-yet/">about things that he knows are good for him but he still only does them seldomly</a>.</p>
+
+<p>Number 8 will <em>blow your mind</em>! Just kidding. But seriously, I’ll quote the ones that apply to me the most:</p>
+
+<blockquote>
+  <p>2) I never regret working out. […]</p>
+</blockquote>
+
+<blockquote>
+  <p>10) The quickest and most reliable path to personal improvement is to do the things on my list that I resist most. […]</p>
+</blockquote>
+
+<blockquote>
+  <p>11) All you need to do to finish things is keep starting them until they’re done. […]</p>
+</blockquote>
+
+<blockquote>
+  <p>14) The most consistently joyful activities for me are visiting with other people and reading books.</p>
+</blockquote>
+
+<p>After spending most of my life preferring various solitary entertainments to <em>socializing</em>, I’ve recently came to similar understanding about meeting other people. It seems to energize me and fill me with joy (self-reported mood data supports it). The trick is to find like-minded people. Maybe I’ll write a post about it sometime - it was a very big change in my life.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/10/16-things-i-know-are-true-but-havent-quite-learned-yet</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 10 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Web comic</title>
+                <link>http://www.lepekhin.com/2018/03/10/Web-comic</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="http://extrafabulouscomics.com/comic/479/"><img src="http://extrafabulouscomics.com/wp-content/uploads/2018/03/3-e1520299525393.jpg" alt="" /></a>
+<a href="http://extrafabulouscomics.com/comic/479/">http://extrafabulouscomics.com/comic/479/</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/10/Web-comic</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 10 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>My process and goals for writing in this blog</title>
+                <link>http://www.lepekhin.com/2018/03/10/My-process-and-goals-for-writing-in-this-blog</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>I describe my processes for writing here and the goals behind those processes.<br />
+Previously: <a href="/2018/02/24/Hello-world">Hello, world!</a></p>
+
+<h2 id="link-posts">Link-posts</h2>
+<p><a href="http://www.lepekhin.com/category/links/">Links to articles, posts</a>, <a href="http://www.lepekhin.com/category/comics/">webcomics</a>, <a href="http://www.lepekhin.com/tag/video/">videos</a>, etc
+— are not included in the general blog roll in the root of this blog</p>
+
+<h3 id="goals">Goals</h3>
+<ul>
+  <li>Satisfy the sharing need: when I find something thought-provoking I get a craving to share it</li>
+  <li>Learn something better by explaining it</li>
+</ul>
+
+<h3 id="process">Process</h3>
+<ol>
+  <li>Get a link into my Pocket mainly from: Hacker News and other IT-infused sources, friends, colleagues or RSS.</li>
+  <li>Read it. If I find some parts that 1) are interesting new information, and 2) probably will improve my life if applied — I share those parts with myself via email.</li>
+  <li>Once in a blue moon I read through such emails and weed out things that are no longer interesting. Maybe it seemed useful and now does not, or maybe I was trying to be trendy and now I see though my past-self. Time buffer.</li>
+  <li>If I still feel like that info is useful, I then create a <a href="http://www.lepekhin.com/category/links/">link-post</a> with a small description and key quotes so that future-me (and you, dear reader) can get to the point faster.</li>
+  <li><strong>TODO</strong> Schedule re-reading of old posts or make an anki-like thing to remember and use practical parts.</li>
+</ol>
+
+<h2 id="general-blog-posts">General blog posts</h2>
+<p>— the default type of posts that you see in the root if this blog<br />
+General blog posts are almost the same as link-posts above but I feel a lot more strongly about sharing these: their perceived importance is high. Also they tend to contain more text written by yours truly.</p>
+
+<h3 id="more-goals">More Goals</h3>
+<p>Getting more writing experience for</p>
+<ul>
+  <li>the skill of getting my point across <em>quicker</em></li>
+  <li>affecting more people than usual (that is <em>if</em> I make a goal out of making this blog popular in the future)</li>
+  <li>creating a thought-archive which I can analyze, and improve upon my thought processes. I think that the ability to write down thoughts is the first major artificial brain augmentation; it would be a shame not to use it.</li>
+</ul>
+
+<h3 id="process-1">Process</h3>
+<p>Same as for link-posts, but more time-consuming. Also, sometimes I have original ideas whereas link-post are usually just my interpretation of someone else’s ideas.</p>
+
+<hr />
+
+<p>I will update this post if I change the process or the goals.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/10/My-process-and-goals-for-writing-in-this-blog</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 10 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Why don't we try really doing things</title>
+                <link>http://www.lepekhin.com/2018/03/09/Why-dont-we-try-really-doing-things</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="https://thezvi.wordpress.com/2017/12/02/more-dakka/">‘More Dakka’</a> by Zvi starts as a review on Eliezer Yudkowsky’s book Inadequate Eqilibria, and then turns to apply ideas of <a href="https://thezvi.wordpress.com/2015/06/30/the-thing-and-the-symbolic-representation-of-the-thing/">The Thing and the Symbolic Representation of The Thing</a> by Zvi, and Scott Alexander’s <a href="http://slatestarcodex.com/2017/11/07/concept-shaped-holes-can-be-impossible-to-notice/">Concept-Shaped Holes Can Be Impossible To Notice</a> to expand on whys and hows of the problem that I can only vaguely name as “Why don’t we try <em>really</em> doing things”. I do recommend reading all three posts, it was a feel-good delta knowledge for me. Here I will focus on ‘More Dakka’ which expands on why we do not try seemingly obvious solutions, or attempt and never finish.</p>
+
+<blockquote>
+  <p>People express gratitude. We are told it improves subjective well-being in studies. Our subjective well-being improves a little. We could express more gratitude, with no real downsides. Almost all of us don’t.</p>
+</blockquote>
+
+<blockquote>
+  <p>If something is a good idea, you need a reason to not try doing more of it. No, seriously. You need a reason.</p>
+</blockquote>
+
+<blockquote>
+  <p>do more of what is already working and see if it works more</p>
+</blockquote>
+
+<p>Doing <em>the Thing</em> instead of <em>the Symbolic Representation of The Thing</em> is harder because:</p>
+
+<blockquote>
+  <ul>
+    <li>You need to realize the thing might exist at all.</li>
+    <li>You need to realize the symbolic representation of the thing isn’t the thing.</li>
+    <li>You need to ignore the idea that you’ve done your job.</li>
+    <li>You need to actually care about solving the problem.</li>
+    <li>You need to think about the problem a little.</li>
+    <li>You need to ignore the idea that no one could blame you for not trying.<br />
+[…]</li>
+  </ul>
+</blockquote>
+
+<p>And then he explains each one in more detail. It looks like a bunch of small inconveniences that together form a learned helplessness buffer that prevents any actual work getting done.</p>
+<blockquote>
+  <p>Something possibly being slightly socially awkward, or causing a likely nominal failure, acts as a veto. Rationalizations for this are created as needed.</p>
+</blockquote>
+
+<blockquote>
+  <p>Some such worries are real. […] But they’re mostly trying to halt thinking about the object level, to keep you from being the nail that sticks up and gets hammered down. When someone else raises them, mostly <strong>they’re the hammer</strong>. The fears are mirages we’ve been trained and built to see.</p>
+</blockquote>
+
+<p>↑ This is one of my <a href="http://www.lepekhin.com/tag/goal">goals</a>: Getting to the object level, asking ‘why?’ and ‘what can be done to overcome this obstacle?’ until <em>the Thing</em> is <em>really</em> done.</p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/09/Why-dont-we-try-really-doing-things</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Fri, 09 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Why Education Startups Do Not Succeed</title>
+                <link>http://www.lepekhin.com/2018/03/08/Why-education-startups-do-not-succeed</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><em>Avichal Garg</em> on <a href="https://avichal.com/2011/10/07/why-education-startups-do-not-succeed/">Why Education Startups Do Not Succeed</a> — an interesting article from the guy who co-founded one in <em>2001</em>.</p>
+
+<blockquote>
+  <p>You think of education as fundamentally a quality problem. The average person thinks of education as fundamentally a cost problem.</p>
+</blockquote>
+
+<blockquote>
+  <p>Educational companies that focus on delivering higher quality solutions to consumers will not scale to the mainstream. Educational companies built around driving down costs to the end consumer will scale.</p>
+</blockquote>
+
+<p>His other posts also seem interesting if a bit rare (8 total).</p>
+
+<blockquote>
+  <p>If the Chinese person doesn’t get an education there’s a good chance they will not get a job. They will die poor, unable to adequately feed their children, and unable to take care of their parents […]</p>
+</blockquote>
+
+<p>Hmm, I wonder if that has something to do with <a href="/2018/03/01/Western-elite-from-Chinese-perspective">admission rates of <em>thousands</em> to one</a> in China universities.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/08/Why-education-startups-do-not-succeed</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Thu, 08 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Against Facebook: Comparison to Alternatives and Call to Action</title>
+                <link>http://www.lepekhin.com/2018/03/06/Against-facebook-comparison-to-alternatives-and-call-to-action</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>Basically, Facebook is bad - their goal is maximize the time you use the site (↑ad revenue). That means not allowing for efficient means of getting value out of the site’s main feature: a lot of people. Not allowing you control what and how you see (sort, search, The Zvi also wrote about it <a href="https://thezvi.wordpress.com/2017/04/22/against-facebook/">here</a>)</p>
+
+<p>So here The Zvi describes the alternatives to Facebook:
+<a href="https://thezvi.wordpress.com/2017/04/22/against-facebook-comparison-to-alternatives-and-call-to-action/">https://thezvi.wordpress.com/2017/04/22/against-facebook-comparison-to-alternatives-and-call-to-action/</a></p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/06/Against-facebook-comparison-to-alternatives-and-call-to-action</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Tue, 06 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>List of entrepreneur-related links</title>
+                <link>http://www.lepekhin.com/2018/03/05/List-of-entrepreneur-related-links</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>From time to time I pocket articles that seem like they would help me when I’ll start working toward my own business.<br />
+As I see it now, that time wouldn’t come in 2018, so I’ll make a handy stash of these articles here (and empty out my pocket).</p>
+
+<p>When I come reading, I’ll mark them off the list and maybe even leave comments about their utility.<br />
+Also, when I come, I will have to think of something that will prevent paralysis by analysis.</p>
+
+<ol>
+  <li><a href="http://30sleeps.com/blog/2007/09/27/set-your-hourly-rate/">http://30sleeps.com/blog/2007/09/27/set-your-hourly-rate/</a></li>
+  <li><a href="http://m.wikihow.com/Set-Consulting-Fees">http://m.wikihow.com/Set-Consulting-Fees</a></li>
+  <li><a href="http://habrahabr.ru/post/225367/">http://habrahabr.ru/post/225367/</a></li>
+  <li><strong><a href="http://dilbert.com/blog/entry/the_pivot/">http://dilbert.com/blog/entry/the_pivot/</a></strong></li>
+  <li><a href="http://planscope.io/blog/giving-up-a-million-dollar-consultancy/">http://planscope.io/blog/giving-up-a-million-dollar-consultancy/</a></li>
+  <li><a href="http://www.chiefmarketer.com/5-strategies-for-better-b2b-ecommerce/">5 Strategies for Better B2B Ecommerce - Chiefmarketer</a></li>
+  <li><a href="http://www.searchenginepeople.com/blog/25-conversion-rate-boosters.html">25 Amazing Ways to Boost eCommerce Conversion Rates | Search Engine People</a></li>
+  <li><a href="https://www.iwdagency.com/blog/b2b-vs-b2c-ecommerce-what-are-the-key-differences/">B2B vs. B2C eCommerce: What Are the Key Differences?</a></li>
+  <li><a href="http://us2.campaign-archive2.com/?u=833bf5395122c8de57f99f863&amp;id=5b74c36918&amp;e=b84f647455">Бесплатный труд</a></li>
+  <li><a href="http://unicornfree.com/2014/startup-escape-plan-free-up-time-energy-money-to-invest">Startup Escape Plan: How to free up time, energy &amp; money to build your future</a></li>
+  <li><a href="http://letsworkshop.com/freelance-as-a-service/">http://letsworkshop.com/freelance-as-a-service/</a></li>
+  <li><strong><a href="http://casjam.com/use-outlines-and-ship/?__vid=659a56d04656013251e722000b2a88d7">http://casjam.com/use-outlines-and-ship/</a></strong></li>
+  <li><a href="http://casjam.com/loving-the-work/">Loving The Work</a></li>
+  <li><a href="http://jeremyaboyd.com/tricks-to-monetize-your-side-projects/">Tricks to Monetize your Side Projects – Jeremy Boyd</a></li>
+  <li><a href="https://blog.ladder.io/business-idea/">How to Test Drive Your Business Idea Before Quitting Your Job</a></li>
+  <li><strong><a href="https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf">21 management things I learned at Imgur — Medium</a></strong></li>
+  <li><strong><a href="http://onstartups.com/tabid/3339/bid/104056/A-Tech-Founder-s-Guide-To-Picking-A-Non-Tech-Founder.aspx">A Tech Founder’s Guide To Picking A Non-Tech Founder</a></strong>
+<br /><br /><br />↑ I skimmed over those some time in the past and something caught my eye. Unfortunately past-me didn’t leave a more substantial note. Bold ones are the ones I starred.<br /><br /><br /></li>
+  <li><a href="http://unicornfree.com/2013/why-you-should-do-a-tiny-product-first">Why You Should Do A Tiny Product First | Unicornfree with Amy Hoy: Creating</a></li>
+  <li><a href="http://unicornfree.com/bootstrapping-series-2-screw-your-ideas-before-they-screw-you?inf_contact_key=bc30e00e57a3d7779308b3a8bcebfe42b031fde4971ca4b829281942bee17e17">Screw your ideas before they screw you (part 2) | Unicornfree with Amy Hoy:</a></li>
+  <li><a href="http://unicornfree.com/bootstrapping-series-4-the-two-elements-of-a-crazy-effective-pitch?inf_contact_key=c1a420e1d56ef2923ae3924976d23406a390286e36a9f8e589a5fafb3f18a487">The two elements of a crazy effective pitch (Part 4) | Unicornfree with Amy</a></li>
+  <li><a href="http://unicornfree.com/bootstrapping-series-5-customer-interviews?inf_contact_key=d8e0599528f2493b754c818c45f15f0124a52a57985b924c4126ca887b5b88e3">Customer Interviews… #1.$(@! (Part 5) | Unicornfree with Amy Hoy: Creating A</a></li>
+  <li><a href="http://unicornfree.com/bootstrapping-series-6-what-if-im-a-nobody-whos-going-to-buy-from-me?inf_contact_key=e992fceddae304803d937a69b6328b235db8b3d245a50016a7d13537ca1dfa8b">What if I’m a “nobody”? Who’s going to buy from me? (Part 6) | Unicornfree</a></li>
+  <li><a href="http://unicornfree.com/bootstrapping-series-7-the-dreaded-silent-launch?inf_contact_key=f50bcca923788d903cdd526da3e70d45e03c0f48da807facc145c205374192c5">Bootstrapping Series #7 – the dreaded silent launch | Unicornfree with Amy</a></li>
+  <li><a href="http://unicornfree.com/bootstrapping-series-8-special-bonus-guide-inside-make-a-million-bucks-or-watch-buffy?inf_contact_key=f96477bf37271f7ee1b47682ff686319974830dbfc26528ea22eefcdab18f909">Special bonus guide – make a million bucks, or watch Buffy? (Part 8) | Unic</a></li>
+  <li><a href="http://doubleyourfreelancing.com/new-industry-no-problem/">New Industry You’ve Never Worked In Before? No Problem! - Double Your Freel</a></li>
+  <li><a href="https://leanstack.com/why-lean-canvas/">https://leanstack.com/why-lean-canvas/</a></li>
+  <li><a href="http://www.kalzumeus.com/blog/">Blog | Kalzumeus Software</a></li>
+  <li><a href="https://news.ycombinator.com/item?id=12720636">Ask HN: $1k side projecters, what was the best thing you did to market it?</a></li>
+  <li><a href="https://blog.canny.io/saas-startup-ramen-profitability/">How we Bootstrapped our SaaS Startup to Ramen Profitability – Canny Blog</a></li>
+  <li><a href="https://chrisbolman.com/strategy-develop-effective-framework/">Strategy: How to Develop, Structure and Shape a Winning System</a></li>
+  <li><a href="http://richg42.blogspot.ru/2017/09/things-learned-while-running-your-own.html">Rich Geldreich’s Tech And Programmer Culture Blog: Things learned while run</a></li>
+  <li><a href="https://www.indiehackers.com/@Louis_Grenier/2cc8c6c79c">How Seth Godin Would Launch a Business With a $1,000 Budget – Louis Grenier</a></li>
+  <li><a href="http://blog.capitalandgrowth.org/niko-bonatsos/">The 2 Underrated Startup Success Factors | Capital &amp; Growth Blog</a></li>
+  <li><a href="https://techcrunch.com/2017/07/01/invisible-unicorns-35-big-companies-that-started-with-little-or-no-money/">Invisible unicorns: 35 big companies that started with little or no money |</a></li>
+  <li><a href="https://thebetterstory.co/everything-i-wish-id-known-before-i-started-demoing-saas-f83c1c4fad99">Everything I Wish I’d Known Before I Started Demoing SaaS</a></li>
+  <li><a href="http://www.kalzumeus.com/2013/04/24/marketing-for-people-who-would-rather-be-building-stuff/">Marketing Software, For People Who Would Rather Be Building It | Kalzumeus</a></li>
+  <li><a href="http://discuss.joelonsoftware.com/default.asp?W1341">http://discuss.joelonsoftware.com/default.asp?W1341</a></li>
+  <li><a href="http://productpeople.tv/2013/01/23/ep10-rob-walling-part2/">EP10: Rob Walling – outsource on oDesk, find your idea, market your product</a></li>
+  <li><a href="https://news.ycombinator.com/item?id=7367243">Ask HN: Successful one-person online businesses? | Hacker News</a></li>
+  <li><a href="https://training.kalzumeus.com/newsletters/archive/validating_product_ideas">How To Validate Product Ideas Before (And After) Building Them</a></li>
+  <li><a href="http://www.startupsfortherestofus.com/episodes/episode-184">http://www.startupsfortherestofus.com/episodes/episode-184</a></li>
+  <li><a href="http://moz.com/blog/most-entertaining-guide-to-landing-page-optimization">http://moz.com/blog/most-entertaining-guide-to-landing-page-optimization</a></li>
+  <li><a href="http://moz.com/beginners-guide-to-seo">http://moz.com/beginners-guide-to-seo</a></li>
+  <li><a href="http://ninjasandrobots.com/how-to-get-business-ideas-remove-steps/">http://ninjasandrobots.com/how-to-get-business-ideas-remove-steps/</a></li>
+  <li><a href="http://ianlandsman.com/how-we-built-besnappy-for-317000/">http://ianlandsman.com/how-we-built-besnappy-for-317000/</a></li>
+  <li><a href="http://www.getgrowth.com/blog/jesse-mecham-ynabs-story-growth/">http://www.getgrowth.com/blog/jesse-mecham-ynabs-story-growth/</a></li>
+  <li><a href="http://pacehq.com/blog/why-im-starting-pace/">http://pacehq.com/blog/why-im-starting-pace/</a></li>
+  <li><a href="https://news.ycombinator.com/item?id=8004272">https://news.ycombinator.com/item?id=8004272</a></li>
+  <li><a href="http://summitevergreen.com/aha-moments-2014-baconbiz/">“Aha Moments” from the 2014 BaconBiz Conference You Can Implement Today | S</a></li>
+  <li><a href="http://m.habrahabr.ru/company/witget/blog/230247/">http://m.habrahabr.ru/company/witget/blog/230247/</a></li>
+  <li><a href="http://goodui.org/">http://goodui.org/</a></li>
+  <li><strong><a href="http://unicornfree.com/2014/dont-fave-this-post-how-to-really-launch-in-2014">http://unicornfree.com/2014/dont-fave-this-post-how-to-really-launch-in-201</a></strong></li>
+  <li><a href="https://sg168.infusionsoft.com/app/hostedEmail/134357/c53a27c753a71cdf">“I launched to only one paid subscriber.”</a></li>
+  <li><strong><a href="http://businessofsoftware.org/2011/08/peldi-at-business-of-software-2010-do-worry-be-happy-keeping-sane-as-a-software-ceo-video-transcript/">Peldi at Business of Software 2010: Do Worry, Be Happy! Keeping sane as a s</a></strong></li>
+  <li><a href="http://businessofsoftware.org/2013/02/kathy-sierra-building-the-minimum-badass-user-business-of-software-a-masterclass-in-thinking-about-software-product-development/">Kathy Sierra: Building the minimum Badass User, Business of Software. A mas</a></li>
+  <li><strong><a href="https://casjam.com/productize/">Productize</a></strong></li>
+  <li><a href="http://patmaddox.com/2014/11/02/how-i-went-from-a-5-line-11-word-outline-to-shipping-an-ebook-in-12-hours/">How I went from a 5-line, 11-word outline to shipping an ebook in 12 hours</a></li>
+  <li><a href="http://justinjackson.ca/growth/">How user growth really works | by @mijustin</a></li>
+  <li><a href="https://training.kalzumeus.com/newsletters/archive/services_vs_products">What Consulting Companies Can Learn From Product Companies</a></li>
+  <li><a href="http://andyadams.org/you-can-charge-more/">Freelancing: How to talk yourself into charging more | Andy Adams</a></li>
+  <li><a href="http://webcache.googleusercontent.com/search?q=cache:DOe6SfYAXqMJ:https://news.ycombinator.com/item%3Fid%3D8704303+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=ru">Freelancing: How to talk yourself into charging more | Hacker News</a></li>
+  <li><a href="https://news.ycombinator.com/item?id=8908279">Ask HN: How do you find freelance/contract gigs? | Hacker News</a></li>
+  <li><a href="http://geektimes.ru/post/245916/">Дайджест интересных материалов о создании контента, маркетинге и Growth Hac</a></li>
+  <li><a href="https://news.ycombinator.com/item?id=9289500">Ask HN: How to move beyond “freelancer”? | Hacker News</a></li>
+  <li><a href="https://unicornfree.com/2014/from-zero-to-3k-mrr-in-10-days-the-story-of-rubysteps?inf_contact_key=879cf66c334ad0970b841724a73b2113f7e4d1156c002f99dafebf64646901c8">From Zero to $3k MRR in 10 days — the story of launching RubySteps | Unicor</a></li>
+  <li><strong><a href="http://www.kalzumeus.com/2012/01/23/salary-negotiation/">Salary Negotiation: Make More Money, Be More Valued | Kalzumeus Software</a></strong></li>
+  <li><a href="https://www.indiehackers.com/businesses/ministry-of-testing">Ministry of Testing - Indie Hackers</a></li>
+  <li><a href="https://www.indiehackers.com/businesses/submithub">SubmitHub - Indie Hackers</a></li>
+  <li><a href="https://codingvc.com/how-to-use-thought-experiments-to-de-risk-your-startup/">How to Use Thought Experiments to De-Risk Your Startup · Coding VC</a></li>
+  <li><a href="https://www.upupgrow.com/blog/2016/12/20/how-to-validate-demand-for-your-product">How to Validate Demand for Your Product — Up Up Grow</a></li>
+  <li><a href="https://www.indiehackers.com/businesses/discourse">Discourse - Indie Hackers</a></li>
+  <li><a href="http://stephaniehurlburt.com/blog/2017/6/24/on-starting-a-software-business">On Starting a Software Business — Stephanie Hurlburt</a></li>
+  <li><a href="https://www.indiehackers.com/businesses/scotts-cheap-flights">Scott’s Cheap Flights - Indie Hackers</a></li>
+  <li><a href="http://www.bbc.com/news/business-40504764">The man who built a $1bn firm in his basement - BBC News</a></li>
+  <li><a href="http://www.toomas.net/2017/07/18/reverse-engineering-a-successful-lifestyle-business-heres-everything-ive-learned-from-reading-indiehackers-com/">Reverse Engineering A Successful Lifestyle Business: Here’s Everything I’ve</a></li>
+  <li><a href="https://www.sideprojectchecklist.com/marketing-checklist">https://www.sideprojectchecklist.com/marketing-checklist</a></li>
+  <li><a href="https://stripe.com/atlas/guides/starting-sales">Stripe Atlas: Getting Your First 10 Customers</a></li>
+  <li><a href="https://search.firstround.com/lists">First Search</a></li>
+  <li><a href="https://stripe.com/atlas/guides/business-of-saas">Stripe Atlas: Software as a Service, as a business</a></li>
+  <li><a href="https://news.ycombinator.com/item?id=16482392">Ask HN: Successful one-person online businesses?</a></li>
+  <li><a href="https://news.ycombinator.com/item?id=4247615">tptacek on how to run a consultancy (rise your rates!)</a></li>
+  <li>““Working harder” is a poor strategy which your competitors can trivially replicate. Instead, spend some time measuring what tasks add value to your business and at what imputed wages. Outsource those tasks which are below your desired imputed wage, automate any task where appropriate, and simply don’t do things which don’t add value.”<a href="https://www.kalzumeus.com/2009/10/04/work-smarter-not-harder/">patio11 on Working smarter, not harder</a></li>
+  <li><a href="https://doubleyourfreelancing.com/">Double Your Freelancing Rate - Book</a></li>
+  <li><a href="http://www.happybootstrapper.com/saas-idea-evaluation-checklist/">Checklist for Picking the Best SaaS Idea - Happy Bootstrapper</a></li>
+  <li><a href="https://ryanbattles.com/post/blogs-for-bootstrappers">24 Blogs that Bootstrappers Won’t Want to Miss</a></li>
+  <li><a href="https://fizzle.co/popular-posts">Most Popular Posts on Fizzle (site about running your business)</a></li>
+  <li><a href="https://www.kalzumeus.com/2010/03/20/running-a-software-business-on-5-hours-a-week/">Running A Software Business On 5 Hours A Week - patio11</a>
+    <br />Some select quotes:
+    <br /><br />
+ 	&gt; build time assets: things which will save you time in the future. Code that actually does something useful is a very simple time asset for programmers to understand: you write it once today, then you can execute it tomorrow and every other day, saving you the effort of doing manually whatever it was the code does. Code is far from the only time asset, though: systems and processes for doing your work more efficiently, marketing which scales disproportionate to your time, documentation which answers customers’ questions before they ask you, all of these things are assets. 
+ 	<br /><br />
+ 	&gt; around 90% of the effort, are caused by non-coding activities: dealing with pre-sales inquiries, marketing, SEO, marketing, customer support, marketing, website copywriting, marketing, etc. 
+ 	<br /><br />
+ 	&gt; Cutting your feature set to the bone is the single best advice I can give you which will get you to actually launching. 
+ 	<br /><br />
+ 	&gt; Another thing I’d look for prior to committing to building anything is a marketing hook — something you can take advantage of to market your product in a time-effective way. For bingo cards, I knew there were more activities possible than any one company could ever publish, and that gave me hope that I could eventually out-niche the rest of the market. (This is core idea still drives most of my marketing, four years later.) Maybe your idea has built-in virality (nice if you can get it — I really envy the Facebook crowd sometimes, although I suppose they probably envy having a customer base which pays money for software), a built-in hook for getting links, or something similar. If you can’t come up with anything, fix that before you build it. 
+ 	<br /><br />
+ 	(How to find ↑ this marketing ‘trick’ remains unknown to me)</li>
+</ol>
+
+<p>Last-updated: Apr 7, 2018</p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/05/List-of-entrepreneur-related-links</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Mon, 05 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>4 Things You Believe That Mess Up Your Social Life</title>
+                <link>http://www.lepekhin.com/2018/03/04/4-things-you-believe-that-mess-up-your-social-life</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>I plan to start my <a href="http://www.comfortzonecrusher.com/">Comfort Zone Crusher course</a> some time this year.<br />
+Here’s a few good citations about beliefs that hamper your social life:</p>
+
+<blockquote>
+  <p>You don’t need to make people like you. Learn to be okay with who you are, and you’re going to attract people who naturally like you.</p>
+</blockquote>
+
+<blockquote>
+  <p>The easier you are on yourself, the more likely you will say something that resonates with the people around you.</p>
+</blockquote>
+
+<blockquote>
+  <p>Your social skills are good enough. Instead, work on overcoming your fear.</p>
+</blockquote>
+
+<blockquote>
+  <p>Fear is NOT the problem. Our reaction to fear is.
+Instead of learning to get rid of fear, we need to learn to take action DESPITE feeling fear. This means saying “Hi” to a stranger, even though you have shaky knees, trembling hands, and a squeaky voice.
+Take action despite feeling fear. This is what courage is all about.</p>
+</blockquote>
+
+<p><a href="http://www.comfortzonecrusher.com/4-things-believe-mess-social-life/">http://www.comfortzonecrusher.com/4-things-believe-mess-social-life/</a></p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/04/4-things-you-believe-that-mess-up-your-social-life</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sun, 04 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>The Acceleration of Addictiveness</title>
+                <link>http://www.lepekhin.com/2018/03/03/Acceleration-of-Addictiveness</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>Paul Graham on acceleration of addictiveness:</p>
+
+<blockquote>
+  <p>And unless the rate at which social antibodies evolve can increase to match the accelerating rate at which technological progress throws off new addictions, we’ll be increasingly unable to rely on customs to protect us. [3] Unless we want to be canaries in the coal mine of each new addiction—the people whose sad example becomes a lesson to future generations—we’ll have to figure out for ourselves what to avoid and how. It will actually become a reasonable strategy (or a more reasonable strategy) to suspect everything new.</p>
+</blockquote>
+
+<p><a href="http://www.paulgraham.com/addiction.html">http://www.paulgraham.com/addiction.html</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/03/Acceleration-of-Addictiveness</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 03 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Good genes are nice, but joy is better</title>
+                <link>http://www.lepekhin.com/2018/03/02/Good-genes-are-nice-but-joy-is-better</link>
+                <content:encoded>
+                    <![CDATA[
+                    <blockquote>
+  <p>Researchers […] found a strong correlation between men’s flourishing lives and their relationships with family, friends, and community. Several studies found that people’s level of satisfaction with their relationships at age 50 was a better predictor of physical health than their cholesterol levels were.</p>
+</blockquote>
+
+<p><a href="https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/">https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/</a></p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/02/Good-genes-are-nice-but-joy-is-better</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Fri, 02 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>The Western Elite from a Chinese Perspective</title>
+                <link>http://www.lepekhin.com/2018/03/01/Western-elite-from-Chinese-perspective</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="https://americanaffairsjournal.org/2017/11/western-elite-chinese-perspective/">The Western Elite from a Chinese Perspective</a> <em>by</em> Puzhong Yao</p>
+
+<p>Though I think the author overgeneralizes in his conclusion, this article provided a very interesting tidbit of information: admission ratio in China Universities is around <strong>1500:1</strong>. That’s <em>extremely</em> competitive.</p>
+
+<p>Quick google check found me <a href="https://www.quora.com/What-is-the-admission-rate-at-Tsinghua-University">this Quora question</a> with answers like:</p>
+
+<blockquote>
+  <p>As rule of thumb - it’s 1 in 100 to 1 in 1000 (in some popular fields may be even 1 in 5000).</p>
+</blockquote>
+
+<blockquote>
+  <p>In most provinces, the admission rate ranges from nearly 0.04% to 0.1%</p>
+</blockquote>
+
+<p>O_O Wow</p>
+
+<p>Yao describes his rise from the bottom of his class in China to the top of his class in England, seemingly only because the top level in England corresponds to low one in his University.<br />
+I know there are a lot of assumptions embedded, nevertheless I have a newfound respect for those Chinese who make it though this sieve.</p>
+
+<p>It will be really interesting to meet one of them.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/01/Western-elite-from-Chinese-perspective</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Thu, 01 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Why choices are bad</title>
+                <link>http://www.lepekhin.com/2018/03/01/Why-choices-are-bad</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><em>Choosing</em> is an area of life that I plan to optimize by removing as much day-to-day choosing as possible (wakeup routine, outfit choice, meal choice, relaxation routine, etc)</p>
+
+<p>Here Zvi explains why: <a href="https://thezvi.wordpress.com/2017/07/22/choices-are-bad/">Choices are Bad</a> and <a href="https://thezvi.wordpress.com/2017/08/12/choices-are-really-bad/">Choices Are Really Bad</a></p>
+
+<blockquote>
+  <p>A movie you would have enjoyed if it was just on makes you feel like a schmuck if you take twenty minutes choosing it from thousands at the video store.</p>
+</blockquote>
+
+<blockquote>
+  <p>Thus, giving me a choice between a Snickers bar that I value at $1 and M&amp;Ms I value at 60 cents doesn’t only force me into choosing mode, lower my perceived value and help create decision fatigue (and potentially cost willpower). It also risks that if I’m not paying attention or thinking clearly, I will choose the M&amp;Ms, and that would be a tragedy.</p>
+</blockquote>
+
+<p>I try to remove choosing in other people’s lives too. In situations where I know they do not value ability to choose that much: like what cafe should be go to, what street to turn to next, snickers or m&amp;ms, etc. Of course, I don’t force the choice on them - if they <em>want</em> to choose, it’s their right.</p>
+
+<p>Also recommended read on somewhat similar topic:</p>
+
+<h3 id="change-is-bad-too">Change is bad too</h3>
+
+<p>The Zvi on why we should choose what we change very carefully. <strong>Every change has a cost.</strong> 
+Sounds obvious but there were quite a few ‘aha’ moments while reading this. As usual with Zvi, this is delightfully all-encompassing.</p>
+
+<blockquote>
+  <p>Older people have had more time to optimize and have less time to optimize again, so it makes sense that they hate change even more than others. They should.</p>
+</blockquote>
+
+<p><a href="https://thezvi.wordpress.com/2017/07/20/change-is-bad/">https://thezvi.wordpress.com/2017/07/20/change-is-bad/</a></p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/03/01/Why-choices-are-bad</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Thu, 01 Mar 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
                 <title>Dealing with internal conflict immediately</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/28/Dealing-with-internal-conflict-immediately</link>
+                <link>http://www.lepekhin.com/2018/02/28/Dealing-with-internal-conflict-immediately</link>
                 <content:encoded>
                     <![CDATA[
                     <p>This feels extremely valuable. Adding this as a goal myself.</p>
@@ -42,7 +1072,7 @@
         
             <item>
                 <title>Vigilant MVPing: the case of this blog</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/25/Vigilant-MVP-case-of-this-blog</link>
+                <link>http://www.lepekhin.com/2018/02/25/Vigilant-MVP-case-of-this-blog</link>
                 <content:encoded>
                     <![CDATA[
                     <p>During my day job I frequently have to optimize software development tasks to
@@ -101,21 +1131,21 @@ That’s when I installed <a href="https://github.com/barryclark/jekyll-now">Jek
         
             <item>
                 <title>Hello, World!</title>
-                <link>https://andrey-lepekhin.github.io/2018/02/24/Hello-world</link>
+                <link>http://www.lepekhin.com/2018/02/24/Hello-world</link>
                 <content:encoded>
                     <![CDATA[
                     <p>I’ve bit the bullet and decided to create this thing.
-I plan to use it for</p>
+I plan to use it to</p>
 
 <ul>
   <li>post links to articles, images, videos — anything that I like, with a small comment or quote about what in particular got my attenton</li>
-  <li>post about my [thought, goal-setting, etc] processes with the goal of internal and external audit. As Zvi put it:</li>
+  <li>post about my [thought, goal-setting, etc]-processes with the goal of internal and external audit. As The Zvi <a href="https://thezvi.wordpress.com/2017/07/24/write-down-your-process/">put it</a>:</li>
 </ul>
 
 <blockquote>
   <p>Writing down your conclusions often makes you realize where your conclusions are wrong, or your techniques can be improved. Having to put  all of your justifications into precise words, in a place others could read them, makes most bad reasoning obvious if you are paying attention.</p>
 </blockquote>
-<p><a href="https://thezvi.wordpress.com/2017/07/24/write-down-your-process/">https://thezvi.wordpress.com/2017/07/24/write-down-your-process/</a></p>
+
 
                     ]]>
                 </content:encoded>
@@ -124,6 +1154,326 @@ I plan to use it for</p>
                     
                 </description>
                 <pubDate>Sat, 24 Feb 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Web comic</title>
+                <link>http://www.lepekhin.com/2018/02/17/Web-comic</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="https://www.smbc-comics.com/comic/the-consolation-of-philosophy"><img src="https://www.smbc-comics.com/comics/1483979801-20170109.png" alt="" /></a>
+<a href="https://www.smbc-comics.com/comic/the-consolation-of-philosophy">https://www.smbc-comics.com/comic/the-consolation-of-philosophy</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/02/17/Web-comic</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 17 Feb 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Web comic</title>
+                <link>http://www.lepekhin.com/2018/02/16/Web-comic</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="http://extrafabulouscomics.com/comic/380/"><img src="http://extrafabulouscomics.com/wp-content/uploads/2017/05/sirenssm-e1495612384498.png" alt="" /></a>
+<a href="http://extrafabulouscomics.com/comic/380/">http://extrafabulouscomics.com/comic/380/</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/02/16/Web-comic</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Fri, 16 Feb 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Web comic</title>
+                <link>http://www.lepekhin.com/2018/02/15/Web-comic</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="https://www.smbc-comics.com/comic/power"><img src="https://www.smbc-comics.com/comics/1498574982-20170627.png" alt="" /></a>
+<a href="https://www.smbc-comics.com/comic/power">https://www.smbc-comics.com/comic/power</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/02/15/Web-comic</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Thu, 15 Feb 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Web comic</title>
+                <link>http://www.lepekhin.com/2018/02/14/Web-comic</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="https://www.smbc-comics.com/comic/bedtime"><img src="https://www.smbc-comics.com/comics/1498658331-20170628%20(1).png" alt="" /></a>
+<a href="https://www.smbc-comics.com/comic/bedtime">https://www.smbc-comics.com/comic/bedtime</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/02/14/Web-comic</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Wed, 14 Feb 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Web comic</title>
+                <link>http://www.lepekhin.com/2018/02/13/Web-comic</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="http://smbc-comics.com/comic/wrestling"><img src="https://smbc-comics.com/comics/1507990450-20171014.png" alt="" /></a>
+<a href="http://smbc-comics.com/comic/wrestling">http://smbc-comics.com/comic/wrestling</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/02/13/Web-comic</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Tue, 13 Feb 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Web comic</title>
+                <link>http://www.lepekhin.com/2018/02/12/Web-comic</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="http://smbc-comics.com/comic/a-window"><img src="https://www.smbc-comics.com/comics/1516024741-20180115.png" alt="" /></a>
+<a href="http://smbc-comics.com/comic/a-window">http://smbc-comics.com/comic/a-window</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/02/12/Web-comic</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Mon, 12 Feb 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Web comic</title>
+                <link>http://www.lepekhin.com/2018/02/11/Web-comic</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="https://www.smbc-comics.com/index.php?id=3866"><img src="https://www.smbc-comics.com/comics/1442658363-20150919%20fixedv2.png" alt="" /></a>
+<a href="https://www.smbc-comics.com/index.php?id=3866">https://www.smbc-comics.com/index.php?id=3866</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/02/11/Web-comic</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sun, 11 Feb 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Web comic</title>
+                <link>http://www.lepekhin.com/2018/02/09/Web-comic</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="https://www.smbc-comics.com/comic/self-driving-car-ethics"><img src="https://www.smbc-comics.com/comics/1467643530-20160704.png" alt="" /></a>
+<a href="https://www.smbc-comics.com/comic/self-driving-car-ethics">https://www.smbc-comics.com/comic/self-driving-car-ethics</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/02/09/Web-comic</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Fri, 09 Feb 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Web comic</title>
+                <link>http://www.lepekhin.com/2018/02/08/Web-comic</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="https://www.smbc-comics.com/comic/heap-problems"><img src="https://www.smbc-comics.com/comics/1466434160-20160620.png" alt="" /></a>
+<a href="https://www.smbc-comics.com/comic/heap-problems">https://www.smbc-comics.com/comic/heap-problems</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/02/08/Web-comic</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Thu, 08 Feb 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Web comic</title>
+                <link>http://www.lepekhin.com/2018/02/07/Web-comic</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="https://www.smbc-comics.com/index.php?id=4142"><img src="https://www.smbc-comics.com/comics/1466002173-20160615.png" alt="" /></a>
+<a href="https://www.smbc-comics.com/index.php?id=4142">https://www.smbc-comics.com/index.php?id=4142</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/02/07/Web-comic</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Wed, 07 Feb 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Web comic</title>
+                <link>http://www.lepekhin.com/2018/02/06/Web-comic</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="http://smbc-comics.com/comic/machine-ethics"><img src="https://www.smbc-comics.com/comics/20160614.png" alt="" /></a>
+<a href="http://smbc-comics.com/comic/machine-ethics">http://smbc-comics.com/comic/machine-ethics</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/02/06/Web-comic</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Tue, 06 Feb 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Web comic</title>
+                <link>http://www.lepekhin.com/2018/02/05/Web-comic</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="https://www.smbc-comics.com/comic/the-talk"><img src="https://www.smbc-comics.com/comics/1454859358-20150207.png" alt="" /></a>
+<a href="https://www.smbc-comics.com/comic/the-talk">https://www.smbc-comics.com/comic/the-talk</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/02/05/Web-comic</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Mon, 05 Feb 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Web comic</title>
+                <link>http://www.lepekhin.com/2018/02/04/Web-comic</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="http://smbc-comics.com/comic/false"><img src="https://smbc-comics.com/comics/1451228669-20151227.png" alt="" /></a>
+<a href="http://smbc-comics.com/comic/false">http://smbc-comics.com/comic/false</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/02/04/Web-comic</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sun, 04 Feb 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Web comic</title>
+                <link>http://www.lepekhin.com/2018/02/03/Web-comic</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="http://smbc-comics.com/comic/philosophy"><img src="https://www.smbc-comics.com/comics/1441809270-20150909.png" alt="" /></a>
+<a href="http://smbc-comics.com/comic/philosophy">http://smbc-comics.com/comic/philosophy</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/02/03/Web-comic</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 03 Feb 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Web comic</title>
+                <link>http://www.lepekhin.com/2018/02/02/Web-comic</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="http://extrafabulouscomics.com/comic/276/"><img src="http://extrafabulouscomics.com/wp-content/uploads/2016/05/IMG_20160517_201251-e1472103724988.jpg" alt="" /></a>
+<a href="http://extrafabulouscomics.com/comic/276/">http://extrafabulouscomics.com/comic/276/</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/02/02/Web-comic</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Fri, 02 Feb 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Web comic</title>
+                <link>http://www.lepekhin.com/2018/02/01/Web-comic</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="https://www.smbc-comics.com/comic/what39s-really-attractive"><img src="https://www.smbc-comics.com/comics/1467472087-20160702.png" alt="" /></a>
+<a href="https://www.smbc-comics.com/comic/what39s-really-attractive">https://www.smbc-comics.com/comic/what39s-really-attractive</a></p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/02/01/Web-comic</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Thu, 01 Feb 2018 00:00:00 +0300</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
