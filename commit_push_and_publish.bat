@@ -1,6 +1,6 @@
 @rem I've made initial branch setup using this guide:
 @rem https://drewsilcock.co.uk/custom-jekyll-plugins
-@rem Commit message should be pit in double quotes
+@rem Commit message should be put in double quotes
 
 call jekyll build --future && ^
 git add . && ^
