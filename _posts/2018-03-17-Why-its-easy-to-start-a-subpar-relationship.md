@@ -78,7 +78,7 @@ Or maybe it's just evolution nudging: "Come on, stop thinking, just fuck whateve
 
 ### Why do the standards rise again
 It looks like a natural thing to happen after a bare minimum of a need is met.
-In a place-to-sleep example above: after a night in a capsule hotel you do feel refreshed, but you also understand that you _need_ silence to sleep really well.
+In a place-to-sleep example above: after a night in a capsule hotel you do feel somewhat refreshed, but you also understand that you _need_ silence to sleep really well.
 
 
 ## What to do
@@ -88,10 +88,10 @@ In a place-to-sleep example above: after a night in a capsule hotel you do feel 
 This doesn't help with increased perceived difficultness of dating more attractive partners; I'm still searching a solution for that.
 
 
-Maybe it's solvable by sex without relationships?   
+Maybe it's solvable by sex without relationships? Maybe if you're still getting any, your standards do not lower?   
 
 * Friends with benefits - doesn't work for me, as it usually grows into a relationship.  
-* One-night-stands - I didn't have that many encounters so I cannot generalize. Probably should look into it. 
+* One-night-stands - I didn't have that many encounters so I cannot generalize. Should look into it. 
 * Paying for sex (here's [Serge Faguet's take on it](https://hackernoon.com/biohack-your-intelligence-now-or-become-obsolete-97cdd15e395f)) - same as above.  
 
 
