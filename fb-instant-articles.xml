@@ -29,6 +29,35 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
     
         
             <item>
+                <title>Six Steps to a Daily Writing Habit</title>
+                <link>http://www.lepekhin.com/2018/05/12/Six-steps-to-a-daily-writing-habit</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>How to use Beeminder for a daily habit of X.<br />
+<a href="http://socratic-form-microscopy.com/2017/06/18/six-steps-to-a-daily-writing-habit/">A great post</a> by <em>Zachary Jacobi</em></p>
+
+<blockquote>
+  <p>I recommend looking at Beeminder not as a tool to effectively guilt yourself into writing, but as a reminder of what writing is worth to you. You value consistently writing at $X. You know that every time you skip writing for a day or a week, there is a Y% chance that you might lose the habit. Multiply those two together and you get your ideal maximum Beeminder pledge.</p>
+</blockquote>
+
+<p>Right now <a href="https://www.beeminder.com/bizzz/pocket">I use Beeminder</a> to read up all of my pocketed articles.<br />
+Sometime in the past couple of years I’ve created a bad akrasia-like habit of pocketing articles that are too hard to read at that moment. “Imma read this funny small LJ post now and let future-Andrey handle that huge SSC post later”. I also used to add some neat posts that are useless to me (i.e. HN post about how to use ardruino and tensorflow to detect misoginy in Sillicon Valley). Thus I amassed hundreds of articles and tons of guilt.<br />
+Now, each time I add an article, a point is substracted; a point is added each time I finish one (automation through <a href="https://ifttt.com/pocket">IFTTT snippets</a>). In the last three months, I’ve ploughed through 150 articles, some 400 yet to go.</p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/05/12/Six-steps-to-a-daily-writing-habit</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 12 May 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
                 <title>Life satisfaction depending on number of children</title>
                 <link>http://www.lepekhin.com/2018/05/05/Life-satisfaction-depending-on-number-of-children</link>
                 <content:encoded>
