@@ -129,7 +129,6 @@ Also, when I come, I will have to think of something that will prevent paralysis
 1. [How Charging Money for Pro Features Allowed Me Quit My Job](https://www.indiehackers.com/interview/how-charging-money-for-pro-features-allowed-me-quit-my-job-6e71309457)
 1. [How to Create a Million-Dollar Business This Weekend (Examples: AppSumo, Mint, Chihuahuas)](https://tim.blog/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas/)
 1. [Creating an AI-Powered Logo Creator and Earning $70k/mo](https://www.indiehackers.com/interview/creating-an-ai-powered-logo-creator-and-earning-70k-mo-4ebecd547f)
-
   
   
 Last-updated: {{ page.update_date | date: site.date_format }}
