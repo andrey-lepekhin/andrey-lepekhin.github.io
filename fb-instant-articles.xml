@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>The Blog of Andrey Lepekhin</title>
-    <link>http://www.lepekhin.com</link>
+    <link>https://www.lepekhin.com</link>
     <description>
       personal page
     </description>
@@ -10,7 +10,7 @@
         
             <item>
                 <title>Web comics category</title>
-                <link>http://www.lepekhin.com/2099/01/01/Web-comics-category</link>
+                <link>https://www.lepekhin.com/2099/01/01/Web-comics-category</link>
                 <content:encoded>
                     <![CDATA[
                     <p>Beware, comics posted here tend to be profane and some are even NSFW.<br />
@@ -29,8 +29,87 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
     
         
             <item>
+                <title>85 Things I learned being a CEO</title>
+                <link>https://www.lepekhin.com/2018/05/20/85-things-i-learned-being-a-ceo</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>A Hackernoon <a href="https://hackernoon.com/85-things-i-learned-being-a-ceo-4c25fc1c7b99">post</a> where <em>Sachin Gupta</em> details lessons from his CEO career in the areas of job’s key responsibilities, decision making, culture, leadership, self-management, people management, meetings, hiring, and fundraising.</p>
+
+<p>Currently, the most relevant for me are these parts about meetings</p>
+
+<blockquote>
+  <p>Explicitly ask people if you are needed to be part of a meeting. Wherever you are needed, ask them for an agenda and also ask what is expected from you in the meeting. Else say no.</p>
+</blockquote>
+
+<blockquote>
+  <p>There are only 2 types of meetings that you should attend — a) where you have to take a decision b) where you get updates/information. The productivity of the first depends solely on you and the latter on how you have trained your team. Step out from any meeting where you are not going to take any decision and you are not getting information you already don’t have.</p>
+</blockquote>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/05/20/85-things-i-learned-being-a-ceo</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sun, 20 May 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Six Steps to a Daily Writing Habit</title>
+                <link>https://www.lepekhin.com/2018/05/12/Six-steps-to-a-daily-writing-habit</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>How to use Beeminder for a daily habit of X.<br />
+<a href="http://socratic-form-microscopy.com/2017/06/18/six-steps-to-a-daily-writing-habit/">A great post</a> by <em>Zachary Jacobi</em></p>
+
+<blockquote>
+  <p>I recommend looking at Beeminder not as a tool to effectively guilt yourself into writing, but as a reminder of what writing is worth to you. You value consistently writing at $X. You know that every time you skip writing for a day or a week, there is a Y% chance that you might lose the habit. Multiply those two together and you get your ideal maximum Beeminder pledge.</p>
+</blockquote>
+
+<p>Right now <a href="https://www.beeminder.com/bizzz/pocket">I use Beeminder</a> to read up all of my pocketed articles.<br />
+Sometime in the past couple of years I’ve created a bad akrasia-like habit of pocketing articles that are too hard to read at that moment. “Imma read this funny small LJ post now and let future-Andrey handle that huge SSC post later”. I also used to add some neat posts that are useless to me (i.e. HN post about how to use ardruino and tensorflow to detect misoginy in Sillicon Valley). Thus I amassed hundreds of articles and tons of guilt.<br />
+Now, each time I add an article, a point is substracted; a point is added each time I finish one (automation through <a href="https://ifttt.com/pocket">IFTTT snippets</a>). In the last three months, I’ve ploughed through 150 articles, some 400 yet to go.</p>
+
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/05/12/Six-steps-to-a-daily-writing-habit</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 12 May 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
+                <title>Life satisfaction depending on number of children</title>
+                <link>https://www.lepekhin.com/2018/05/05/Life-satisfaction-depending-on-number-of-children</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>My current position is <em>against</em> having children due to huge time commitment necessary to raise them. I do not factor in children’s happiness or their possible utility to the world into my decision. But then again, I am not an effective altruist (yet?) and do not have a pronounced moral stance as Scott does.</p>
+
+<p>Here’s a <a href="http://slatestarcodex.com/2018/01/16/bundles-of-joy/">post</a> by <em>Scott Alexander</em> where he analyses his survey results in the context of life satisfaction of people having children. After reading this, I’m a tad more inclined to think about it.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/05/05/Life-satisfaction-depending-on-number-of-children</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sat, 05 May 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
                 <title>Maybe The Real Superintelligent AI Is Extremely Smart Computers</title>
-                <link>http://www.lepekhin.com/2018/05/01/Maybe-the-real-superintelligent-ai-is-extremely-smart-computers</link>
+                <link>https://www.lepekhin.com/2018/05/01/Maybe-the-real-superintelligent-ai-is-extremely-smart-computers</link>
                 <content:encoded>
                     <![CDATA[
                     <p>I love Ted Chiang novels, especially ‘Understand’, but man-oh-man, that was a hilarious bashing to read. Scott Alexander <a href="http://slatestarcodex.com/2018/01/15/maybe-the-real-superintelligent-ai-is-extremely-smart-computers/">is on the roll</a> with his kabbalah metaphors.</p>
@@ -50,7 +129,7 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
         
             <item>
                 <title>Why Am I So Lazy?</title>
-                <link>http://www.lepekhin.com/2018/04/30/Why-am-i-so-lazy</link>
+                <link>https://www.lepekhin.com/2018/04/30/Why-am-i-so-lazy</link>
                 <content:encoded>
                     <![CDATA[
                     <p><em>Heather Havrilesky</em> with her raw, passionate and poignant article about (re)defining your self. <a href="https://www.thecut.com/2018/01/ask-polly-why-am-i-so-lazy.html">Why Am I So Lazy?</a></p>
@@ -80,7 +159,7 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
         
             <item>
                 <title>Happiness Is a Chore</title>
-                <link>http://www.lepekhin.com/2018/04/21/Happiness-is-chore</link>
+                <link>https://www.lepekhin.com/2018/04/21/Happiness-is-chore</link>
                 <content:encoded>
                     <![CDATA[
                     <p><em><strong>UPD</strong> This post rises some important questions, so I promote it from link-post to the index page for visibility.</em><br />
@@ -100,7 +179,7 @@ The pursuit of happiness defines many parts of my life. Or should I say “happi
 
 <p>↑ This indeed, as <a href="https://www.lesswrong.com/posts/3Hkpttb6WsJwr5WdF/happiness-is-a-chore#BP2j9rDHr9SqMjDh9">one LW commenter points out</a>, looks like akrasia. And will probably benefit from methods that are good against akrasia.</p>
 
-<p>Related, SquirrelInHell’s site <a href="http://bewelltuned.com/">Be Well Tuned</a> (“a very unusual guide to improving your brain and your life”). I’ve added it to my to-do list <a href="http://www.lepekhin.com/tag/goal">#goals</a></p>
+<p>Related, SquirrelInHell’s site <a href="http://bewelltuned.com/">Be Well Tuned</a> (“a very unusual guide to improving your brain and your life”). I’ve added it to my to-do list <a href="https://www.lepekhin.com/tag/goal">#goals</a></p>
 
 <hr />
 
@@ -121,7 +200,7 @@ After rereading through everything linked above, I see that, at this moment, I�
         
             <item>
                 <title>Planning fallacy</title>
-                <link>http://www.lepekhin.com/2018/04/14/Planning-fallacy</link>
+                <link>https://www.lepekhin.com/2018/04/14/Planning-fallacy</link>
                 <content:encoded>
                     <![CDATA[
                     <p><em>Eliezer Yudkowsky</em> about <a href="https://www.lesswrong.com/posts/CPm5LTwHrvBJCa9h5/planning-fallacy">Planning Fallacy</a></p>
@@ -151,7 +230,7 @@ You’ll get back an answer that sounds hideously long, and clearly reflects no 
         
             <item>
                 <title>On-demand everything</title>
-                <link>http://www.lepekhin.com/2018/04/07/On-demand-everything</link>
+                <link>https://www.lepekhin.com/2018/04/07/On-demand-everything</link>
                 <content:encoded>
                     <![CDATA[
                     <p><em>Lauren Smiley</em> about <a href="https://medium.com/matter/the-shut-in-economy-ec3ec1294816">The Shut-In Economy</a><br />
@@ -195,7 +274,7 @@ You’ll get back an answer that sounds hideously long, and clearly reflects no 
         
             <item>
                 <title>How successful people work less — and get more done</title>
-                <link>http://www.lepekhin.com/2018/04/07/How-successful-people-work-less-and-get-more-done</link>
+                <link>https://www.lepekhin.com/2018/04/07/How-successful-people-work-less-and-get-more-done</link>
                 <content:encoded>
                     <![CDATA[
                     <p><em>Travis Bradberry</em> on <a href="https://qz.com/386166/how-successful-people-work-less-and-get-more-done/">How successful people work less—and get more done</a><br />
@@ -215,7 +294,7 @@ Quite a diverse list of things, actually:</p>
   <li><del>But most importantly, they attac</del></li>
 </ol>
 
-<p>See the article for more details. This list is by no means scientific, I included it here as a <a href="http://www.lepekhin.com/tag/goal/">goal-reminder</a>: I already do more than half of it, probably should look into what’s left.</p>
+<p>See the article for more details. This list is by no means scientific, I included it here as a <a href="https://www.lepekhin.com/tag/goal/">goal-reminder</a>: I already do more than half of it, probably should look into what’s left.</p>
 
 <hr />
 
@@ -241,7 +320,7 @@ Quite a diverse list of things, actually:</p>
         
             <item>
                 <title>Tony Robbins interview with Tim Ferriss - my takeaways</title>
-                <link>http://www.lepekhin.com/2018/03/31/Tony-Robbins-interview-with-Tim-Ferriss-my-takeaways</link>
+                <link>https://www.lepekhin.com/2018/03/31/Tony-Robbins-interview-with-Tim-Ferriss-my-takeaways</link>
                 <content:encoded>
                     <![CDATA[
                     <p>I’ve first heard Tony Robbins’ interviews sometime in 2016. I was fascinated: a great story-teller and he speaks about things that interest me — mood-states that affect behavior, and how to change your energy levels. Here are my takeaways from one of his <a href="https://encrypted.google.com/search?q=Tony+Robbins+site%3Atim.blog">interviews with Tim Ferriss</a>. Each paragraph is a paraphrased quote from Tony followed by my comment in <em>italics</em>.</p>
@@ -297,7 +376,7 @@ After I go through my notes, I’ll post my takeaways from there as well.</p>
         
             <item>
                 <title>Religion, growth framework and enlightenment</title>
-                <link>http://www.lepekhin.com/2018/03/25/Religion-growth-framework-and-enlightenment</link>
+                <link>https://www.lepekhin.com/2018/03/25/Religion-growth-framework-and-enlightenment</link>
                 <content:encoded>
                     <![CDATA[
                     <p><em>Tim Urban</em> about <a href="https://waitbutwhy.com/2014/10/religion-for-the-nonreligious.html">Religion for the Nonreligious</a><br />
@@ -331,7 +410,7 @@ Coincidentally, growth framework is something that I lacked in 2015. I now have 
         
             <item>
                 <title>Giving up too hastily on hard goals</title>
-                <link>http://www.lepekhin.com/2018/03/25/Giving-up-too-hastily-on-hard-goals</link>
+                <link>https://www.lepekhin.com/2018/03/25/Giving-up-too-hastily-on-hard-goals</link>
                 <content:encoded>
                     <![CDATA[
                     <p><em>Eliezer Yudkowsky</em>’s  <a href="https://www.lesswrong.com/posts/fhEPnveFhb9tmd7Pe/use-the-try-harder-luke">Use the Try Harder, Luke</a>
@@ -360,7 +439,7 @@ Then you have to stick at it.  That takes years.</p>
         
             <item>
                 <title>Taking Children Seriously - philosophy of parenting</title>
-                <link>http://www.lepekhin.com/2018/03/24/Taking-children-seriously-philosophy-of-parenting</link>
+                <link>https://www.lepekhin.com/2018/03/24/Taking-children-seriously-philosophy-of-parenting</link>
                 <content:encoded>
                     <![CDATA[
                     <p><em>Elliot Temple</em> about <a href="http://fallibleideas.com/taking-children-seriously">Taking Children Seriously</a></p>
@@ -403,14 +482,14 @@ Anecdotal <code class="highlighter-rouge">it's worth it</code> from the parents 
         
             <item>
                 <title>Why it's easy to start a subpar relationship</title>
-                <link>http://www.lepekhin.com/2018/03/17/Why-its-easy-to-start-a-subpar-relationship</link>
+                <link>https://www.lepekhin.com/2018/03/17/Why-its-easy-to-start-a-subpar-relationship</link>
                 <content:encoded>
                     <![CDATA[
                     <p>And what to do about it.</p>
 
 <p>Here’s what’s happening when I’m not in a relationship for some time.</p>
 
-<p><img src="http://www.lepekhin.com/images/2018-03-17-Why-its-easy-to-start-a-subpar-relationship-graph-1.png" alt="Graph 1, described in text below" /></p>
+<p><img src="https://www.lepekhin.com/images/2018-03-17-Why-its-easy-to-start-a-subpar-relationship-graph-1.png" alt="Graph 1, described in text below" /></p>
 
 <p>Acceptable partner attractiveness (APA) is everything I seek for in a partner: physical beauty, personal qualities, etc.</p>
 
@@ -424,7 +503,7 @@ Anecdotal <code class="highlighter-rouge">it's worth it</code> from the parents 
 
 <h3 id="it-becomes-harder-to-date-more-attractive-partners">It becomes harder to date more attractive partners</h3>
 
-<p><img src="http://www.lepekhin.com/images/scumbag_brain.png" alt="Scumbag brain" /></p>
+<p><img src="https://www.lepekhin.com/images/scumbag_brain.png" alt="Scumbag brain" /></p>
 
 <p>My primitive mind auto-applies dates’ <em>courting easiness</em> labels based on <em>attractiveness</em>. The less attractive the date, the easier it seems to court her.</p>
 
@@ -435,7 +514,7 @@ Anecdotal <code class="highlighter-rouge">it's worth it</code> from the parents 
 <p>Maybe it’s just me, but when you’re fresh out of a relationship, you don’t seem too eager to jump start a new one. But as the loneliness goes on, desire for <em>a</em> relationship grows.
 <strong>So not only your requirements are lowered, you actually <em>want</em> being in a relationship more, exactly at the time when they are low</strong>.</p>
 
-<p><img src="http://www.lepekhin.com/images/2018-03-17-Why-its-easy-to-start-a-subpar-relationship-graph-2.png" alt="Graph 2, yearning for a relationship grows with time" /></p>
+<p><img src="https://www.lepekhin.com/images/2018-03-17-Why-its-easy-to-start-a-subpar-relationship-graph-2.png" alt="Graph 2, yearning for a relationship grows with time" /></p>
 
 <h4 id="yearning-for-relationship-correlates-with-easiness-of-starting-a-subpar-relationship-">Yearning for relationship correlates with easiness of starting a subpar relationship :(</h4>
 
@@ -458,7 +537,7 @@ It’s not an <a href="/2018/03/01/Why-choices-are-bad">easy choice</a>, you hav
 <p>Worth mentioning: I am not an <em>extreme</em> idealist, I understand there can be compromises. Here I am speaking of cases when you can’t compromise after standards go up again.</p>
 
 <h2 id="why-do-the-standards-fall">Why do the standards fall</h2>
-<p><img src="http://www.lepekhin.com/images/2018-03-17-Why-its-easy-to-start-a-subpar-relationship-graph-3.png" alt="Graph 3, progression of acceptable partner attractiveness criteria for high (just after relationship) to low (just before starting a relationship) to high again" /></p>
+<p><img src="https://www.lepekhin.com/images/2018-03-17-Why-its-easy-to-start-a-subpar-relationship-graph-3.png" alt="Graph 3, progression of acceptable partner attractiveness criteria for high (just after relationship) to low (just before starting a relationship) to high again" /></p>
 
 <p>I think that it’s a response to one of the basic needs not being met.<br />
 I’ll try a metaphor. Imagine you do not have a place to sleep. In the morning you do not need to sleep so your idea of a place to sleep is a 5-star hotel. In the afternoon you become a little sleepier and make vague attempts on finding <em>a</em> hotel, <em>any</em> hotel. In the evening you’re sleepy and really need a place to rest, and will agree on a capsule hotel or a hostel.</p>
@@ -467,7 +546,7 @@ I’ll try a metaphor. Imagine you do not have a place to sleep. In the morning 
 
 <h3 id="why-do-the-standards-rise-again">Why do the standards rise again</h3>
 <p>It looks like a natural thing to happen after a bare minimum of a need is met.
-In a place-to-sleep example above: after a night in a capsule hotel you do feel refreshed, but you also understand that you <em>need</em> silence to sleep really well.</p>
+In a place-to-sleep example above: after a night in a capsule hotel you do feel somewhat refreshed, but you also understand that you <em>need</em> silence to sleep really well.</p>
 
 <h2 id="what-to-do">What to do</h2>
 
@@ -477,15 +556,15 @@ In a place-to-sleep example above: after a night in a capsule hotel you do feel 
 This doesn’t help with increased perceived difficultness of dating more attractive partners; I’m still searching a solution for that.</li>
 </ol>
 
-<p>Maybe it’s solvable by sex without relationships?</p>
+<p>Maybe it’s solvable by sex without relationships? Maybe if you’re still getting any, your standards do not lower?</p>
 
 <ul>
   <li>Friends with benefits - doesn’t work for me, as it usually grows into a relationship.</li>
-  <li>One-night-stands - I didn’t have that many encounters so I cannot generalize. Probably should look into it.</li>
+  <li>One-night-stands - I didn’t have that many encounters so I cannot generalize. Should look into it.</li>
   <li>Paying for sex (here’s <a href="https://hackernoon.com/biohack-your-intelligence-now-or-become-obsolete-97cdd15e395f">Serge Faguet’s take on it</a>) - same as above.</li>
 </ul>
 
-<p><strong>What did I miss?</strong> How do <em>you</em> solve this problem? Please <a href="http://www.lepekhin.com/about#contact-me">share</a>.</p>
+<p><strong>What did I miss?</strong> How do <em>you</em> solve this problem? Please <a href="https://www.lepekhin.com/about#contact-me">share</a>.</p>
 
 <h3 id="ps-dear-ladies">P.S. Dear ladies</h3>
 
@@ -507,7 +586,7 @@ This post is a public commitment: I will only start relationships with those who
         
             <item>
                 <title>16 things I know are true but haven’t quite learned yet</title>
-                <link>http://www.lepekhin.com/2018/03/10/16-things-i-know-are-true-but-havent-quite-learned-yet</link>
+                <link>https://www.lepekhin.com/2018/03/10/16-things-i-know-are-true-but-havent-quite-learned-yet</link>
                 <content:encoded>
                     <![CDATA[
                     <p><em>David Cain</em> <a href="http://www.raptitude.com/2013/12/16-things-i-know-are-true-but-havent-quite-learned-yet/">about things that he knows are good for him but he still only does them seldomly</a>.</p>
@@ -546,7 +625,7 @@ This post is a public commitment: I will only start relationships with those who
         
             <item>
                 <title>Web comic</title>
-                <link>http://www.lepekhin.com/2018/03/10/Web-comic</link>
+                <link>https://www.lepekhin.com/2018/03/10/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="http://extrafabulouscomics.com/comic/479/"><img src="http://extrafabulouscomics.com/wp-content/uploads/2018/03/3-e1520299525393.jpg" alt="" /></a>
@@ -566,14 +645,14 @@ This post is a public commitment: I will only start relationships with those who
         
             <item>
                 <title>My process and goals for writing in this blog</title>
-                <link>http://www.lepekhin.com/2018/03/10/My-process-and-goals-for-writing-in-this-blog</link>
+                <link>https://www.lepekhin.com/2018/03/10/My-process-and-goals-for-writing-in-this-blog</link>
                 <content:encoded>
                     <![CDATA[
                     <p>I describe my processes for writing here and the goals behind those processes.<br />
 Previously: <a href="/2018/02/24/Hello-world">Hello, world!</a></p>
 
 <h2 id="link-posts">Link-posts</h2>
-<p><a href="http://www.lepekhin.com/category/links/">Links to articles, posts</a>, <a href="http://www.lepekhin.com/category/comics/">webcomics</a>, <a href="http://www.lepekhin.com/tag/video/">videos</a>, etc
+<p><a href="https://www.lepekhin.com/category/links/">Links to articles, posts</a>, <a href="https://www.lepekhin.com/category/comics/">webcomics</a>, <a href="https://www.lepekhin.com/tag/video/">videos</a>, etc
 — are not included in the general blog roll in the root of this blog</p>
 
 <h3 id="goals">Goals</h3>
@@ -587,7 +666,7 @@ Previously: <a href="/2018/02/24/Hello-world">Hello, world!</a></p>
   <li>Get a link into my Pocket mainly from: Hacker News and other IT-infused sources, friends, colleagues or RSS.</li>
   <li>Read it. If I find some parts that 1) are interesting new information, and 2) probably will improve my life if applied — I share those parts with myself via email.</li>
   <li>Once in a blue moon I read through such emails and weed out things that are no longer interesting. Maybe it seemed useful and now does not, or maybe I was trying to be trendy and now I see though my past-self. Time buffer.</li>
-  <li>If I still feel like that info is useful, I then create a <a href="http://www.lepekhin.com/category/links/">link-post</a> with a small description and key quotes so that future-me (and you, dear reader) can get to the point faster.</li>
+  <li>If I still feel like that info is useful, I then create a <a href="https://www.lepekhin.com/category/links/">link-post</a> with a small description and key quotes so that future-me (and you, dear reader) can get to the point faster.</li>
   <li><strong>TODO</strong> Schedule re-reading of old posts or make an anki-like thing to remember and use practical parts.</li>
 </ol>
 
@@ -624,7 +703,7 @@ General blog posts are almost the same as link-posts above but I feel a lot more
         
             <item>
                 <title>Why don't we try really doing things</title>
-                <link>http://www.lepekhin.com/2018/03/09/Why-dont-we-try-really-doing-things</link>
+                <link>https://www.lepekhin.com/2018/03/09/Why-dont-we-try-really-doing-things</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="https://thezvi.wordpress.com/2017/12/02/more-dakka/">‘More Dakka’</a> by Zvi starts as a review on Eliezer Yudkowsky’s book Inadequate Eqilibria, and then turns to apply ideas of <a href="https://thezvi.wordpress.com/2015/06/30/the-thing-and-the-symbolic-representation-of-the-thing/">The Thing and the Symbolic Representation of The Thing</a> by Zvi, and Scott Alexander’s <a href="http://slatestarcodex.com/2017/11/07/concept-shaped-holes-can-be-impossible-to-notice/">Concept-Shaped Holes Can Be Impossible To Notice</a> to expand on whys and hows of the problem that I can only vaguely name as “Why don’t we try <em>really</em> doing things”. I do recommend reading all three posts, it was a feel-good delta knowledge for me. Here I will focus on ‘More Dakka’ which expands on why we do not try seemingly obvious solutions, or attempt and never finish.</p>
@@ -664,7 +743,7 @@ General blog posts are almost the same as link-posts above but I feel a lot more
   <p>Some such worries are real. […] But they’re mostly trying to halt thinking about the object level, to keep you from being the nail that sticks up and gets hammered down. When someone else raises them, mostly <strong>they’re the hammer</strong>. The fears are mirages we’ve been trained and built to see.</p>
 </blockquote>
 
-<p>↑ This is one of my <a href="http://www.lepekhin.com/tag/goal">goals</a>: Getting to the object level, asking ‘why?’ and ‘what can be done to overcome this obstacle?’ until <em>the Thing</em> is <em>really</em> done.</p>
+<p>↑ This is one of my <a href="https://www.lepekhin.com/tag/goal">goals</a>: Getting to the object level, asking ‘why?’ and ‘what can be done to overcome this obstacle?’ until <em>the Thing</em> is <em>really</em> done.</p>
 
 
                     ]]>
@@ -681,7 +760,7 @@ General blog posts are almost the same as link-posts above but I feel a lot more
         
             <item>
                 <title>Why Education Startups Do Not Succeed</title>
-                <link>http://www.lepekhin.com/2018/03/08/Why-education-startups-do-not-succeed</link>
+                <link>https://www.lepekhin.com/2018/03/08/Why-education-startups-do-not-succeed</link>
                 <content:encoded>
                     <![CDATA[
                     <p><em>Avichal Garg</em> on <a href="https://avichal.com/2011/10/07/why-education-startups-do-not-succeed/">Why Education Startups Do Not Succeed</a> — an interesting article from the guy who co-founded one in <em>2001</em>.</p>
@@ -716,7 +795,7 @@ General blog posts are almost the same as link-posts above but I feel a lot more
         
             <item>
                 <title>Against Facebook: Comparison to Alternatives and Call to Action</title>
-                <link>http://www.lepekhin.com/2018/03/06/Against-facebook-comparison-to-alternatives-and-call-to-action</link>
+                <link>https://www.lepekhin.com/2018/03/06/Against-facebook-comparison-to-alternatives-and-call-to-action</link>
                 <content:encoded>
                     <![CDATA[
                     <p>Basically, Facebook is bad - their goal is maximize the time you use the site (↑ad revenue). That means not allowing for efficient means of getting value out of the site’s main feature: a lot of people. Not allowing you control what and how you see (sort, search, The Zvi also wrote about it <a href="https://thezvi.wordpress.com/2017/04/22/against-facebook/">here</a>)</p>
@@ -739,7 +818,7 @@ General blog posts are almost the same as link-posts above but I feel a lot more
         
             <item>
                 <title>List of entrepreneur-related links</title>
-                <link>http://www.lepekhin.com/2018/03/05/List-of-entrepreneur-related-links</link>
+                <link>https://www.lepekhin.com/2018/03/05/List-of-entrepreneur-related-links</link>
                 <content:encoded>
                     <![CDATA[
                     <p>From time to time I pocket articles that seem like they would help me when I’ll start working toward my own business.<br />
@@ -848,9 +927,26 @@ Also, when I come, I will have to think of something that will prevent paralysis
  	&gt; Another thing I’d look for prior to committing to building anything is a marketing hook — something you can take advantage of to market your product in a time-effective way. For bingo cards, I knew there were more activities possible than any one company could ever publish, and that gave me hope that I could eventually out-niche the rest of the market. (This is core idea still drives most of my marketing, four years later.) Maybe your idea has built-in virality (nice if you can get it — I really envy the Facebook crowd sometimes, although I suppose they probably envy having a customer base which pays money for software), a built-in hook for getting links, or something similar. If you can’t come up with anything, fix that before you build it. 
  	<br /><br />
  	(How to find ↑ this marketing ‘trick’ remains unknown to me)</li>
+  <li><a href="https://training.kalzumeus.com/newsletters/archive/consulting_1">How I went from $100-an-hour programming to $X0,000-a-week consulting</a></li>
+  <li><a href="https://news.ycombinator.com/item?id=7994673">Ask HN: 16-hour work week jobs?</a></li>
+  <li><a href="http://timconley.co/FA/how-to-make-5000-to-10000-each-month-as-an-internet-marketing-consultant-fa083/">How to Make $5000 to $10,000 Each Month as an Internet Marketing Consultant</a></li>
+  <li><a href="https://www.kalzumeus.com/2014/07/24/kalzumeus-podcast-episode-8-high-touch-software-sales-with-steli-efti/">Kalzumeus Podcast Episode 8: High Touch Software Sales with Steli Efti</a></li>
+  <li><a href="https://stackingthebricks.com/how-do-you-stay-motivated-when-youre-not-making-any-money/?_r=uf">How do you stay motivated when you’re not making any money?</a></li>
+  <li><a href="https://www.wired.com/2014/08/the-most-fascinating-profile-youll-ever-read-about-a-guy-and-his-boring-startup/">The Most Fascinating Profile You’ll Ever Read About a Guy and His Boring Startup</a></li>
+  <li><a href="https://productizeandscale.com/your-first-customers/">How to Land Your First Customers When You’re Unknown</a></li>
+  <li><a href="https://www.kalzumeus.com/2015/05/01/talking-about-money/">Talking About Money [Salary]</a></li>
+  <li><a href="http://heidiroizen.tumblr.com/post/118473647305/how-to-build-a-unicorn-from-scratch-and-walk">How to Build a Unicorn From Scratch – and Walk Away with Nothing</a></li>
+  <li><a href="https://hellowebbooks.com/news/how-i-launched-my-learn-to-code-book-and-made-nearly-5000-in-pre-orders/">I self-published a learn-to-code book and made nearly $5,000 in pre-orders</a></li>
+  <li><a href="http://theboomerbusinessowner.com/2015/04/tbbo-317-keith-perhac-build-online-course-increase-profits/">TBBO 317: Keith Perhac – Build an Online Course to Increase Profits</a></li>
+  <li><a href="https://jacquesmattheij.com/ceo">CEO - Jacques Mattheij</a></li>
+  <li><a href="https://www.indiehackers.com/interview/growing-a-community-for-digital-nomads-to-33-000-mo-126df0fc5e">Growing a Community for Digital Nomads to $33,000/mo</a></li>
+  <li><a href="https://www.indiehackers.com/interview/how-i-supported-myself-full-time-by-building-a-wordpress-plugin-c0ff60a5ca">How I Supported Myself Full Time by Building a WordPress Plugin</a></li>
+  <li><a href="https://www.indiehackers.com/interview/how-charging-money-for-pro-features-allowed-me-quit-my-job-6e71309457">How Charging Money for Pro Features Allowed Me Quit My Job</a></li>
+  <li><a href="https://tim.blog/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas/">How to Create a Million-Dollar Business This Weekend (Examples: AppSumo, Mint, Chihuahuas)</a></li>
+  <li><a href="https://www.indiehackers.com/interview/creating-an-ai-powered-logo-creator-and-earning-70k-mo-4ebecd547f">Creating an AI-Powered Logo Creator and Earning $70k/mo</a></li>
 </ol>
 
-<p>Last-updated: Apr 7, 2018</p>
+<p>Last-updated: May 22, 2018</p>
 
 
                     ]]>
@@ -867,7 +963,7 @@ Also, when I come, I will have to think of something that will prevent paralysis
         
             <item>
                 <title>4 Things You Believe That Mess Up Your Social Life</title>
-                <link>http://www.lepekhin.com/2018/03/04/4-things-you-believe-that-mess-up-your-social-life</link>
+                <link>https://www.lepekhin.com/2018/03/04/4-things-you-believe-that-mess-up-your-social-life</link>
                 <content:encoded>
                     <![CDATA[
                     <p>I plan to start my <a href="http://www.comfortzonecrusher.com/">Comfort Zone Crusher course</a> some time this year.<br />
@@ -908,7 +1004,7 @@ Take action despite feeling fear. This is what courage is all about.</p>
         
             <item>
                 <title>The Acceleration of Addictiveness</title>
-                <link>http://www.lepekhin.com/2018/03/03/Acceleration-of-Addictiveness</link>
+                <link>https://www.lepekhin.com/2018/03/03/Acceleration-of-Addictiveness</link>
                 <content:encoded>
                     <![CDATA[
                     <p>Paul Graham on acceleration of addictiveness:</p>
@@ -933,7 +1029,7 @@ Take action despite feeling fear. This is what courage is all about.</p>
         
             <item>
                 <title>Good genes are nice, but joy is better</title>
-                <link>http://www.lepekhin.com/2018/03/02/Good-genes-are-nice-but-joy-is-better</link>
+                <link>https://www.lepekhin.com/2018/03/02/Good-genes-are-nice-but-joy-is-better</link>
                 <content:encoded>
                     <![CDATA[
                     <blockquote>
@@ -957,7 +1053,7 @@ Take action despite feeling fear. This is what courage is all about.</p>
         
             <item>
                 <title>The Western Elite from a Chinese Perspective</title>
-                <link>http://www.lepekhin.com/2018/03/01/Western-elite-from-Chinese-perspective</link>
+                <link>https://www.lepekhin.com/2018/03/01/Western-elite-from-Chinese-perspective</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="https://americanaffairsjournal.org/2017/11/western-elite-chinese-perspective/">The Western Elite from a Chinese Perspective</a> <em>by</em> Puzhong Yao</p>
@@ -995,7 +1091,7 @@ I know there are a lot of assumptions embedded, nevertheless I have a newfound r
         
             <item>
                 <title>Why choices are bad</title>
-                <link>http://www.lepekhin.com/2018/03/01/Why-choices-are-bad</link>
+                <link>https://www.lepekhin.com/2018/03/01/Why-choices-are-bad</link>
                 <content:encoded>
                     <![CDATA[
                     <p><em>Choosing</em> is an area of life that I plan to optimize by removing as much day-to-day choosing as possible (wakeup routine, outfit choice, meal choice, relaxation routine, etc)</p>
@@ -1040,7 +1136,7 @@ Sounds obvious but there were quite a few ‘aha’ moments while reading this. 
         
             <item>
                 <title>Dealing with internal conflict immediately</title>
-                <link>http://www.lepekhin.com/2018/02/28/Dealing-with-internal-conflict-immediately</link>
+                <link>https://www.lepekhin.com/2018/02/28/Dealing-with-internal-conflict-immediately</link>
                 <content:encoded>
                     <![CDATA[
                     <p>This feels extremely valuable. Adding this as a goal myself.</p>
@@ -1072,7 +1168,7 @@ Sounds obvious but there were quite a few ‘aha’ moments while reading this. 
         
             <item>
                 <title>Vigilant MVPing: the case of this blog</title>
-                <link>http://www.lepekhin.com/2018/02/25/Vigilant-MVP-case-of-this-blog</link>
+                <link>https://www.lepekhin.com/2018/02/25/Vigilant-MVP-case-of-this-blog</link>
                 <content:encoded>
                     <![CDATA[
                     <p>During my day job I frequently have to optimize software development tasks to
@@ -1131,7 +1227,7 @@ That’s when I installed <a href="https://github.com/barryclark/jekyll-now">Jek
         
             <item>
                 <title>Hello, World!</title>
-                <link>http://www.lepekhin.com/2018/02/24/Hello-world</link>
+                <link>https://www.lepekhin.com/2018/02/24/Hello-world</link>
                 <content:encoded>
                     <![CDATA[
                     <p>I’ve bit the bullet and decided to create this thing.
@@ -1161,7 +1257,7 @@ I plan to use it to</p>
         
             <item>
                 <title>Web comic</title>
-                <link>http://www.lepekhin.com/2018/02/17/Web-comic</link>
+                <link>https://www.lepekhin.com/2018/02/17/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="https://www.smbc-comics.com/comic/the-consolation-of-philosophy"><img src="https://www.smbc-comics.com/comics/1483979801-20170109.png" alt="" /></a>
@@ -1181,7 +1277,7 @@ I plan to use it to</p>
         
             <item>
                 <title>Web comic</title>
-                <link>http://www.lepekhin.com/2018/02/16/Web-comic</link>
+                <link>https://www.lepekhin.com/2018/02/16/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="http://extrafabulouscomics.com/comic/380/"><img src="http://extrafabulouscomics.com/wp-content/uploads/2017/05/sirenssm-e1495612384498.png" alt="" /></a>
@@ -1201,7 +1297,7 @@ I plan to use it to</p>
         
             <item>
                 <title>Web comic</title>
-                <link>http://www.lepekhin.com/2018/02/15/Web-comic</link>
+                <link>https://www.lepekhin.com/2018/02/15/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="https://www.smbc-comics.com/comic/power"><img src="https://www.smbc-comics.com/comics/1498574982-20170627.png" alt="" /></a>
@@ -1221,7 +1317,7 @@ I plan to use it to</p>
         
             <item>
                 <title>Web comic</title>
-                <link>http://www.lepekhin.com/2018/02/14/Web-comic</link>
+                <link>https://www.lepekhin.com/2018/02/14/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="https://www.smbc-comics.com/comic/bedtime"><img src="https://www.smbc-comics.com/comics/1498658331-20170628%20(1).png" alt="" /></a>
@@ -1241,7 +1337,7 @@ I plan to use it to</p>
         
             <item>
                 <title>Web comic</title>
-                <link>http://www.lepekhin.com/2018/02/13/Web-comic</link>
+                <link>https://www.lepekhin.com/2018/02/13/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="http://smbc-comics.com/comic/wrestling"><img src="https://smbc-comics.com/comics/1507990450-20171014.png" alt="" /></a>
@@ -1261,7 +1357,7 @@ I plan to use it to</p>
         
             <item>
                 <title>Web comic</title>
-                <link>http://www.lepekhin.com/2018/02/12/Web-comic</link>
+                <link>https://www.lepekhin.com/2018/02/12/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="http://smbc-comics.com/comic/a-window"><img src="https://www.smbc-comics.com/comics/1516024741-20180115.png" alt="" /></a>
@@ -1281,7 +1377,7 @@ I plan to use it to</p>
         
             <item>
                 <title>Web comic</title>
-                <link>http://www.lepekhin.com/2018/02/11/Web-comic</link>
+                <link>https://www.lepekhin.com/2018/02/11/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="https://www.smbc-comics.com/index.php?id=3866"><img src="https://www.smbc-comics.com/comics/1442658363-20150919%20fixedv2.png" alt="" /></a>
@@ -1301,7 +1397,7 @@ I plan to use it to</p>
         
             <item>
                 <title>Web comic</title>
-                <link>http://www.lepekhin.com/2018/02/09/Web-comic</link>
+                <link>https://www.lepekhin.com/2018/02/09/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="https://www.smbc-comics.com/comic/self-driving-car-ethics"><img src="https://www.smbc-comics.com/comics/1467643530-20160704.png" alt="" /></a>
@@ -1321,7 +1417,7 @@ I plan to use it to</p>
         
             <item>
                 <title>Web comic</title>
-                <link>http://www.lepekhin.com/2018/02/08/Web-comic</link>
+                <link>https://www.lepekhin.com/2018/02/08/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="https://www.smbc-comics.com/comic/heap-problems"><img src="https://www.smbc-comics.com/comics/1466434160-20160620.png" alt="" /></a>
@@ -1341,7 +1437,7 @@ I plan to use it to</p>
         
             <item>
                 <title>Web comic</title>
-                <link>http://www.lepekhin.com/2018/02/07/Web-comic</link>
+                <link>https://www.lepekhin.com/2018/02/07/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="https://www.smbc-comics.com/index.php?id=4142"><img src="https://www.smbc-comics.com/comics/1466002173-20160615.png" alt="" /></a>
@@ -1361,7 +1457,7 @@ I plan to use it to</p>
         
             <item>
                 <title>Web comic</title>
-                <link>http://www.lepekhin.com/2018/02/06/Web-comic</link>
+                <link>https://www.lepekhin.com/2018/02/06/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="http://smbc-comics.com/comic/machine-ethics"><img src="https://www.smbc-comics.com/comics/20160614.png" alt="" /></a>
@@ -1381,7 +1477,7 @@ I plan to use it to</p>
         
             <item>
                 <title>Web comic</title>
-                <link>http://www.lepekhin.com/2018/02/05/Web-comic</link>
+                <link>https://www.lepekhin.com/2018/02/05/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="https://www.smbc-comics.com/comic/the-talk"><img src="https://www.smbc-comics.com/comics/1454859358-20150207.png" alt="" /></a>
@@ -1401,7 +1497,7 @@ I plan to use it to</p>
         
             <item>
                 <title>Web comic</title>
-                <link>http://www.lepekhin.com/2018/02/04/Web-comic</link>
+                <link>https://www.lepekhin.com/2018/02/04/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="http://smbc-comics.com/comic/false"><img src="https://smbc-comics.com/comics/1451228669-20151227.png" alt="" /></a>
@@ -1421,7 +1517,7 @@ I plan to use it to</p>
         
             <item>
                 <title>Web comic</title>
-                <link>http://www.lepekhin.com/2018/02/03/Web-comic</link>
+                <link>https://www.lepekhin.com/2018/02/03/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="http://smbc-comics.com/comic/philosophy"><img src="https://www.smbc-comics.com/comics/1441809270-20150909.png" alt="" /></a>
@@ -1441,7 +1537,7 @@ I plan to use it to</p>
         
             <item>
                 <title>Web comic</title>
-                <link>http://www.lepekhin.com/2018/02/02/Web-comic</link>
+                <link>https://www.lepekhin.com/2018/02/02/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="http://extrafabulouscomics.com/comic/276/"><img src="http://extrafabulouscomics.com/wp-content/uploads/2016/05/IMG_20160517_201251-e1472103724988.jpg" alt="" /></a>
@@ -1461,7 +1557,7 @@ I plan to use it to</p>
         
             <item>
                 <title>Web comic</title>
-                <link>http://www.lepekhin.com/2018/02/01/Web-comic</link>
+                <link>https://www.lepekhin.com/2018/02/01/Web-comic</link>
                 <content:encoded>
                     <![CDATA[
                     <p><a href="https://www.smbc-comics.com/comic/what39s-really-attractive"><img src="https://www.smbc-comics.com/comics/1467472087-20160702.png" alt="" /></a>
