@@ -9,7 +9,7 @@ Hey there!
 ![That's me]({{ "/images/Andrey_Lepekhin.png" | absolute_url }})
 
 My name is Andrey Lepekhin. 
-I seek, test and implement systems that help me reach my goals: be it accountability partners, anti-procrastination techniques, psychotherapy or biohacking.
+I seek, test and implement systems that help me reach my goals: be it accountability partners, anti-procrastination techniques, psychotherapy or [biohacking]({% post_url 2018-06-02-Biohacking-and-me %}).
 
 
 
