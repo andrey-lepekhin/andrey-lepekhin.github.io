@@ -11,7 +11,7 @@ The articles were designed to get attention, so please look past misused memes a
 
 * [I’m 32 and spent $200k on biohacking. Became calmer, thinner, extroverted, healthier & happier](https://hackernoon.com/im-32-and-spent-200k-on-biohacking-became-calmer-thinner-extroverted-healthier-happier-2a2e846ae113)
 * [How to biohack your intelligence — with everything from sex to modafinil to MDMA](https://hackernoon.com/biohack-your-intelligence-now-or-become-obsolete-97cdd15e395f)
-* [How I set and execute 50-year goals + why I see cutting in lines as morally right](https://hackernoon.com/how-i-set-and-execute-50-year-goals-why-i-see-cutting-in-lines-as-morally-right-f4d0ce28574f)
+* [How I set and execute 50-year goals + why I see cutting in lines as morally right](https://hackernoon.com/how-i-set-and-execute-50-year-goals-why-i-see-cutting-in-lines-as-morally-right-f4d0ce28574f)  
 
 
 Serge was also a CEO of a company I'm working for. While still a CEO, he did several seminars where he described his reasoning and methods behind (then called) life-optimization. I am one of the people that that was sold on the less-than-hardcore part.  
