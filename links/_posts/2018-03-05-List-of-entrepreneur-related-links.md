@@ -3,7 +3,7 @@ layout: post
 title: 'List of entrepreneur-related links'
 categories: links
 tags: entrepreneurship goal
-update_date: 2018-04-07
+update_date: 2018-05-22
 ---
 
 From time to time I pocket articles that seem like they would help me when I'll start working toward my own business.  
@@ -112,6 +112,23 @@ Also, when I come, I will have to think of something that will prevent paralysis
  	> Another thing I’d look for prior to committing to building anything is a marketing hook — something you can take advantage of to market your product in a time-effective way. For bingo cards, I knew there were more activities possible than any one company could ever publish, and that gave me hope that I could eventually out-niche the rest of the market. (This is core idea still drives most of my marketing, four years later.) Maybe your idea has built-in virality (nice if you can get it — I really envy the Facebook crowd sometimes, although I suppose they probably envy having a customer base which pays money for software), a built-in hook for getting links, or something similar. If you can’t come up with anything, fix that before you build it. 
  	<br /><br />
  	(How to find ↑ this marketing 'trick' remains unknown to me)
+1. [How I went from $100-an-hour programming to $X0,000-a-week consulting](https://training.kalzumeus.com/newsletters/archive/consulting_1)
+1. [Ask HN: 16-hour work week jobs?](https://news.ycombinator.com/item?id=7994673)
+1. [How to Make $5000 to $10,000 Each Month as an Internet Marketing Consultant](http://timconley.co/FA/how-to-make-5000-to-10000-each-month-as-an-internet-marketing-consultant-fa083/)
+1. [Kalzumeus Podcast Episode 8: High Touch Software Sales with Steli Efti](https://www.kalzumeus.com/2014/07/24/kalzumeus-podcast-episode-8-high-touch-software-sales-with-steli-efti/)
+1. [How do you stay motivated when you're not making any money?](https://stackingthebricks.com/how-do-you-stay-motivated-when-youre-not-making-any-money/?_r=uf)
+1. [The Most Fascinating Profile You’ll Ever Read About a Guy and His Boring Startup](https://www.wired.com/2014/08/the-most-fascinating-profile-youll-ever-read-about-a-guy-and-his-boring-startup/)
+1. [How to Land Your First Customers When You’re Unknown](https://productizeandscale.com/your-first-customers/)
+1. [Talking About Money \[Salary\]](https://www.kalzumeus.com/2015/05/01/talking-about-money/)
+1. [How to Build a Unicorn From Scratch – and Walk Away with Nothing](http://heidiroizen.tumblr.com/post/118473647305/how-to-build-a-unicorn-from-scratch-and-walk)
+1. [I self-published a learn-to-code book and made nearly $5,000 in pre-orders](https://hellowebbooks.com/news/how-i-launched-my-learn-to-code-book-and-made-nearly-5000-in-pre-orders/)
+1. [TBBO 317: Keith Perhac – Build an Online Course to Increase Profits](http://theboomerbusinessowner.com/2015/04/tbbo-317-keith-perhac-build-online-course-increase-profits/)
+1. [CEO - Jacques Mattheij](https://jacquesmattheij.com/ceo)
+1. [Growing a Community for Digital Nomads to $33,000/mo](https://www.indiehackers.com/interview/growing-a-community-for-digital-nomads-to-33-000-mo-126df0fc5e)
+1. [How I Supported Myself Full Time by Building a WordPress Plugin](https://www.indiehackers.com/interview/how-i-supported-myself-full-time-by-building-a-wordpress-plugin-c0ff60a5ca)
+1. [How Charging Money for Pro Features Allowed Me Quit My Job](https://www.indiehackers.com/interview/how-charging-money-for-pro-features-allowed-me-quit-my-job-6e71309457)
+1. [How to Create a Million-Dollar Business This Weekend (Examples: AppSumo, Mint, Chihuahuas)](https://tim.blog/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas/)
+1. [Creating an AI-Powered Logo Creator and Earning $70k/mo](https://www.indiehackers.com/interview/creating-an-ai-powered-logo-creator-and-earning-70k-mo-4ebecd547f)
   
   
 Last-updated: {{ page.update_date | date: site.date_format }}
