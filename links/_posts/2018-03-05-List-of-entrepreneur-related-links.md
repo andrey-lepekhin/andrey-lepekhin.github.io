@@ -3,11 +3,11 @@ layout: post
 title: 'List of entrepreneur-related links'
 categories: links
 tags: entrepreneurship goal
-update_date: 2018-05-22
+update_date: 2018-06-04
 ---
 
 From time to time I pocket articles that seem like they would help me when I'll start working toward my own business.  
-As I see it now, that time wouldn't come in 2018, so I'll make a handy stash of these articles here (and empty out my pocket).
+As I see it now, that time wouldn't come in 2018, so I'll make a handy stash of these articles here (and [empty out my pocket]({% post_url links/2018-05-12-Six-steps-to-a-daily-writing-habit %})).
 
 
 When I come reading, I'll mark them off the list and maybe even leave comments about their utility.  
@@ -129,6 +129,17 @@ Also, when I come, I will have to think of something that will prevent paralysis
 1. [How Charging Money for Pro Features Allowed Me Quit My Job](https://www.indiehackers.com/interview/how-charging-money-for-pro-features-allowed-me-quit-my-job-6e71309457)
 1. [How to Create a Million-Dollar Business This Weekend (Examples: AppSumo, Mint, Chihuahuas)](https://tim.blog/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas/)
 1. [Creating an AI-Powered Logo Creator and Earning $70k/mo](https://www.indiehackers.com/interview/creating-an-ai-powered-logo-creator-and-earning-70k-mo-4ebecd547f)
+1. [Thread by @naval: How to Get Rich (without getting lucky)](https://threadreaderapp.com/thread/1002103360646823936.html)
+1. [Ramit Sethi and Patrick McKenzie On Why Your Customers Would Be Happier If You Charged More](http://www.kalzumeus.com/2012/09/21/ramit-sethi-and-patrick-mckenzie-on-why-your-customers-would-be-happier-if-you-charged-more/)
+1. [Ramit Sethi and Patrick McKenzie on Getting Your First Consulting Client](http://www.kalzumeus.com/2012/09/17/ramit-sethi-and-patrick-mckenzie-on-getting-your-first-consulting-client/)
+1. [16 Startup Metrics](https://a16z.com/2015/08/21/16-metrics/)
+1. [The Post-YC Slump](http://blog.samaltman.com/the-post-yc-slump)
+1. [Why Successful People Focus on the Bottom End of the Funnel](http://www.bothsidesofthetable.com/2015/06/19/why-successful-people-focus-on-the-bottom-end-of-the-funnel/)
+1. [The Next Feature Fallacy: The fallacy that the next new feature will suddenly make people use your product](http://andrewchen.co/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/)
+1. [42 Pricing Tricks Based on Psychology & Neuroscience](https://www.nickkolenda.com/psychological-pricing-strategies/)
+1. [Working Remotely From A Tropical Island in Thailand](http://blog.mobilejazz.com/working-remotely-from-a-tropical-island-in-thailand/)
+1. [The Complete Guide To Finding And Selling Ecommerce Clients](https://doubleyourfreelancing.com/guide-to-selling-ecommerce-clients/)
+1. [Effective entrepreneurship: The not to-do list](http://blog.close.io/not-to-do-list)
   
   
 Last-updated: {{ page.update_date | date: site.date_format }}
