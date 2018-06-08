@@ -3,7 +3,7 @@ layout: post
 title: 'List of entrepreneur-related links'
 categories: links
 tags: entrepreneurship goal
-update_date: 2018-06-04
+update_date: 2018-06-08
 ---
 
 From time to time I pocket articles that seem like they would help me when I'll start working toward my own business.  
@@ -140,6 +140,22 @@ Also, when I come, I will have to think of something that will prevent paralysis
 1. [Working Remotely From A Tropical Island in Thailand](http://blog.mobilejazz.com/working-remotely-from-a-tropical-island-in-thailand/)
 1. [The Complete Guide To Finding And Selling Ecommerce Clients](https://doubleyourfreelancing.com/guide-to-selling-ecommerce-clients/)
 1. [Effective entrepreneurship: The not to-do list](http://blog.close.io/not-to-do-list)
+1. [How to Build a Million-Dollar, One-Person Business – Case Studies From The 4-Hour Workweek](https://tim.blog/2017/12/30/how-to-build-a-million-dollar-one-person-business/)
+1. [The Epic Guide to Bootstrapping a SaaS Startup from Scratch — By Yourself (Part 1)](https://medium.com/@cliffordoravec/the-epic-guide-to-bootstrapping-a-saas-startup-from-scratch-by-yourself-part-1-4d834e1df8c1)
+1. [YC's Summer Reading](http://www.themacro.com/articles/2016/07/yc-summer-reading/)
+1. [Permission to Fail](https://keen.io/blog/135255657976/permission-to-fail)
+1. [Understanding Accounting Basics (ALOE and Balance Sheets)](https://betterexplained.com/articles/understand-accounting-basics-aloe-and-balance-sheets/)
+1. [Understanding Debt, Risk and Leverage](https://betterexplained.com/articles/understanding-debt-risk-and-leverage/)
+1. [Launching a product,](https://medium.com/@benediktdeicke/launching-a-product-in-just-3652-days-4d4e74e2dcd5)
+1. [We Started on a Couch: A Story of Growth from the Road Less Traveled](http://lawrencehester.com/post/126668871331/fareharbor-bootstrap-success)
+1. [E-Commerce KPI Study: There's (Finally) a Benchmark for That](https://moz.com/blog/ecommerce-kpi-benchmark-study)
+1. [Annual Report (2014)](http://productizedconsulting.net/annual-report-2014/)
+1. [Ask HN: How do you stay motivated to work on side projects?](https://news.ycombinator.com/item?id=8800788)
+1. [[47] Business Models for Bootstrappers](http://bootstrappedweb.com/business-models-bootstrappers/)
+1. [Ask HN: How much recurring income do you generate and from what?](https://news.ycombinator.com/item?id=8629919)
+1. [The Business of Freelancing, Episode 20: Scott Yewell On His First $100k+ Project](https://doubleyourfreelancing.com/100kprojects/)
+1. [Episode 208 \| How To Productize Your Service with Brian Casel](http://www.startupsfortherestofus.com/episodes/episode-208-how-to-productize-your-service-with-brian-casel)
+1. [Making Software is Easy w/ Patrick McKenzie](http://hacktheentrepreneur.com/making-software-is-easy-patrick-mckenzie/)
   
   
 Last-updated: {{ page.update_date | date: site.date_format }}
