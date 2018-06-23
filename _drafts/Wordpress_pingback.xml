@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<methodCall>
+<methodName>pingback.ping</methodName>
+<params>
+ <param>
+  <value>
+   <string>https://www.lepekhin.com/2018/03/09/Why-dont-we-try-really-doing-things</string>
+  </value>
+ </param>
+ <param>
+  <value>
+   <string>https://thezvi.wordpress.com/2017/12/02/more-dakka/</string>
+  </value>
+ </param>
+</params>
+</methodCall>
