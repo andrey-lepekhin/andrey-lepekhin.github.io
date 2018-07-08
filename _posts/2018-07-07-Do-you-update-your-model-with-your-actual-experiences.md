@@ -2,7 +2,7 @@
 layout: post
 title: 'Do you update your model with your actual experiences?'
 categories: blog
-tags: psychology goal
+tags: happiness goal
 summary: 'I do a lot to control my internal state, but I was too dependent on <i>ideas</i> of what happiness <i>should be</i> and was ignoring what I really felt in the process.'
 ---
 
@@ -15,27 +15,27 @@ I do a lot to control my internal state
 * Rigorous work-life balance ✔
 * Therapy, friends, commitment devices, etc. ✔ 
 
-Doing all this does indeed provide me with a higher baseline happiness[^1]. Still, I’ve managed to fool myself into treating all living-in-the-moment advise[^2] as a ‘list of goals that will bring happiness when completed’. I was too dependent on _ideas_ of what happiness _should be_ and was ignoring what I really felt in the process.  
-
+Doing all this does indeed provide me with a higher baseline happiness[^1]. Still, I’ve managed to fool myself into treating all living-in-the-moment advise[^2] as ‘a list of goals that undoubtedly **will** bring happiness when completed’.  I was too dependent on _ideas_ of what happiness _should be_ and was ignoring what I really felt in the process.  
 
 
 There are times when, even after meticulous completion of todo-list items, I feel down for some reason. Maybe I wanted to accomplish more, maybe someone was a dick to me, maybe I was a dick to someone, maybe it's just a mysterious hormone fluctuation.  
 Sometimes, all it takes to bring my mood up are compassion and _a permission_ to feel bad.  
 
 
-There are also times 	when I did a lot of prep work, read articles by bestselling authors and listened to podcasts, made a model of myself and a plan how to improve my life; discussed and validated this plan with other people. But when I start executing, it feels like a grind and leaves me unmotivated.  
+There are also times when I did a lot of prep work, read articles by bestselling authors and listened to podcasts, made a model of myself and a plan how to improve my life; discussed and validated this plan with other people. But when I start executing, it feels like a grind and leaves me unmotivated.  
 
 At that point, I usually concluded that my plan is flawed and I need to improve it. Or I'm not following the plan well enough bacuse I'm a lazy asshole and I need to figure out how to motivate me first.
 
 
 Recent therapy helped me to get out of my bubble a little and understand that 
-I didn't give enough credit to the direct experience and my actual (vs. best guess) feelings. It's like I was learning to ride a bicycle only by reading a guide.
+**I didn't give enough credit to the direct experience** and my actual (vs. best guess) feelings. It's like I was learning to ride a bicycle only by reading some physics textbooks.
 
 If you're like me, the overanalysing type, it can take a while to understand. This doesn't mean that planning and analysis are unnecessary, I will still do them. But I will err on the side of (validation through) action.
 
 
 I can formulate the main thought as **update your model with your actual experience; plan for raw experience inputs and corrections early and throughout the plan**.
-
+<br><br><br><br>  
+  
 
 I'm applying this newly learned principle for my hobbies/vocations search: I'm searching for things to do besides my day job, and start with no idea of what I could be doing.
 
