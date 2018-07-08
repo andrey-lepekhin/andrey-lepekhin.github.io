@@ -24,6 +24,11 @@ a:active {
   text-shadow: white 1px 0px 0px, white -1px 0px 0px;
 }
 
+a:visited {
+  color: $link-visited-color;
+  /*background-image doesn't work on :visited so unglines ensues*/
+}
+
 // Correct issues with buttons
 button,
 .button {

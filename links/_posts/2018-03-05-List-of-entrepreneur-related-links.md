@@ -3,7 +3,7 @@ layout: post
 title: 'List of entrepreneur-related links'
 categories: links
 tags: entrepreneurship goal
-update_date: 2018-06-08
+update_date: 2018-07-08
 ---
 
 From time to time I pocket articles that seem like they would help me when I'll start working toward my own business.  
@@ -156,6 +156,11 @@ Also, when I come, I will have to think of something that will prevent paralysis
 1. [The Business of Freelancing, Episode 20: Scott Yewell On His First $100k+ Project](https://doubleyourfreelancing.com/100kprojects/)
 1. [Episode 208 \| How To Productize Your Service with Brian Casel](http://www.startupsfortherestofus.com/episodes/episode-208-how-to-productize-your-service-with-brian-casel)
 1. [Making Software is Easy w/ Patrick McKenzie](http://hacktheentrepreneur.com/making-software-is-easy-patrick-mckenzie/)
+1. [How do you create a product people want to buy?](https://stackingthebricks.com/how-do-you-create-a-product-people-want-to-buy/)
+1. [Kalzumeus Software Year in Review 2014](http://www.kalzumeus.com/2014/12/22/kalzumeus-software-year-in-review-2014/)
+1. [How Not to Die](http://www.paulgraham.com/die.html)
+1. [The Growth Handbook by Intercom](https://www.intercom.com/books/growth-handbook)
+1. [Founder to CEO - How to build a great company from the ground up](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit#heading=h.u92txq7xuirk)
   
   
 Last-updated: {{ page.update_date | date: site.date_format }}
