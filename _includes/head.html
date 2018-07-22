@@ -63,7 +63,12 @@
       <meta name="msvalidate.01" content="{{ site.bing_verification }}" />
     {% endif %}
 
-    {% seo %}
+    {% if page.url == '/index.html' %}
+        <title>{% if page.title %}{{ page.title | strip_html }}{% endif %}</title>
+        {% seo title=false %}
+    {% else %}
+        {% seo %}
+    {% endif %}   
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary" />

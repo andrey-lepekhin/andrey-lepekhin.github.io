@@ -3,12 +3,12 @@ layout: post
 title: 'Living in the now'
 categories: blog
 tags: goal happiness
-excerpt: 'Focus on the process, not just the goals; live in the day-to-day and enjoy it — I did not internalize theses concepts until recently. <br>
+excerpt: 'Focus on the process, not just the goals; live in the day-to-day and enjoy it — I did not internalize these concepts until recently. <br>
 Some other common ideas (e.g. “silence is golden”) were well understood by me during adolescence, but the “live in the now, it’s all you’ve got” mantra was as elusive as it is ubiquitous. <br>  
 Here are the quotes from two great articles that clarify this topic.'
 ---
 
-Focus on the process, not just the goals; live in the day-to-day and enjoy it — I did not internalize theses concepts until recently.  
+Focus on the process, not just the goals; live in the day-to-day and enjoy it — I did not internalize these concepts until recently.  
 Some other common ideas (e.g. “silence is golden”) were well understood by me during adolescence, but the “live in the now, it’s all you’ve got” mantra was as elusive as it is ubiquitous[^1].  
 Here are the quotes from two great articles that clarify this topic.
 

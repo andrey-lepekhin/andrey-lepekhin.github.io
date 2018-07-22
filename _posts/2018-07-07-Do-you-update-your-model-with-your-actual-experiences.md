@@ -22,9 +22,9 @@ There are times when, even after meticulous completion of todo-list items, I fee
 Sometimes, all it takes to bring my mood up are compassion and _a permission_ to feel bad.  
 
 
-There are also times when I did a lot of prep work, read articles by bestselling authors and listened to podcasts, made a model of myself and a plan how to improve my life; discussed and validated this plan with other people. But when I start executing, it feels like a grind and leaves me unmotivated.  
+There are also times when I did a lot of prep work, read articles by bestselling authors and listened to podcasts, made a model of myself and a plan how to improve my life; discussed and validated this plan with other people. But when I start executing, it feels like a grind, leaves me unmotivated with not much to show for my effort.  
 
-At that point, I usually concluded that my plan is flawed and I need to improve it. Or I'm not following the plan well enough bacuse I'm a lazy asshole and I need to figure out how to motivate me first.
+At that point, I usually concluded that my plan is flawed and I need to improve it. Or I'm not following the plan well enough because I'm a lazy asshole and I need to figure out how to motivate me first.
 
 
 Recent therapy helped me to get out of my bubble a little and understand that 
@@ -42,7 +42,7 @@ I'm applying this newly learned principle for my hobbies/vocations search: I'm s
 **Before**: elaborate planning, with weighted criteria list based on my best approximation of what I like; using said list as a scoring method for a vast list of hobbies[^2].  
 **After**: same plan scaffolding but the criteria list and their weights come from a direct experience of doing stuff. 
 
-If you're familiar with software methodologies, I see this idea as applying the lean concept. It's like interating on an MVP instead of waiting for the waterfall to end.
+If you're familiar with software methodologies, I see this idea as applying the lean concept. It's like iterating on an MVP instead of waiting for the waterfall to end.
 
     
 This is all still very new, but it feels uncomfortable and right – the best kind of feeling, meaning I'm broadening my comfort zone. Anyway, I'll see where this particular rabbit hole goes and will change the course if I don't like it.
