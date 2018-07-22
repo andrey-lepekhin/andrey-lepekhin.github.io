@@ -30,5 +30,5 @@ Andrey @ this domain
 ### Links
 
 * [LinkedIn](https://www.linkedin.com/in/{{site.footer-links.linkedin}})
-* (Outdated) [Last.fm profile](http://www.last.fm/user/la_bizzz/)
+* [Last.fm profile](http://www.last.fm/user/la_bizzz/)
 * [RSS]({{ "/feed.xml" | prepend: site.baseurl }})
