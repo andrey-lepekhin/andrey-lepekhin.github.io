@@ -11,7 +11,10 @@ The idea is from this article: [How to start on the most important thing every d
 
 > I want to emphasize that this is the most valuable habit I have, by a large margin (and I’ve got some good ones!). Therefore if you’re reading this, I think that it’s at least worth _trying_ to create a similar system in your own life.
 
-I second Malcolm here, go read the article, I’ll wait.
+I second Malcolm here, go read the article, I’ll wait.  
+
+It is the new norm now, but you wouldn't _believe_ how big this change was for me at the time. The difference was night and day, I wouldn't stop telling my friends about it! If you're sold, read on for details.
+
 
 ## My impelentation
 
@@ -21,9 +24,10 @@ I second Malcolm here, go read the article, I’ll wait.
 **Morning**, immediately after waking up[^1]
 * At least one pomodoro doing the most important task  
 
-Before breaking for any less productive activities like eating, reddit or email checking:
+Before breaking for any less productive activities like eating, Reddit or email checking:
 * Dance to at least one track[^2], immediately followed by
 * Meditate for at least 10 minutes
+
 
 
 
