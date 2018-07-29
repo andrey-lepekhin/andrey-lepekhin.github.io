@@ -5,13 +5,13 @@ categories: blog
 tags: goal
 ---
 
-I'm amazed that I've only learned about this in my thirties. I've started seeing a new subcurrent of information that is communicated wordlessly (like body language). Now it is so much more interesting to pay attention to and participate in this dance. What are they signaling? Did the interlocutor notice your move? 
+I'm amazed that I've only learned about this in my thirties. I've started seeing a new subcurrent of information that is communicated wordlessly (like body language). Now, it is so much more interesting to pay attention to and participate in this dance. What are they signaling? Did the interlocutor notice your move? 
 
 [How to Make Eye Contact the Right Way in Life, Business, and Love](https://www.artofmanliness.com/articles/look-em-in-the-eye-part-ii-how-to-make-eye-contact-the-right-way-in-life-business-and-love/) by Brett & Kate McKay.
 
 For some time, I've been mindful about my own eye contact during various forms of communication. But I never did the next step — treat and interpret the variety of possible eye contacts as the signals they are. We're hardwired to interpret eye contact as a signal to answer questions like are you interested or not, are you submissive or dominant, are you trustworthy?
 
-For example, in some contexts, I just took notice that "it's uncomfortable to hold that gaze" and concluded "I'll look at the table instead". After reading this article, I started making the next step of assessing the situation "...which could be interpreted as me signaling lower status". After that I can choose whether that is something I want to happen right now.
+For example, in some contexts, I just took notice that "it's uncomfortable to hold that gaze" and concluded "I'll look at the table instead". After reading this article, I started making the next step of assessing the situation: "...which could be interpreted as me signaling lower status". After that I can choose whether that is something I want to happen right now.
 
 Having predetermined etiquette for expressing interest in the opposite sex is also very handy. In the past, after meeting a woman's gaze several times I usually started thinking "Does it mean anything, or is it a coincidence? Should I go say hi now or wait a couple of minutes to be sure?". The article conveniently answers these questions and more.
 
