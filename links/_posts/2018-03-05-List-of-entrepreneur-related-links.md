@@ -3,7 +3,7 @@ layout: post
 title: 'List of entrepreneur-related links'
 categories: links
 tags: entrepreneurship goal
-update_date: 2018-07-08
+update_date: 2018-12-08
 ---
 
 From time to time I pocket articles that seem like they would help me when I'll start working toward my own business.  
@@ -62,7 +62,7 @@ Also, when I come, I will have to think of something that will prevent paralysis
 1.   [http://www.getgrowth.com/blog/jesse-mecham-ynabs-story-growth/](http://www.getgrowth.com/blog/jesse-mecham-ynabs-story-growth/)
 1.   [http://pacehq.com/blog/why-im-starting-pace/](http://pacehq.com/blog/why-im-starting-pace/)
 1.   [https://news.ycombinator.com/item?id=8004272](https://news.ycombinator.com/item?id=8004272)
-1.   [“Aha Moments” from the 2014 BaconBiz Conference You Can Implement Today \| S](http://summitevergreen.com/aha-moments-2014-baconbiz/)
+1.   [“Aha Moments” from the 2014 BaconBiz Conference You Can Implement Today \| S](https://web.archive.org/web/20140728184853/http://summitevergreen.com/aha-moments-2014-baconbiz/)
 1.   [http://m.habrahabr.ru/company/witget/blog/230247/](http://m.habrahabr.ru/company/witget/blog/230247/)
 1.   [http://goodui.org/](http://goodui.org/)
 1.   **[http://unicornfree.com/2014/dont-fave-this-post-how-to-really-launch-in-201](http://unicornfree.com/2014/dont-fave-this-post-how-to-really-launch-in-2014)**
@@ -97,7 +97,7 @@ Also, when I come, I will have to think of something that will prevent paralysis
 1.   [tptacek on how to run a consultancy (rise your rates!)](https://news.ycombinator.com/item?id=4247615)
 1.   "“Working harder” is a poor strategy which your competitors can trivially replicate. Instead, spend some time measuring what tasks add value to your business and at what imputed wages. Outsource those tasks which are below your desired imputed wage, automate any task where appropriate, and simply don’t do things which don’t add value."[patio11 on Working smarter, not harder](https://www.kalzumeus.com/2009/10/04/work-smarter-not-harder/)
 1.   [Double Your Freelancing Rate - Book](https://doubleyourfreelancing.com/)
-1.   [Checklist for Picking the Best SaaS Idea - Happy Bootstrapper](http://www.happybootstrapper.com/saas-idea-evaluation-checklist/)
+1.   [Checklist for Picking the Best SaaS Idea - Happy Bootstrapper](https://web.archive.org/web/20170530020758/http://www.turbineroom.com/saas-idea-evaluation-checklist/)
 1.   [24 Blogs that Bootstrappers Won’t Want to Miss](https://ryanbattles.com/post/blogs-for-bootstrappers)
 1.   [Most Popular Posts on Fizzle (site about running your business)](https://fizzle.co/popular-posts)
 1.   [Running A Software Business On 5 Hours A Week - patio11](https://www.kalzumeus.com/2010/03/20/running-a-software-business-on-5-hours-a-week/)
@@ -161,7 +161,20 @@ Also, when I come, I will have to think of something that will prevent paralysis
 1. [How Not to Die](http://www.paulgraham.com/die.html)
 1. [The Growth Handbook by Intercom](https://www.intercom.com/books/growth-handbook)
 1. [Founder to CEO - How to build a great company from the ground up](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit#heading=h.u92txq7xuirk)
-  
+1. [Tim Ferriss Drunk dialling](https://tim.blog/2018/03/29/discipline-sex-psychedelics-and-more-the-return-of-drunk-dialing/) starting from 30 minute, on how to choose what to do (something you yourself will pay for)
+1. [All Things Sales! 16 Mini-Lessons for Startup Founders](https://a16z.com/2018/09/02/sales-startups-technical-founders/)
+1. [Things they don't teach you running a business by yourself](https://docs.browserless.io/blog/2018/08/01/running-an-indie-business.html)
+1. [#30DayStartup](https://www.newco.app/30daystartup)
+1. [Emergent Ventures Fellowship Application](https://www.tfaforms.com/4697544)
+1. [Ask HN: How to come up with monetizable side project ideas?](https://news.ycombinator.com/item?id=18047553)
+1. [Growing Our SaaS Company To $1M+ ARR: 7 People, 3 Years, No VC Money. Key Lessons Learned](https://medium.com/everhour/growing-our-saas-company-to-1m-arr-7-people-3-years-no-vc-money-key-lessons-learned-2d53766507d2)
+1. [How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5/mo](https://blog.inkdrop.info/how-ive-attracted-the-first-500-paid-users-for-my-saas-that-costs-5-mo-7a5b94b8e820)
+1. [Three Sales Mistakes Software Engineers Make](https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make)
+1. [интервью Ильи Красинского Диме Думику про свой фреймворк погружения в новый продукт, масштабирование, как предпринимателю справляться с трудностями и как генерить идеи](https://t.me/newgameplusco/93)
+1. [The Best SaaS Landing page examples I’ve seen (+ their secrets for conversion)](https://www.cortes.design/post/best-saas-landing-page-examples-inspiration)
+1. [Ask HN: What are some hacks of real founders who did things that don't scale?](https://news.ycombinator.com/item?id=18400020)
+
+
   
 Last-updated: {{ page.update_date | date: site.date_format }}
  

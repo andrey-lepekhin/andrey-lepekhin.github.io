@@ -14,7 +14,7 @@ I seek, test and implement systems that help me reach my goals: be it accountabi
 
 
 I'm fascinated by information technology and I work as a product & project manager in the field.  
-I read a lot of fiction (any _HPMOR_ or _Worm_ fans out here?).
+I read a lot of fiction (any _HPMOR_ or _Worm_ fans out here?), as well as rationalist blogs and about IT in general (Hacker news).
 
 I _love_ dancing to popular music (like [_Hurts - Ready to Go_](https://www.youtube.com/watch?v=PP2G3dm_fsc&t=37)) and I do indulge myself daily.  
 

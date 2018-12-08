@@ -13,7 +13,7 @@ The idea is from this article: [How to start on the most important thing every d
 
 I second Malcolm here, go read the article, I’ll wait.  
 
-It is the new norm now, but you wouldn't _believe_ how big this change was for me at the time. The difference was night and day, I wouldn't stop telling my friends about it! If you're sold, read on for details.
+It is the new norm now, but you wouldn't _believe_ how big this change was for me at the time. The difference was night and day, I wouldn't stop telling my friends about it! Ok, if you're sold, read on for details.
 
 
 ## My impelentation
@@ -40,7 +40,7 @@ I started to plan the next morning before going to bed, but as I was very sleepy
 e.g. one time I was looking for a flat to rent and that was my main task for some weeks. Problem is, browsing listings, looking at a lot of pictures, is similar to my relaxation habit of browsing Reddit. After I finished looking through new listings, I noticed that it is super easy to slip into Reddit. I started scheduling my flat search later in the day.
 
 ### Planning my day as the first task
-After initial success, I drifted toward “plan my whole day and _then_ start that important task”. Didn’t work so well. While planning a day, I usually encountered a small task: “Aha, easy 3-minute win! GTD prepared me for this! I just have to start this Slack conversation to update this status”. Then inevitably I’m replaying to other messages, it’s 15 minutes later and the productive mood is gone. **Ok, it’s Slack rant time!** If you want, you can stop reading now, there is no more content below.
+After initial success, I drifted toward “plan my whole day and _then_ start that important task”. Didn’t work so well. While planning a day, I usually encountered a small task: “Aha, easy 3-minute win! GTD prepared me for this! I just have to start this Slack conversation to update this status”. Then inevitably I’m replaying to other messages, it’s 15 minutes later and the productive mood is gone. **Ok, it’s Slack rant time!** (I wanted to move it to another post, but, well, it _is_ productivity related) If you want, you can stop reading now, this is the last part of the post.
 
 -----
 
@@ -61,7 +61,7 @@ Not plunging into this infinite pseudo-productive sea of quick-fixes is somethin
 * I _try_ to answer slack messages in bulk at scheduled unproductive times of the day.
 * I start working at home, with no distractions, no phone, no Slack, no email. 
 * There is one thing that really helps me with slackrastination (that is a word now), or any procrastination for that matter: instead of automatically changing what you do, you make the process as conscious as possible. For me the good example are weeks when I track my time. Each time I change what I do, I write the new activity down and start corresponding activity timer[^4]. When I am in a state of flow and start writing “Slack” to change timers, I usually catch myself and go back to doing the important stuff.
-* My work wallpaper <img src="{{ "/images/turnoffSlack.png" | absolute_url }}" alt="White canvas with words: &quot;Close Slack &amp; Gmail. Do what's important. Heart emoji&quot;" style="border: black 0.1em;border-style: dashed;">
+* My wallpaper at work <img src="{{ "/images/turnoffSlack.png" | absolute_url }}" alt="White canvas with words: &quot;Close Slack &amp; Gmail. Do what's important. Heart emoji&quot;" style="border: black 0.1em;border-style: dashed;">
 </rant>
 
 -----
