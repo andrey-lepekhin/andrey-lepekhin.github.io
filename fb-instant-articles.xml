@@ -29,8 +29,134 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
     
         
             <item>
+                <title></title>
+                <link>https://www.lepekhin.com/2018/09/16/</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>Перевод на русский ниже
+I’ve been interested in effective altruism ideas as of late. This article has been recommended to me by <a href="https://berekuk.ru">Slava</a> as a way to understand the philosophy better. It was hard for me to understand, so I decided to translate it</p>
+
+<hr />
+
+<p>#</p>
+
+<section class="post-content">
+            <p>Once upon a time, a group of naïve philosophers found a robot that collected trinkets. Well, more specifically, the robot seemed to collect stamps: if you presented this robot with a choice between various trinkets, it would always choose the option that led towards it having as many stamps as possible in its inventory. It ignored dice, bottle caps, aluminum cans, sticks, twigs, and so on, except insofar as it predicted they could be traded for stamps in the next turn or two. So, of course, the philosophers started calling it the "stamp collector."</p>
+
+<p>Then, one day, the philosophers discovered computers, and deduced out that the robot was merely a software program running on a processor inside the robot's head. The program was too complicated for them to understand, but they did manage to deduce that the robot only had a few sensors (on its eyes and inside its inventory) that it was using to model the world.</p>
+
+<p>One of the philosophers grew confused, and said, "Hey wait a sec, this thing can't be a stamp collector after all. If the robot is only building a model of the world in its head, then it can't be optimizing for its real inventory, because it has no access to its real inventory. It can only ever act according to a model of the world that it reconstructs inside its head!"</p>
+
+<p>"Ah, yes, I see," another philosopher answered. "We did it a disservice by naming it a stamp collector. The robot does not have true access to the world, obviously, as it is only seeing the world through sensors and building a model in its head. Therefore, it must not <em>actually</em> be maximizing the number of stamps in its inventory. That would be impossible, because its inventory is outside of its head. Rather, it must be maximizing its <em>internal stamp counter</em> inside its head."</p>
+
+<p>So the naïve philosophers nodded, pleased with this, and then they stopped wondering how the stamp collector worked.</p>
+
+<hr />
+
+<p>There are a number of flaws in this reasoning. First of all, these naïve philosophers have made the homunculus error. The robot's program may not have "true access" to how many stamps were in its inventory (whatever that means), but it <em>also</em> didn't have "true access" to it's internal stamp counter.</p>
+
+<p>The robot is not occupied by some homunculus that has dominion over the innards but not the outards! The abstract program doesn't have "true" access to the register holding the stamp counter and "fake" access to the inventory. Steering reality towards regions where the inventory has lots of stamps in it is the <em>same sort of thing</em> as steering reality towards regions where the stamp-counter-register has high-number-patterns in it. There's not a magic circle containing the memory but not the inventory, within which the robot's homunculus has dominion; the robot program has just as little access to the "true hardware" as it has to the "true stamps."</p>
+
+<p>This brings us to the second flaw in their reasoning reasoning, that of trying to explain choice with a choice-thing. You can't explain why a wall is red by saying "because it's made of tiny red atoms;" this is not an <em>explanation</em> of red-ness. In order to explain red-ness, you must explain it in terms of non-red things. And yet, humans have a bad habit of explaining confusing things in terms of themselves. Why does living flesh respond to mental commands, while dead flesh doesn't? Why, because the living flesh contains <a href="http://en.wikipedia.org/wiki/Élan_vital">Élan Vital</a>. Our naïve philosophers have made the same mistake: they said, "How can it possibly choose outcomes in which the inventory has more stamps? Aha! It must be by choosing outcomes in which the stamp counter is higher!," and in doing so, they have explained choice in terms of choice, rather than in terms of something more basic.</p>
+
+<p>It is <em>not an explanation</em> to say "it's trying to get stamps into its inventory because it's trying to maximize its stamp-counter." An explanation would look more like this: the robot's computer runs a program which uses sense-data to build a model of the world. That model of the world contains a representation of how many stapms are in the inventory. The program then iterates over some set of available actions, predicts how many stamps would be in the inventory (according to the model) if it took that action, and outputs the action which leads to the most predicted stamps in its possession.</p>
+
+<p>We could <em>also</em> postulate that the robot contains a program which models the world, predicts how the world would change for each action, and <em>then</em> predicts how <em>that</em> outcome would affect some specific place in internal memory, and <em>then</em> selects the action which maximizes the internal counter. That's possible! You could build a machine like that! It's a strictly more complicated hypothesis, and so it gets a complexity penalty, but at least it's an explanation!</p>
+
+<p>And, fortunately for us, it's a <em>testable</em> explanation: we can check what the robot does, when faced with the opportunity to directly increase the stamp-counter-register (without actually increasing how many stamps it has). Let's see how that goes over among our naïve philosophers…</p>
+
+<hr />
+
+<blockquote>
+  <p>Hey, check it out: I identified the stamp counter inside the robot's memory. I can't read it, but I did find a way to increase its value. So I gave the robot the following options: take one stamp, or take zero stamps and I'll increase the stamp counter by ten. Guess which one it took?</p>
+</blockquote>
+
+<p>"Well, of course, it would choose the latter!" one of the naïve philosophers answers immediately.</p>
+
+<blockquote>
+  <p>Nope! It took the former.</p>
+</blockquote>
+
+<p>"… Huh! That means that the stampyness of <em>refusing</em> to have the stamp counter tampered with must worth be more than 10 stamps!"</p>
+
+<blockquote>
+  <p>Huh? What is "stampyness"?</p>
+</blockquote>
+
+<p>"Why, stampyness is the robot's internal measure of how much <em>taking a certain action</em> would increase its stamp counter."</p>
+
+<blockquote>
+  <p>What? That's ridiculous. I'm pretty sure it's just collecting stamps.</p>
+</blockquote>
+
+<p>"Impossible! The program doesn't have access to how many stamps it really has; that's a property of the outer world. The robot <em>must</em> be optimizing according to values that are actually in its head."</p>
+
+<blockquote>
+  <p>Here, let's try offering it the following options: either I'll give it one stamp, or I'll increase its stamp counter by Ackermann(g<sub>64</sub>, g<sub>64</sub>) — oh look, it took the stamp."</p>
+</blockquote>
+
+<p>"Wow! That was a very big number, so that almost surely mean that the stampyness of refusing is dependent upon how much stampyness it's refusing! It must be very happy, because you just gave it a <em>lot</em> of stampyness by giving it such a compelling offer to refuse."</p>
+
+<blockquote>
+  <p>Oh, here, look, I just figured out a way to set the stamp counter to maximum. Here, I'll try offering it a choice between either (a) one stamp, or (b) I'll set the stamp counter to maxi — oh look, it already took the stamp.</p>
+</blockquote>
+
+<p>"Incredible! That must there must be some other counter measuring <em>micro</em>-stampyness, the amount of stampiness it gets <em>immediately</em> upon selecting an action, before you have a chance to modify it! Ah, yes, that's the only possible explanation for why it would refuse you setting the stamp counter to maximum, it <em>must</em> be choosing according to the perceived immediate micro-stampyness of each available action! Nice job doing science, my dear fellow, we have learned a lot today!"</p>
+
+<hr />
+
+<p>Ahh! No! Let's be very clear about this: the robot is predicting which <em>outcomes</em> would follow from which actions, and it's ranking them, and it's taking the actions that lead to the best outcomes. <a href="http://lesswrong.com/lw/l4/terminal_values_and_instrumental_values/">Actions are rated according to <em>what they achieve</em>. Actions do not <em>themselves</em> have intrinsic worth!</a></p>
+
+<p>Do you see where these naïve philosophers went confused? They have postulated an agent which treats <em>actions</em> like <em>ends</em>, and tries to steer towards whatever <em>action</em> it most prefers — as if actions were ends unto themselves.</p>
+
+<p>You can't explain why the agent takes an action by saying that it ranks actions according to whether or not taking them is good. That begs the question of which actions are good!</p>
+
+<p>This agent rates actions as "good" if they lead to outcomes where the agent has lots of stamps in its inventory. Actions are rated according to what they achieve; they do not themselves have intrinsic worth.</p>
+
+<p>The robot program doesn't contain reality, but it doesn't need to. It still gets to <em>affect</em> reality. If its model of the world is correlated with the world, and it takes actions that it predicts leads to more <em>actual</em> stamps, then it will tend to accumulate stamps.</p>
+
+<p>It's <em>not</em> trying to steer the future towards places where it happens to have selected the most micro-stampy actions; it's just steering the future towards worlds where it predicts it will actually have more stamps.</p>
+
+<hr />
+
+<p>Now, let me tell you my second story:</p>
+
+<p>Once upon a time, a group of naïve philosophers encountered a group of human beings. The humans seemed to keep selecting the actions that gave them pleasure. Sometimes they ate good food, sometimes they had sex, sometimes they made money to spend on pleasurable things later, but always (for the first few weeks) they took actions that led to pleasure.</p>
+
+<p>But then one day, one of the humans gave lots of money to a charity.</p>
+
+<p>"How can this be?" the philosophers asked, "Humans are pleasure-maximizers!" They thought for a few minutes, and then said, "Ah, it must be that their pleasure from giving the money to charity outweighed the pleasure they would have gotten from spending the money."</p>
+
+<p>Then a mother jumped in front of a car to save her child.</p>
+
+<p>The naïve philosophers were stunned, until suddenly one of their number said "I get it! The immediate micro-pleasure of <em>choosing that action</em> must have outweighed —</p>
+
+<hr />
+
+<p>People will tell you that humans always and only ever do what brings them pleasure. People will tell you that there is no such thing as altruism, that people only ever do what they want to.</p>
+
+<p>People will tell you that, because we're trapped inside our heads, we only ever get to care about things inside our heads, such as our own wants and desires.</p>
+
+<p>But I have a message for you: You can, in fact, care about the outer world.</p>
+
+<p>And you can steer it, too. If you want to.</p>
+        </section>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/09/16/</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Sun, 16 Sep 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
                 <title>Huge productivity gains</title>
-                <link>https://www.lepekhin.com/2018/07/29/Huge-productivity-gains</link>
+                <link>https://www.lepekhin.com/2018/07/29/Huge-productivity-gains-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F</link>
                 <content:encoded>
                     <![CDATA[
                     <p>This is how I got <strong>the biggest increase in productivity</strong> in the last 5 years.</p>
@@ -43,7 +169,7 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
 
 <p>I second Malcolm here, go read the article, I’ll wait.</p>
 
-<p>It is the new norm now, but you wouldn’t <em>believe</em> how big this change was for me at the time. The difference was night and day, I wouldn’t stop telling my friends about it! If you’re sold, read on for details.</p>
+<p>It is the new norm now, but you wouldn’t <em>believe</em> how big this change was for me at the time. The difference was night and day, I wouldn’t stop telling my friends about it! Ok, if you’re sold, read on for details.</p>
 
 <h2 id="my-impelentation">My impelentation</h2>
 
@@ -72,7 +198,7 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
 <p>e.g. one time I was looking for a flat to rent and that was my main task for some weeks. Problem is, browsing listings, looking at a lot of pictures, is similar to my relaxation habit of browsing Reddit. After I finished looking through new listings, I noticed that it is super easy to slip into Reddit. I started scheduling my flat search later in the day.</p>
 
 <h3 id="planning-my-day-as-the-first-task">Planning my day as the first task</h3>
-<p>After initial success, I drifted toward “plan my whole day and <em>then</em> start that important task”. Didn’t work so well. While planning a day, I usually encountered a small task: “Aha, easy 3-minute win! GTD prepared me for this! I just have to start this Slack conversation to update this status”. Then inevitably I’m replaying to other messages, it’s 15 minutes later and the productive mood is gone. <strong>Ok, it’s Slack rant time!</strong> If you want, you can stop reading now, there is no more content below.</p>
+<p>After initial success, I drifted toward “plan my whole day and <em>then</em> start that important task”. Didn’t work so well. While planning a day, I usually encountered a small task: “Aha, easy 3-minute win! GTD prepared me for this! I just have to start this Slack conversation to update this status”. Then inevitably I’m replaying to other messages, it’s 15 minutes later and the productive mood is gone. <strong>Ok, it’s Slack rant time!</strong> (I wanted to move it to another post, but, well, it <em>is</em> productivity related) If you want, you can stop reading now, this is the last part of the post.</p>
 
 <hr />
 
@@ -94,7 +220,7 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
   <li>I <em>try</em> to answer slack messages in bulk at scheduled unproductive times of the day.</li>
   <li>I start working at home, with no distractions, no phone, no Slack, no email.</li>
   <li>There is one thing that really helps me with slackrastination (that is a word now), or any procrastination for that matter: instead of automatically changing what you do, you make the process as conscious as possible. For me the good example are weeks when I track my time. Each time I change what I do, I write the new activity down and start corresponding activity timer<sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup>. When I am in a state of flow and start writing “Slack” to change timers, I usually catch myself and go back to doing the important stuff.</li>
-  <li>My work wallpaper <img src="https://www.lepekhin.com/images/turnoffSlack.png" alt="White canvas with words: &quot;Close Slack &amp; Gmail. Do what's important. Heart emoji&quot;" style="border: black 0.1em;border-style: dashed;" /></li>
+  <li>My wallpaper at work <img src="https://www.lepekhin.com/images/turnoffSlack.png" alt="White canvas with words: &quot;Close Slack &amp; Gmail. Do what's important. Heart emoji&quot;" style="border: black 0.1em;border-style: dashed;" /></li>
 </ul>
 <p>&lt;/rant&gt;</p>
 
@@ -119,7 +245,7 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
 
                     ]]>
                 </content:encoded>
-                <guid isPermaLink="false">/2018/07/29/Huge-productivity-gains</guid>
+                <guid isPermaLink="false">/2018/07/29/Huge-productivity-gains-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F</guid>
                 <description>
                     
                 </description>
@@ -1319,7 +1445,7 @@ Also, when I come, I will have to think of something that will prevent paralysis
   <li><a href="http://www.getgrowth.com/blog/jesse-mecham-ynabs-story-growth/">http://www.getgrowth.com/blog/jesse-mecham-ynabs-story-growth/</a></li>
   <li><a href="http://pacehq.com/blog/why-im-starting-pace/">http://pacehq.com/blog/why-im-starting-pace/</a></li>
   <li><a href="https://news.ycombinator.com/item?id=8004272">https://news.ycombinator.com/item?id=8004272</a></li>
-  <li><a href="http://summitevergreen.com/aha-moments-2014-baconbiz/">“Aha Moments” from the 2014 BaconBiz Conference You Can Implement Today | S</a></li>
+  <li><a href="https://web.archive.org/web/20140728184853/http://summitevergreen.com/aha-moments-2014-baconbiz/">“Aha Moments” from the 2014 BaconBiz Conference You Can Implement Today | S</a></li>
   <li><a href="http://m.habrahabr.ru/company/witget/blog/230247/">http://m.habrahabr.ru/company/witget/blog/230247/</a></li>
   <li><a href="http://goodui.org/">http://goodui.org/</a></li>
   <li><strong><a href="http://unicornfree.com/2014/dont-fave-this-post-how-to-really-launch-in-2014">http://unicornfree.com/2014/dont-fave-this-post-how-to-really-launch-in-201</a></strong></li>
@@ -1354,7 +1480,7 @@ Also, when I come, I will have to think of something that will prevent paralysis
   <li><a href="https://news.ycombinator.com/item?id=4247615">tptacek on how to run a consultancy (rise your rates!)</a></li>
   <li>““Working harder” is a poor strategy which your competitors can trivially replicate. Instead, spend some time measuring what tasks add value to your business and at what imputed wages. Outsource those tasks which are below your desired imputed wage, automate any task where appropriate, and simply don’t do things which don’t add value.”<a href="https://www.kalzumeus.com/2009/10/04/work-smarter-not-harder/">patio11 on Working smarter, not harder</a></li>
   <li><a href="https://doubleyourfreelancing.com/">Double Your Freelancing Rate - Book</a></li>
-  <li><a href="http://www.happybootstrapper.com/saas-idea-evaluation-checklist/">Checklist for Picking the Best SaaS Idea - Happy Bootstrapper</a></li>
+  <li><a href="https://web.archive.org/web/20170530020758/http://www.turbineroom.com/saas-idea-evaluation-checklist/">Checklist for Picking the Best SaaS Idea - Happy Bootstrapper</a></li>
   <li><a href="https://ryanbattles.com/post/blogs-for-bootstrappers">24 Blogs that Bootstrappers Won’t Want to Miss</a></li>
   <li><a href="https://fizzle.co/popular-posts">Most Popular Posts on Fizzle (site about running your business)</a></li>
   <li><a href="https://www.kalzumeus.com/2010/03/20/running-a-software-business-on-5-hours-a-week/">Running A Software Business On 5 Hours A Week - patio11</a>
@@ -1418,9 +1544,21 @@ Also, when I come, I will have to think of something that will prevent paralysis
   <li><a href="http://www.paulgraham.com/die.html">How Not to Die</a></li>
   <li><a href="https://www.intercom.com/books/growth-handbook">The Growth Handbook by Intercom</a></li>
   <li><a href="https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit#heading=h.u92txq7xuirk">Founder to CEO - How to build a great company from the ground up</a></li>
+  <li><a href="https://tim.blog/2018/03/29/discipline-sex-psychedelics-and-more-the-return-of-drunk-dialing/">Tim Ferriss Drunk dialling</a> starting from 30 minute, on how to choose what to do (something you yourself will pay for)</li>
+  <li><a href="https://a16z.com/2018/09/02/sales-startups-technical-founders/">All Things Sales! 16 Mini-Lessons for Startup Founders</a></li>
+  <li><a href="https://docs.browserless.io/blog/2018/08/01/running-an-indie-business.html">Things they don’t teach you running a business by yourself</a></li>
+  <li><a href="https://www.newco.app/30daystartup">#30DayStartup</a></li>
+  <li><a href="https://www.tfaforms.com/4697544">Emergent Ventures Fellowship Application</a></li>
+  <li><a href="https://news.ycombinator.com/item?id=18047553">Ask HN: How to come up with monetizable side project ideas?</a></li>
+  <li><a href="https://medium.com/everhour/growing-our-saas-company-to-1m-arr-7-people-3-years-no-vc-money-key-lessons-learned-2d53766507d2">Growing Our SaaS Company To $1M+ ARR: 7 People, 3 Years, No VC Money. Key Lessons Learned</a></li>
+  <li><a href="https://blog.inkdrop.info/how-ive-attracted-the-first-500-paid-users-for-my-saas-that-costs-5-mo-7a5b94b8e820">How I’ve Attracted The First 500 Paid Users For My SaaS That Costs $5/mo</a></li>
+  <li><a href="https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make">Three Sales Mistakes Software Engineers Make</a></li>
+  <li><a href="https://t.me/newgameplusco/93">интервью Ильи Красинского Диме Думику про свой фреймворк погружения в новый продукт, масштабирование, как предпринимателю справляться с трудностями и как генерить идеи</a></li>
+  <li><a href="https://www.cortes.design/post/best-saas-landing-page-examples-inspiration">The Best SaaS Landing page examples I’ve seen (+ their secrets for conversion)</a></li>
+  <li><a href="https://news.ycombinator.com/item?id=18400020">Ask HN: What are some hacks of real founders who did things that don’t scale?</a></li>
 </ol>
 
-<p>Last-updated: Jul 8, 2018</p>
+<p>Last-updated: Dec 8, 2018</p>
 
 
                     ]]>
