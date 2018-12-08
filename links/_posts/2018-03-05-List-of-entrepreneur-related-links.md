@@ -173,6 +173,8 @@ Also, when I come, I will have to think of something that will prevent paralysis
 1. [интервью Ильи Красинского Диме Думику про свой фреймворк погружения в новый продукт, масштабирование, как предпринимателю справляться с трудностями и как генерить идеи](https://t.me/newgameplusco/93)
 1. [The Best SaaS Landing page examples I’ve seen (+ their secrets for conversion)](https://www.cortes.design/post/best-saas-landing-page-examples-inspiration)
 1. [Ask HN: What are some hacks of real founders who did things that don't scale?](https://news.ycombinator.com/item?id=18400020)
+1. [Do Things That Don't Scale - a crowdsourced collection of unscalable startup hacks](https://dothingsthatdontscale.com)
+1. [The First 100 - Measure the strength of your idea with real customers](https://docs.google.com/document/d/104qgagSsp2rQQEDORGbYC0uqt0neYHCPxu-aUl4CuSQ/preview)
 
 
   
