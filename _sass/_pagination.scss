@@ -16,9 +16,14 @@
   padding: 1em 1.5em;
 }
 
-.pagination .disabled, .pagination .pagination-meta {
+.disabled {
   opacity: 0.5;
 }
+
+.noHover {
+  pointer-events: none;
+}
+
 
 .pagination .pagination-meta {
   overflow: hidden;
