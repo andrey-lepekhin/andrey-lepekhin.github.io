@@ -29,6 +29,33 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
     
         
             <item>
+                <title>OpenAI language model is about to change how we parse meaningless text</title>
+                <link>https://www.lepekhin.com/2019/02/26/OpenAI-language-model-is-about-to-change-how-we-parse-meaningless-text</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p><a href="https://srconstantin.wordpress.com/2019/02/25/humans-who-are-not-concentrating-are-not-general-intelligences/">Humans Who Are Not Concentrating Are Not General Intelligences</a> in which <em>srconstantin</em> describes one of many possible consequences of OpenAI’s <a href="https://blog.openai.com/better-language-models/">new language model</a>.</p>
+
+<blockquote>
+  <p>The mental motion of “I didn’t really parse that paragraph, but sure, whatever, I’ll take the author’s word for it” is, in my introspective experience, absolutely identical to “I didn’t really parse that paragraph because it was bot-generated and didn’t make any sense so I couldn’t possibly have parsed it”, except that in the first case, I assume that the error lies with me rather than the text.  This is not a safe assumption in a post-GPT2 world. Instead of “default to humility” (assume that when you don’t understand a passage, the passage is true and you’re just missing something) the ideal mental action in a world full of bots is “default to null” (if you don’t understand a passage, assume you’re in the same epistemic state as if you’d never read it at all.)</p>
+</blockquote>
+
+<hr />
+
+<p>While we’re on this topic, I’ll add two possible applications for GPT-2 successors that I see emerging in the next couple of years: 1) ‘Get-a-date Tinder chatbot’ and 2) ‘Witty chat messages suggestions’ in major chat apps.</p>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2019/02/26/OpenAI-language-model-is-about-to-change-how-we-parse-meaningless-text</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Tue, 26 Feb 2019 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
                 <title>Huge productivity gains</title>
                 <link>https://www.lepekhin.com/2018/07/29/Huge-productivity-gains</link>
                 <content:encoded>
