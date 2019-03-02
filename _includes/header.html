@@ -2,7 +2,7 @@
   <div class="mt2 wrap">
     <div class="measure">
       {% unless page.url == "/index.html" %}
-      <a href="{{ site.url }}" class="site-title">Index</a>
+        <div class="site-nav site-index"><a href="{{ site.url }}">Index</a></div>
       {% endunless %}
       <nav class="site-nav">
         {% include navigation.html %}

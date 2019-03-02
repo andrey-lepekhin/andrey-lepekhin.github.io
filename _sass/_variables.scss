@@ -1,8 +1,8 @@
 // Typography
 $base-font-size: 21px !default;
 $bold-font-weight: bold !default;
-$font-family: 'Merriweather', 'PT Serif', Georgia, 'Times New Roman', serif !default;
-$line-height: 1.75 !default;
+$font-family: 'Raleway', 'PT Serif', Georgia, 'Times New Roman', serif !default;
+$line-height: 1.618rem !default; // magic golden ration, if font size is 1rem. It doesn't take in account font height, so be careful when changing fonts 
 $heading-font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif !default;
 $heading-font-weight: 900 !default;
 $heading-line-height: 1.25 !default;
@@ -10,7 +10,7 @@ $monospace-font-family: 'Source Code Pro', Consolas, monospace !default;
 $h1: 2.998rem !default;
 $h2: 1.5rem !default;
 $h3: 1.25rem !default;
-$h4: 0.94rem !default; // also applied to .p through basscss/_base-typography.scss
+$h4: 1rem !default; // also applied to .p through basscss/_base-typography.scss
 $h5: .875rem !default;
 $h6: .75rem !default;
 $h00: 4rem !default;
@@ -24,7 +24,7 @@ $h1-responsive-max: 3.84rem !default;
 $abbr-border-bottom: 1px black dotted;
 
 // Page width
-$measure-width: 36rem !default;
+$measure-width: 34rem !default;
 
 // Viewport widths
 $viewport-small: 32em;
