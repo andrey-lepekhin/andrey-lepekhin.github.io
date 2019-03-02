@@ -10,28 +10,28 @@
 * @license MIT
 */
 
-@import 'variables';
+@import '../_sass/variables';
 
-@import 'basscss';
+@import '../_sass/basscss';
 
-@import 'base';
+@import '../_sass/base';
 
-@import 'links';
-@import 'positions';
-@import 'clearfix';
-@import 'code';
-@import 'forms';
-@import 'typography';
-@import 'header';
-@import 'tables';
-@import 'animations';
-@import 'footer';
-@import 'social-icons';
-@import 'blockquotes';
-@import 'posts';
-@import 'media-queries';
-@import 'gists';
-@import 'measure';
-@import 'pagination';
+@import '../_sass/links';
+@import '../_sass/positions';
+@import '../_sass/clearfix';
+@import '../_sass/code';
+@import '../_sass/forms';
+@import '../_sass/typography';
+@import '../_sass/header';
+@import '../_sass/tables';
+@import '../_sass/animations';
+@import '../_sass/footer';
+@import '../_sass/social-icons';
+@import '../_sass/blockquotes';
+@import '../_sass/posts';
+@import '../_sass/media-queries';
+@import '../_sass/gists';
+@import '../_sass/measure';
+@import '../_sass/pagination';
 
-@import 'local-fonts';
+@import '../_sass/local-fonts';
