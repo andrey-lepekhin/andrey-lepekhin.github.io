@@ -3,7 +3,7 @@ layout: post
 title: 'List of entrepreneur-related links'
 categories: links
 tags: entrepreneurship goal
-update_date: 2018-12-08
+update_date: 2019-11-09
 ---
 
 From time to time I pocket articles that seem like they would help me when I'll start working toward my own business.  
@@ -174,9 +174,41 @@ Also, when I come, I will have to think of something that will prevent paralysis
 1. [The Best SaaS Landing page examples I’ve seen (+ their secrets for conversion)](https://www.cortes.design/post/best-saas-landing-page-examples-inspiration)
 1. [Ask HN: What are some hacks of real founders who did things that don't scale?](https://news.ycombinator.com/item?id=18400020)
 1. [Do Things That Don't Scale - a crowdsourced collection of unscalable startup hacks](https://dothingsthatdontscale.com)
-1. [The First 100 - Measure the strength of your idea with real customers](https://docs.google.com/document/d/104qgagSsp2rQQEDORGbYC0uqt0neYHCPxu-aUl4CuSQ/preview)
+1. [The First 100 - Measure the strength of your idea with real customers](https://docs.google.com/document/d/104qgagSsp2rQQEDORGbYC0uqt0neYHCPxu-aUl4CuSQ/preview)<br /><br />
+	<br /><br />
+1. [More Start-Ups Have an Unfamiliar Message for Venture Capitalists: Get Lost](https://www.nytimes.com/2019/01/11/technology/start-ups-rejecting-venture-capital.html)
+1. [Stripe Atlas: Writing copy for landing pages](https://stripe.com/atlas/guides/landing-page-copy)
+1. [How I Built A $5,000 Per Month Side Project — Campfire Labs](https://campfirelabs.co/blog-1/2019/1/10/how-i-built-a-5000-per-month-side-project)
+1. [Open Startups – Postmake](https://postmake.io/open)
+1. [Reflecting on My Failure to Build a Billion-Dollar Company](https://medium.com/@shl/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7)
+1. [Pricing Experiments You Might Not Know, But Can Learn From](https://conversionxl.com/blog/pricing-experiments-you-might-not-know-but-can-learn-from/)
+1. [Ask HN: How to find profitable side project idea? \| Hacker News](https://news.ycombinator.com/item?id=19164037)
+1. [How I Hit $115k/mo with a Status Quo Improvement - Indie Hackers](https://www.indiehackers.com/interview/how-i-hit-115k-mo-with-a-status-quo-improvement-c45d11ad17)
+1. [Summary: How to Start a Startup (YC) - Google Docs](https://docs.google.com/document/d/1wkJ6Ruh2IiR-caT-PS3n5Yt5VKcmIsVhuQwjgqK7030/preview)
+1. [How To Be a Capitalist Without Any Capital by Nathan Latka](http://book.nathanlatka.com/?ref=producthunt)
+1. [Эталонный Сервис: Рестораны](https://hardclient.com/restaurants)
+1. [Ask HN: Resources/Steps for Becoming a Consultant? \| Hacker News](https://news.ycombinator.com/item?id=19455224)
+1. [Ask HN: What was your experience starting a tech consultancy? \| Hacker News](https://news.ycombinator.com/item?id=19876825)
+1. [I’m Walking Away From the Product I Spent a Year Building](https://www.derrickreimer.com/essays/2019/05/17/im-walking-away-from-the-product-i-spent-a-year-building.html)
+1. [Founder Books – Postmake](https://postmake.io/books)
+1. [The Art of Thinking Long-Term Even When Money is Running Out](https://medium.dave-bailey.com/why-visionary-founders-need-to-think-long-term-7ec4a5aae21a)
+1. [The SaaS Opportunity Of Unbundling Excel](https://foundationinc.co/lab/the-saas-opportunity-of-unbundling-excel/)
+1. [Principles for Decision-Making in a Flat Organization](https://doist.com/blog/decision-making-flat-organization/) 
+1. [Startup idea checklist \| defmacro](https://www.defmacro.org/2019/03/26/startup-checklist.html)
+1. [Why You Only Need to Test with 5 Users](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/)
+1. [Speakers tend to prefer either a high considerateness or high involvement s](https://news.ycombinator.com/item?id=20457758)
+1. [«Сгоревшие» сотрудники: есть ли выход? / Badoo corporate blog / Habr](https://habr.com/en/company/badoo/blog/458792/)
+1. [How to get your first 10 customers](http://danshipper.com/nothing-happens-until-the-sale-is-made)
+1. [How to conduct research and successfully launch a product \| ottofeller](https://ottofeller.com/blog/how-to-conduct-research-and-successfully-launch-a-product)
+1. [Stop designing products for random people - UX Collective](https://uxdesign.cc/stop-designing-products-for-random-people-4734423cbfe6)
+1. [SS19E2: Как разговаривать с клиентами](https://zamesin.me/links-ycss19-how-to-talk-to-users/)
+1. [How to be good at sales as an introvert — Quartz at Work](https://qz.com/work/1433979/how-to-be-good-at-sales-as-an-introvert/)
+1. [20,000 Startup Ideas](https://unawaz.github.io/stochastic-hill-climbing/tasks/)
+1. [Pricing niche products: Why sell a mechanical keyboard kit for $1,668?](https://kevinlynagh.com/notes/pricing-niche-products/)
+1. [Что дальше? Или как правильно выбрать фичи для разработки](https://habr.com/ru/company/hygger/blog/416683/)
+1. [Ask HN: How do B2B startups sell to corporations? \| Hacker News](https://news.ycombinator.com/item?id=21367151)
+1. [How to Find Consulting Clients](https://chrisachard.com/how-to-find-consulting-clients)
 
 
   
 Last-updated: {{ page.update_date | date: site.date_format }}
- 

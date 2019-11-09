@@ -2,7 +2,7 @@
 @rem https://drewsilcock.co.uk/custom-jekyll-plugins see end of this file for its saved copy, just in case it goes offline
 @rem Commit message should be put in double quotes
 
-call jekyll build --future && ^
+call bundle exec jekyll build --future && ^
 git add . && ^
 git commit -m %1 && ^
 git push origin source && ^
