@@ -208,6 +208,8 @@ Also, when I come, I will have to think of something that will prevent paralysis
 1. [Что дальше? Или как правильно выбрать фичи для разработки](https://habr.com/ru/company/hygger/blog/416683/)
 1. [Ask HN: How do B2B startups sell to corporations? \| Hacker News](https://news.ycombinator.com/item?id=21367151)
 1. [How to Find Consulting Clients](https://chrisachard.com/how-to-find-consulting-clients)
+1. [The internet is an SEO landfill](https://docs.sendwithses.com/random-stuff/the-internet-is-an-seo-landfill)
+1. [Future you mastrubation](https://www.howitactuallyworks.com/archives/future_you_masturbation.html)
 
 
   

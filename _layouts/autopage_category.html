@@ -20,7 +20,11 @@ layout: default
               {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
             {% endif %}
             </br>
-            <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">Continue reading</a>
+            {% assign post_length = post.content | size %}
+            {% assign excerpt_length = post.excerpt | size %}
+            {% if post_length != excerpt_length %}
+              <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">Continue reading</a>
+            {% endif %}  
           </p>
           </span>
         </div>

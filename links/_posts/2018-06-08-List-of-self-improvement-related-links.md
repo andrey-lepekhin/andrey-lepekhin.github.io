@@ -3,11 +3,12 @@ layout: post
 title: 'List of self-improvement-related links'
 categories: links
 tags: goal
+update_date: 2019-11-10
 ---
 
 As with [entrepreneurship-related articles list]({% post_url links/2018-03-05-List-of-entrepreneur-related-links %}), I just want to offload this bunch of articles sitting in my Pocket.  
 When (if) I come reading through them, I will add descriptions and short versions.  
-**Beware** this is a work in progress, some articles may be more than just a little dubious. Though you can still use this list to judge what were my 28-year-old self's problems.  
+**Beware** this is a work in progress, some articles may be more than just a little dubious. Though you can still use this list to judge what were my 28-year-old self's problems and aspirations.  
 
 
 1. [Taming the Mammoth: Why You Should Stop Caring What Other People Think](http://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html)
@@ -53,7 +54,36 @@ When (if) I come reading through them, I will add descriptions and short version
 1. [My Life Extension Pilgrimage to Easter Island \| The Blog of Author Tim Ferr](http://fourhourworkweek.com/2016/10/20/my-life-extension-pilgrimage-to-easter-island/)
 1. [Tim Ferriss on exercise to overcome fears - Business Insider](http://www.businessinsider.com/tim-ferriss-on-exercise-to-overcome-fears-2015-4)
 1. [How Do You Measure Leadership?](https://blog.ycombinator.com/how-do-you-measure-leadership/)
-1. [The 4-Hour Body Tools \| The Blog of Author Tim Ferriss](http://tim.blog/gear/#orgasm1)
+1. [On orgasm - The 4-Hour Body Tools \| The Blog of Author Tim Ferriss](http://tim.blog/gear/#orgasm1)
 1. [Functional Decision Theory: A New Theory of Instrumental Rationality](https://arxiv.org/abs/1710.05060)
 1. [High Output Management](http://www.goodreads.com/book/show/324750.High_Output_Management)
-1. [Checklist of Rationality Habits](http://lesswrong.com/lw/fc3/checklist_of_rationality_habits/)
+1. [Checklist of Rationality Habits](http://lesswrong.com/lw/fc3/checklist_of_rationality_habits/)<br /><br />
+2019-11-10 update:<br /><br />
+1. [Photography Composition: The Definitive Guide - Beautiful Pictures](https://antongorlin.com/blog/photography-composition-definitive-guide/)
+1. [How to Become a Better Software Developer: A Handbook on Personal Performan](https://www.7pace.com/blog/become-a-better-programmer-skills-development)
+1. [**Brienne Yudkowsky's 5-minute focused grit process**](https://www.facebook.com/strohl89/posts/10154358190599598)
+1. [What in my life is opaque?](https://alexvermeer.com/what-in-my-life-is-opaque/)
+1. [So Good They Can’t Ignore You by Cal Newport – Review &amp; Summary](https://alexvermeer.com/so-good-they-cant-ignore-you-by-cal-newport-review-and-summary/)
+1. [Ask HN: How to shadow a CEO? \| Hacker News](https://news.ycombinator.com/item?id=18733535)
+1. [Mental Models: The Best Way to Make Intelligent Decisions (109 Models Explained)](https://fs.blog/mental-models/)
+1. [How To Be Successful - Sam Altman](http://blog.samaltman.com/how-to-be-successful)
+1. [Persuasion Tips For Product Managers - The Secret Product Manager Handbook](https://secretpmhandbook.com/persuasion-tips-for-product-managers/)
+1. [Ian McAllister&#039;s answer to What distinguishes the Top 1% of product managers](https://www.quora.com/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister)
+1. [Deadlines Are Killing Us, And Almost Everything Else I Know About Leadershi](https://medium.com/@duncanr/deadlines-are-killing-us-and-almost-everything-else-i-know-about-leadership-7032a5fb12ac)
+1. [Прямая обратная связь: как эффективнее ссориться с коллегами](https://medium.com/humaning-is-hard/%D0%BF%D1%80%D1%8F%D0%BC%D0%B0%D1%8F-%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C-%D0%BA%D0%B0%D0%BA-%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B5%D0%B5-%D1%81%D1%81%D0%BE%D1%80%D0%B8%D1%82%D1%8C%D1%81%D1%8F-%D1%81-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B3%D0%B0%D0%BC%D0%B8-30b3bb93a58a)
+1. [The Complete Guide to Deep Work (including a step-by-step checklist)](https://doist.com/blog/complete-guide-to-deep-work/)
+1. [How to do hard things \| David R. MacIver](https://www.drmaciver.com/2019/05/how-to-do-hard-things/)
+1. [You Procrastinate Because Of Emotions, Not Laziness. Regulate Them To Stop ](https://cognitiontoday.com/2019/05/you-procrastinate-because-of-emotions-not-laziness-regulate-them-to-stop-procrastinating/)
+1. [Self-Distancing: What It Is and How You Can Use It to Make Better Decisions](https://effectiviology.com/self-distancing-rational-decisions/)
+1. [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/)
+1. [How to Get Rich: Every Episode – Naval](https://nav.al/how-to-get-rich)
+1. [How to Be Great? Just be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)
+1. [Find your Leadership Peer Group with Reboot Circles](https://www.reboot.io/service/peer-groups/)
+1. [The Living Room event for building communities - Alisa Kuznetsova](https://www.facebook.com/sixstringalice/posts/10219251823384559)
+1. [How a Decision Journal Changed the Way I make Decisions (Template Included)](https://fs.blog/2014/02/decision-journal/)
+1. [Stand out as a speaker \| Science](https://science.sciencemag.org/content/365/6455/834.full)
+1. [How to return to the flow faster \| Code Jamming](https://codejamming.org/2019/how-to-return-to-flow)
+1. [Ask HN: What things do you wish you discovered earlier? \| Hacker News](https://news.ycombinator.com/item?id=20920635)
+1. [Elided Branches: How do managers* get stuck?](http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html)
+1. [Being ‘Indistractable’ Will Be the Skill of the Future](https://onezero.medium.com/being-indistractable-will-be-the-skill-of-the-future-a07780cf36f4)
+1. [What do executives do, anyway? - apenwarr](https://apenwarr.ca/log/20190926)
