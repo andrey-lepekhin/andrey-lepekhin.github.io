@@ -22,8 +22,8 @@ What does it mean for me?
 1. Implementation of strategies to change the markers that are not in the green (e.g. try supplements, change training routines, etc)
 1. Eat less sugar. Switching from a lifetime consumption of the family-recipe homemade jam was hard at first, but now I actually enjoy how food tastes without any added sweetness.
 1. Intermittent fasting protocol where I eat during 6-8 hours of a day, leaving the rest to fasting
-1. At the moment I experiment sleeping at the same times daily: going to bed before 22:00 and waking up at 06:30. 
-1. Meditate daily
+1. Sleeping at the same times daily: going to bed before 22:00 and waking up at 06:30.
+1. Daily meditation
 1. Free weights exercise. I used to do HIIT, but paused as my main goal is gaining muscle at the moment.
 
   
@@ -32,7 +32,7 @@ What I haven't done yet but plan to
 * Ketogenic diet for reported cognitive enhancements
 * Prolonged fasting as a cancer prevention
 * SSRIs and _legal_ drugs
-* More sleep experiments (_total_ darkness, coolness, and optimal CO2) with help form some devices like oura ring
+* More sleep experiments (_total_ darkness, coolness, and optimal CO2) with help form devices like oura ring
 
 
 All-in-all, I do not see some overwhelming results, though I do benefit from my life being more structured, i.e. when I [don't have to decide]({% post_url 2018-03-01-Why-choices-are-bad %}) whether and when get out of bed, or what to eat today.  
