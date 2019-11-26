@@ -14,3 +14,7 @@ blockquote footer {
   text-align: left;
   padding: 0;
 }
+
+blockquote p:last-of-type {
+  margin-bottom: 0rem;
+}
