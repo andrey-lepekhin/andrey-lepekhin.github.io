@@ -197,6 +197,57 @@ Check out this beautifully implemented interactive page <a href="https://ciechan
     
         
             <item>
+                <title>Slack rant</title>
+                <link>https://www.lepekhin.com/2018/07/30/Slack-rant</link>
+                <content:encoded>
+                    <![CDATA[
+                    <p>Replying to Slack messages <em>feels</em> productive, but it is a very, <strong>very</strong> addictive way to procrastinate. It’s hard to say no to it. Others are replying fast. Instant messaging creates <em>expectation</em> of a fast answer. It’s not your grandpa’s email after all. It is gratifying, it is a quick fix, it’s easy. Get your dopamine hit <strong>now</strong>.</p>
+
+<p>Oh, it feels good having answered all unread messages. No anxiety. Bliss. Yet the faster you reply, the faster you get another message.</p>
+
+<p>There’s no real multitasking for humans. You have to decide whether you want to have a state of flow or allow constant interruptions<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>.</p>
+
+<p>Not plunging into this infinite pseudo-productive sea of quick-fixes is something that is still hard for me. I don’t have new message notifications of course, but I know that red unread messages counter exists and it beckons.<br />
+<img src="https://www.lepekhin.com/images/2018-07-30-Slack-notification.png" alt="" style="width: 50px;" /></p>
+
+<h3 id="counter-measures">Counter-measures</h3>
+<ul>
+  <li>I lobby for not-expecting-an-immediate-answer culture when I can</li>
+  <li>Slack is hidden in the tray or turned off by default</li>
+  <li>I <em>try</em> to answer messages in bulk at scheduled unproductive times of the day.</li>
+  <li>I <em>try</em> not to mark messages as unread. This is still hard. Otherwise, I read a message, decide I don’t want to answer now, mark it unread… and one hour later the cycle repeats, eating away my time and attention.</li>
+  <li>I start working at home, with no distractions, no phone, no Slack, no email.</li>
+  <li>There is one thing that really helps me with slackrastination (that is a word now), or any procrastination for that matter: instead of automatically changing what you do, you make the process as conscious as possible. For me the good example are weeks when I track my time. Each time I change what I do, I write the new activity down and start corresponding activity timer<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>. When I am in a state of flow and start writing “Slack” to change timers, I usually catch myself and go back to doing the important stuff.</li>
+  <li>My wallpaper at work <img src="https://www.lepekhin.com/images/2018-07-30-turnoffSlack.png" alt="White canvas with words: &quot;Close Slack &amp; Gmail. Do what's important. Heart emoji&quot;" style="border: black 0.1em;border-style: dashed;" /></li>
+</ul>
+<p>&lt;/rant&gt;</p>
+
+<hr />
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Don’t get me started on open space offices, I have one rant per post policy. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>I use <a href="https://toggl.com/">Toggl</a> for that. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+                    ]]>
+                </content:encoded>
+                <guid isPermaLink="false">/2018/07/30/Slack-rant</guid>
+                <description>
+                    
+                </description>
+                <pubDate>Mon, 30 Jul 2018 00:00:00 +0300</pubDate>
+                <author>Andrey Lepekhin</author>
+            </item>
+        
+    
+        
+            <item>
                 <title>Huge productivity gains</title>
                 <link>https://www.lepekhin.com/2018/07/29/Huge-productivity-gains</link>
                 <content:encoded>
@@ -240,47 +291,17 @@ Check out this beautifully implemented interactive page <a href="https://ciechan
 <p>e.g. one time I was looking for a flat to rent and that was my main task for some weeks. Problem is, browsing listings, looking at a lot of pictures, is similar to my relaxation habit of browsing Reddit. After I finished looking through new listings, I noticed that it is super easy to slip into Reddit. I started scheduling my flat search later in the day.</p>
 
 <h3 id="planning-my-day-as-the-first-task">Planning my day as the first task</h3>
-<p>After initial success, I drifted toward “plan my whole day and <em>then</em> start that important task”. Didn’t work so well. While planning a day, I usually encountered a small task: “Aha, easy 3-minute win! GTD prepared me for this! I just have to start this Slack conversation to update this status”. Then inevitably I’m replaying to other messages, it’s 15 minutes later and the productive mood is gone. <strong>Ok, it’s Slack rant time!</strong> (I wanted to move it to another post, but, well, it <em>is</em> productivity related) If you want, you can stop reading now, this is the last part of the post.</p>
-
-<hr />
-
-<h2 id="slack-rant">Slack rant</h2>
-
-<p>Replying to Slack messages <em>feels</em> productive, but it is a very, <strong>very</strong> addictive way to procrastinate. It’s hard to say no to it. Others are replying fast. Instant messaging creates <em>expectation</em> of a fast answer. It’s not your grandpa’s email after all. It is gratifying, it is a quick fix, it’s easy. Get your dopamine hit <strong>now</strong>.</p>
-
-<p>Oh, it feels good having answered all unread messages. No anxiety. Bliss. Yet the faster you reply, the faster you get another message.</p>
-
-<p>There’s no real multitasking for humans. You have to decide whether you want to have a state of flow or allow constant interruptions<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>.</p>
-
-<p>Not plunging into this infinite pseudo-productive sea of quick-fixes is something that is still hard for me. I don’t have new message notifications of course, but I know that red unread messages counter exists and it beckons.</p>
-
-<h3 id="counter-measures">Counter-measures</h3>
-<ul>
-  <li>I lobby for not-expecting-an-immediate-answer culture when I can</li>
-  <li>Slack is hidden in the tray or turned off</li>
-  <li>I <em>try</em> not to mark messages as unread. This is still hard. Otherwise, I read a message, decide I don’t want to answer now, mark it unread… and one hour later the cycle repeats, eating away my time.</li>
-  <li>I <em>try</em> to answer slack messages in bulk at scheduled unproductive times of the day.</li>
-  <li>I start working at home, with no distractions, no phone, no Slack, no email.</li>
-  <li>There is one thing that really helps me with slackrastination (that is a word now), or any procrastination for that matter: instead of automatically changing what you do, you make the process as conscious as possible. For me the good example are weeks when I track my time. Each time I change what I do, I write the new activity down and start corresponding activity timer<sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup>. When I am in a state of flow and start writing “Slack” to change timers, I usually catch myself and go back to doing the important stuff.</li>
-  <li>My wallpaper at work <img src="https://www.lepekhin.com/images/turnoffSlack.png" alt="White canvas with words: &quot;Close Slack &amp; Gmail. Do what's important. Heart emoji&quot;" style="border: black 0.1em;border-style: dashed;" /></li>
-</ul>
-<p>&lt;/rant&gt;</p>
+<p>After initial success, I drifted toward “plan my whole day and <em>then</em> start that important task”. Didn’t work so well. While planning a day, I usually encountered a small task: “Aha, easy 3-minute win! GTD prepared me for this! I just have to start this Slack conversation to update this status”. Then inevitably I’m replaying to other messages, it’s 15 minutes later and the productive mood is gone. <del>Ok, it’s Slack rant time!</del> I’ve moved it to a <a href="/2018/07/30/Slack-rant">separate post</a>.</p>
 
 <hr />
 
 <div class="footnotes">
   <ol>
     <li id="fn:1">
-      <p>Some mornings I am groggier than on others, that’s where having a clear todo list from the evening before shines – I don’t need to deliberate about what to do, no decision necessary. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+      <p>Some mornings I am groggier than on others, that’s where having a clear todo list from the evening before shines – I don’t need to deliberate about what to do, no decision necessary. In case you forgot - <a href="/2018/03/01/Why-choices-are-bad">choices are bad</a>. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
     </li>
     <li id="fn:2">
-      <p>Why? Dancing consistently makes me happy. Sometimes it’s 3 minutes, sometimes it will be 20. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:3">
-      <p>Don’t get me started on open space offices, I have one rant per post policy. <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
-    </li>
-    <li id="fn:4">
-      <p>I use <a href="https://toggl.com/">Toggl</a> for that. <a href="#fnref:4" class="reversefootnote">&#8617;</a></p>
+      <p>Why? According to two years of correlating my activities and mood, dancing consistently makes me happy. Sometimes it’s 3 minutes, sometimes it will be 20. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
     </li>
   </ol>
 </div>
@@ -312,18 +333,14 @@ Check out this beautifully implemented interactive page <a href="https://ciechan
 
 <p>Having predetermined etiquette for expressing interest in the opposite sex is also very handy. In the past, after meeting a woman’s gaze several times I usually started thinking “Does it mean anything, or is it a coincidence? Should I go say hi now or wait a couple of minutes to be sure?”. The article conveniently answers these questions and more.</p>
 
-<blockquote>
-  <p>When you look over at a woman, she will usually look away, whether she’s interested in you or not. But the way in which she averts her gaze tells you a lot about whether she wants you to approach her or not […]</p>
-</blockquote>
-
-<p>I will not paste more quotes, the article is small and neatly divided with subheadings so you can take only what you need:</p>
+<p>The article is small and neatly divided with subheadings so you can take only what you need:</p>
 
 <ul>
   <li>General guidelines on how to do it. When to look, where to look, how long, how to avert your gaze and what does it signal</li>
   <li>Sales and pitching (job interviews included)</li>
   <li>When you need to intimidate/dominate or diffuse a conflict</li>
   <li>Meeting the eyes of a stranger in the street</li>
-  <li>Making eye contact with a woman</li>
+  <li>Making eye contact with the opposite sex</li>
   <li>When giving a speech</li>
 </ul>
 
@@ -345,7 +362,7 @@ Check out this beautifully implemented interactive page <a href="https://ciechan
     
         
             <item>
-                <title>Do you update your model with your actual experiences?</title>
+                <title>How I began to befriend my feelings instead of trying to control them</title>
                 <link>https://www.lepekhin.com/2018/07/07/Do-you-update-your-model-with-your-actual-experiences</link>
                 <content:encoded>
                     <![CDATA[
@@ -380,9 +397,9 @@ Sometimes, all it takes to bring my mood up are compassion and <em>a permission<
 <p>I’m applying this newly learned principle for my hobbies/vocations search: I’m searching for things to do besides my day job, and start with no idea of what I could be doing.</p>
 
 <p><strong>Before</strong>: elaborate planning, with weighted criteria list based on my best approximation of what I like; using said list as a scoring method for a vast list of hobbies<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>.<br />
-<strong>After</strong>: same plan scaffolding but the criteria list and their weights come from a direct experience of doing stuff.</p>
+<strong>After</strong>: same plan scaffolding but the criteria list and their weights come from a direct experience of doing stuff. I.e. I try doing stuff that I sorta feel like doing, sometimes even (gah!) without a scoring behind that feeling.</p>
 
-<p>If you’re familiar with software methodologies, I see this idea as applying the lean concept. It’s like iterating on an MVP instead of waiting for the waterfall to end.</p>
+<p>If you’re familiar with software methodologies, I see this idea as applying the lean concept. It’s like iterating on an <a href="/2018/02/25/Vigilant-MVP-case-of-this-blog">MVP</a> instead of waiting for the waterfall to end.</p>
 
 <p>This is all still very new, but it feels uncomfortable and right – the best kind of feeling, meaning I’m broadening my comfort zone. Anyway, I’ll see where this particular rabbit hole goes and will change the course if I don’t like it.</p>
 
@@ -418,9 +435,10 @@ Sometimes, all it takes to bring my mood up are compassion and <em>a permission<
                 <link>https://www.lepekhin.com/2018/07/01/Living-in-the-now</link>
                 <content:encoded>
                     <![CDATA[
-                    <p>Focus on the process, not just the goals; live in the day-to-day and enjoy it — I did not internalize these concepts until recently.<br />
-Some other common ideas (e.g. “silence is golden”) were well understood by me during adolescence, but the “live in the now, it’s all you’ve got” mantra was as elusive as it is ubiquitous<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>.<br />
-Here are the quotes from two great articles that clarify this topic.</p>
+                    <p>Focus on the process, not just the goals; live in the day-to-day and enjoy it — I did not internalize these concepts until recently.</p>
+
+<p>Some other common ideas (e.g. “silence is golden”) were well understood by me during adolescence, but the “live in the now, it’s all you’ve got” mantra was as elusive as it is ubiquitous<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>.<br />
+Here are the quotes from two great articles that clarify this topic for me.</p>
 
 <p><a href="https://aeon.co/ideas/how-schopenhauers-thought-can-illuminate-a-midlife-crisis">How Schopenhauer’s thought can illuminate a midlife crisis</a> by Kieran Setiya:</p>
 <blockquote>
@@ -628,32 +646,40 @@ When (if) I come reading through them, I will add descriptions and short version
   <li><a href="https://hackernoon.com/how-i-set-and-execute-50-year-goals-why-i-see-cutting-in-lines-as-morally-right-f4d0ce28574f">How I set and execute 50-year goals + why I see cutting in lines as morally right</a></li>
 </ul>
 
-<p>Serge was also a CEO of a company I’m working for. While still a CEO, he did several seminars where he described his reasoning and methods behind (then called) life-optimization. I am one of the people that that was sold on the less-than-hardcore part.</p>
+<p>Serge was also a CEO of a company I used to work for. While still a CEO, he did several seminars where he described his reasoning and methods behind (then called) life-optimization. I am one of the people that that was sold on the less hardcore part.</p>
 
-<p>What does it mean for me?</p>
+<h3 id="what-does-it-mean-for-me-in-practical-terms">What does it mean for me in practical terms?</h3>
 
 <ol>
-  <li>A qurterly blood panel of around 50 blood markers</li>
+  <li>A quarterly blood panel of around 50 blood markers</li>
   <li>Implementation of strategies to change the markers that are not in the green (e.g. try supplements, change training routines, etc)</li>
-  <li>Eat less sugar. Switching from a lifetime consumption of the family-recipe homemade jam was hard at first, but now I actually enjoy how food tastes without any added sweetness.</li>
+  <li>Eat less sugar. Switching from a lifetime consumption of the family-recipe homemade jam was hard at first, but now I actually enjoy how food tastes without any added sweetness</li>
   <li>Intermittent fasting protocol where I eat during 6-8 hours of a day, leaving the rest to fasting</li>
   <li>Sleeping at the same times daily: going to bed before 22:00 and waking up at 06:30.</li>
   <li>Daily meditation</li>
-  <li>Free weights exercise. I used to do HIIT, but paused as my main goal is gaining muscle at the moment.</li>
+  <li>Free weights exercise. I used to do HIIT, but paused as my main goal is gaining muscle at the moment</li>
 </ol>
 
-<p>What I haven’t done yet but plan to</p>
+<h4 id="what-i-havent-done-yet-but-plan-to">What I haven’t done yet but plan to</h4>
 
 <ul>
   <li>Ketogenic diet for reported cognitive enhancements</li>
   <li>Prolonged fasting as a cancer prevention</li>
   <li>SSRIs and <em>legal</em> drugs</li>
-  <li>More sleep experiments (<em>total</em> darkness, coolness, and optimal CO2) with help form devices like oura ring</li>
+  <li>More sleep experiments (<em>total</em> darkness, coolness, and optimal CO2) with help from devices like oura ring</li>
 </ul>
 
-<p>All-in-all, I do not see some overwhelming results, though I do benefit from my life being more structured, i.e. when I <a href="/2018/03/01/Why-choices-are-bad">don’t have to decide</a> whether and when get out of bed, or what to eat today.<br />
-I view it all as a hobby that probably has some benefits of increasing my health and happiness. Also a handy conversation piece.</p>
+<h3 id="the-results">The results</h3>
+<p><strong>Updated after two years</strong></p>
 
+<ul>
+  <li>I’m more physically active and enjoy a better focus on the days that I’ve slept well, exercised and ate healthy. According to my self-testing.</li>
+  <li>I benefit from my life being more structured, i.e. when I <a href="/2018/03/01/Why-choices-are-bad">don’t have to decide</a> when to get out of bed, or what to eat today.</li>
+  <li>Blood panel has yet to lead to any actionable insights. Well, at least now I have a snapshot of how things were when I was 30 for reference in the future.</li>
+  <li>If nothing else, I view it all as a healthy hobby that is also a handy conversation piece.</li>
+</ul>
+
+<p>After two years I’ve <a href="/2018/07/07/Do-you-update-your-model-with-your-actual-experiences">learned to be less rigid</a> about these habits and indulge in a late night with friends now and then, knowing that the fatigue price I will be paying the next day is worth it.</p>
 
                     ]]>
                 </content:encoded>
@@ -801,7 +827,7 @@ Now, each time I add an article, a point is substracted; a point is added each t
                 <link>https://www.lepekhin.com/2018/04/21/Happiness-is-chore</link>
                 <content:encoded>
                     <![CDATA[
-                    <p><em><strong>UPD</strong> This post rises some important questions, so I promote it from link-post to the index page for visibility.</em><br />
+                    <p><em><strong>UPD</strong> This post rises some important questions, so I promote it to the index page for visibility.</em><br />
 The pursuit of happiness defines many parts of my life. Or should I say “happiness”?</p>
 
 <p><em>SquirrelInHell</em> writes about an unbelievable problem that <a href="https://squirrelinhell.blogspot.se/2017/12/happiness-is-chore.html">Happiness Is a Chore</a></p>
@@ -962,7 +988,7 @@ Quite a diverse list of things, actually:</p>
                 <link>https://www.lepekhin.com/2018/03/31/Tony-Robbins-interview-with-Tim-Ferriss-my-takeaways</link>
                 <content:encoded>
                     <![CDATA[
-                    <p>I’ve first heard Tony Robbins’ interviews sometime in 2016. I was fascinated: a great story-teller and he speaks about things that interest me — mood-states that affect behavior, and how to change your energy levels. Here are my takeaways from one of his <a href="https://encrypted.google.com/search?q=Tony+Robbins+site%3Atim.blog">interviews with Tim Ferriss</a>. Each paragraph is a paraphrased quote from Tony followed by my comment in <em>italics</em>.</p>
+                    <p>I’ve first heard Tony Robbins’ interviews sometime in 2016. I was fascinated: a great story-teller and he speaks about things that interest me — mood-states that affect behavior, and how to change your energy levels. Here are my takeaways from one of his <a href="https://encrypted.google.com/search?q=Tony+Robbins+site%3Atim.blog">interviews with Tim Ferriss</a>. Each paragraph is a <strong>paraphrased</strong> quote from Tony followed by my comment in <em>italics</em>.</p>
 
 <ol>
   <li>
@@ -988,17 +1014,17 @@ Quite a diverse list of things, actually:</p>
   <li>
     <p>The most important decision in your life is deciding whether you’re truly committed to being happy no matter what. You will experience extreme stress, no matter what. Life’s too short to suffer. Decide to be in a beautiful state. <strong>This brain is not designed to make you happy, it’s designed to make you survive</strong>. You have to work to be happy.</p>
 
-    <p><em>See also Tim Urban about <a href="https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html">Social Survival Mammoth</a></em></p>
+    <p><em>See also Tim Urban’s <a href="https://waitbutwhy.com/2014/06/taming-mammoth-let-peoples-opinions-run-life.html">Social Survival Mammoth</a></em></p>
   </li>
   <li>
-    <p>Highest experiences in life have this in common: there is some growth within ourselves (face fear, overcome something, etc) and some contribution beyond ourselves.
+    <p>Highest experiences in life have this in common: there is some growth within ourselves (face a fear, overcome something, etc) and some contribution beyond ourselves.
 Worst experiences are about only you. When you are suffering it’s because you’re obsessing about yourself. Something happened and you have less of something, or you lost something (love, money, significance, attention). Loss, less, never are the sources of suffering. All suffering is obsession with self. Snap out of your suffering. Stop expecting and start appreciating things outside of yourself: people, nature. You learn and grow from that. If you love, if you give, if you’re grateful - suffering disappears instantly.</p>
 
     <p><em>It’s a good a place to paste my favorite quote from a Haruki Murakami book cover: “Pain is inevitable. Suffering is optional.”</em></p>
   </li>
 </ol>
 
-<p>Later in 2016 I’ve decided to attend one of Tony’s seminars to get some of that energy from the man himself. I attended UPW London 2017 and it was like a giant rave with applied psychology and lots of hugs. I loved it.<br />
+<p>Later in 2016 I’ve decided to attend one of Tony’s seminars to get some of that energy from the man himself. I attended UPW London 2017 and it was like a giant dancing rave with applied psychology and lots of hugs. I loved it.<br />
 After I go through my notes, I’ll post my takeaways from there as well.</p>
 
                     ]]>
@@ -1162,7 +1188,7 @@ There would not be a problem if acceptable SO attractiveness didn’t rise to th
 
 <p>Being in a relationship that doesn’t satisfy you sucks.
 The internal conflict rises: should I stay or should I go? <a href="https://www.youtube.com/watch?v=BN1WwnEDWAM">♫</a><br />
-It’s not an <a href="/2018/03/01/Why-choices-are-bad">easy choice</a>, you have emotional attachment and a whole host of cognitive biases working against you:</p>
+It’s not an easy choice, you have emotional attachment and a whole host of cognitive biases working against you:</p>
 
 <blockquote>
   <p>
@@ -1181,7 +1207,7 @@ It’s not an <a href="/2018/03/01/Why-choices-are-bad">easy choice</a>, you hav
 <p>I think that it’s a response to one of the basic needs not being met.<br />
 I’ll try a metaphor. Imagine you do not have a place to sleep. In the morning you do not need to sleep so your idea of a place to sleep is a 5-star hotel. In the afternoon you become a little sleepier and make vague attempts on finding <em>a</em> hotel, <em>any</em> hotel. In the evening you’re sleepy and really need a place to rest, and will agree on a capsule hotel or a hostel.</p>
 
-<p>Or maybe it’s just evolution nudging: “Come on, stop thinking, just fuck whatever”.</p>
+<p>Or maybe it’s just evolution nudging: “Come on, stop thinking, procreate!”.</p>
 
 <h3 id="why-do-the-standards-rise-again">Why do the standards rise again</h3>
 <p>It looks like a natural thing to happen after a bare minimum of a need is met.
@@ -1195,7 +1221,7 @@ In a place-to-sleep example above: after a night in a capsule hotel you do feel 
 This doesn’t help with increased perceived difficultness of dating more attractive partners; I’m still searching a solution for that.</li>
 </ol>
 
-<p>Maybe it’s solvable by sex without relationships? Maybe if you’re still getting any, your standards do not lower?</p>
+<p>Maybe it’s solvable by casual sex without serious relationships? Maybe if you fulfill your basic needs elsewhere, your standards do not lower?</p>
 
 <ul>
   <li>Friends with benefits - doesn’t work for me, as it usually grows into a relationship.</li>
@@ -1205,7 +1231,7 @@ This doesn’t help with increased perceived difficultness of dating more attrac
 
 <p><strong>What did I miss?</strong> How do <em>you</em> solve this problem? Please <a href="https://www.lepekhin.com/about#contact-me">share</a>.</p>
 
-<h3 id="ps-dear-ladies">P.S. Dear ladies</h3>
+<h3 id="ps">P.S.</h3>
 
 <p>If you are my partner and you’re wondering what if I secretly think of you as a subpar choice, I have good news.
 This post is a public commitment: I will only start relationships with those who meet my criteria for a partner. It still doesn’t make our relationship bulletproof and there are ways it can go awry, but at least I (and you) have one less thing to worry about.</p>
@@ -1290,11 +1316,11 @@ This post is a public commitment: I will only start relationships with those who
                     <p>I describe my processes for writing here and the goals behind those processes.<br />
 Previously: <a href="/2018/02/24/Hello-world">Hello, world!</a></p>
 
-<h2 id="link-posts">Link-posts</h2>
+<h2 id="type-link-posts">Type: Link-posts</h2>
 <p><a href="https://www.lepekhin.com/category/links/">Links to articles, posts</a>, <a href="https://www.lepekhin.com/category/comics/">webcomics</a>, <a href="https://www.lepekhin.com/tag/video/">videos</a>, etc
 — are not included in the general blog roll in the root of this blog</p>
 
-<h3 id="goals">Goals</h3>
+<h3 id="purpose">Purpose</h3>
 <ul>
   <li>Satisfy the sharing need: when I find something thought-provoking I get a craving to share it</li>
   <li>Learn something better by explaining it</li>
@@ -1309,11 +1335,11 @@ Previously: <a href="/2018/02/24/Hello-world">Hello, world!</a></p>
   <li><strong>TODO</strong> Schedule re-reading of old posts or make an anki-like thing to remember and use practical parts.</li>
 </ol>
 
-<h2 id="general-blog-posts">General blog posts</h2>
-<p>— the default type of posts that you see in the root if this blog<br />
+<h2 id="type-general-blog-posts">Type: General blog posts</h2>
+<p>— the default type of posts that you see in the root if this blog. 
 General blog posts are almost the same as link-posts above but I feel a lot more strongly about sharing these: their perceived importance is high. Also they tend to contain more text written by yours truly.</p>
 
-<h3 id="more-goals">More Goals</h3>
+<h3 id="purpose-1">Purpose</h3>
 <p>Getting more writing experience for</p>
 <ul>
   <li>the skill of getting my point across <em>quicker</em></li>
@@ -1322,7 +1348,7 @@ General blog posts are almost the same as link-posts above but I feel a lot more
 </ul>
 
 <h3 id="process-1">Process</h3>
-<p>Same as for link-posts, but more time-consuming. Also, sometimes I have original ideas whereas link-post are usually just my interpretation of someone else’s ideas.</p>
+<p>Same as for link-posts, but more time-consuming. Also, sometimes I have original ideas whereas link-posts are usually just my interpretation of someone else’s ideas.</p>
 
 <hr />
 
@@ -1815,7 +1841,7 @@ I know there are a lot of assumptions embedded, nevertheless I have a newfound r
                     <![CDATA[
                     <p><em>Choosing</em> is an area of life that I plan to optimize by removing as much day-to-day choosing as possible (wakeup routine, outfit choice, meal choice, relaxation routine, etc)</p>
 
-<p>Here Zvi explains why: <a href="https://thezvi.wordpress.com/2017/07/22/choices-are-bad/">Choices are Bad</a> and <a href="https://thezvi.wordpress.com/2017/08/12/choices-are-really-bad/">Choices Are Really Bad</a></p>
+<p>In his two elegantly titled posts Zvi explains why: 1) <a href="https://thezvi.wordpress.com/2017/07/22/choices-are-bad/">Choices are Bad</a> and 2) <a href="https://thezvi.wordpress.com/2017/08/12/choices-are-really-bad/">Choices Are Really Bad</a></p>
 
 <blockquote>
   <p>A movie you would have enjoyed if it was just on makes you feel like a schmuck if you take twenty minutes choosing it from thousands at the video store.</p>
@@ -1913,7 +1939,7 @@ This is sometimes abbreviated as MVP — Minimal Viable Product.</p>
   <footer><cite>Me, high on new tech</cite></footer>
 </blockquote>
 
-<p>That’s when my weekend ended and, still having nothing to show for a site, I felt sad and disappointed. I gave up and decided that <em>if</em> I even were to get new site, I will hire a professional to do it.
+<p>That’s when my weekend ended and, still having nothing to show for it, I felt sad and disappointed. I gave up and decided that <em>if</em> I even were to get new site, I will hire a professional to do it.
 Some weeks later I even started making a tech spec to post on a freelance exchange. Including the fancy pagination et al, of course.</p>
 
 <p>There was a slight problem though. I noticed a strange thing: it was really hard for me to describe in technical language what was required. Interesting. How come? 
