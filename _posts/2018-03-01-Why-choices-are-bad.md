@@ -7,7 +7,7 @@ tags: the-zvi goal
 
 _Choosing_ is an area of life that I plan to optimize by removing as much day-to-day choosing as possible (wakeup routine, outfit choice, meal choice, relaxation routine, etc) 
 
-Here Zvi explains why: [Choices are Bad](https://thezvi.wordpress.com/2017/07/22/choices-are-bad/) and [Choices Are Really Bad](https://thezvi.wordpress.com/2017/08/12/choices-are-really-bad/)
+In his two elegantly titled posts Zvi explains why: 1) [Choices are Bad](https://thezvi.wordpress.com/2017/07/22/choices-are-bad/) and 2) [Choices Are Really Bad](https://thezvi.wordpress.com/2017/08/12/choices-are-really-bad/)
 
 
 > A movie you would have enjoyed if it was just on makes you feel like a schmuck if you take twenty minutes choosing it from thousands at the video store.

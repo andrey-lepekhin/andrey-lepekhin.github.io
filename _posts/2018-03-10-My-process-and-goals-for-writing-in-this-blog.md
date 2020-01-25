@@ -8,11 +8,11 @@ tags: goal process
 I describe my processes for writing here and the goals behind those processes.  
 Previously: [Hello, world!]({% post_url 2018-02-24-Hello-world %})
 
-## Link-posts 
+## Type: Link-posts 
 [Links to articles, posts]({{ site.url }}/category/links/), [webcomics]({{ site.url }}/category/comics/), [videos]({{ site.url }}/tag/video/), etc
 — are not included in the general blog roll in the root of this blog
 
-### Goals
+### Purpose
 * Satisfy the sharing need: when I find something thought-provoking I get a craving to share it
 * Learn something better by explaining it
 
@@ -24,18 +24,18 @@ Previously: [Hello, world!]({% post_url 2018-02-24-Hello-world %})
 1. **TODO** Schedule re-reading of old posts or make an anki-like thing to remember and use practical parts.
 
 
-## General blog posts
-— the default type of posts that you see in the root if this blog  
+## Type: General blog posts
+— the default type of posts that you see in the root if this blog. 
 General blog posts are almost the same as link-posts above but I feel a lot more strongly about sharing these: their perceived importance is high. Also they tend to contain more text written by yours truly.
 
-### More Goals
+### Purpose
 Getting more writing experience for
 * the skill of getting my point across _quicker_
 * affecting more people than usual (that is _if_ I make a goal out of making this blog popular in the future)
 * creating a thought-archive which I can analyze, and improve upon my thought processes. I think that the ability to write down thoughts is the first major artificial brain augmentation; it would be a shame not to use it.
 
 ### Process
-Same as for link-posts, but more time-consuming. Also, sometimes I have original ideas whereas link-post are usually just my interpretation of someone else's ideas.  
+Same as for link-posts, but more time-consuming. Also, sometimes I have original ideas whereas link-posts are usually just my interpretation of someone else's ideas.  
   
 
 -----------------

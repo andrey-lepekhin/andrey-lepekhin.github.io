@@ -32,7 +32,7 @@ This blog is an example of a situation where I slipped into wanting to build a _
 
 
 
-That's when my weekend ended and, still having nothing to show for a site, I felt sad and disappointed. I gave up and decided that _if_ I even were to get new site, I will hire a professional to do it.
+That's when my weekend ended and, still having nothing to show for it, I felt sad and disappointed. I gave up and decided that _if_ I even were to get new site, I will hire a professional to do it.
 Some weeks later I even started making a tech spec to post on a freelance exchange. Including the fancy pagination et al, of course.  
 
 There was a slight problem though. I noticed a strange thing: it was really hard for me to describe in technical language what was required. Interesting. How come? 

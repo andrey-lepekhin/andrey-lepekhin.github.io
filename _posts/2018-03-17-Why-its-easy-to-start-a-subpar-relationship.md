@@ -50,7 +50,7 @@ There would not be a problem if acceptable SO attractiveness didn't rise to the 
 
 Being in a relationship that doesn't satisfy you sucks.
 The internal conflict rises: should I stay or should I go? [♫](https://www.youtube.com/watch?v=BN1WwnEDWAM)  
-It's not an [easy choice]({% post_url 2018-03-01-Why-choices-are-bad %}), you have emotional attachment and a whole host of cognitive biases working against you:
+It's not an easy choice, you have emotional attachment and a whole host of cognitive biases working against you:
 
 <blockquote>
   <p>
@@ -73,7 +73,7 @@ Worth mentioning: I am not an _extreme_ idealist, I understand there can be comp
 I think that it's a response to one of the basic needs not being met.  
 I'll try a metaphor. Imagine you do not have a place to sleep. In the morning you do not need to sleep so your idea of a place to sleep is a 5-star hotel. In the afternoon you become a little sleepier and make vague attempts on finding _a_ hotel, _any_ hotel. In the evening you're sleepy and really need a place to rest, and will agree on a capsule hotel or a hostel.  
 
-Or maybe it's just evolution nudging: "Come on, stop thinking, just fuck whatever".
+Or maybe it's just evolution nudging: "Come on, stop thinking, procreate!".
 
 
 ### Why do the standards rise again
@@ -88,7 +88,7 @@ In a place-to-sleep example above: after a night in a capsule hotel you do feel 
 This doesn't help with increased perceived difficultness of dating more attractive partners; I'm still searching a solution for that.
 
 
-Maybe it's solvable by sex without relationships? Maybe if you're still getting any, your standards do not lower?   
+Maybe it's solvable by casual sex without serious relationships? Maybe if you fulfill your basic needs elsewhere, your standards do not lower?   
 
 * Friends with benefits - doesn't work for me, as it usually grows into a relationship.  
 * One-night-stands - I didn't have that many encounters so I cannot generalize. Should look into it. 
@@ -99,7 +99,7 @@ Maybe it's solvable by sex without relationships? Maybe if you're still getting 
 
 
 
-### P.S. Dear ladies
+### P.S.
 
 If you are my partner and you're wondering what if I secretly think of you as a subpar choice, I have good news.
 This post is a public commitment: I will only start relationships with those who meet my criteria for a partner. It still doesn't make our relationship bulletproof and there are ways it can go awry, but at least I (and you) have one less thing to worry about.

@@ -6,7 +6,7 @@ tags: squirrelinhell goal
 update_date: 2018-04-30
 ---
 
-_**UPD** This post rises some important questions, so I promote it from link-post to the index page for visibility._  
+_**UPD** This post rises some important questions, so I promote it to the index page for visibility._  
 The pursuit of happiness defines many parts of my life. Or should I say "happiness"?
 
 _SquirrelInHell_ writes about an unbelievable problem that [Happiness Is a Chore](https://squirrelinhell.blogspot.se/2017/12/happiness-is-chore.html)   

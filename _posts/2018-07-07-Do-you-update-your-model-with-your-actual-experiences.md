@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 'Do you update your model with your actual experiences?'
+title: 'How I began to befriend my feelings instead of trying to control them'
 categories: blog
 tags: happiness goal
 summary: 'I do a lot to control my internal state, but I was too dependent on <i>ideas</i> of what happiness <i>should be</i> and was ignoring what I really felt in the process.'
+update_date: 2020-01-25
 ---
 
 I do a lot to control my internal state
@@ -40,9 +41,9 @@ I can formulate the main thought as **update your model with your actual experie
 I'm applying this newly learned principle for my hobbies/vocations search: I'm searching for things to do besides my day job, and start with no idea of what I could be doing.
 
 **Before**: elaborate planning, with weighted criteria list based on my best approximation of what I like; using said list as a scoring method for a vast list of hobbies[^2].  
-**After**: same plan scaffolding but the criteria list and their weights come from a direct experience of doing stuff. 
+**After**: same plan scaffolding but the criteria list and their weights come from a direct experience of doing stuff. I.e. I try doing stuff that I sorta feel like doing, sometimes even (gah!) without a scoring behind that feeling.
 
-If you're familiar with software methodologies, I see this idea as applying the lean concept. It's like iterating on an MVP instead of waiting for the waterfall to end.
+If you're familiar with software methodologies, I see this idea as applying the lean concept. It's like iterating on an [MVP]({% post_url 2018-02-25-Vigilant-MVP-case-of-this-blog %}) instead of waiting for the waterfall to end.
 
     
 This is all still very new, but it feels uncomfortable and right – the best kind of feeling, meaning I'm broadening my comfort zone. Anyway, I'll see where this particular rabbit hole goes and will change the course if I don't like it.

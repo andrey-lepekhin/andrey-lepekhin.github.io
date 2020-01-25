@@ -9,8 +9,9 @@ Here are the quotes from two great articles that clarify this topic.'
 ---
 
 Focus on the process, not just the goals; live in the day-to-day and enjoy it — I did not internalize these concepts until recently.  
+
 Some other common ideas (e.g. “silence is golden”) were well understood by me during adolescence, but the “live in the now, it’s all you’ve got” mantra was as elusive as it is ubiquitous[^1].  
-Here are the quotes from two great articles that clarify this topic.
+Here are the quotes from two great articles that clarify this topic for me.
 
 [How Schopenhauer’s thought can illuminate a midlife crisis](https://aeon.co/ideas/how-schopenhauers-thought-can-illuminate-a-midlife-crisis) by Kieran Setiya:
 > Hence one common figure of the midlife crisis: the striving high-achiever, obsessed with getting things done, who is haunted by the hollowness of everyday life. When you are obsessed with projects, ceaselessly replacing old with new, satisfaction is always in the future. Or the past. It is mortgaged, then archived, but never possessed. In pursuing goals, you aim at outcomes that preclude the possibility of that pursuit, extinguishing the sparks of meaning in your life.

@@ -15,15 +15,13 @@ For example, in some contexts, I just took notice that "it's uncomfortable to ho
 
 Having predetermined etiquette for expressing interest in the opposite sex is also very handy. In the past, after meeting a woman's gaze several times I usually started thinking "Does it mean anything, or is it a coincidence? Should I go say hi now or wait a couple of minutes to be sure?". The article conveniently answers these questions and more.
 
-> When you look over at a woman, she will usually look away, whether she’s interested in you or not. But the way in which she averts her gaze tells you a lot about whether she wants you to approach her or not [...]
-
-I will not paste more quotes, the article is small and neatly divided with subheadings so you can take only what you need:
+The article is small and neatly divided with subheadings so you can take only what you need:
 
 * General guidelines on how to do it. When to look, where to look, how long, how to avert your gaze and what does it signal
 * Sales and pitching (job interviews included)
 * When you need to intimidate/dominate or diffuse a conflict
 * Meeting the eyes of a stranger in the street
-* Making eye contact with a woman
+* Making eye contact with the opposite sex
 * When giving a speech 
 
 After I started paying attention and _choosing_ my eye contact behavior rather than _reacting_, I've became more confident in almost all of those situations. And confidence feels great.
