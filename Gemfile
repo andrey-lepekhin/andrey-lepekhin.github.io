@@ -5,4 +5,5 @@ source 'https://rubygems.org' do
 	gem 'jemoji', '0.11.1'
 	gem 'jekyll-paginate-v2', '2.0.0'
 	gem 'jekyll-sitemap', '1.3.1'
+	gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 end
