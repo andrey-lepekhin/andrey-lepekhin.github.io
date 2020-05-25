@@ -1,4 +1,4 @@
-@rem I've made initial branch setup using this guide:
+@rem I've made the initial branch setup using this guide:
 @rem https://drewsilcock.co.uk/custom-jekyll-plugins see end of this file for its saved copy, just in case it goes offline
 @rem Commit message should be put in double quotes
 

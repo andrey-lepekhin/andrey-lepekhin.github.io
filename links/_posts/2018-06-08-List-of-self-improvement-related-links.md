@@ -37,7 +37,7 @@ When (if) I come reading through them, I will add descriptions and short version
 1. [7 High-leverage life skills they should teach in grade school](http://www.raptitude.com/2011/10/7-high-leverage-life-skills-they-should-teach-in-grade-school/)
 1. [The Socratic Method](http://www.garlikov.com/Soc_Meth.html)
 1. [The Willpower Instinct](http://kellymcgonigal.com/willpowerinstinct/)
-1. [ППП: Пять правил переговорщика](http://bigplans.megaplan.ru/high-five)
+1. [ППП: Пять правил переговорщика](https://megaplan.ru/blog/management/high-five/)
 1. [Think &amp; Grow Rich – Actionable Books](http://www.actionablebooks.com/en-ca/summaries/think-grow-rich/)
 1. [Who Moved My Cheese – Actionable Books](http://www.actionablebooks.com/en-ca/summaries/who-moved-my-cheese/)
 1. [The Ultimate Guide to Learning Anything Faster ](https://www.entrepreneur.com/article/246118)
