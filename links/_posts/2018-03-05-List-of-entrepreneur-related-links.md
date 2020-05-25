@@ -149,7 +149,7 @@ Also, when I come, I will have to think of something that will prevent paralysis
 1. [Launching a product,](https://medium.com/@benediktdeicke/launching-a-product-in-just-3652-days-4d4e74e2dcd5)
 1. [We Started on a Couch: A Story of Growth from the Road Less Traveled](http://lawrencehester.com/post/126668871331/fareharbor-bootstrap-success)
 1. [E-Commerce KPI Study: There's (Finally) a Benchmark for That](https://moz.com/blog/ecommerce-kpi-benchmark-study)
-1. [Annual Report (2014)](http://productizedconsulting.net/annual-report-2014/)
+1. [Articles on attracting leads to your consulting gig](https://kaidavis.com/articles/)
 1. [Ask HN: How do you stay motivated to work on side projects?](https://news.ycombinator.com/item?id=8800788)
 1. [[47] Business Models for Bootstrappers](http://bootstrappedweb.com/business-models-bootstrappers/)
 1. [Ask HN: How much recurring income do you generate and from what?](https://news.ycombinator.com/item?id=8629919)
