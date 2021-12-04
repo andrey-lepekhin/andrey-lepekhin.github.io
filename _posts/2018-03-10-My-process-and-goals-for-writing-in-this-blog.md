@@ -9,7 +9,7 @@ I describe my processes for writing here and the goals behind those processes.
 Previously: [Hello, world!]({% post_url 2018-02-24-Hello-world %})
 
 ## Type: Link-posts 
-[Links to articles, posts]({{ site.url }}/category/links/), [webcomics]({{ site.url }}/category/comics/), [videos]({{ site.url }}/tag/video/), etc
+[Links to articles, posts]({{ site.url }}/category/links/), [webcomics]({{ site.url }}/category/comics/) etc
 — are not included in the general blog roll in the root of this blog
 
 ### Purpose

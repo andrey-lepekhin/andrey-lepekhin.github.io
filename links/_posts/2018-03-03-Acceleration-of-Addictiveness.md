@@ -2,7 +2,7 @@
 layout: post
 title: 'The Acceleration of Addictiveness'
 categories: links
-tags: Paul-Graham
+tags: paul-graham
 ---
 
 

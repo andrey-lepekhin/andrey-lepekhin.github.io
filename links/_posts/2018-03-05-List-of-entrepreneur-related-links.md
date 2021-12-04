@@ -3,11 +3,15 @@ layout: post
 title: 'List of entrepreneur-related links'
 categories: links
 tags: entrepreneurship goal
-update_date: 2019-11-09
+update_date: 2020-05-30
 ---
 
-From time to time I pocket articles that seem like they would help me when I'll start working toward my own business.  
-As I see it now, that time wouldn't come in 2018, so I'll make a handy stash of these articles here (and [empty out my pocket]({% post_url links/2018-05-12-Six-steps-to-a-daily-writing-habit %})).
+From time to time I Pocket articles that seem like they would help me when I'll start working toward my own business.  
+As I see it now, that time wouldn't come in ~~2018~~ 2019, so I'll make a handy stash of these articles here. 
+
+That'll help to [empty out my Pocket]({% post_url links/2018-05-12-Six-steps-to-a-daily-writing-habit %}) and somewhat placate my FOMO (it seems to think that all the cool people are entrepreneurs) without it costing too much:  
+
+> — You see, Mr. I-wanna-be-a-successfull-entrepreneur-guy, I'm making progress, my article list is mighty long!
 
 
 When I come reading, I'll mark them off the list and maybe even leave comments about their utility.  
@@ -26,7 +30,7 @@ Also, when I come, I will have to think of something that will prevent paralysis
 1.   [http://letsworkshop.com/freelance-as-a-service/](http://letsworkshop.com/freelance-as-a-service/)
 1.   **[http://casjam.com/use-outlines-and-ship/](http://casjam.com/use-outlines-and-ship/?__vid=659a56d04656013251e722000b2a88d7)**
 1.   [Loving The Work](http://casjam.com/loving-the-work/)
-1.   [Tricks to Monetize your Side Projects – Jeremy Boyd](http://jeremyaboyd.com/tricks-to-monetize-your-side-projects/)
+1.   [Tricks to Monetize your Side Projects – Jeremy Boyd](https://jeremyaboyd.micro.blog/2016/09/01/tricks-to-monetize.html)
 1.   [How to Test Drive Your Business Idea Before Quitting Your Job](https://blog.ladder.io/business-idea/)
 1.   **[21 management things I learned at Imgur — Medium](https://medium.com/@gerstenzang/21-management-things-i-learned-at-imgur-7abb72bdf8bf)**
 1.   **[A Tech Founder's Guide To Picking A Non-Tech Founder](http://onstartups.com/tabid/3339/bid/104056/A-Tech-Founder-s-Guide-To-Picking-A-Non-Tech-Founder.aspx)**
@@ -50,8 +54,8 @@ Also, when I come, I will have to think of something that will prevent paralysis
 1.   [Invisible unicorns: 35 big companies that started with little or no money \|](https://techcrunch.com/2017/07/01/invisible-unicorns-35-big-companies-that-started-with-little-or-no-money/)
 1.   [Everything I Wish I’d Known Before I Started Demoing SaaS](https://thebetterstory.co/everything-i-wish-id-known-before-i-started-demoing-saas-f83c1c4fad99)
 1.   [Marketing Software, For People Who Would Rather Be Building It \| Kalzumeus](http://www.kalzumeus.com/2013/04/24/marketing-for-people-who-would-rather-be-building-stuff/)
-1.   [http://discuss.joelonsoftware.com/default.asp?W1341](http://discuss.joelonsoftware.com/default.asp?W1341)
-1.   [EP10: Rob Walling – outsource on oDesk, find your idea, market your product](http://productpeople.tv/2013/01/23/ep10-rob-walling-part2/)
+1.   ~~http://discuss.joelonsoftware.com/default.asp?W1341~~
+1.   ~~EP10: Rob Walling – outsource on oDesk, find your idea, market your product http://productpeople.tv/2013/01/23/ep10-rob-walling-part2/~~
 1.   [Ask HN: Successful one-person online businesses? \| Hacker News](https://news.ycombinator.com/item?id=7367243)
 1.   [How To Validate Product Ideas Before (And After) Building Them](https://training.kalzumeus.com/newsletters/archive/validating_product_ideas)
 1.   [http://www.startupsfortherestofus.com/episodes/episode-184](http://www.startupsfortherestofus.com/episodes/episode-184)
@@ -118,7 +122,7 @@ Also, when I come, I will have to think of something that will prevent paralysis
 1. [Kalzumeus Podcast Episode 8: High Touch Software Sales with Steli Efti](https://www.kalzumeus.com/2014/07/24/kalzumeus-podcast-episode-8-high-touch-software-sales-with-steli-efti/)
 1. [How do you stay motivated when you're not making any money?](https://stackingthebricks.com/how-do-you-stay-motivated-when-youre-not-making-any-money/?_r=uf)
 1. [The Most Fascinating Profile You’ll Ever Read About a Guy and His Boring Startup](https://www.wired.com/2014/08/the-most-fascinating-profile-youll-ever-read-about-a-guy-and-his-boring-startup/)
-1. [How to Land Your First Customers When You’re Unknown](https://productizeandscale.com/your-first-customers/)
+1. ~~How to Land Your First Customers When You’re Unknown https://productizeandscale.com/your-first-customers/~~
 1. [Talking About Money \[Salary\]](https://www.kalzumeus.com/2015/05/01/talking-about-money/)
 1. [How to Build a Unicorn From Scratch – and Walk Away with Nothing](http://heidiroizen.tumblr.com/post/118473647305/how-to-build-a-unicorn-from-scratch-and-walk)
 1. [I self-published a learn-to-code book and made nearly $5,000 in pre-orders](https://hellowebbooks.com/news/how-i-launched-my-learn-to-code-book-and-made-nearly-5000-in-pre-orders/)
@@ -132,7 +136,7 @@ Also, when I come, I will have to think of something that will prevent paralysis
 1. [Thread by @naval: How to Get Rich (without getting lucky)](https://threadreaderapp.com/thread/1002103360646823936.html)
 1. [Ramit Sethi and Patrick McKenzie On Why Your Customers Would Be Happier If You Charged More](http://www.kalzumeus.com/2012/09/21/ramit-sethi-and-patrick-mckenzie-on-why-your-customers-would-be-happier-if-you-charged-more/)
 1. [Ramit Sethi and Patrick McKenzie on Getting Your First Consulting Client](http://www.kalzumeus.com/2012/09/17/ramit-sethi-and-patrick-mckenzie-on-getting-your-first-consulting-client/)
-1. [16 Startup Metrics](https://a16z.com/2015/08/21/16-metrics/)
+1. [Andreessen Horowitz - 16 Startup Metrics](https://web.archive.org/web/20200506074948/https://a16z.com/2015/08/21/16-metrics/)
 1. [The Post-YC Slump](http://blog.samaltman.com/the-post-yc-slump)
 1. [Why Successful People Focus on the Bottom End of the Funnel](http://www.bothsidesofthetable.com/2015/06/19/why-successful-people-focus-on-the-bottom-end-of-the-funnel/)
 1. [The Next Feature Fallacy: The fallacy that the next new feature will suddenly make people use your product](http://andrewchen.co/the-next-feature-fallacy-the-fallacy-that-the-next-new-feature-will-suddenly-make-people-use-your-product/)
@@ -164,7 +168,7 @@ Also, when I come, I will have to think of something that will prevent paralysis
 1. [Tim Ferriss Drunk dialling](https://tim.blog/2018/03/29/discipline-sex-psychedelics-and-more-the-return-of-drunk-dialing/) starting from 30 minute, on how to choose what to do (something you yourself will pay for)
 1. [All Things Sales! 16 Mini-Lessons for Startup Founders](https://a16z.com/2018/09/02/sales-startups-technical-founders/)
 1. [Things they don't teach you running a business by yourself](https://docs.browserless.io/blog/2018/08/01/running-an-indie-business.html)
-1. [#30DayStartup](https://www.newco.app/30daystartup)
+1. ~~#30DayStartup https://www.newco.app/30daystartup~~
 1. [Emergent Ventures Fellowship Application](https://www.tfaforms.com/4697544)
 1. [Ask HN: How to come up with monetizable side project ideas?](https://news.ycombinator.com/item?id=18047553)
 1. [Growing Our SaaS Company To $1M+ ARR: 7 People, 3 Years, No VC Money. Key Lessons Learned](https://medium.com/everhour/growing-our-saas-company-to-1m-arr-7-people-3-years-no-vc-money-key-lessons-learned-2d53766507d2)

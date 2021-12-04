@@ -7,6 +7,10 @@
   transition-property: box-shadow, background-color;
 }
 
+a.button-blue:visited {
+  color: white;
+}
+
 .button-blue:hover {
   opacity: .875;
 }
