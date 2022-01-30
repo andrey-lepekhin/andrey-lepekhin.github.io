@@ -66,9 +66,7 @@ A quote from the abstract:</p>
                 <link>https://www.lepekhin.com/2020/02/23/Some-programming-idioms-explained</link>
                 <content:encoded>
                     <![CDATA[
-                    <p><a href="https://dave.cheney.net/2020/02/23/the-zen-of-go">The Zen of Go</a> by <em>Dave Cheney</em></p>
-
-<p>As a perpetually novice programmer, it was nice to see the reasons behind some popular idioms explained. Like why “Maintainability counts” or “Avoid package level state”.
+                    <p>As a perpetually novice programmer, it was nice to see the reasons behind some popular idioms explained. <!--excerpt_separator-->Like why “Maintainability counts” or “Avoid package level state”.
 Also this way of seeing developer work as preparation for inevitable change:</p>
 
 <blockquote>
@@ -78,6 +76,8 @@ Also this way of seeing developer work as preparation for inevitable change:</p>
 
   <p>But this is never true. Software has bugs, requirements change, inputs change, and very few programs are written solely to be executed once, thus your program will change over time. Maybe it’s you who’ll be tasked with this, more likely it will be someone else, but someone has to change that code. Someone has to maintain that code.</p>
 </blockquote>
+
+<p><a href="https://dave.cheney.net/2020/02/23/the-zen-of-go">The Zen of Go</a> by <em>Dave Cheney</em></p>
 
                     ]]>
                 </content:encoded>
