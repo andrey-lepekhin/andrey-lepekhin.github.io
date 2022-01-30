@@ -8,8 +8,14 @@ abbr {
 }
 
 p {
-  color: #333;
+  color: $base-font-color;
   line-height: 1.75;
+}
+
+@media (prefers-color-scheme: dark) {
+  p {
+    color: $dark-mode-font-color;
+  }
 }
 
 small,

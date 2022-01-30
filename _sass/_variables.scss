@@ -40,6 +40,9 @@ $yellow: #efcc00 !default;
 $orange: #ffcc22 !default;
 $purple: #f92080 !default;
 $dark-blue: #00369f !default;
+$darker-blue: #24292e !default;
+$light-blue: #add8e6 !default;
+$lighter-blue: #c8e1ff !default;
 $green: #00ab37 !default;
 $dark-green: #009f06 !default;
 $light-pink: #ffdddd !default;
@@ -53,10 +56,24 @@ $darken-2: rgba(#000,.125) !default;
 $darken-3: rgba(#000,.25) !default;
 $darken-4: rgba(#000,.5) !default;
 
+
+$base-font-color: $dark-gray;
+$base-bg-color: white;
+
+$dark-mode-font-color: #e3e3e3;
+$dark-mode-bg-color: $dark-gray;
+
+
+
 // Links
 $link-color: $blue;
 $link-hover-color: darken($blue, 40%);
 $link-visited-color: #800080;
+
+$dark-mode-link-color: lighten($blue, 20%);
+$dark-mode-link-hover-color: lighten($dark-mode-link-color, 20%);
+$dark-mode-link-visited-color: lighten($link-visited-color, 4%);
+
 
 // Breakpoints
 $breakpoint-md: '(min-width: 52em)';
@@ -75,6 +92,10 @@ $button-line-height: 1.125rem !default;
 $button-padding-y: .5rem !default;
 $button-padding-x: 1rem !default;
 $button-font-family: $heading-font-family;
+
+// Blockquotes
+$blockquote-bg-color: #fff;
+$blockquote-color: #7a7a7a;
 
 // Forms
 $form-field-font-size: 1rem !default;
@@ -96,7 +117,8 @@ $form-field-padding-x: .5rem;
 // Code
 $pre-border-radius: 0;
 $pre-background-color: #fafafa;
-$hljs-comment: $mid-gray;
+$pre-font-color: $mid-gray;
+$hljs-comment: $light-gray;
 $hljs-keyword: $dark-blue;
 $hljs-name: $dark-gray;
 $hljs-number: $dark-green;
@@ -114,6 +136,17 @@ $hljs-addition: $light-green;
 $hljs-change: $dark-blue;
 $hljs-chunk: $light-gray;
 
+// Nav
+$nav-color: $mid-gray;
+$nav-link-color: #666;
+$nav-padding: $space-2;
+$nav-link-padding-x: $space-2;
+$nav-active-border-bottom: 1px solid $light-gray;
+
+$dark-mode-nav-color: $mid-gray;
+$dark-mode-nav-link-color: #888;
+$dark-mode-nav-active-border-bottom: 1px solid $light-gray;
+
 // Footer
 $footer-border-top: thin solid #f3f3f3;
 $footer-padding: $space-3;
@@ -121,3 +154,24 @@ $footer-color: #7a7a7a;
 $footer-bg-color: #fafafa;
 $footer-font-weight: 300;
 $footer-font-size: .75rem;
+
+$dark-mode-footer-bg-color: darken($dark-mode-bg-color, 5%);
+
+// Posts
+$post-link-color: $dark-gray;
+$post-meta-color: $mid-gray;
+$post-index-separator-color: #f3f3f3;
+
+$dark-mode-post-link-color: $dark-mode-font-color;
+$dark-mode-post-index-separator-color: darken($post-index-separator-color, 20%);
+
+// Pagination
+$pagination-link-color: #333333;
+$pagination-background-color: #0076df33;
+$pagination-link-hover-color: #477dca;
+$pagination-hover-background-color: white;
+
+$dark-mode-pagination-link-color: $light-blue;
+$dark-mode-pagination-background-color: $pagination-background-color;
+$dark-mode-pagination-link-hover-color: lighten($light-blue, 40%);
+$dark-mode-pagination-hover-background-color: lighten($pagination-background-color, 40%);

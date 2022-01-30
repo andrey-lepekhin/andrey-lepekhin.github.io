@@ -1,8 +1,15 @@
 /* Basscss Color Base */
 
 body {
-  color: $dark-gray;
-  background-color: white;
+  color: $base-font-color;
+  background-color: $base-bg-color;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: $dark-mode-font-color;
+    background-color: $dark-mode-bg-color;
+  }
 }
 
 a {
@@ -16,7 +23,7 @@ a:hover {
 
 pre,
 code {
-  background-color: $lighter-gray;
+  background-color: $lighter-gray; //TODO dark mode
   border-radius: $border-radius;
 }
 

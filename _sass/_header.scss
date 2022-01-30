@@ -5,10 +5,16 @@
 }
 
 .site-header a {
-  color: #333;
+  color: $base-font-color;
   font-size: $h3;
   font-weight: 300;
   background-image: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  .site-header a {
+    color: $dark-mode-font-color;
+  }
 }
 
 .site-header .site-title {
@@ -20,15 +26,31 @@
 }
 
 .site-header nav a {
-  color: #666;
+  color: $nav-link-color;
+}
+
+@media (prefers-color-scheme: dark) {
+  .site-header nav a {
+    color: $dark-mode-nav-link-color;
+  }
 }
 
 .site-header nav a:hover,
 .site-header nav a:focus,
 .site-header nav a:active {
-  color: #444;
+  color: $nav-link-color;
   opacity: 1;
-  border-bottom: 2px solid #444;
+  border-bottom: 2px solid $nav-link-color;
+}
+
+@media (prefers-color-scheme: dark) {
+  .site-header nav a:hover,
+  .site-header nav a:focus,
+  .site-header nav a:active {
+    color: lighten($dark-mode-nav-link-color, 30%);
+    opacity: 1;
+    border-bottom: $dark-mode-nav-active-border-bottom;
+  }
 }
 
 .site-nav a + a {
@@ -39,7 +61,16 @@
 .posts .post a:hover .post-meta,
 .posts .post a:hover .post-title,
 .posts .post a:hover .post-summary {
-  opacity: 0.88;
+  color: lighten($base-font-color, 10%);
+}
+
+@media (prefers-color-scheme: dark) {
+  .site-header a:hover,
+  .posts .post a:hover .post-meta,
+  .posts .post a:hover .post-title,
+  .posts .post a:hover .post-summary {
+    color: lighten($dark-mode-font-color, 20%);
+  }
 }
 
 .site-header {
@@ -57,7 +88,15 @@
 .site-index a:hover,
 .site-index a:focus,
 .site-index a:active {
-  color: #444;
   opacity: 1;
-  border-bottom: 2px solid #444;
+  border-bottom: 2px solid $base-font-color;
+}
+
+@media (prefers-color-scheme: dark) {
+  .site-index a:hover,
+  .site-index a:focus,
+  .site-index a:active {
+    opacity: 1;
+    border-bottom: 2px solid $dark-mode-font-color;
+  }
 }

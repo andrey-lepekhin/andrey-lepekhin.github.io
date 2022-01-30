@@ -5,7 +5,14 @@
 
 .posts .post {
   margin-bottom: 0.75em;
-  border-bottom: thin solid #f3f3f3;
+  border-bottom: thin solid $post-index-separator-color;
+}
+
+@media (prefers-color-scheme: dark) {
+  .posts .post {
+    margin-bottom: 0.75em;
+    border-bottom: thin solid $dark-mode-post-index-separator-color;
+  }
 }
 
 .posts .post:last-child {
@@ -17,7 +24,15 @@
 .post-link .post-title {
   margin-top: 0;
   font-weight: 600;
-  color: #333;
+  color: $post-link-color;
+}
+
+@media (prefers-color-scheme: dark) {
+  .post-link .post-title {
+    margin-top: 0;
+    font-weight: 600;
+    color: $dark-mode-post-link-color;
+  }
 }
 
 .post-footer {
@@ -30,7 +45,7 @@
 .post-footer .avatar {
   margin: 2rem 0;
   width: 100px;
-  border-radius: 50%;
+  border-radius: 50
 }
 
 .meta,
@@ -39,7 +54,7 @@
   font-weight: 300;
   margin: 0;
   padding: .25em 0;
-  /*color: #7a7a7a;*/
+  /*color: #7a7a7a; // or $post-meta-color */ 
   font-style: italic;
 }
 

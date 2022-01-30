@@ -16,6 +16,15 @@ MIT License http://opensource.org/licenses/MIT
 html, body {
   height: auto;
   min-height: 100%;
+  background-color: $base-bg-color;
+  color: $base-font-color;
+}
+
+@media (prefers-color-scheme: dark) {
+  html, body {
+    background-color: $dark-gray;
+    color: $dark-mode-font-color;
+  }
 }
 
 img {

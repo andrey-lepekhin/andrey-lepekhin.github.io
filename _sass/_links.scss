@@ -6,7 +6,7 @@ a {
     rgba($link-color,.8) 18%,
     rgba(0,0,0,0) 17%
   );
-  text-shadow: white 1px 0px 0px, white -1px 0px 0px;
+  text-shadow: $base-bg-color 1px 0px 0px, $base-bg-color -1px 0px 0px;
 }
 
 a:hover,
@@ -21,12 +21,46 @@ a:active {
     rgba($link-hover-color,.8) 17%,
     rgba(0,0,0,0) 17%
   );
-  text-shadow: white 1px 0px 0px, white -1px 0px 0px;
+  text-shadow: $base-bg-color 1px 0px 0px, $base-bg-color -1px 0px 0px;
+}
+
+@media (prefers-color-scheme: dark) {
+  a {
+    color: $dark-mode-link-color;
+    background-image: linear-gradient(to top,
+      rgba(0,0,0,0) 13%,
+      rgba($dark-mode-link-color,.8) 13%,
+      rgba($dark-mode-link-color,.8) 18%,
+      rgba(0,0,0,0) 17%
+    );
+    text-shadow: $dark-mode-bg-color 1px 0px 0px, $dark-mode-bg-color -1px 0px 0px;
+  }
+
+  a:hover,
+  a:focus,
+  a:active {
+    border: 0;
+    color: $dark-mode-link-hover-color;
+    text-decoration: none;
+    background-image: linear-gradient(to top,
+      rgba(0,0,0,0) 13%,
+      rgba($dark-mode-link-hover-color,.8) 13%,
+      rgba($dark-mode-link-hover-color,.8) 17%,
+      rgba(0,0,0,0) 17%
+    );
+    text-shadow: $dark-mode-bg-color 1px 0px 0px, $dark-mode-bg-color -1px 0px 0px;
+  }
 }
 
 a:visited {
   color: $link-visited-color;
   /*background-image doesn't work on :visited so unglines ensues*/
+}
+
+@media (prefers-color-scheme: dark) {
+  a:visited {
+    color: $dark-mode-link-visited-color;
+  }
 }
 
 // Correct issues with buttons
@@ -39,9 +73,17 @@ button,
 .button:hover,
 .button:focus,
 .button:active {
-  color: white;
+  color: $base-bg-color;
   text-shadow: none;
   background-image: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  .button:hover,
+  .button:focus,
+  .button:active {
+    color: $dark-mode-bg-color;
+  }
 }
 
 .anchorjs-link {
