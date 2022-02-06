@@ -1,16 +1,12 @@
 pre,
-pre code {
-  background-color: transparent;
+code {
+  font-family: $monospace-font-family;
+  background-color: $pre-background-color;
   border-radius: $pre-border-radius;
 }
 
-pre,
 code {
-  font-family: $monospace-font-family;
-}
-
-code {
-  color: #7a7a7a; // TODO dark mode
+  color: $pre-font-color;
 }
 
 pre {
@@ -18,7 +14,14 @@ pre {
   line-height: 1.11;
   overflow-x: scroll;
   margin-bottom: 0.88em;
-  background-color: $pre-background-color;
+}
+
+@media (prefers-color-scheme: dark) {
+  pre,
+  code {
+    color: $dark-mode-pre-font-color;
+    background-color: $dark-mode-pre-background-color;
+  }
 }
 
 .highlight .p {
