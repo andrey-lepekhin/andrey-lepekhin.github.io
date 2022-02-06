@@ -1,5 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://www.lepekhin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.lepekhin.com/" rel="alternate" type="text/html" /><updated>2022-01-30T14:05:15+03:00</updated><id>https://www.lepekhin.com/feed.xml</id><title type="html">The Blog of Andrey Lepekhin</title><subtitle>Thoughts on life improvement</subtitle><author><name>Andrey Lepekhin</name></author><entry><title type="html">Web comics category</title><link href="https://www.lepekhin.com/2099/01/01/Web-comics-category" rel="alternate" type="text/html" title="Web comics category" /><published>2099-01-01T00:00:00+03:00</published><updated>2099-01-01T00:00:00+03:00</updated><id>https://www.lepekhin.com/2099/01/01/Web-comics-category</id><content type="html" xml:base="https://www.lepekhin.com/2099/01/01/Web-comics-category">&lt;p&gt;Beware, comics posted here tend to be profane and some are even NSFW.&lt;br /&gt;
-Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).&lt;/p&gt;</content><author><name>Andrey Lepekhin</name></author><summary type="html">Beware, comics posted here tend to be profane and some are even NSFW. Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).</summary></entry><entry><title type="html">3 links: future, present and uncomfortable</title><link href="https://www.lepekhin.com/2020/02/24/3-links-future-present-and-uncomfortable" rel="alternate" type="text/html" title="3 links: future, present and uncomfortable" /><published>2020-02-24T00:00:00+03:00</published><updated>2020-02-24T00:00:00+03:00</updated><id>https://www.lepekhin.com/2020/02/24/3-links-future-present-and-uncomfortable</id><content type="html" xml:base="https://www.lepekhin.com/2020/02/24/3-links-future-present-and-uncomfortable">&lt;p&gt;A short post with 10 thought-provoking predictions for this decade (e.g. decentralized internet and the world run by Millennials)
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="https://www.lepekhin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.lepekhin.com/" rel="alternate" type="text/html" /><updated>2022-02-06T16:12:31+03:00</updated><id>https://www.lepekhin.com/feed.xml</id><title type="html">The Blog of Andrey Lepekhin</title><subtitle>Thoughts on life improvement</subtitle><author><name>Andrey Lepekhin</name></author><entry><title type="html">Web comics category</title><link href="https://www.lepekhin.com/2099/01/01/Web-comics-category" rel="alternate" type="text/html" title="Web comics category" /><published>2099-01-01T00:00:00+03:00</published><updated>2099-01-01T00:00:00+03:00</updated><id>https://www.lepekhin.com/2099/01/01/Web-comics-category</id><content type="html" xml:base="https://www.lepekhin.com/2099/01/01/Web-comics-category">&lt;p&gt;Beware, comics posted here tend to be profane and some are even NSFW.&lt;br /&gt;
+Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).&lt;/p&gt;</content><author><name>Andrey Lepekhin</name></author><summary type="html">Beware, comics posted here tend to be profane and some are even NSFW. Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).</summary></entry><entry><title type="html">Dark mode implementation for this blog</title><link href="https://www.lepekhin.com/2022/02/06/Dark-mode-implementation-for-this-blog" rel="alternate" type="text/html" title="Dark mode implementation for this blog" /><published>2022-02-06T00:00:00+03:00</published><updated>2022-02-06T00:00:00+03:00</updated><id>https://www.lepekhin.com/2022/02/06/Dark-mode-implementation-for-this-blog</id><content type="html" xml:base="https://www.lepekhin.com/2022/02/06/Dark-mode-implementation-for-this-blog">&lt;p&gt;I’ve implemented the dark theme for this blog. An endeavour for 2-3 hours that has visible results. A satisfying project, I invite everyone with a light-theme-only blog to try.
+&lt;!--excerpt_separator--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.lepekhin.com/images/2022-02-06-Dark-mode-implementation-for-this-blog--dark-mode-example-picture.jpg&quot; alt=&quot;An article screenshot, one half of which is in light mode and the other half is in dark mode&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;CSS Tricks&lt;/em&gt;, of course, has this topic thoroughly covered in their &lt;a href=&quot;https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/&quot;&gt;Complete Guide to Dark Mode on the Web&lt;/a&gt;. I’ll describe what I’ve done in this particular blog and why.&lt;/p&gt;
+
+&lt;p&gt;I’m using &lt;code class=&quot;highlighter-rouge&quot;&gt;@media (prefers-color-scheme: dark) { ... }&lt;/code&gt; CSS media query which lets me use OS-level user preferences. I chose not to support manual toggling between modes because of two reasons:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Implementation involves JavaScript swapping CSS classes and storing state in Local Storage–a harder effort than I wanted for this quick-win project&lt;/li&gt;
+  &lt;li&gt;If a user has strong preferences about the dark mode, I imagine such a user already has a way of controlling the interface. Such as a browser plugin that changes the theme, e.g. &lt;a href=&quot;https://darkreader.org/&quot;&gt;Dark Reader&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;As dark mode gains momentum, I think major browsers will display a toggle between modes (not only in Dev Tools) making the effort of creating this toggle myself moot.&lt;/p&gt;
+
+&lt;h2 id=&quot;implementation&quot;&gt;Implementation&lt;/h2&gt;
+
+&lt;p&gt;This blog uses a modified &lt;a href=&quot;https://github.com/johno/pixyll&quot;&gt;Pixyll theme&lt;/a&gt; that has &lt;strong&gt;32&lt;/strong&gt; SASS files that get compiled into one big CSS file.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.lepekhin.com/images/2022-02-06-Dark-mode-implementation-for-this-blog--sass-includes-listing.jpg&quot; alt=&quot;Part of includes listing @importing separate SASS files for links, code, header, etc&quot; width=&quot;350&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This otherwise reasonable divide-and-conquer approach bites me in the ass here, as I needed to insert the media-query block 17 times. For each style, I wanted to look different when dark. Here’s &lt;a href=&quot;https://github.com/andrey-lepekhin/andrey-lepekhin.github.io/commit/b54227499b737f5042d151f60c39416e88c9ba4b&quot;&gt;the actual commit&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I could instead place all dark mode styles in one such file, but then I’ll lose the handy separation these files provide. Also, in the future, if I change a light mode style, the proximity of the corresponding dark mode style will remind me to change it as well. Something I might otherwise forget to do and test for.
+If there is a better way, please tell me about it.&lt;/p&gt;
+
+&lt;p&gt;So, that’s basically it: adding media-query styles and selecting particular colors that look good on dark background.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Oh, while we’re on a technical topic, I want to boast a little. This site got a 100/100 performance score at Google’s &lt;a href=&quot;https://pagespeed.web.dev&quot;&gt;PageSpeed Insights&lt;/a&gt; for desktop and 97 for mobile. I can mostly attribute it to Jekyll itself and a little bit to my tweaks using locally hosted fonts instead of Google Fonts’ CDN. I host this blog on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; for free, you can use the &lt;a href=&quot;https://github.com/barryclark/jekyll-now&quot;&gt;same GitHub Pages-friendly process&lt;/a&gt; I’m using.&lt;/p&gt;</content><author><name>Andrey Lepekhin</name></author><category term="process" /><summary type="html">I’ve implemented the dark theme for this blog. An endeavour for 2-3 hours that has visible results. A satisfying project, I invite everyone with a light-theme-only blog to try.</summary></entry><entry><title type="html">3 links: future, present and uncomfortable</title><link href="https://www.lepekhin.com/2020/02/24/3-links-future-present-and-uncomfortable" rel="alternate" type="text/html" title="3 links: future, present and uncomfortable" /><published>2020-02-24T00:00:00+03:00</published><updated>2020-02-24T00:00:00+03:00</updated><id>https://www.lepekhin.com/2020/02/24/3-links-future-present-and-uncomfortable</id><content type="html" xml:base="https://www.lepekhin.com/2020/02/24/3-links-future-present-and-uncomfortable">&lt;p&gt;A short post with 10 thought-provoking predictions for this decade (e.g. decentralized internet and the world run by Millennials)
 &lt;a href=&quot;https://avc.com/2020/01/what-will-happen-in-the-2020s/&quot;&gt;What Will Happen In The 2020s&lt;/a&gt; by &lt;em&gt;Fred Wilson&lt;/em&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -139,36 +169,4 @@ Check out this beautifully implemented interactive page &lt;a href=&quot;https:/
 
 &lt;hr /&gt;
 
-&lt;p&gt;While we’re on this topic, I’ll add two possible applications for GPT-2 successors that I see emerging in the next couple of years: 1) ‘Get-a-date Tinder chatbot’ and 2) ‘Witty chat messages suggestions’ in major chat apps.&lt;/p&gt;</content><author><name>Andrey Lepekhin</name></author><category term="ai" /><category term="openai" /><summary type="html">Humans Who Are Not Concentrating Are Not General Intelligences in which srconstantin describes one of many possible consequences of OpenAI’s new language model.</summary></entry><entry><title type="html">Slack rant</title><link href="https://www.lepekhin.com/2018/07/30/Slack-rant" rel="alternate" type="text/html" title="Slack rant" /><published>2018-07-30T00:00:00+03:00</published><updated>2018-07-30T00:00:00+03:00</updated><id>https://www.lepekhin.com/2018/07/30/Slack-rant</id><content type="html" xml:base="https://www.lepekhin.com/2018/07/30/Slack-rant">&lt;p&gt;Replying to Slack messages &lt;em&gt;feels&lt;/em&gt; productive, but it is a very, &lt;strong&gt;very&lt;/strong&gt; addictive way to procrastinate. It’s hard to say no to it. Others are replying fast. Instant messaging creates &lt;em&gt;expectation&lt;/em&gt; of a fast answer. It’s not your grandpa’s email after all. It is gratifying, it is a quick fix, it’s easy. Get your dopamine hit &lt;strong&gt;now&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Oh, it feels good having answered all unread messages. No anxiety. Bliss. Yet the faster you reply, the faster you get another message.&lt;/p&gt;
-
-&lt;p&gt;There’s no real multitasking for humans. You have to decide whether you want to have a state of flow or allow constant interruptions&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;Not plunging into this infinite pseudo-productive sea of quick-fixes is something that is still hard for me. I don’t have new message notifications of course, but I know that red unread messages counter exists and it beckons.&lt;br /&gt;
-&lt;img src=&quot;https://www.lepekhin.com/images/2018-07-30-Slack-notification.png&quot; alt=&quot;&quot; style=&quot;width: 50px;&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;counter-measures&quot;&gt;Counter-measures&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;I lobby for not-expecting-an-immediate-answer culture when I can&lt;/li&gt;
-  &lt;li&gt;Slack is hidden in the tray or turned off by default&lt;/li&gt;
-  &lt;li&gt;I &lt;em&gt;try&lt;/em&gt; to answer messages in bulk at scheduled unproductive times of the day.&lt;/li&gt;
-  &lt;li&gt;I &lt;em&gt;try&lt;/em&gt; not to mark messages as unread. This is still hard. Otherwise, I read a message, decide I don’t want to answer now, mark it unread… and one hour later the cycle repeats, eating away my time and attention.&lt;/li&gt;
-  &lt;li&gt;I start working at home, with no distractions, no phone, no Slack, no email.&lt;/li&gt;
-  &lt;li&gt;There is one thing that really helps me with slackrastination (that is a word now), or any procrastination for that matter: instead of automatically changing what you do, you make the process as conscious as possible. For me the good example are weeks when I track my time. Each time I change what I do, I write the new activity down and start corresponding activity timer&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. When I am in a state of flow and start writing “Slack” to change timers, I usually catch myself and go back to doing the important stuff.&lt;/li&gt;
-  &lt;li&gt;My wallpaper at work &lt;img src=&quot;https://www.lepekhin.com/images/2018-07-30-turnoffSlack.png&quot; alt=&quot;White canvas with words: &amp;quot;Close Slack &amp;amp; Gmail. Do what's important. Heart emoji&amp;quot;&quot; style=&quot;border: black 0.1em;border-style: dashed;&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&amp;lt;/rant&amp;gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Don’t get me started on open space offices, I have one rant per post policy. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;I use &lt;a href=&quot;https://toggl.com/&quot;&gt;Toggl&lt;/a&gt; for that. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Andrey Lepekhin</name></author><category term="goal" /><category term="productivity" /><summary type="html">Replying to Slack messages feels productive, but it is a very, very addictive way to procrastinate. It’s hard to say no to it. Others are replying fast. Instant messaging creates expectation of a fast answer. It’s not your grandpa’s email after all. It is gratifying, it is a quick fix, it’s easy. Get your dopamine hit now.</summary></entry></feed>
+&lt;p&gt;While we’re on this topic, I’ll add two possible applications for GPT-2 successors that I see emerging in the next couple of years: 1) ‘Get-a-date Tinder chatbot’ and 2) ‘Witty chat messages suggestions’ in major chat apps.&lt;/p&gt;</content><author><name>Andrey Lepekhin</name></author><category term="ai" /><category term="openai" /><summary type="html">Humans Who Are Not Concentrating Are Not General Intelligences in which srconstantin describes one of many possible consequences of OpenAI’s new language model.</summary></entry></feed>
