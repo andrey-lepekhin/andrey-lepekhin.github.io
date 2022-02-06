@@ -22,8 +22,16 @@ html, body {
 
 @media (prefers-color-scheme: dark) {
   html, body {
-    background-color: $dark-gray;
+    background-color: $dark-mode-bg-color;
     color: $dark-mode-font-color;
+  }
+  img {
+    filter: brightness(.8) contrast(1.2);
+    -webkit-transition: all 1s ease;
+    transition: all 1s ease;
+  }
+  img:hover {
+    filter: brightness(1) contrast(1);
   }
 }
 
@@ -41,3 +49,4 @@ body {
      -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
 }
+
