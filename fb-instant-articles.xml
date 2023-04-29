@@ -22,7 +22,7 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
                 <description>
                     
                 </description>
-                <pubDate>Thu, 01 Jan 2099 00:00:00 +0300</pubDate>
+                <pubDate>Thu, 01 Jan 2099 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -135,7 +135,7 @@ The author is the king of nuanced worldbuilding. My god! He’s made a variety o
                 <description>
                     
                 </description>
-                <pubDate>Sat, 09 Jul 2022 00:00:00 +0300</pubDate>
+                <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -153,7 +153,7 @@ The author is the king of nuanced worldbuilding. My god! He’s made a variety o
 
 <p><em>CSS Tricks</em>, of course, has this topic thoroughly covered in their <a href="https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/">Complete Guide to Dark Mode on the Web</a>. I’ll describe what I’ve done in this particular blog and why.</p>
 
-<p>I’m using <code class="highlighter-rouge">@media (prefers-color-scheme: dark) { ... }</code> CSS media query which lets me use OS-level user preferences. I chose not to support manual toggling between modes because of two reasons:</p>
+<p>I’m using <code class="language-plaintext highlighter-rouge">@media (prefers-color-scheme: dark) { ... }</code> CSS media query which lets me use OS-level user preferences. I chose not to support manual toggling between modes because of two reasons:</p>
 <ol>
   <li>Implementation involves JavaScript swapping CSS classes and storing state in Local Storage–a harder effort than I wanted for this quick-win project</li>
   <li>If a user has strong preferences about the dark mode, I imagine such a user already has a way of controlling the interface. Such as a browser plugin that changes the theme, e.g. <a href="https://darkreader.org/">Dark Reader</a>.</li>
@@ -184,7 +184,7 @@ If there is a better way, please tell me about it.</p>
                 <description>
                     
                 </description>
-                <pubDate>Sun, 06 Feb 2022 00:00:00 +0300</pubDate>
+                <pubDate>Sun, 06 Feb 2022 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -217,7 +217,7 @@ A quote from the abstract:</p>
                 <description>
                     
                 </description>
-                <pubDate>Mon, 24 Feb 2020 00:00:00 +0300</pubDate>
+                <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -247,7 +247,7 @@ Also this way of seeing developer work as preparation for inevitable change:</p>
                 <description>
                     
                 </description>
-                <pubDate>Sun, 23 Feb 2020 00:00:00 +0300</pubDate>
+                <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -279,7 +279,7 @@ Also this way of seeing developer work as preparation for inevitable change:</p>
                 <description>
                     
                 </description>
-                <pubDate>Sun, 23 Feb 2020 00:00:00 +0300</pubDate>
+                <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -309,7 +309,7 @@ I’ll only paste one quote as the post itself has just the right composition to
                 <description>
                     
                 </description>
-                <pubDate>Sun, 23 Feb 2020 00:00:00 +0300</pubDate>
+                <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -357,7 +357,7 @@ They concluded that people were unable to “fully appreciate the psychological,
 <h2 id="measure-an-adequate-cost-of-time-spent-commuting">Measure an adequate cost of time spent commuting</h2>
 
 <p>My first approach was to answer a hypothetical like: “<em>After 9 hours at work, Mr. Burns wants me to do some menial work for another hour. How much does he have to pay for me to be satisfied with this hour?</em>”<br />
-That provided an amount of 12 000 ₽<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> as a result. I had to revise the question immediately as the real situation was not so one-sided:<br />
+That provided an amount of 12 000 ₽<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> as a result. I had to revise the question immediately as the real situation was not so one-sided:<br />
 I enjoy reading on the tube, and I don’t mind a brisk walk of up to 20 minutes. So, the question had to change.</p>
 
 <p>Turns out I was already asking myself a useful question before every Uber drive: “Am I willing to pay this amount for speed and comfort instead of using public transport?” <br />
@@ -371,27 +371,27 @@ Some days I dreaded the tube, and some days it was more… acceptable.</p>
 <p><img src="https://www.lepekhin.com/images/2019-11-26-Moscow_rent_cost_map.png" alt="Heat map of rent prices of Moscow. Higher prices in city center" />
 The price of renting is higher the closer you are to downtown, which is filled with offices and historic places.</p>
 
-<p>I’ve made a table to calculate the daily cost of time saved on commuting and the daily cost of rent in the corresponding neighborhoods<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>.</p>
+<p>I’ve made a table to calculate the daily cost of time saved on commuting and the daily cost of rent in the corresponding neighborhoods<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>.</p>
 
 <p><img src="https://www.lepekhin.com/images/2019-11-26-table-daily-rent-vs-cost-of-saved-time.png" alt="The table which shows said calculations. Daily cost of saved free time minus cost of rent in the area of 20 minutes commute is positive" /></p>
 
 <p>The positive numbers in the last column mean that the price I’m willing to pay for a lesser commute is higher than the rent cost in the area that will provide said commute. What do you know, my frugal self <em>can</em> afford to live closer to the office! :tada:<br />
 …And that’s not even counting the opportunity costs of a long commute!</p>
 
-<p>With that, making a decision is easy, I’m going to rent downtown!<sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup> The next post is about how to approach selecting a neighborhood within an acceptable distance from your office.</p>
+<p>With that, making a decision is easy, I’m going to rent downtown!<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup> The next post is about how to approach selecting a neighborhood within an acceptable distance from your office.</p>
 
 <hr />
 
-<div class="footnotes">
+<div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:1">
-      <p>That’s around $200. Hereafter, prices will be in Rubles since I’m in Moscow, but it shouldn’t matter. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    <li id="fn:1" role="doc-endnote">
+      <p>That’s around $200. Hereafter, prices will be in Rubles since I’m in Moscow, but it shouldn’t matter. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
-    <li id="fn:2">
-      <p>There are two important assumptions made for simplification here: 1) These two weeks are not outliers 2) Each minute of commute costs exactly the same. That’s somehow irrelevant as the equilibrium between daily rent and the cost of saved time was achieved exactly at the 20-minute mark - the time I asked about in the previous question. Happy coincidence. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    <li id="fn:2" role="doc-endnote">
+      <p>There are two important assumptions made for simplification here: 1) These two weeks are not outliers 2) Each minute of commute costs exactly the same. That’s somehow irrelevant as the equilibrium between daily rent and the cost of saved time was achieved exactly at the 20-minute mark - the time I asked about in the previous question. Happy coincidence. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
-    <li id="fn:3">
-      <p>Something that has also helped my paradigm shift and start this whole process was an honest acceptance of the fact that yes, rent is expensive, it may not seem fair, but it’s a seller’s market and my outrage will not change this one bit. <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
+    <li id="fn:3" role="doc-endnote">
+      <p>Something that has also helped my paradigm shift and start this whole process was an honest acceptance of the fact that yes, rent is expensive, it may not seem fair, but it’s a seller’s market and my outrage will not change this one bit. <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
 </div>
@@ -402,7 +402,7 @@ The price of renting is higher the closer you are to downtown, which is filled w
                 <description>
                     
                 </description>
-                <pubDate>Tue, 26 Nov 2019 00:00:00 +0300</pubDate>
+                <pubDate>Tue, 26 Nov 2019 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -422,14 +422,14 @@ Check out this beautifully implemented interactive page <a href="https://ciechan
                 <description>
                     
                 </description>
-                <pubDate>Sun, 10 Nov 2019 00:00:00 +0300</pubDate>
+                <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
     
         
             <item>
-                <title>Sometimes it's really hard to measure the effects of online ads</title>
+                <title>Sometimes it&apos;s really hard to measure the effects of online ads</title>
                 <link>https://www.lepekhin.com/2019/11/09/Sometimes-its-really-hard-to-measure-the-effects-of-online-ads</link>
                 <content:encoded>
                     <![CDATA[
@@ -450,7 +450,7 @@ Check out this beautifully implemented interactive page <a href="https://ciechan
                 <description>
                     
                 </description>
-                <pubDate>Sat, 09 Nov 2019 00:00:00 +0300</pubDate>
+                <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -477,7 +477,7 @@ Check out this beautifully implemented interactive page <a href="https://ciechan
                 <description>
                     
                 </description>
-                <pubDate>Tue, 26 Feb 2019 00:00:00 +0300</pubDate>
+                <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -492,7 +492,7 @@ Check out this beautifully implemented interactive page <a href="https://ciechan
 
 <p>Oh, it feels good having answered all unread messages. No anxiety. Bliss. Yet the faster you reply, the faster you get another message.</p>
 
-<p>There’s no real multitasking for humans. You have to decide whether you want to have a state of flow or allow constant interruptions<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>.</p>
+<p>There’s no real multitasking for humans. You have to decide whether you want to have a state of flow or allow constant interruptions<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</p>
 
 <p>Not plunging into this infinite pseudo-productive sea of quick-fixes is something that is still hard for me. I don’t have new message notifications of course, but I know that red unread messages counter exists and it beckons.<br />
 <img src="https://www.lepekhin.com/images/2018-07-30-Slack-notification.png" alt="" style="width: 50px;" /></p>
@@ -504,20 +504,20 @@ Check out this beautifully implemented interactive page <a href="https://ciechan
   <li>I <em>try</em> to answer messages in bulk at scheduled unproductive times of the day.</li>
   <li>I <em>try</em> not to mark messages as unread. This is still hard. Otherwise, I read a message, decide I don’t want to answer now, mark it unread… and one hour later the cycle repeats, eating away my time and attention.</li>
   <li>I start working at home, with no distractions, no phone, no Slack, no email.</li>
-  <li>There is one thing that really helps me with slackrastination (that is a word now), or any procrastination for that matter: instead of automatically changing what you do, you make the process as conscious as possible. For me the good example are weeks when I track my time. Each time I change what I do, I write the new activity down and start corresponding activity timer<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>. When I am in a state of flow and start writing “Slack” to change timers, I usually catch myself and go back to doing the important stuff.</li>
+  <li>There is one thing that really helps me with slackrastination (that is a word now), or any procrastination for that matter: instead of automatically changing what you do, you make the process as conscious as possible. For me the good example are weeks when I track my time. Each time I change what I do, I write the new activity down and start corresponding activity timer<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>. When I am in a state of flow and start writing “Slack” to change timers, I usually catch myself and go back to doing the important stuff.</li>
   <li>My wallpaper at work <img src="https://www.lepekhin.com/images/2018-07-30-turnoffSlack.png" alt="White canvas with words: &quot;Close Slack &amp; Gmail. Do what's important. Heart emoji&quot;" style="border: black 0.1em;border-style: dashed;" /></li>
 </ul>
 <p>&lt;/rant&gt;</p>
 
 <hr />
 
-<div class="footnotes">
+<div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:1">
-      <p>Don’t get me started on open space offices, I have one rant per post policy. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    <li id="fn:1" role="doc-endnote">
+      <p>Don’t get me started on open space offices, I have one rant per post policy. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
-    <li id="fn:2">
-      <p>I use <a href="https://toggl.com/">Toggl</a> for that. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    <li id="fn:2" role="doc-endnote">
+      <p>I use <a href="https://toggl.com/">Toggl</a> for that. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
 </div>
@@ -528,7 +528,7 @@ Check out this beautifully implemented interactive page <a href="https://ciechan
                 <description>
                     
                 </description>
-                <pubDate>Mon, 30 Jul 2018 00:00:00 +0300</pubDate>
+                <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -558,14 +558,14 @@ Check out this beautifully implemented interactive page <a href="https://ciechan
   <li>Write down the plan for the next morning, including one most important goal, and optional hints like “start the going out routine by 8:00, leave home by 8:30”</li>
 </ul>
 
-<p><strong>Morning</strong>, immediately after waking up<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup></p>
+<p><strong>Morning</strong>, immediately after waking up<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
 <ul>
   <li>At least one pomodoro doing the most important task</li>
 </ul>
 
 <p>Before breaking for any less productive activities like eating, Reddit or email checking:</p>
 <ul>
-  <li>Dance to at least one track<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>, immediately followed by</li>
+  <li>Dance to at least one track<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>, immediately followed by</li>
   <li>Meditate for at least 10 minutes</li>
 </ul>
 
@@ -582,13 +582,13 @@ Check out this beautifully implemented interactive page <a href="https://ciechan
 
 <hr />
 
-<div class="footnotes">
+<div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:1">
-      <p>Some mornings I am groggier than on others, that’s where having a clear todo list from the evening before shines – I don’t need to deliberate about what to do, no decision necessary. In case you forgot - <a href="/2018/03/01/Why-choices-are-bad">choices are bad</a>. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    <li id="fn:1" role="doc-endnote">
+      <p>Some mornings I am groggier than on others, that’s where having a clear todo list from the evening before shines – I don’t need to deliberate about what to do, no decision necessary. In case you forgot - <a href="/2018/03/01/Why-choices-are-bad">choices are bad</a>. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
-    <li id="fn:2">
-      <p>Why? According to two years of correlating my activities and mood, dancing consistently makes me happy. Sometimes it’s 3 minutes, sometimes it will be 20. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    <li id="fn:2" role="doc-endnote">
+      <p>Why? According to two years of correlating my activities and mood, dancing consistently makes me happy. Sometimes it’s 3 minutes, sometimes it will be 20. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
 </div>
@@ -599,7 +599,7 @@ Check out this beautifully implemented interactive page <a href="https://ciechan
                 <description>
                     
                 </description>
-                <pubDate>Sun, 29 Jul 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -642,7 +642,7 @@ Check out this beautifully implemented interactive page <a href="https://ciechan
                 <description>
                     
                 </description>
-                <pubDate>Sun, 22 Jul 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -664,7 +664,7 @@ Check out this beautifully implemented interactive page <a href="https://ciechan
   <li>Therapy, friends, commitment devices, etc. ✔</li>
 </ul>
 
-<p>Doing all this does indeed provide me with a higher baseline happiness<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>. Still, I’ve managed to fool myself into treating all <a href="/2018/07/01/Living-in-the-now">living-in-the-moment advise</a> as ‘a list of goals that undoubtedly <strong>will</strong> bring happiness when completed’.  I was too dependent on <em>ideas</em> of what happiness <em>should be</em> and was ignoring what I really felt in the process.</p>
+<p>Doing all this does indeed provide me with a higher baseline happiness<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>. Still, I’ve managed to fool myself into treating all <a href="/2018/07/01/Living-in-the-now">living-in-the-moment advise</a> as ‘a list of goals that undoubtedly <strong>will</strong> bring happiness when completed’.  I was too dependent on <em>ideas</em> of what happiness <em>should be</em> and was ignoring what I really felt in the process.</p>
 
 <p>There are times when, even after meticulous completion of todo-list items, I feel down for some reason. Maybe I wanted to accomplish more, maybe someone was a dick to me, maybe I was a dick to someone, maybe it’s just a mysterious hormone fluctuation.<br />
 Sometimes, all it takes to bring my mood up are compassion and <em>a permission</em> to feel bad.</p>
@@ -683,7 +683,7 @@ Sometimes, all it takes to bring my mood up are compassion and <em>a permission<
 
 <p>I’m applying this newly learned principle for my hobbies/vocations search: I’m searching for things to do besides my day job, and start with no idea of what I could be doing.</p>
 
-<p><strong>Before</strong>: elaborate planning, with weighted criteria list based on my best approximation of what I like; using said list as a scoring method for a vast list of hobbies<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>.<br />
+<p><strong>Before</strong>: elaborate planning, with weighted criteria list based on my best approximation of what I like; using said list as a scoring method for a vast list of hobbies<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>.<br />
 <strong>After</strong>: same plan scaffolding but the criteria list and their weights come from a direct experience of doing stuff. I.e. I try doing stuff that I sorta feel like doing, sometimes even (gah!) without a scoring behind that feeling.</p>
 
 <p>If you’re familiar with software methodologies, I see this idea as applying the lean concept. It’s like iterating on an <a href="/2018/02/25/Vigilant-MVP-case-of-this-blog">MVP</a> instead of waiting for the waterfall to end.</p>
@@ -692,13 +692,13 @@ Sometimes, all it takes to bring my mood up are compassion and <em>a permission<
 
 <hr />
 
-<div class="footnotes">
+<div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:1">
-      <p>I’ve logged my mood and activity during random parts of the day for more than a year now. This allows me to see correlations between my activities and mood. Maybe someday I will make a more thorough proof that there is indeed causation, but right now I’m comfortable being sure that, e.g. dancing and lifting weights reliably make me happy, and playing computer games makes me sad. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    <li id="fn:1" role="doc-endnote">
+      <p>I’ve logged my mood and activity during random parts of the day for more than a year now. This allows me to see correlations between my activities and mood. Maybe someday I will make a more thorough proof that there is indeed causation, but right now I’m comfortable being sure that, e.g. dancing and lifting weights reliably make me happy, and playing computer games makes me sad. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
-    <li id="fn:2">
-      <p><a href="https://en.wikipedia.org/wiki/List_of_hobbies">https://en.wikipedia.org/wiki/List_of_hobbies</a>, <a href="http://www.notsoboringlife.com/list-of-hobbies/">http://www.notsoboringlife.com/list-of-hobbies/</a> <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    <li id="fn:2" role="doc-endnote">
+      <p><a href="https://en.wikipedia.org/wiki/List_of_hobbies">https://en.wikipedia.org/wiki/List_of_hobbies</a>, <a href="http://www.notsoboringlife.com/list-of-hobbies/">http://www.notsoboringlife.com/list-of-hobbies/</a> <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
 </div>
@@ -711,7 +711,7 @@ Sometimes, all it takes to bring my mood up are compassion and <em>a permission<
                     I do a lot to control my internal state, but I was too dependent on &lt;i&gt;ideas&lt;/i&gt; of what happiness &lt;i&gt;should be&lt;/i&gt; and was ignoring what I really felt in the process.
                     
                 </description>
-                <pubDate>Sat, 07 Jul 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -724,7 +724,7 @@ Sometimes, all it takes to bring my mood up are compassion and <em>a permission<
                     <![CDATA[
                     <p>Focus on the process, not just the goals; live in the day-to-day and enjoy it — I did not internalize these concepts until recently.</p>
 
-<p>Some other common ideas (e.g. “silence is golden”) were well understood by me during adolescence, but the “live in the now, it’s all you’ve got” mantra was as elusive as it is ubiquitous<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>.<br />
+<p>Some other common ideas (e.g. “silence is golden”) were well understood by me during adolescence, but the “live in the now, it’s all you’ve got” mantra was as elusive as it is ubiquitous<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.<br />
 Here are the quotes from two great articles that clarify this topic for me.</p>
 
 <p><a href="https://aeon.co/ideas/how-schopenhauers-thought-can-illuminate-a-midlife-crisis">How Schopenhauer’s thought can illuminate a midlife crisis</a> by Kieran Setiya:</p>
@@ -758,10 +758,10 @@ And his assumption that his future Todays would be as vibrant and rich as the br
   <p>But perhaps the first thing Jack needs to do is learn to feel more gratitude, another scientifically proven route to happiness and the area in which he falls the most woefully short. Jack spends so much of his time looking up at the great things that will come his way and planning his future happiness and not nearly enough time looking down and thinking about how badly he used to want so many of the things he currently has.</p>
 </blockquote>
 
-<div class="footnotes">
+<div class="footnotes" role="doc-endnotes">
   <ol>
-    <li id="fn:1">
-      <p>My guess it’s because it goes against basic evolutionary goals of staying alive long enough to reproduce: you just don’t enjoy the sunset while the woods are dark and full of terrors. <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    <li id="fn:1" role="doc-endnote">
+      <p>My guess it’s because it goes against basic evolutionary goals of staying alive long enough to reproduce: you just don’t enjoy the sunset while the woods are dark and full of terrors. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
 </div>
@@ -772,7 +772,7 @@ And his assumption that his future Todays would be as vibrant and rich as the br
                 <description>
                     
                 </description>
-                <pubDate>Sun, 01 Jul 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -812,7 +812,7 @@ If you plan on doing something like that near Moscow, please call me up, I am be
                 <description>
                     
                 </description>
-                <pubDate>Sat, 23 Jun 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -912,7 +912,7 @@ When (if) I come reading through them, I will add descriptions and short version
                 <description>
                     
                 </description>
-                <pubDate>Fri, 08 Jun 2018 00:00:00 +0300</pubDate>
+                <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -974,7 +974,7 @@ When (if) I come reading through them, I will add descriptions and short version
                 <description>
                     
                 </description>
-                <pubDate>Sat, 02 Jun 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -1003,7 +1003,7 @@ When (if) I come reading through them, I will add descriptions and short version
                 <description>
                     
                 </description>
-                <pubDate>Sun, 20 May 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -1032,7 +1032,7 @@ Now, each time I add an article, a point is substracted; a point is added each t
                 <description>
                     
                 </description>
-                <pubDate>Sat, 12 May 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -1053,7 +1053,7 @@ Now, each time I add an article, a point is substracted; a point is added each t
                 <description>
                     
                 </description>
-                <pubDate>Sat, 05 May 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -1073,7 +1073,7 @@ Now, each time I add an article, a point is substracted; a point is added each t
                 <description>
                     
                 </description>
-                <pubDate>Tue, 01 May 2018 00:00:00 +0300</pubDate>
+                <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -1103,7 +1103,7 @@ Now, each time I add an article, a point is substracted; a point is added each t
                 <description>
                     
                 </description>
-                <pubDate>Mon, 30 Apr 2018 00:00:00 +0300</pubDate>
+                <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -1144,7 +1144,7 @@ After rereading through everything linked above, I see that, at this moment, I�
                 <description>
                     
                 </description>
-                <pubDate>Sat, 21 Apr 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -1174,7 +1174,7 @@ You’ll get back an answer that sounds hideously long, and clearly reflects no 
                 <description>
                     
                 </description>
-                <pubDate>Sat, 14 Apr 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -1218,7 +1218,7 @@ You’ll get back an answer that sounds hideously long, and clearly reflects no 
                 <description>
                     
                 </description>
-                <pubDate>Sat, 07 Apr 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -1264,7 +1264,7 @@ Quite a diverse list of things, actually:</p>
                 <description>
                     
                 </description>
-                <pubDate>Sat, 07 Apr 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -1320,7 +1320,7 @@ After I go through my notes, I’ll post my takeaways from there as well.</p>
                 <description>
                     
                 </description>
-                <pubDate>Sat, 31 Mar 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -1354,7 +1354,7 @@ Coincidentally, growth framework is something that I lacked in 2015. I now have 
                 <description>
                     
                 </description>
-                <pubDate>Sun, 25 Mar 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -1383,7 +1383,7 @@ Then you have to stick at it.  That takes years.</p>
                 <description>
                     
                 </description>
-                <pubDate>Sun, 25 Mar 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -1400,7 +1400,7 @@ Then you have to stick at it.  That takes years.</p>
   <p>Taking Children Seriously (TCS) is a rational, non-coercive philosophy of parenting and learning which says:</p>
 </blockquote>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>* The main goal of parenting is to help children learn.  
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>* The main goal of parenting is to help children learn.  
 * Punishing doesn’t help with learning.  
 * Reason helps everyone win.  
 * Ignorance isn’t stupidity.  
@@ -1413,7 +1413,7 @@ It also underscores my existing belief that <em>parenting is hard</em>.</p>
 
 <p>For the sake of history, my current argument <strong>against having children</strong> goes like this: <br />
 raising children requires a lot of time and this time commitment is at least for <strong>18.75 years</strong>.
-Anecdotal <code class="highlighter-rouge">it's worth it</code> from the parents I know can really be some sort of Stockholm syndrome. I mean, if you have a child already and you don’t like it, you have the choice of suffering (bad for you and the child) or learning how to love it and make the best of the situation. Leaving a child looks like a heavy conscience penalty so it’s out of the consideration.</p>
+Anecdotal <code class="language-plaintext highlighter-rouge">it's worth it</code> from the parents I know can really be some sort of Stockholm syndrome. I mean, if you have a child already and you don’t like it, you have the choice of suffering (bad for you and the child) or learning how to love it and make the best of the situation. Leaving a child looks like a heavy conscience penalty so it’s out of the consideration.</p>
 
 <p>Please tell me if you have a counter to this line of thinking. It does look shaky and I definitely will need to do a full analysis of this question later.</p>
 
@@ -1426,14 +1426,14 @@ Anecdotal <code class="highlighter-rouge">it's worth it</code> from the parents 
                 <description>
                     
                 </description>
-                <pubDate>Sat, 24 Mar 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
     
         
             <item>
-                <title>Why it's easy to start a subpar relationship</title>
+                <title>Why it&apos;s easy to start a subpar relationship</title>
                 <link>https://www.lepekhin.com/2018/03/17/Why-its-easy-to-start-a-subpar-relationship</link>
                 <content:encoded>
                     <![CDATA[
@@ -1530,7 +1530,7 @@ This post is a public commitment: I will only start relationships with those who
                 <description>
                     
                 </description>
-                <pubDate>Sat, 17 Mar 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -1569,7 +1569,7 @@ This post is a public commitment: I will only start relationships with those who
                 <description>
                     
                 </description>
-                <pubDate>Sat, 10 Mar 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -1589,7 +1589,7 @@ This post is a public commitment: I will only start relationships with those who
                 <description>
                     
                 </description>
-                <pubDate>Sat, 10 Mar 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -1647,14 +1647,14 @@ General blog posts are almost the same as link-posts above but I feel a lot more
                 <description>
                     
                 </description>
-                <pubDate>Sat, 10 Mar 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
     
         
             <item>
-                <title>Why don't we try really doing things</title>
+                <title>Why don&apos;t we try really doing things</title>
                 <link>https://www.lepekhin.com/2018/03/09/Why-dont-we-try-really-doing-things</link>
                 <content:encoded>
                     <![CDATA[
@@ -1704,7 +1704,7 @@ General blog posts are almost the same as link-posts above but I feel a lot more
                 <description>
                     
                 </description>
-                <pubDate>Fri, 09 Mar 2018 00:00:00 +0300</pubDate>
+                <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -1739,7 +1739,7 @@ General blog posts are almost the same as link-posts above but I feel a lot more
                 <description>
                     
                 </description>
-                <pubDate>Thu, 08 Mar 2018 00:00:00 +0300</pubDate>
+                <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -1762,7 +1762,7 @@ General blog posts are almost the same as link-posts above but I feel a lot more
                 <description>
                     
                 </description>
-                <pubDate>Tue, 06 Mar 2018 00:00:00 +0300</pubDate>
+                <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -1993,7 +1993,7 @@ Also, when I come, I will have to think of something that will prevent paralysis
                 <description>
                     
                 </description>
-                <pubDate>Mon, 05 Mar 2018 00:00:00 +0300</pubDate>
+                <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2034,7 +2034,7 @@ Take action despite feeling fear. This is what courage is all about.</p>
                 <description>
                     
                 </description>
-                <pubDate>Sun, 04 Mar 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2059,7 +2059,7 @@ Take action despite feeling fear. This is what courage is all about.</p>
                 <description>
                     
                 </description>
-                <pubDate>Sat, 03 Mar 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sat, 03 Mar 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2083,7 +2083,7 @@ Take action despite feeling fear. This is what courage is all about.</p>
                 <description>
                     
                 </description>
-                <pubDate>Fri, 02 Mar 2018 00:00:00 +0300</pubDate>
+                <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2121,7 +2121,7 @@ I know there are a lot of assumptions embedded, nevertheless I have a newfound r
                 <description>
                     
                 </description>
-                <pubDate>Thu, 01 Mar 2018 00:00:00 +0300</pubDate>
+                <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2166,7 +2166,7 @@ Sounds obvious but there were quite a few ‘aha’ moments while reading this. 
                 <description>
                     
                 </description>
-                <pubDate>Thu, 01 Mar 2018 00:00:00 +0300</pubDate>
+                <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2198,7 +2198,7 @@ Sounds obvious but there were quite a few ‘aha’ moments while reading this. 
                 <description>
                     
                 </description>
-                <pubDate>Wed, 28 Feb 2018 00:00:00 +0300</pubDate>
+                <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2257,7 +2257,7 @@ That’s when I installed <a href="https://github.com/barryclark/jekyll-now">Jek
                 <description>
                     
                 </description>
-                <pubDate>Sun, 25 Feb 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2287,7 +2287,7 @@ I plan to use it to</p>
                 <description>
                     
                 </description>
-                <pubDate>Sat, 24 Feb 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2307,7 +2307,7 @@ I plan to use it to</p>
                 <description>
                     
                 </description>
-                <pubDate>Sat, 17 Feb 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2327,7 +2327,7 @@ I plan to use it to</p>
                 <description>
                     
                 </description>
-                <pubDate>Fri, 16 Feb 2018 00:00:00 +0300</pubDate>
+                <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2347,7 +2347,7 @@ I plan to use it to</p>
                 <description>
                     
                 </description>
-                <pubDate>Thu, 15 Feb 2018 00:00:00 +0300</pubDate>
+                <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2367,7 +2367,7 @@ I plan to use it to</p>
                 <description>
                     
                 </description>
-                <pubDate>Wed, 14 Feb 2018 00:00:00 +0300</pubDate>
+                <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2387,7 +2387,7 @@ I plan to use it to</p>
                 <description>
                     
                 </description>
-                <pubDate>Tue, 13 Feb 2018 00:00:00 +0300</pubDate>
+                <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2407,7 +2407,7 @@ I plan to use it to</p>
                 <description>
                     
                 </description>
-                <pubDate>Mon, 12 Feb 2018 00:00:00 +0300</pubDate>
+                <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2427,7 +2427,7 @@ I plan to use it to</p>
                 <description>
                     
                 </description>
-                <pubDate>Sun, 11 Feb 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2447,7 +2447,7 @@ I plan to use it to</p>
                 <description>
                     
                 </description>
-                <pubDate>Fri, 09 Feb 2018 00:00:00 +0300</pubDate>
+                <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2467,7 +2467,7 @@ I plan to use it to</p>
                 <description>
                     
                 </description>
-                <pubDate>Thu, 08 Feb 2018 00:00:00 +0300</pubDate>
+                <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2487,7 +2487,7 @@ I plan to use it to</p>
                 <description>
                     
                 </description>
-                <pubDate>Wed, 07 Feb 2018 00:00:00 +0300</pubDate>
+                <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2507,7 +2507,7 @@ I plan to use it to</p>
                 <description>
                     
                 </description>
-                <pubDate>Tue, 06 Feb 2018 00:00:00 +0300</pubDate>
+                <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2527,7 +2527,7 @@ I plan to use it to</p>
                 <description>
                     
                 </description>
-                <pubDate>Mon, 05 Feb 2018 00:00:00 +0300</pubDate>
+                <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2547,7 +2547,7 @@ I plan to use it to</p>
                 <description>
                     
                 </description>
-                <pubDate>Sun, 04 Feb 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sun, 04 Feb 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2567,7 +2567,7 @@ I plan to use it to</p>
                 <description>
                     
                 </description>
-                <pubDate>Sat, 03 Feb 2018 00:00:00 +0300</pubDate>
+                <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2587,7 +2587,7 @@ I plan to use it to</p>
                 <description>
                     
                 </description>
-                <pubDate>Fri, 02 Feb 2018 00:00:00 +0300</pubDate>
+                <pubDate>Fri, 02 Feb 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
@@ -2607,7 +2607,7 @@ I plan to use it to</p>
                 <description>
                     
                 </description>
-                <pubDate>Thu, 01 Feb 2018 00:00:00 +0300</pubDate>
+                <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
                 <author>Andrey Lepekhin</author>
             </item>
         
