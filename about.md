@@ -14,6 +14,7 @@ I seek, test and implement systems that help me reach my goals: whether it's thr
 
 
 My fascination with information technology has allowed me to explore a variety of roles within the field. While I once took on the role of a product manager, I have since returned to my roots as a backend developer.    
+
 I read a lot of fiction (any _HPMOR_ or _Worm_ fans out here?), as well as rationalist blogs (Slate Star Codex, Zvi) and about IT in general (Hacker news).
 
 I _love_ dancing to popular music (like [_Hurts - Ready to Go_](https://www.youtube.com/watch?v=PP2G3dm_fsc&t=37)) and I do indulge myself daily.  
