@@ -6,7 +6,7 @@ permalink: /about
 
 Hey there!
 
-![That's me]({{ "/images/Andrey_Lepekhin.png" | absolute_url }})
+![That's me]({{ "/images/Andrey_Lepekhin_2023.png" | absolute_url }})
 
 My name is Andrey Lepekhin. 
 I seek, test and implement systems that help me reach my goals: whether it's through accountability partners, anti-procrastination techniques, psychotherapy, or [biohacking]({% post_url 2018-06-02-Biohacking-and-me %}).
