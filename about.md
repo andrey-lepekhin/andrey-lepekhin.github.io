@@ -4,27 +4,27 @@ title: About me
 permalink: /about
 ---
 
-Hey there!
+Hey there!  
+![My photo]({{ "/images/Andrey_Lepekhin_2023.jpg" | absolute_url }}){: width="200" }
 
-![That's me]({{ "/images/Andrey_Lepekhin_2023.png" | absolute_url }})
+My name is Andrey Lepekhin (*Lee-pyo-khin*).  
+I'm on a journey to lead a fulfilled and contented life. I try out different strategies, diving into applied psychology, mindfulness and more esoteric practices. This is my blog, where I spill my thoughts, share my learnings, and talk about anything that interests me.  
 
-My name is Andrey Lepekhin. 
-I seek, test and implement systems that help me reach my goals: whether it's through accountability partners, anti-procrastination techniques, psychotherapy, or [biohacking]({% post_url 2018-06-02-Biohacking-and-me %}).
+Here's a little more about me.
 
+* I enjoy **meaningful conversations** that bring people closer. Over the years, I've facilitated many such dialogues, and I find them deeply rewarding. I love conversing with others, whether one-on-one or in a group setting. I'm always on the lookout for opportunities to connect with people on a deeper level, so if you're interested, let's talk!
 
+* I'm facinated with **information technology**. In the last 11 years, I've worked in various roles in this field, from startups to big corporations like Yandex. I've handled business analysis, quality assurance, project management, and software development, and I've also led teams of developers.
 
-My fascination with information technology has allowed me to explore a variety of roles within the field. While I once took on the role of a product manager, I have since returned to my roots as a backend developer.    
+* I'm a huge fan of **science fiction**. This genre has been my trusted companion for the past 25 years. Take a look at my [top three favorite books]({% post_url 2022-07-09-My-favorite-fiction-books %}). I'd be more than happy to suggest your next sci-fi book or receive any recommendations from you. Besides, I also read thought-provoking blogs like [Slate Star Codex](https://slatestarcodex.com/) and [Zvi](https://thezvi.wordpress.com/), along with tech-related content such as [Hacker News](https://news.ycombinator.com). 
 
-I read a lot of fiction (any _HPMOR_ or _Worm_ fans out here?), as well as rationalist blogs (Slate Star Codex, Zvi) and about IT in general (Hacker news).
+* As a **mentor**, I assist individuals with time-management and achieving their goals. My method is to help my mentees understand the root of their challenges, rather than just battling symptoms like procrastination. We experiment together to find effective ways to reach their goals, without resorting to self-blame as motivation.
 
-I _love_ dancing to popular music (like [_Hurts - Ready to Go_](https://www.youtube.com/watch?v=PP2G3dm_fsc&t=37)) and I do indulge myself daily.  
+* I love to **dance**, especially free movement styles like freedom dance, ecstatic dance, and authentic movement. If you're hosting an event with these, count me in!
+ 
+Now residing in ~~Moscow~~Bishkek, I'm always eager to connect with people who share similar interests for engaging offline chats. So, if you're nearby, feel free to reach out!  
 
-If you are in ~~Moscow~~Bishkek and want to meet up – shoot me an email – I would love to chat offline. I've found that meeting with like-minded people makes for captivating dialogues, and that is another thing that I absolutely love.
-
-
-[My process and goals for writing in this blog]({% post_url 2018-03-10-My-process-and-goals-for-writing-in-this-blog %})
-
-**I welcome criticism**, as one of this blog's primary goals is to help me improve. If you think something could have been done/written better, you're probably right and I would be grateful for your insights and appreciate you taking the time to share them with me.
+I appreciate constructive feedback, since one of the main goals of this blog is to help me grow. If you think something could be improved, I'd be thankful for your insights and value your effort to share them with me.  
 
 ### Contact me
 

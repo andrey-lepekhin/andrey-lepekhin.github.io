@@ -5,8 +5,9 @@ categories: blog
 tags: goal process
 ---
 
-I describe my processes for writing here and the goals behind those processes.  
-Previously: [Hello, world!]({% post_url 2018-02-24-Hello-world %})
+I describe my processes for writing here and the goals behind those processes. Previously: [first post in the blog and why I did it.]({% post_url 2018-02-24-Hello-world %})
+
+I'll just dive into different types of posts and describe the process and goals for each type.
 
 ## Type: Link-posts 
 [Links to articles, posts]({{ site.url }}/category/links/), [webcomics]({{ site.url }}/category/comics/) etc
@@ -31,7 +32,6 @@ General blog posts are almost the same as link-posts above but I feel a lot more
 ### Purpose
 Getting more writing experience for
 * the skill of getting my point across _quicker_
-* affecting more people than usual (that is _if_ I make a goal out of making this blog popular in the future)
 * creating a thought-archive which I can analyze, and improve upon my thought processes. I think that the ability to write down thoughts is the first major artificial brain augmentation; it would be a shame not to use it.
 
 ### Process
