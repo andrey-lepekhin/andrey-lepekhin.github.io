@@ -14,7 +14,7 @@ Here's a little more about me.
 
 * I enjoy **meaningful conversations** that bring people closer. Over the years, I've facilitated many such dialogues, and I find them deeply rewarding. I love conversing with others, whether one-on-one or in a group setting. I'm always on the lookout for opportunities to connect with people on a deeper level, so if you're interested, let's talk!
 
-* I'm facinated with **information technology**. In the last 11 years, I've worked in various roles in this field, from startups to big corporations like Yandex. I've handled business analysis, quality assurance, project management, and software development, and I've also led teams of developers.
+* I'm fascinated with **information technology**. In the last 11 years, I've worked in various roles in this field, from startups to big corporations like Yandex. I've handled business analysis, quality assurance, project management, and software development, and I've also led teams of developers.
 
 * I'm a huge fan of **science fiction**. This genre has been my trusted companion for the past 25 years. Take a look at my [top three favorite books]({% post_url 2022-07-09-My-favorite-fiction-books %}). I'd be more than happy to suggest your next sci-fi book or receive any recommendations from you. Besides, I also read thought-provoking blogs like [Slate Star Codex](https://slatestarcodex.com/) and [Zvi](https://thezvi.wordpress.com/), along with tech-related content such as [Hacker News](https://news.ycombinator.com). 
 
