@@ -2,7 +2,7 @@
 @rem https://drewsilcock.co.uk/custom-jekyll-plugins see end of this file for its saved copy, just in case it goes offline
 @rem master = Jekyll-generated static site, source = source
 @rem ALERNATIVELY After cloning the repo, fill the _site directory with: 
-@rem git clone --single-branch --branch master https://github.com/andrey-lepekhin/andrey-lepekhin.github.io.git
+@rem git clone --single-branch --branch master https://github.com/andrey-lepekhin/andrey-lepekhin.github.io.git _site
 @rem Commit message argument should be put in double quotes
 
 call bundle exec jekyll build --future && ^
