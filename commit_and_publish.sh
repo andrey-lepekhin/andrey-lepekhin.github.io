@@ -15,13 +15,13 @@ fi
 git checkout source && \
   git add . && \
   git commit -am "Source: $1" && \
-  git push origin source --force-with-lease && \
+  git push origin source && \
   echo "Source successfully pushed to GitHub."
   bundle exec jekyll build --future && \
   touch _site/.nojekyll && \
   cd _site && \
   git add . && \
   git commit -am "Built: $1" && \
-  git push origin master --force-with-lease && \
+  git push origin master && \
   cd .. && \
   echo "Site successfully build and pushed to GitHub."
