@@ -1,0 +1,80 @@
+<h1 id="my-quest-for-silence-an-engineers-journey-into-acoustics-to-build-soundproof-sleep-capsule">My Quest for Silence: An Engineer’s Journey into Acoustics to build Soundproof Sleep Capsule</h1>
+
+<p>It started with sleep problems. I’m very sensitive to sounds during sleep, and throughout my life, I’ve faced various environment-based or neighbor-based noises waking me up. I’ve tried everything: custom-made earplugs, white noise machines, heavy curtains &amp; rugs, meditation, psychotherapy, supplements, perscription drugs – you name it. Everything with various success and not without downsides. The best solution was always <em>be</em> somewhere silent. But since I rent and want to live in a city, that’s hard. An apartment can be silent when you evaluate it and noisy at night.</p>
+
+<p>Anyway, that was a preface to set the scene, so my jump to designing a soundproof sleep capsule doesn’t seem <em>as</em> crazy.</p>
+
+<h2 id="the-cost-of-noise-maybe-make-this-section-collapseble-i-feel-it-might-distract-from-the-main-theme">The Cost of Noise [maybe make this section collapseble, I feel it might distract from the main theme]</h2>
+
+<p>It’s not just about being woken up; it’s the anxiety that builds about the downstream consequences. If I don’t get enough sleep, my next day is shot, my decisions suffer, and it can spiral from there.</p>
+
+<p>I tend to imagine the worst possible outcomes. One anecdote sticks out: In a fashionable part of town I’d just moved into, I heard techno music coming from upstairs on a Friday night.  I become pretty worked up about things that hinder my sleep, and I definitely got worked up that night.</p>
+
+<p>After trying earplugs, and audiobooks, the bass still kicked through everything, especially my mood. Bracing for the worst – picturing some unhinged, muscular punk who didn’t care about neighbors – I went upstairs. Emotionally, I was ready for a physical fight.</p>
+
+<p>The door opened to reveal a lovely young lady. She was completely understanding. We immediately worked out a solution: she moved her small party to a different room further from my apartment. I got her contact info, and she insisted I call if there was ever a problem again. It resolved nicely, a good reminder that my fears are often unfounded and exaggerated, but it highlights the stress noise sensitivity can cause. Building a soundproof capsule is a drastic measure, costly and even potentially dangerous, – all to achieve something that is casually taken for granted.</p>
+
+<h2 id="tackling-the-problem-the-hard-way-engineering-silence">Tackling the Problem the Hard Way: Engineering Silence</h2>
+
+<p>After moving to Finland and facing familiar noise issues, I thought, maybe I should solve this once and for all, the hard way: by mechanically stopping the sound.</p>
+
+<p>So, I embarked on this project. My first thought was that people already solved this for sound recording studios. I dove into books on the topic, found the  bible of building soundproof studios [add a reference], and followed it.</p>
+
+<p>Low-frequency noise (AKA bass), the hardest to stop and my main issue during sleep, was the target. High-frequency noise is usually handled by closing windows.</p>
+
+<p>From an engineering acoustics perspective, stopping low-frequency waves requires <strong>mass</strong> and <strong>decoupling</strong>. Decoupling means the internal wall isn’t rigidly connected to the external one, preventing vibration transmission. I was thinking a ‘room within a room’ – essentially a small soundproof studio inside my existing room. That is, of course, not the entirety of that book, the field has an endless supply of details.</p>
+
+<p>[Image: Early draft design prototype sketch]</p>
+
+<p>After I understood a rough shape of requirements, I started working with a contractor from Upwork to understand how designing physical objects works – something I’d never done before at this scale. Through him, I realized this was a complicated engineering project. The necessary mass for the desired sound attenuation meant the whole thing would weigh over half a ton. This introduced many engineering challenges, for example: a 100kg door needs special construction to help move it, avoid injury or tipping the structure. Entire engineering fields are dedicated to this. The deeper I dug, the more I realized how much I didn’t know.</p>
+
+<p>Working with the contractor was an absolute blast, though. I lucked out, he was very supportive, and possessed a wealth of practical knowledge about building real-world products. He brought practicality to my naive approach, emphasizing cost considerations from the start. I’d assumed materials like plywood, drywall, or mineral wool wouldn’t be that expensive, but costs add up quickly. So thinking about materials during the design phase pays off. He was the one who suggested we build a prototype first – a standard concept in software, but here, it was my turn to be that stakeholder  who wants everything perfect on the first try, I had to be persuaded.</p>
+
+<h2 id="the-prototype-unexpected-help-and-humbling-realities">The Prototype, Unexpected Help, and Humbling Realities</h2>
+
+<p>What about ventilation? We don’t want it to become a soundproof coffin afterall. But ventilation needs gaps, and gaps let noise in. Designing ventilation for soundproof studios is <em>another</em> engineering challenge: letting air in while trapping noise, circulating air effectively, implementing failsafes, alerts, addressing condensation, cleaning… If I were sleeping in it, grime would accumulate. What is this I hear about a hermetic seal?.. My project folder grew exponentially with these myriad engineering challenges.</p>
+
+<p>I isolated and tackled problems one by one, starting with basics. I decided to build a prototype cube with half-meter sides, two decoupled walls, and filling between them, to test the principle: mass + decoupled walls + somewhat hermetic seal = sound attenuation.</p>
+
+<p>I did not have the tools needed to build it, so I asked in a local chat group. A complete stranger volunteered to help! First, with lots of advice on where to buy materials, and then he suggested I could use his backyard for construction. He ended up driving with me to the shop and teaching me a few tricks with a saw. My immense gratitude goes out to him.</p>
+
+<p>[Image: Working on the prototype in his backyard]</p>
+
+<p>This was another humbling moment. I thought making a cube out of plywood would be easy. But even cutting the six sides presents non-obvious complexities. Knots in the wood can interfere, and fraction-of-a-millimeter errors in cuts add up really fast, potentially hindering the whole assembly. I found a new respect for tradespeople. So much seemingly simple stuff I took for granted – a wooden ladder, a road, even a metal hose clamp – is far from simple to build right.</p>
+
+<p>[Image: Photo of the finished test cube prototype]</p>
+
+<p>With the cube built, I bought a calibrated microphone and tested sound pressure level (SPL) attenuation at different frequencies. It goes in two phases 1) put the mic 2m from a good flat-response speaker, play brown noise and record. 2) put the mic into the prototype box and play the same noise. Compare:</p>
+
+<p>[Graph: SPL attenuation results from the cube test]</p>
+
+<p>Doing this, I discovered that attenuation varied wildly across frequencies due to the cube’s size and materials. For some frequencies, it was orders of magnitude different. It was very rewarding to build something physical. However, testing the cube was also a moment of disappointment. I compared STL (sound transmission loss) of my cube VS my room door and was disappointed to see that lower frequencies where not filtered at all. At first, I thought my construction was flawed, or my testing setup. Later, theory explained one valley on the graph above (related to cube dimensions and its acoustic modes), but I never figured out the other.</p>
+
+<h2 id="a-detour-into-metamaterials-and-programmatic-cad">A Detour into Metamaterials and Programmatic CAD</h2>
+
+<p>Demotivated, I also realized that building something so heavy and potentially dangerous was beyond my current skillset. So, I looked for other solutions. That’s when I found <strong>metamaterials</strong> – engineered materials with acoustic properties derived from their structure or composition. [insert simple example]</p>
+
+<p>I started reading scientific papers on acoustics. For around 15 years, papers have celebrated metamaterials as the next big thing. By the way, acoustics is a whole separate field. I honestly didn’t know that initially; I assumed it was mostly solved engineering problem. It’s not :)</p>
+
+<p>Anyway, papers promised sound attenuation using materials without the weight or volume of, say, a 3m cement wall.</p>
+
+<p>I read about various metamaterials and found some promising structures. I thought maybe I will not need such heavy walls if some meatamaterial will be very effective. [Add link to the paper] This led to a delightful foray into programmatically-defined CAD. Unlike the manual chore of designing the cube, here I wrote code to generate a 3D mesh for printing. Change the code, bam! New model. It felt like magic. I designed and 3D-printed a prototype array of Helmholtz resonators.</p>
+
+<p>[add image of DIY a bass trap]
+BTW, the typical foam or holey things hobbyists use often lack solid scientific backing – acoustic forums are full of holy wars about different sound traps. Again, I expected this to be a solved issue and best practices to be obvious; they weren’t.</p>
+
+<p>[Image: Photo of 3D printed Helmholtz resonator prototypes]</p>
+
+<h2 id="hope-calculations-and-resignation">Hope, Calculations, and Resignation</h2>
+
+<p>Then I found a paper, published in 2023, that captured my imagination. It used plastic plumbing tubes with cleverly cut holes to create paired Helmholtz resonators (they are more effective together then alone), attenuating sound (including low frequencies) across a broad range. Most metamaterials target narrow bands (like a specific airplane engine noise), but my goal was broad attenuation. This paper promised exactly that <em>and</em> claimed it didn’t require a hermetic seal! Wow! No need for complex ventilation setup! [<link to="" paper="" />]</p>
+
+<p>I emailed the authors with clarifying questions (using LLMs along the way to aid my understanding of the paper). I was enamored: plastic tubes seemed light, cheap, and targeted the needed frequency range. This felt like an emotional high point – lots of hope and excitement.</p>
+
+<p>After some months of emails, I was ready to build a prototype. I went online to buy the materials. That’s when I calculated the tubing needed for the smallest possible single-person sleep area: a surprising <strong>250 meters</strong>. This turned out to be neither cheap nor light, weighing over half a ton. I was right back to the original problem: the construction was too unwieldy. Resignation. At that point, I was already a bit checked out from the project.</p>
+
+<h2 id="an-unexpected-resolution">An Unexpected Resolution</h2>
+
+<p>Over this period, my sleep patterns shifted. I no longer have the same problems as last year. I’m not sure exactly why. Since moving to Finland, my life has become more balanced, leading to general stress reduction. I’ve also gotten to know my neighbors; they know my condition and are very understanding.</p>
+
+<p>Recently, I disassembled the cube, reclaiming the apparently expensive plywood for future projects (a nod to my earlier naivete about costs). Overall, I spent under 1,000 euros and a solid man-month of effort. It was absolutely a good investment. I enjoyed the deep dives, the learning, the process of trying to build something real. I’m already using the experience in my next hobby project. It was a fascinating journey that made my current lived experice so much richer, for now I see and appreciate complexity and work needed to design and produce everyday things, previously hidden from me.</p>
