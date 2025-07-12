@@ -40,7 +40,7 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
   <figcaption>Legally distinct, chipper morning mouse.</figcaption>
 </figure>
 
-<p>I thought about my own mornings. The reality was a slow, groggy 30-minute crawl out of sleep. Mickey Mouse? I was more like a grumpy bear waking up from a long hibernation.</p>
+<p>I thought about my own mornings. The reality was a slow, groggy 30-minute crawl out of sleep. Mickey Mouse? I was more like a grumpy bear waking up from a long hibernation<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup>.</p>
 
 <p>Then one day, the ventilation failed in my office. After a few hours in the stuffy air, I had the exact same groggy feeling and a splitting headache. The pieces clicked into place. My office felt just like my bedroom in the morning. The enemy was CO2.</p>
 
@@ -134,6 +134,9 @@ While it isn’t <em>dangerous</em>, it still might’ve been the reason for my 
 <h4 id="whats-next">What’s Next?</h4>
 <ul>
   <li>
+    <p><strong>UPD</strong> The <a href="https://news.ycombinator.com/item?id=44366535">Hacker News discussion</a> gave me a great new idea: flip the entire system on its head. Instead of creating negative pressure at the door, I could create <em>positive</em> pressure from the source of fresh air. This means installing a fan directly in the trickle vent to actively pump fresh air <em>in</em>. I’ll need to design a new duct to adapt the fan to the vent’s shape and add a coarse filter.</p>
+  </li>
+  <li>
     <p>I still don’t fully understand why the system works as it does. Is it really creating negative pressure and pulling fresh air through the trickle vent, like I first thought? Or is it just mixing the air near the door and propagating it? The next step is to find a way to measure the actual airflow.</p>
   </li>
   <li>
@@ -156,6 +159,16 @@ While it isn’t <em>dangerous</em>, it still might’ve been the reason for my 
 <p>I don’t wake up with a cartoonish smile every day. But my mornings <em>are</em> better. The grogginess is mostly gone, and I feel more rested. Of course, it could be the summer starting (circadian rhythm/melatonin change, etc), placebo or some combinations of factors.</p>
 
 <p>Most importantly, I loved the process. I learned about ventilation, got better at 3D modeling <em>for</em> 3D printing, and felt the satisfaction of building something real that solved my own problem. That journey, with all its mistakes and small victories, was the real reward.</p>
+
+<hr />
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1">
+      <p>Since <a href="/2018/06/02/Biohacking-and-me">my biohacking days</a>, I’ve been pretty strict about sleep hygiene. I consistently get my 8 hours, go to bed at the same time, and avoid things like late-night meals or alcohol. I was confident the issue wasn’t just poor sleep habits. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 
                     ]]>
                 </content:encoded>
