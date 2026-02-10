@@ -5,7 +5,7 @@ permalink: /about
 ---
 
 Hey there!  
-![My photo]({{ "/images/Andrey_Lepekhin_2023.jpg" | absolute_url }}){: width="200" }
+![My photo]({{ "/assets/images/site/Andrey_Lepekhin_2023.jpg" | absolute_url }}){: width="200" }
 
 My name is Andrey Lepekhin (*Lee-pyo-khin*).  
 I'm on a journey to lead a fulfilled and contented life. I try out different strategies, diving into applied psychology, mindfulness and more esoteric practices. This is my blog, where I spill my thoughts, share my learnings, and talk about anything that interests me.  

@@ -44,17 +44,17 @@ I enjoy reading on the tube, and I don’t mind a brisk walk of up to 20 minutes
 Turns out I was already asking myself a useful question before every Uber drive: “Am I willing to pay this amount for speed and comfort instead of using public transport?”   
 With that, I realized a better question to ask before commuting is: “**How much am I willing to pay right now to be home/at work in 20 minutes?**” I answered this question every day for two weeks and got a variety of results:  
 
-![The table with varying answers for each morning and evening of 10 weekdays, with median calculated as 1350 rub.]({{ "/images/2019-11-26-table-how-much-to-fly-to-work.png" | absolute_url }})
+![The table with varying answers for each morning and evening of 10 weekdays, with median calculated as 1350 rub.]({{ "/assets/images/2019-11-26-Rent-downtown-to-reduce-your-commute-time-conquering-a-frugal-mindset/table-how-much-to-fly-to-work.png" | absolute_url }})
 Some days I dreaded the tube, and some days it was more… acceptable.  
 
 The median price I was willing to pay per 50 commute-free minutes was nine times lower than the sum that my initial question provided. That’s 1350\*60/50 = 1620 ₽ per hour of commute time saved. That applies to work days only, so to compare apples with apples, I’ll smear that number throughout an average month = 1620\*22/30 = 1188 ₽. Let’s see what it will get me:
 
-![Heat map of rent prices of Moscow. Higher prices in city center]({{ "/images/2019-11-26-Moscow_rent_cost_map.png" | absolute_url }})
+![Heat map of rent prices of Moscow. Higher prices in city center]({{ "/assets/images/2019-11-26-Rent-downtown-to-reduce-your-commute-time-conquering-a-frugal-mindset/Moscow_rent_cost_map.png" | absolute_url }})
 The price of renting is higher the closer you are to downtown, which is filled with offices and historic places.
 
 I’ve made a table to calculate the daily cost of time saved on commuting and the daily cost of rent in the corresponding neighborhoods[^2].
 
-![The table which shows said calculations. Daily cost of saved free time minus cost of rent in the area of 20 minutes commute is positive]({{ "/images/2019-11-26-table-daily-rent-vs-cost-of-saved-time.png" | absolute_url }})
+![The table which shows said calculations. Daily cost of saved free time minus cost of rent in the area of 20 minutes commute is positive]({{ "/assets/images/2019-11-26-Rent-downtown-to-reduce-your-commute-time-conquering-a-frugal-mindset/table-daily-rent-vs-cost-of-saved-time.png" | absolute_url }})
 
 The positive numbers in the last column mean that the price I’m willing to pay for a lesser commute is higher than the rent cost in the area that will provide said commute. What do you know, my frugal self _can_ afford to live closer to the office! :tada:  
 …And that’s not even counting the opportunity costs of a long commute!

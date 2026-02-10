@@ -9,7 +9,7 @@ excerpt_separator: <!--excerpt_separator-->
 I’ve implemented the dark theme for this blog. An endeavour for 2-3 hours that has visible results. A satisfying project, I invite everyone with a light-theme-only blog to try.
 <!--excerpt_separator-->
 
-![An article screenshot, one half of which is in light mode and the other half is in dark mode]({{ "/images/2022-02-06-Dark-mode-implementation-for-this-blog--dark-mode-example-picture.jpg" | absolute_url }})
+![An article screenshot, one half of which is in light mode and the other half is in dark mode]({{ "/assets/images/2022-02-06-Dark-mode-implementation-for-this-blog/dark-mode-example-picture.jpg" | absolute_url }})
 
 _CSS Tricks_, of course, has this topic thoroughly covered in their [Complete Guide to Dark Mode on the Web](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/). I'll describe what I've done in this particular blog and why.
 
@@ -23,7 +23,7 @@ As dark mode gains momentum, I think major browsers will display a toggle betwee
 
 This blog uses a modified [Pixyll theme](https://github.com/johno/pixyll) that has **32** SASS files that get compiled into one big CSS file.
 
-![Part of includes listing @importing separate SASS files for links, code, header, etc]({{ "/images/2022-02-06-Dark-mode-implementation-for-this-blog--sass-includes-listing.jpg" | absolute_url }}){: width="350" }
+![Part of includes listing @importing separate SASS files for links, code, header, etc]({{ "/assets/images/2022-02-06-Dark-mode-implementation-for-this-blog/sass-includes-listing.jpg" | absolute_url }}){: width="350" }
 
 This otherwise reasonable divide-and-conquer approach bites me in the ass here, as I needed to insert the media-query block 17 times. For each style, I wanted to look different when dark. Here’s [the actual commit](https://github.com/andrey-lepekhin/andrey-lepekhin.github.io/commit/b54227499b737f5042d151f60c39416e88c9ba4b).
 

@@ -26,7 +26,7 @@ After scraping the bottom of the barrel for some time, I lucked into web series,
 ## Harry Potter and the Methods of Rationality
 By Eliezer Yudkowsky \[[link to the (free) book](http://www.hpmor.com/)\]
 
-![Book cover showing a hand with fingers poised to snap]({{ "/images/2022-07-09-My-favorite-fiction-books-hpmor-book-cover.jpg" | absolute_url }})
+![Book cover showing a hand with fingers poised to snap]({{ "/assets/images/2022-07-09-My-favorite-fiction-books/hpmor-book-cover.jpg" | absolute_url }})
 
 I'm sorry, this is the one book I won't stop raving about. The following text is just my fanboy noises aimed to get you to read this book.
 
@@ -64,7 +64,7 @@ Elizer is mainly working on AI alignment. I don't want our world to end as much 
 ## Worm 
 By John C. McCrae \[[link to the (free) book](https://parahumans.wordpress.com/)\]
 
-![Book cover showing a metropolitan city skyline with an overcast sky]({{ "/images/2022-07-09-My-favorite-fiction-books-worm-book-cover.jpg" | absolute_url }})
+![Book cover showing a metropolitan city skyline with an overcast sky]({{ "/assets/images/2022-07-09-My-favorite-fiction-books/worm-book-cover.jpg" | absolute_url }})
 
 A grimdark world where superheroes aren't so good and villains aren't so evil is a popular theme these days, just think of the recent popularity of The Boys TV series. But Worm was the first book of this genre for me, and boy, did it take me away for _a ride_.
 
@@ -85,7 +85,7 @@ At first I liked Worm because it fit my depressed mood at the time, but after ye
 ## Worth The Candle
 By Alexander Wales \[[link to the (free) book](https://www.royalroad.com/fiction/25137/worth-the-candle)\]
 
-![Book cover showing a man fighting with a much bigger humanoid opponent]({{ "/images/2022-07-09-My-favorite-fiction-books-worth-the-candle-book-cover.jpg" | absolute_url }})
+![Book cover showing a man fighting with a much bigger humanoid opponent]({{ "/assets/images/2022-07-09-My-favorite-fiction-books/worth-the-candle-book-cover.jpg" | absolute_url }})
 
 
 The LitRPG to rule them all. Interesting mechanics, but not too much of it. So meta and trope-riding, -bending, -exploiting that it's at least three levels deep.

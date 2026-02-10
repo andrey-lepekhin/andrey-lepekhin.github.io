@@ -12,7 +12,7 @@ Oh, it feels good having answered all unread messages. No anxiety. Bliss. Yet th
 There’s no real multitasking for humans. You have to decide whether you want to have a state of flow or allow constant interruptions[^1].
 
 Not plunging into this infinite pseudo-productive sea of quick-fixes is something that is still hard for me. I don’t have new message notifications of course, but I know that red unread messages counter exists and it beckons.  
-<img src="{{ "/images/2018-07-30-Slack-notification.png" | absolute_url }}" alt="" style="width: 50px;">
+<img src="{{ "/assets/images/2018-07-30-Slack-rant/Slack-notification.png" | absolute_url }}" alt="" style="width: 50px;">
 
 
 ### Counter-measures
@@ -22,7 +22,7 @@ Not plunging into this infinite pseudo-productive sea of quick-fixes is somethin
 * I _try_ not to mark messages as unread. This is still hard. Otherwise, I read a message, decide I don’t want to answer now, mark it unread… and one hour later the cycle repeats, eating away my time and attention.
 * I start working at home, with no distractions, no phone, no Slack, no email. 
 * There is one thing that really helps me with slackrastination (that is a word now), or any procrastination for that matter: instead of automatically changing what you do, you make the process as conscious as possible. For me the good example are weeks when I track my time. Each time I change what I do, I write the new activity down and start corresponding activity timer[^2]. When I am in a state of flow and start writing “Slack” to change timers, I usually catch myself and go back to doing the important stuff.
-* My wallpaper at work <img src="{{ "/images/2018-07-30-turnoffSlack.png" | absolute_url }}" alt="White canvas with words: &quot;Close Slack &amp; Gmail. Do what's important. Heart emoji&quot;" style="border: black 0.1em;border-style: dashed;">
+* My wallpaper at work <img src="{{ "/assets/images/2018-07-30-Slack-rant/turnoffSlack.png" | absolute_url }}" alt="White canvas with words: &quot;Close Slack &amp; Gmail. Do what's important. Heart emoji&quot;" style="border: black 0.1em;border-style: dashed;">
 </rant>
 
 -----

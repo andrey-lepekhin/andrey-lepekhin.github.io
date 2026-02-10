@@ -10,7 +10,7 @@ And what to do about it.
 
 Here's what's happening when I'm not in a relationship for some time.
 
-![Graph 1, described in text below]({{ "/images/2018-03-17-Why-its-easy-to-start-a-subpar-relationship-graph-1.png" | absolute_url }})
+![Graph 1, described in text below]({{ "/assets/images/2018-03-17-Why-its-easy-to-start-a-subpar-relationship/graph-1.png" | absolute_url }})
 
 
 Acceptable partner attractiveness (APA) is everything I seek for in a partner: physical beauty, personal qualities, etc.
@@ -24,7 +24,7 @@ Acceptable partner attractiveness (APA) is everything I seek for in a partner: p
 
 ### It becomes harder to date more attractive partners
 
-![Scumbag brain]({{ "/images/scumbag_brain.png" | absolute_url }})
+![Scumbag brain]({{ "/assets/images/2018-03-17-Why-its-easy-to-start-a-subpar-relationship/scumbag_brain.png" | absolute_url }})
 
 My primitive mind auto-applies dates' _courting easiness_ labels based on _attractiveness_. The less attractive the date, the easier it seems to court her.
 
@@ -40,7 +40,7 @@ I am programmed to do least possible amount work to achieve my goals so, if acti
 Maybe it's just me, but when you're fresh out of a relationship, you don't seem too eager to jump start a new one. But as the loneliness goes on, desire for _a_ relationship grows.
 **So not only your requirements are lowered, you actually _want_ being in a relationship more, exactly at the time when they are low**.
 
-![Graph 2, yearning for a relationship grows with time]({{ "/images/2018-03-17-Why-its-easy-to-start-a-subpar-relationship-graph-2.png" | absolute_url }})
+![Graph 2, yearning for a relationship grows with time]({{ "/assets/images/2018-03-17-Why-its-easy-to-start-a-subpar-relationship/graph-2.png" | absolute_url }})
 
 #### Yearning for relationship correlates with easiness of starting a subpar relationship :( 
 
@@ -67,7 +67,7 @@ Worth mentioning: I am not an _extreme_ idealist, I understand there can be comp
 
 
 ## Why do the standards fall
-![Graph 3, progression of acceptable partner attractiveness criteria for high (just after relationship) to low (just before starting a relationship) to high again]({{ "/images/2018-03-17-Why-its-easy-to-start-a-subpar-relationship-graph-3.png" | absolute_url }})
+![Graph 3, progression of acceptable partner attractiveness criteria for high (just after relationship) to low (just before starting a relationship) to high again]({{ "/assets/images/2018-03-17-Why-its-easy-to-start-a-subpar-relationship/graph-3.png" | absolute_url }})
 
 
 I think that it's a response to one of the basic needs not being met.  
