@@ -61,3 +61,44 @@
 .related-post-title {
   border-bottom: thin solid #f3f3f3;
 }
+
+// Highlight the footnote the user just clicked on, or the
+// in-text reference when navigating back from a footnote
+@keyframes footnote-target-fade {
+  0%   { background-color: rgba($yellow, 0.3); }
+  50%  { background-color: rgba($yellow, 0.3); }
+  100% { background-color: transparent; }
+}
+
+@keyframes footnote-target-fade-dark {
+  0%   { background-color: rgba($yellow, 0.2); }
+  50%  { background-color: rgba($yellow, 0.2); }
+  100% { background-color: transparent; }
+}
+
+.footnotes li:target {
+  animation: footnote-target-fade 4s ease-out;
+  border-radius: $border-radius;
+  padding: 0.125em 0.375em;
+}
+
+sup:target {
+  animation: footnote-target-fade 4s ease-out;
+  border-radius: $border-radius;
+  padding: 0.125em 0.25em;
+}
+
+@media (prefers-color-scheme: dark) {
+  .footnotes li:target,
+  sup:target {
+    animation-name: footnote-target-fade-dark;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .footnotes li:target,
+  sup:target {
+    animation: none;
+    background-color: rgba($yellow, 0.3);
+  }
+}
