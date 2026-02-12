@@ -9,7 +9,7 @@ abbr {
 
 p {
   color: $base-font-color;
-  line-height: 1.75;
+  line-height: 1.7;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -20,7 +20,7 @@ p {
 
 small,
 .small {
-  font-size: 0.707rem;
+  font-size: 0.8125rem;
 }
 
 sup {

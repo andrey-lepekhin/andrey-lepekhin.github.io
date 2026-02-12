@@ -7,7 +7,8 @@ table {
   width: 100%;
   max-width: 100%;
   margin-bottom: 1.5rem;
-  font-size: 1.125rem;
+  font-size: 1rem;
+  border-collapse: collapse;
   // Cells
   > thead,
   > tbody,
@@ -15,17 +16,18 @@ table {
     > tr {
       > th,
       > td {
-        padding: 12px;
-        line-height: 1.2;
+        padding: 0.75rem;
+        line-height: 1.4;
         vertical-align: top;
-        border-top: 1px solid #333;
+        border-top: 1px solid $border-color;
       }
     }
   }
-  // Bottom align for column headings
+ // Bottom align for column headings
   > thead > tr > th {
     vertical-align: bottom;
-    border-bottom: 2px solid #333;
+    border-bottom: 2px solid $base-font-color;
+    font-weight: 600;
   }
   // Remove top border from thead by default
   > caption + thead,
@@ -38,10 +40,28 @@ table {
       }
     }
   }
-  // Account for multiple tbody instances
   > tbody + tbody {
-    border-top: 2px solid #333;
+    border-top: 2px solid $base-font-color;
   }
 }
 
-//TODO dark mode
+@media (prefers-color-scheme: dark) {
+  table {
+    > thead,
+    > tbody,
+    > tfoot {
+      > tr {
+        > th,
+        > td {
+          border-color: #444;
+        }
+      }
+    }
+    > thead > tr > th {
+      border-bottom-color: $dark-mode-font-color;
+    }
+    > tbody + tbody {
+      border-top-color: $dark-mode-font-color;
+    }
+  }
+}

@@ -31,16 +31,8 @@
   }
 
   blockquote {
-    margin-left: $space-3;
-    padding: $space-3;
-  }
-
-  .social-icons-left {
-    text-align: left;
-  }
-
-  .social-icons-right {
-    text-align: right;
+    margin-left: 0;
+    padding: $space-1 $space-3;
   }
 }
 
@@ -59,12 +51,12 @@
   .h1 {
     font-size: $h1-large;
   }
-
 }
 
+// Full-bleed images on large screens
 @media screen and (min-width: $viewport-large + 14) {
   em img {
-    max-width: $measure-width + 14;
-    margin-left: -7em;
+    max-width: calc(#{$measure-width} + 10rem);
+    margin-left: calc((#{$measure-width} - (#{$measure-width} + 10rem)) / 2);
   }
 }

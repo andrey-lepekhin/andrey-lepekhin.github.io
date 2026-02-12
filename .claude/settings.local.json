@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bundle exec jekyll build:*)",
+      "Bash(~/.rbenv/shims/bundle exec jekyll build:*)",
+      "Bash(~/.local/share/gem/ruby/*/bin/bundle)",
+      "Bash(exec jekyll build:*)",
+      "Bash(/opt/homebrew/lib/ruby/gems/*/bin/bundle)",
+      "Bash(jekyll build:*)",
+      "WebSearch"
+    ]
+  }
+}

@@ -1,34 +1,26 @@
 .pagination {
   font-size: 1rem;
   font-family: $heading-font-family;
-  //font-weight: $bold-font-weight;
   text-align: center;
 }
 
 .pagination a, .pagination .disabled {
-  -webkit-transition: all 0.2s ease-in-out;
-  -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
   background: $pagination-background-color;
-  border-radius: 0.1875em;
-  border: 1px solid #f3f3f3;
+  border-radius: $border-radius;
+  border: 1px solid $border-color;
   color: $pagination-link-color;
-  padding: 1em 1.5em;
+  padding: 0.75em 1.25em;
+  text-decoration: none;
 }
 
 @media (prefers-color-scheme: dark) {
   .pagination a, .pagination .disabled {
-    -webkit-transition: all 0.2s ease-in-out;
-    -moz-transition: all 0.2s ease-in-out;
-    transition: all 0.2s ease-in-out;
     background: $dark-mode-pagination-background-color;
-    border-radius: 0.1875em;
-    border: 1px solid #f3f3f3;
+    border-color: #444;
     color: $dark-mode-pagination-link-color;
-    padding: 1em 1.5em;
   }
 }
-
 
 .disabled {
   opacity: 0.5;
@@ -38,7 +30,6 @@
   pointer-events: none;
 }
 
-
 .pagination .pagination-meta {
   overflow: hidden;
 }
@@ -46,25 +37,31 @@
 .pagination a:hover, .pagination a:focus {
   background: $pagination-hover-background-color;
   color: $pagination-link-hover-color;
-  border-color: #e0e0e0;
+  border-color: $light-gray;
 }
 
 @media (prefers-color-scheme: dark) {
   .pagination a:hover, .pagination a:focus {
     background: $dark-mode-pagination-hover-background-color;
     color: $dark-mode-pagination-link-hover-color;
-    border-color: #e0e0e0;
+    border-color: #555;
   }
 }
 
 .pagination a:active {
-  background: #f7f7f7;
+  background: $lighter-gray;
+}
+
+@media (prefers-color-scheme: dark) {
+  .pagination a:active {
+    background: #333;
+  }
 }
 
 .pagination .button {
   font-size: 1rem;
-  font-weight: 300;
-  letter-spacing: 1px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
 }
 
 .button-disabled {

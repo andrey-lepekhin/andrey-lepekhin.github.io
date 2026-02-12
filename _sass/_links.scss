@@ -1,81 +1,68 @@
 a {
   color: $link-color;
-  background-image: linear-gradient(to top,
-    rgba(0,0,0,0) 13%,
-    rgba($link-color,.8) 13%,
-    rgba($link-color,.8) 18%,
-    rgba(0,0,0,0) 17%
-  );
-  text-shadow: $base-bg-color 1px 0px 0px, $base-bg-color -1px 0px 0px;
+  text-decoration: underline;
+  text-decoration-color: rgba($link-color, 0.3);
+  text-underline-offset: 0.15em;
+  text-decoration-thickness: 1px;
+  transition: text-decoration-color 0.2s ease, color 0.2s ease;
 }
 
 a:hover,
 a:focus,
 a:active {
-  border: 0;
   color: $link-hover-color;
-  text-decoration: none;
-  background-image: linear-gradient(to top,
-    rgba(0,0,0,0) 13%,
-    rgba($link-hover-color,.8) 13%,
-    rgba($link-hover-color,.8) 17%,
-    rgba(0,0,0,0) 17%
-  );
-  text-shadow: $base-bg-color 1px 0px 0px, $base-bg-color -1px 0px 0px;
+  text-decoration-color: $link-hover-color;
 }
 
 @media (prefers-color-scheme: dark) {
   a {
     color: $dark-mode-link-color;
-    background-image: linear-gradient(to top,
-      rgba(0,0,0,0) 13%,
-      rgba($dark-mode-link-color,.8) 13%,
-      rgba($dark-mode-link-color,.8) 18%,
-      rgba(0,0,0,0) 17%
-    );
-    text-shadow: $dark-mode-bg-color 1px 0px 0px, $dark-mode-bg-color -1px 0px 0px;
+    text-decoration-color: rgba($dark-mode-link-color, 0.3);
   }
 
   a:hover,
   a:focus,
   a:active {
-    border: 0;
     color: $dark-mode-link-hover-color;
-    text-decoration: none;
-    background-image: linear-gradient(to top,
-      rgba(0,0,0,0) 13%,
-      rgba($dark-mode-link-hover-color,.8) 13%,
-      rgba($dark-mode-link-hover-color,.8) 17%,
-      rgba(0,0,0,0) 17%
-    );
-    text-shadow: $dark-mode-bg-color 1px 0px 0px, $dark-mode-bg-color -1px 0px 0px;
+    text-decoration-color: $dark-mode-link-hover-color;
   }
 }
 
 a:visited {
   color: $link-visited-color;
-  /*background-image doesn't work on :visited so unglines ensues*/
+  text-decoration-color: rgba($link-visited-color, 0.3);
+}
+
+a:visited:hover,
+a:visited:focus,
+a:visited:active {
+  text-decoration-color: $link-visited-color;
 }
 
 @media (prefers-color-scheme: dark) {
   a:visited {
     color: $dark-mode-link-visited-color;
+    text-decoration-color: rgba($dark-mode-link-visited-color, 0.3);
+  }
+
+  a:visited:hover,
+  a:visited:focus,
+  a:visited:active {
+    text-decoration-color: $dark-mode-link-visited-color;
   }
 }
 
-// Correct issues with buttons
+// Buttons and anchor links should not have text underlines
 button,
 .button {
-  text-shadow: none;
-  background-image: none;
+  text-decoration: none;
 }
 
 .button:hover,
 .button:focus,
 .button:active {
   color: $base-bg-color;
-  text-shadow: none;
-  background-image: none;
+  text-decoration: none;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -87,14 +74,11 @@ button,
 }
 
 .anchorjs-link {
-    text-shadow: none;
-    background-image: none;
+  text-decoration: none;
 }
 .anchorjs-link:hover,
 .anchorjs-link:focus,
-.anchorjs-link:active{
-    border: 0;
-    color: $link-hover-color;
-    text-shadow: none;
-    background-image: none;
+.anchorjs-link:active {
+  color: $link-hover-color;
+  text-decoration: none;
 }

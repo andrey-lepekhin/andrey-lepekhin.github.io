@@ -117,3 +117,61 @@
 .hljs-chunk {
   color: $hljs-chunk;
 }
+
+@media (prefers-color-scheme: dark) {
+  .highlight .c,
+  .highlight .cs,
+  .highlight .cm,
+  .highlight .cp,
+  .highlight .c1 {
+    color: #888;
+  }
+
+  .highlight .k,
+  .highlight .kc,
+  .highlight .kd,
+  .highlight .kn,
+  .highlight .kr,
+  .highlight .kt,
+  .highlight .kp {
+    color: #6baaff;
+  }
+
+  .highlight .na,
+  .highlight .nb,
+  .highlight .nc,
+  .highlight .no,
+  .highlight .nd,
+  .highlight .ni,
+  .highlight .ne,
+  .highlight .nf,
+  .highlight .nl,
+  .highlight .nn,
+  .highlight .nx {
+    color: $dark-mode-pre-font-color;
+  }
+
+  .highlight .mi,
+  .highlight .il {
+    color: #73c991;
+  }
+
+  .highlight .s,
+  .highlight .sb,
+  .highlight .sc,
+  .highlight .sd,
+  .highlight .s2,
+  .highlight .s3,
+  .highlight .sh,
+  .highlight .si,
+  .highlight .sx,
+  .highlight .sr,
+  .highlight .ss,
+  .highlight .s1 {
+    color: #f0a070;
+  }
+
+  .highlight .o {
+    color: #6baaff;
+  }
+}

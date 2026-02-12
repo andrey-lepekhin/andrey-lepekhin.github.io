@@ -37,6 +37,7 @@ html, body {
 
 img {
   max-width: 100%;
+  height: auto;
 }
 
 em img {
@@ -44,9 +45,36 @@ em img {
   margin-left: 0;
 }
 
-body {
-          box-sizing: border-box;
-     -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
+// Figure + figcaption styling (for jekyll-figure plugin)
+figure {
+  margin: $space-3 0;
+  padding: 0;
 }
 
+figure img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+figcaption {
+  font-size: 0.875rem;
+  color: $mid-gray;
+  text-align: center;
+  margin-top: $space-1;
+  font-style: italic;
+}
+
+@media (prefers-color-scheme: dark) {
+  figcaption {
+    color: #999;
+  }
+}
+
+body {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}

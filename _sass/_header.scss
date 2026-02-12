@@ -1,14 +1,13 @@
 .site-header {
   padding-top: $space-1;
   padding-bottom: $space-2;
-  font-family: $heading-font-family;
 }
 
 .site-header a {
   color: $base-font-color;
-  font-size: $h3;
-  font-weight: 300;
-  background-image: none;
+  font-size: $h4;
+  font-weight: 400;
+  text-decoration: none;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -18,7 +17,8 @@
 }
 
 .site-header .site-title {
-  font-size: $h2;
+  font-size: $h3;
+  font-weight: 600;
 }
 
 .site-nav .site-index {
@@ -38,18 +38,18 @@
 .site-header nav a:hover,
 .site-header nav a:focus,
 .site-header nav a:active {
-  color: $nav-link-color;
+  color: $base-font-color;
   opacity: 1;
-  border-bottom: 2px solid $nav-link-color;
+  border-bottom: 2px solid $base-font-color;
 }
 
 @media (prefers-color-scheme: dark) {
   .site-header nav a:hover,
   .site-header nav a:focus,
   .site-header nav a:active {
-    color: lighten($dark-mode-nav-link-color, 30%);
+    color: $dark-mode-font-color;
     opacity: 1;
-    border-bottom: $dark-mode-nav-active-border-bottom;
+    border-bottom: 2px solid $dark-mode-font-color;
   }
 }
 
@@ -82,7 +82,7 @@
 }
 
 .site-index {
-  float:left !important; 
+  float: left !important;
 }
 
 .site-index a:hover,

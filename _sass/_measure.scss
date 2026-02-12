@@ -2,3 +2,21 @@
   margin: 0 auto;
   max-width: $measure-width;
 }
+
+// Define .wrap and .p-responsive (used in HTML templates)
+.wrap {
+  max-width: $measure-width + 8rem;
+  margin: 0 auto;
+}
+
+.p-responsive {
+  padding-left: $space-2;
+  padding-right: $space-2;
+}
+
+@media screen and (min-width: $viewport-medium) {
+  .p-responsive {
+    padding-left: $space-3;
+    padding-right: $space-3;
+  }
+}

@@ -1,17 +1,17 @@
 // Typography
 $base-font-size: 17px !default;
 $bold-font-weight: bold !default;
-$font-family: 'Raleway', 'PT Serif', Georgia, 'Times New Roman', serif !default;
-$line-height: 1.618rem !default; // magic golden ratio, if font size is 1rem. It doesn't take in account font height, so be careful when changing fonts 
+$font-family: 'Raleway', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif !default;
+$line-height: 1.618rem !default;
 $heading-font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif !default;
 $heading-font-weight: 900 !default;
 $heading-line-height: 1.25 !default;
-$monospace-font-family: 'Source Code Pro', Consolas, monospace !default;
+$monospace-font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace !default;
 $h1: 1.7rem !default;
 $h1-large: 2.0rem !default;
 $h2: 1.5rem !default;
 $h3: 1.25rem !default;
-$h4: 1rem !default; // also applied to .p through basscss/_base-typography.scss
+$h4: 1rem !default;
 $h5: .875rem !default;
 $h6: .75rem !default;
 $h00: 4rem !default;
@@ -22,10 +22,10 @@ $h1-responsive: 4vw !default;
 $h00-responsive-max: 7.68rem !default;
 $h0-responsive-max: 5.76rem !default;
 $h1-responsive-max: 3.84rem !default;
-$abbr-border-bottom: 1px black dotted;
+$abbr-border-bottom: 1px dotted currentColor;
 
 // Page width
-$measure-width: 34rem !default;
+$measure-width: 36rem !default;
 
 // Viewport widths
 $viewport-small: 32em;
@@ -33,47 +33,43 @@ $viewport-medium: 48em;
 $viewport-large: 64em;
 
 // Colors
-$blue: #0076df !default;
-$red: #f95020 !default;
-$green: #00cf26 !default;
+$blue: #1a6be5 !default;
+$red: #c43b1e !default;
+$green: #1a8a32 !default;
 $yellow: #efcc00 !default;
-$orange: #ffcc22 !default;
-$purple: #f92080 !default;
-$dark-blue: #00369f !default;
+$orange: #e89c1a !default;
+$purple: #9b59b6 !default;
+$dark-blue: #0f4da0 !default;
 $darker-blue: #24292e !default;
-$light-blue: #add8e6 !default;
+$light-blue: #6baaff !default;
 $lighter-blue: #c8e1ff !default;
-$green: #00ab37 !default;
-$dark-green: #009f06 !default;
-$light-pink: #ffdddd !default;
-$light-green: #ddffdd !default;
-$dark-gray: #333 !default;
-$mid-gray: #777 !default;
-$light-gray: #ccc !default;
-$lighter-gray: #eee !default;
+$dark-green: #1a8a32 !default;
+$light-pink: #fce4e4 !default;
+$light-green: #dafbe1 !default;
+$dark-gray: #1a1a1a !default;
+$mid-gray: #6b6b6b !default;
+$light-gray: #d1d1d1 !default;
+$lighter-gray: #ebebeb !default;
 $darken-1: rgba(#000,.0625) !default;
 $darken-2: rgba(#000,.125) !default;
 $darken-3: rgba(#000,.25) !default;
 $darken-4: rgba(#000,.5) !default;
 
+$base-font-color: #1a1a1a;
+$base-bg-color: #fcfcfc;
 
-$base-font-color: $dark-gray;
-$base-bg-color: white;
-
-$dark-mode-font-color: #e3e3e3;
-$dark-mode-bg-color: $dark-gray;
-
-
+$dark-mode-font-color: #e0e0e0;
+$dark-mode-bg-color: #1a1a1a;
 
 // Links
 $link-color: $blue;
-$link-hover-color: darken($blue, 40%);
+$link-hover-color: $dark-blue;
+
 $link-visited-color: #800080;
 
-$dark-mode-link-color: lighten($blue, 20%);
-$dark-mode-link-hover-color: lighten($dark-mode-link-color, 20%);
-$dark-mode-link-visited-color: lighten($link-visited-color, 4%);
-
+$dark-mode-link-color: $light-blue;
+$dark-mode-link-hover-color: lighten($light-blue, 15%);
+$dark-mode-link-visited-color: lighten(#800080, 4%);
 
 // Breakpoints
 $breakpoint-md: '(min-width: 52em)';
@@ -94,8 +90,9 @@ $button-padding-x: 1rem !default;
 $button-font-family: $heading-font-family;
 
 // Blockquotes
-$blockquote-bg-color: #fff;
-$blockquote-color: #7a7a7a;
+$blockquote-border-color: #d1d1d1;
+$blockquote-text-color: #4a4a4a;
+$blockquote-bg-color: transparent;
 
 // Forms
 $form-field-font-size: 1rem !default;
@@ -104,77 +101,67 @@ $form-field-padding-y: .5rem !default;
 $form-field-padding-x: .5rem !default;
 
 // Borders
-$border-color: $light-gray !default;
+$border-color: #e5e5e5 !default;
 $border-width: 1px !default;
-$border-radius: 3px !default;
-
-// Forms
-$form-field-font-size: 1rem;
-$form-field-height: 2.25rem;
-$form-field-padding-y: .5rem;
-$form-field-padding-x: .5rem;
+$border-radius: 4px !default;
 
 // Code
-$pre-border-radius: 0;
-$pre-background-color: #f2f2f2;
-$pre-font-color: #7a7a7a;
-$hljs-comment: $light-gray;
-$hljs-keyword: $dark-blue;
+$pre-border-radius: $border-radius;
+$pre-background-color: #f6f6f6;
+$pre-font-color: #1a1a1a;
+$hljs-comment: $mid-gray;
+$hljs-keyword: $blue;
 $hljs-name: $dark-gray;
 $hljs-number: $dark-green;
 $hljs-string: $red;
 $hljs-title: $red;
-$hljs-type: $dark-blue;
-$hljs-tag: $dark-blue;
+$hljs-type: $blue;
+$hljs-tag: $blue;
 $hljs-attribute: $dark-green;
 $hljs-regexp: $dark-green;
 $hljs-symbol: $purple;
-$hljs-built-in: $dark-blue;
+$hljs-built-in: $blue;
 $hljs-preprocessor: $mid-gray;
 $hljs-deletion: $light-pink;
 $hljs-addition: $light-green;
-$hljs-change: $dark-blue;
+$hljs-change: $blue;
 $hljs-chunk: $light-gray;
 
-$dark-mode-pre-background-color: lighten($dark-gray, 10%);
-$dark-mode-pre-font-color: lighten($light-gray, 5%);
+$dark-mode-pre-background-color: #252525;
+$dark-mode-pre-font-color: #d4d4d4;
 
 // Nav
-$nav-color: $mid-gray;
-$nav-link-color: #666;
+$nav-link-color: $mid-gray;
 $nav-padding: $space-2;
 $nav-link-padding-x: $space-2;
-$nav-active-border-bottom: 1px solid $light-gray;
 
-$dark-mode-nav-color: $mid-gray;
-$dark-mode-nav-link-color: #888;
-$dark-mode-nav-active-border-bottom: 1px solid $light-gray;
+$dark-mode-nav-link-color: #999;
 
 // Footer
-$footer-border-top: thin solid #f3f3f3;
+$footer-border-top: none;
 $footer-padding: $space-3;
-$footer-color: #7a7a7a;
-$footer-bg-color: #fafafa;
-$footer-font-weight: 300;
-$footer-font-size: .75rem;
+$footer-color: $mid-gray;
+$footer-bg-color: #f8f8f8;
+$footer-font-weight: 400;
+$footer-font-size: .8125rem;
 
-$dark-mode-footer-bg-color: darken($dark-mode-bg-color, 5%);
+$dark-mode-footer-bg-color: #141414;
 
 // Posts
-$post-link-color: $dark-gray;
+$post-link-color: $base-font-color;
 $post-meta-color: $mid-gray;
-$post-index-separator-color: #f3f3f3;
+$post-index-separator-color: $border-color;
 
 $dark-mode-post-link-color: $dark-mode-font-color;
-$dark-mode-post-index-separator-color: darken($post-index-separator-color, 20%);
+$dark-mode-post-index-separator-color: #333;
 
 // Pagination
-$pagination-link-color: #333333;
-$pagination-background-color: #0076df33;
-$pagination-link-hover-color: #477dca;
-$pagination-hover-background-color: white;
+$pagination-link-color: $base-font-color;
+$pagination-background-color: transparent;
+$pagination-link-hover-color: $link-color;
+$pagination-hover-background-color: #f6f6f6;
 
-$dark-mode-pagination-link-color: $light-blue;
-$dark-mode-pagination-background-color: $pagination-background-color;
-$dark-mode-pagination-link-hover-color: lighten($light-blue, 40%);
-$dark-mode-pagination-hover-background-color: lighten($pagination-background-color, 40%);
+$dark-mode-pagination-link-color: $dark-mode-font-color;
+$dark-mode-pagination-background-color: transparent;
+$dark-mode-pagination-link-hover-color: $dark-mode-link-color;
+$dark-mode-pagination-hover-background-color: #252525;

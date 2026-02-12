@@ -1,14 +1,14 @@
 blockquote {
-  border-left: 5px solid $blockquote-color;
-  /*font-style: italic;*/
-  margin-left: $space-1;
-  padding: $space-1;
+  border-left: 3px solid $blockquote-border-color;
+  margin-left: 0;
+  padding: $space-1 $space-2;
+  color: $blockquote-text-color;
 }
 
 blockquote footer {
-  background-color: $blockquote-bg-color;
+  background-color: transparent;
   border-color: transparent;
-  color: $blockquote-color;
+  color: $mid-gray;
   font-size: .85rem;
   font-style: normal;
   text-align: left;
@@ -17,13 +17,15 @@ blockquote footer {
 
 @media (prefers-color-scheme: dark) {
   blockquote {
-    border-left: 5px solid $dark-mode-font-color;
+    border-left: 3px solid #555;
+    color: #b0b0b0;
   }
   blockquote footer {
-    // TODO dark mode
+    background-color: transparent;
+    color: #888;
   }
 }
 
 blockquote p:last-of-type {
-  margin-bottom: 0rem;
+  margin-bottom: 0;
 }

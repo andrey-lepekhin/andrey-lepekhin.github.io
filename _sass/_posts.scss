@@ -1,17 +1,16 @@
-
 .posts {
   margin: 0;
 }
 
 .posts .post {
   margin-bottom: 0.75em;
-  border-bottom: thin solid $post-index-separator-color;
+  border-bottom: 1px solid $post-index-separator-color;
 }
 
 @media (prefers-color-scheme: dark) {
   .posts .post {
     margin-bottom: 0.75em;
-    border-bottom: thin solid $dark-mode-post-index-separator-color;
+    border-bottom: 1px solid $dark-mode-post-index-separator-color;
   }
 }
 
@@ -19,6 +18,15 @@
   border-bottom: none;
   margin-bottom: .375em;
   padding-bottom: 0;
+}
+
+a.post-link:has(.post-title) {
+  text-decoration: none;
+}
+
+a.post-link:has(.post-title):hover,
+a.post-link:has(.post-title):focus {
+  text-decoration: underline;
 }
 
 .post-link .post-title {
@@ -37,7 +45,6 @@
 
 .post-footer {
   @extend .italic;
-
   margin-top: .75rem;
   text-align: center;
 }
@@ -54,12 +61,12 @@
   font-weight: 300;
   margin: 0;
   padding: .25em 0;
-  /*color: #7a7a7a; // or $post-meta-color */ 
+  color: $post-meta-color;
   font-style: italic;
 }
 
 .related-post-title {
-  border-bottom: thin solid #f3f3f3;
+  border-bottom: 1px solid $border-color;
 }
 
 // Highlight the footnote the user just clicked on, or the
