@@ -94,7 +94,7 @@ At first I blamed my construction, then my testing setup. Later, theory explaine
 
 After that graph, I went into avoidance mode. For weeks the designs sat untouched, and "ambitious" started to feel like "delusional."
 
-In retrospect, the pivot to metamaterials was partly genuine curiosity and partly a refusal to sit with the failure. There's a version of curiosity that's genuine and a version that's escape. I told myself I was pivoting to a better solution. I was also running from the possibility that there wasn't one.
+In retrospect, the pivot to metamaterials was partly genuine curiosity and partly a refusal to sit with the failure.
 
 ## Thousands of Tiny Bottles
 
@@ -150,6 +150,6 @@ Sound leaves no evidence. But the sawdust did.
 
 [^co2-risk]: In a sealed capsule roughly 2 m × 0.8 m × 0.8 m (about 1.28 m³), a sleeping adult exhaling ~0.2 L/min of CO₂ would push concentration past 1% — the threshold for headaches and impaired cognition — in about 2.5 hours. Past 4–5% you risk unconsciousness. Any real build would need forced ventilation, which means holes, which means sound leaks. The leaks are solvable with a baffle box — a zigzag channel lined with absorptive material that lets air through but forces sound to bounce and die — but designing one that moves enough air quietly is a project in itself.
 
-[^cube-specs]: Outer walls 45 cm, inner cavity 20 cm. Each outer wall was two sheets of 15 mm birch plywood. Inner and outer shells were decoupled with Gyproc XR 95 resilient channels — thin metal strips that flex, so the inner wall doesn't rigidly touch the outer one. The old clothes likely reduced high-frequency absorption compared to mineral wool, but shouldn't have affected the resonance problem, which was driven by cavity geometry.
+[^cube-specs]: Outer walls 45 cm, inner cavity 20 cm. Each outer wall was two sheets of 15 mm birch plywood. Inner and outer shells were decoupled with Gyproc XR 95 resilient channels — thin metal strips that flex, so the inner wall doesn't rigidly touch the outer one. The old clothes likely reduced high-frequency absorption compared to mineral wool, but shouldn't have affected the resonance problem.
 
 [^measurement-rig]: Measurement rig: EarFun UBOOM L speaker (chosen for its flat frequency response — important so the test signal doesn't favor any pitch), Dayton Audio iMM-6 calibrated measurement mic, placed 1 m from the speaker at 85 ±3 dB SPL. Recorded in Audacity; TL graph generated with a Python script using the mic's factory calibration file.
