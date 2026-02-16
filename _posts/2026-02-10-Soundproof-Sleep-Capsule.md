@@ -104,7 +104,7 @@ Jet engines can't be sealed, so they reduce noise with honeycomb structures that
 
 I read acoustics papers and kept running into the same seductive idea: attenuation without the weight. Could geometry replace some of what I'd been trying to purchase with sheer mass? [One paper (Hedayati et al., 2024)](https://www.mdpi.com/2683028) had enough data for me to reproduce the build.
 
-This led to a delightful detour into parametric CAD — design software where every dimension is a variable you can tweak, then regenerate the whole model. Unlike the cube, this could iterate without sawdust: tweak a dimension, regenerate, print again. I ended up designing and 3D-printing an array of Helmholtz resonators.
+This led to a delightful detour into parametric CAD — design software where every dimension is a variable you can tweak, then regenerate the whole model. Unlike the cube, this could iterate without sawdust: tweak a dimension, regenerate, print again. I ended up building [a parametric generator](https://github.com/andrey-lepekhin/helmholtz-array-generator) and 3D-printing an array of Helmholtz resonators.
 
 ![3D-printed Helmholtz resonator prototypes]({{ "/assets/images/2026-02-10-Soundproof-Sleep-Capsule/3d-printed-helmholtz-resonators.jpg" | absolute_url }})
 
