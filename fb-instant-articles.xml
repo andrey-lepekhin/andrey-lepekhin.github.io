@@ -135,7 +135,7 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
 
 <p>I read acoustics papers and kept running into the same seductive idea: attenuation without the weight. Could geometry replace some of what I’d been trying to purchase with sheer mass? <a href="https://www.mdpi.com/2683028">One paper (Hedayati et al., 2024)</a> had enough data for me to reproduce the build.</p>
 
-<p>This led to a delightful detour into parametric CAD — design software where every dimension is a variable you can tweak, then regenerate the whole model. Unlike the cube, this could iterate without sawdust: tweak a dimension, regenerate, print again. I ended up designing and 3D-printing an array of Helmholtz resonators.</p>
+<p>This led to a delightful detour into parametric CAD — design software where every dimension is a variable you can tweak, then regenerate the whole model. Unlike the cube, this could iterate without sawdust: tweak a dimension, regenerate, print again. I ended up building <a href="https://github.com/andrey-lepekhin/helmholtz-array-generator">a parametric generator</a> and 3D-printing an array of Helmholtz resonators.</p>
 
 <p><img src="https://www.lepekhin.com/assets/images/2026-02-10-Soundproof-Sleep-Capsule/3d-printed-helmholtz-resonators.jpg" alt="3D-printed Helmholtz resonator prototypes" /></p>
 
