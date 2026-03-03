@@ -76,7 +76,7 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
 
 <p>Once the requirements took shape, I hired Fehim — an engineer I found on Upwork — because I didn’t actually know how to design physical objects at this scale. The mass needed for real attenuation (reduction) pushed the estimate past half a ton.</p>
 
-<p>A 100 kg door is not furniture; it’s a crushing hazard. In my sketch it was a rectangle. In reality it was a lever arm waiting to rip hinges out — or tip the structure.</p>
+<p>A 100 kg door a dangerous crushing hazard. The simple rectangle in my sketch translated physically into a massive lever arm destined to rip its hinges out — or tip the whole structure.</p>
 
 <p>You don’t just “hang” a slab of mass-loaded vinyl (a thin, dense rubber sheet) and plywood; you build a steel cage to contain it. The deeper I dug, the more obvious my ignorance became.</p>
 
@@ -145,7 +145,7 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
 
 <p>Then I found <a href="https://arxiv.org/abs/2307.15216">a paper by Krasikova et al. (2023)</a> that captured my imagination. The authors used plastic plumbing tubes with cleverly cut holes to create paired Helmholtz resonators, and reported attenuation across a broad range. Most metamaterials target narrow bands (like a specific engine frequency), but my goal was broad attenuation. This paper promised exactly that — and claimed it didn’t even require a hermetic seal.</p>
 
-<p>I emailed the author with clarifying questions (she replied!). Plastic tubes were light, cheap, and targeted the needed frequency range. For the first time in months, I fell asleep picturing the finished build — not cataloging problems.</p>
+<p>I emailed the author with clarifying questions (she replied!). Plastic tubes were light, cheap, and targeted the needed frequency range. For the first time in months, I fell asleep with peaceful visions of the completed project.</p>
 
 <p>After three months and six emails, I was ready to build. I opened a spreadsheet to finalize the Bill of Materials.</p>
 
