@@ -4,9 +4,9 @@ title: 'I Tried to Build a Soundproof Sleep Capsule'
 categories: diy
 ---
 
-Sound leaves no evidence. There's no stain on the ceiling, no crack in the plaster — nothing you can point at and say *there*. An apartment can feel silent at noon and turn hostile at 2&nbsp;a.m., when a bass note rolls through the wall, not loud enough to complain about, just loud enough that your body is now *awake*. Your jaw clenches. Not because the sound is dangerous, but because someone else — unknowingly — just decided how your next day is going to go.
+Sound leaves no evidence. There's no stain on the ceiling, no crack in the plaster — nothing you can point at and say *there*. An apartment can feel silent at noon and turn hostile at 2&nbsp;a.m., when a bass note rolls through the wall, not loud enough to complain about, just loud enough that your body is now *awake*. Your jaw clenches. The sound isn't dangerous. The problem is the helplessness: someone else unknowingly decides how your next day goes.
 
-For years I tried the usual arsenal — earplugs, white noise, therapy, bargaining with neighbors. Nothing worked. Actual silence is rare when you rent in a city.
+For years I tried the usual arsenal: earplugs, white noise, therapy, bargaining with neighbors. Nothing worked. Actual silence is rare when you rent in a city.
 
 Suffice to say, I did not jump to *designing a soundproof sleep capsule* right away.
 
@@ -32,7 +32,7 @@ My mental image was egg cartons and acoustic foam — the YouTube studio look. B
 
 Bass was the target—the hardest to stop, and my main sleep problem. A bass note really does vibrate a cement wall. The amplitudes are nanometers, invisible, but enough: the whole slab rocks back and forth like a piston, re-radiating the bass on the other side. Higher frequencies I could solve with earplugs and closed windows.
 
-To stop low-frequency waves, acoustical engineering offers only two expensive tools: **mass** and **decoupling**. Mass is brute force — a heavier wall is harder to shake, the same way it's harder to push a parked truck than a shopping cart. Acousticians call this the mass law. Double the wall's mass, and you gain about 6&nbsp;dB[^decibels] of extra isolation — noticeable, but not dramatic.
+To stop low-frequency waves, acoustical engineering offers only two expensive tools: **mass** and **decoupling**. Mass is brute force: a heavier wall is harder to shake, the same way it's harder to push a parked truck than a shopping cart. Acousticians call this the mass law. Double the wall's mass, and you gain about 6&nbsp;dB[^decibels] of extra isolation — noticeable, but not dramatic.
 
 There's a deep unfairness in acoustics: making noise costs nothing, but stopping it costs a fortune. A neighbor's footstep is free; the mass required to block it weighs hundreds of kilograms.
 
@@ -44,9 +44,9 @@ The canonical approach is a "room within a room." In studios, the inner shell si
 ![Early draft design prototype sketch]({{ "/assets/images/2026-02-10-Soundproof-Sleep-Capsule/early-sketchup-prototype.png" | absolute_url }})
 {% endfigure %}
 
-Once the requirements took shape, I hired Fehim — an engineer I found on Upwork — because I didn’t actually know how to design physical objects at this scale. The mass needed for real attenuation (reduction) pushed the estimate past half a ton.
+Once the requirements took shape, I hired Fehim (an engineer I found on Upwork) because I didn’t actually know how to design physical objects at this scale. The mass needed for real attenuation (reduction) pushed the estimate past half a ton.
 
-A 100&nbsp;kg door a dangerous crushing hazard. The simple rectangle in my sketch translated physically into a massive lever arm destined to rip its hinges out — or tip the whole structure.
+A 100&nbsp;kg door is a crushing hazard. The simple rectangle in my sketch translated physically into a massive lever arm destined to rip its hinges out — or tip the whole structure.
 
 You don’t just “hang” a slab of mass-loaded vinyl (a thin, dense rubber sheet) and plywood; you build a steel cage to contain it. The deeper I dug, the more obvious my ignorance became.
 
@@ -84,7 +84,7 @@ Subtract the two curves and you get the cube's sound transmission loss (TL): how
 
 ![Transmission loss of the cube vs. a regular room door]({{ "/assets/images/2026-02-10-Soundproof-Sleep-Capsule/chart-transmission-loss-cube-vs-room-door.png" | absolute_url }})
 
-This wasn't a lab-grade measurement — the test room had its own reflections and modes. But the result was unambiguous enough.
+This wasn't a lab-grade measurement. The test room had its own reflections and modes. But the result was unambiguous enough.
 
 I wanted to slam the laptop shut.
 
@@ -108,7 +108,7 @@ This led to a delightful detour into parametric CAD — design software where ev
 
 ![3D-printed Helmholtz resonator prototypes]({{ "/assets/images/2026-02-10-Soundproof-Sleep-Capsule/3d-printed-helmholtz-resonators.jpg" | absolute_url }})
 
-Holding the first print felt like a victory — until I did the math. To cover a capsule, I'd need hundreds. Filament cost and print time ballooned into months. I never tested a single one. The prototype now holds spent batteries on my shelf — a monument to parametric CAD, if nothing else.
+Holding the first print felt like a victory. Then I did the math. To cover a capsule, I'd need hundreds. Filament cost and print time ballooned into months. I never tested a single one. The prototype now holds spent batteries on my shelf — a monument to parametric CAD, if nothing else.
 
 ## The Last Paper
 
@@ -132,7 +132,7 @@ When a recurring problem disappears without you changing anything, you don't rel
 
 My sleep improved, though I never isolated the variable. Recently a door slammed at 2&nbsp;a.m. I noticed. I rolled over. A year earlier, I would have stayed awake, jaw clenched.
 
-Maybe Finland's lower ambient stress finally settled into my nervous system[^relocation]. Or maybe the act of building — even building things that failed — gave back what I'd actually lost: not quiet, but *agency*.
+Maybe Finland's lower ambient stress finally settled into my nervous system[^relocation]. Or maybe the act of building — even building things that failed — gave back what I'd actually lost. Not quiet, but *agency*.
 
 I disassembled the cube, reclaimed the plywood, and reused the CAD skills on my [next hobby project]({% post_url 2025-06-22-DIY-Door-Fan-to-Fix-My-Groggy-Mornings %}). In total I spent under 1,000&nbsp;euros — about 300 on the engineer, the rest on materials and tools — and a solid month of full-time effort. None of it produced silence. All of it mattered.
 
