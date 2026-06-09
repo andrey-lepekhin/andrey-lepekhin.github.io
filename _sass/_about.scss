@@ -5,10 +5,65 @@
   border-radius: 8px;
 }
 
+.about-cards {
+  clear: both;
+  display: grid;
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.about-card {
+  padding: 1rem 1.15rem;
+  border: 1px solid rgba(26, 26, 26, 0.08);
+  border-left: 4px solid rgba($blue, 0.55);
+  border-radius: 10px;
+  background: rgba(252, 252, 252, 0.82);
+  box-shadow: 0 10px 30px rgba(26, 26, 26, 0.05);
+}
+
+.about-card:nth-child(2) {
+  border-left-color: rgba($green, 0.55);
+}
+
+.about-card:nth-child(3) {
+  border-left-color: rgba($purple, 0.55);
+}
+
+.about-card:nth-child(4) {
+  border-left-color: rgba($orange, 0.65);
+}
+
+.about-card:nth-child(5) {
+  border-left-color: rgba($red, 0.55);
+}
+
+.about-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.45rem;
+  font-size: 1rem;
+}
+
+.about-card p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  .about-card {
+    border-color: rgba(224, 224, 224, 0.09);
+    background: rgba(26, 26, 26, 0.82);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  }
+}
+
 @media (max-width: 600px) {
   .about-photo {
     float: none;
     display: block;
     margin: 0 auto 1rem;
+  }
+
+  .about-card {
+    padding: 0.9rem 1rem;
   }
 }
