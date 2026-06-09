@@ -49,7 +49,7 @@ I love to dance, especially free movement styles like freedom dance, ecstatic da
 
 </div>
  
-I'm currently in ~~Moscow~~ ~~Bishkek~~ Helsinki, I'm eager to connect with people who share similar interests. So, if something about what you see caught your fancy, feel free to reach out!
+I'm currently in ~~Moscow~~ ~~Bishkek~~ Helsinki, I'm eager to connect with people who share similar interests. So, if something here caught your fancy, feel free to reach out!
 
 ### Criticism
 I appreciate constructive feedback. One of the main reasons I write this blog is to grow, so if you think something could be better, I'd be grateful if you told me.
