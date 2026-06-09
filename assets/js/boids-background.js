@@ -27,7 +27,7 @@ const BASE_PRESET = {
   minCount: 520,
   maxCount: 1400,
   sizeScale: 0.7,
-  alphaScale: 0.42,
+  alphaScale: 0.62,
   neighborRadius: 0.16,
   separationRadius: 0.055,
   // Slow, gliding motion: a distant flock wheeling together, not darting.
@@ -74,7 +74,14 @@ function buildPreset() {
   const mobileLike =
     window.innerWidth < 640 ||
     (window.matchMedia?.("(pointer: coarse)")?.matches ?? false);
-  const mobileScale = mobileLike ? 0.68 : 1;
+  const mobileScale = mobileLike ? 0.3 : 1;
+  // Fewer but larger birds on mobile so the confined top band reads clearly,
+  // with extra spacing so the larger silhouettes don't bunch up/overlap.
+  if (mobileLike) {
+    preset.sizeScale *= 1.6;
+    preset.separationRadius *= 1.8;
+    preset.neighborRadius *= 1.3;
+  }
   const area = window.innerWidth * window.innerHeight;
 
   preset.count = Math.round(
@@ -207,7 +214,6 @@ export function runOglBoids(stage) {
       uniform float uMaxSpeed;
       varying float vSpeed;
       varying float vRandom;
-      varying vec2 vHeading;
 
       void main() {
         vec2 drift = vec2(
@@ -216,9 +222,8 @@ export function runOglBoids(stage) {
         ) * 0.006;
         gl_Position = vec4(position + drift, 0.0, 1.0);
         vSpeed = clamp(length(velocity) / uMaxSpeed, 0.0, 1.0);
-        gl_PointSize = mix(7.0, 14.0, vSpeed) * uDpr * uSizeScale;
+        gl_PointSize = mix(8.0, 15.0, vSpeed) * uDpr * uSizeScale;
         vRandom = random;
-        vHeading = normalize(velocity + 0.0001);
       }
     `,
     fragment: `
@@ -226,37 +231,59 @@ export function runOglBoids(stage) {
       uniform float uAlphaScale;
       uniform float uDark;
       uniform float uReveal;
+      uniform float uTime;
       varying float vSpeed;
       varying float vRandom;
-      varying vec2 vHeading;
 
       void main() {
+        // Screen-fixed orientation: x across the wings, y up (sky up). The
+        // silhouette never rotates with travel direction, so the flat 2D
+        // "two-wing squiggle" always keeps a consistent top and bottom.
         vec2 uv = gl_PointCoord - 0.5;
-        vec2 forward = normalize(vHeading + 0.0001);
-        vec2 side = vec2(-forward.y, forward.x);
-        vec2 local = vec2(dot(uv, side), dot(uv, forward));
-        float body = smoothstep(0.24, 0.02, abs(local.x)) *
-          smoothstep(-0.38, -0.18, local.y) *
-          smoothstep(0.50, 0.18, local.y);
-        float head = smoothstep(0.20, 0.02, length(local - vec2(0.0, 0.22)));
-        float tail = smoothstep(0.16, 0.01, abs(local.x)) *
-          smoothstep(-0.50, -0.22, -local.y);
-        float halo = smoothstep(0.5, 0.05, length(uv)) * 0.16;
-        float alpha = max(body * 0.78, head) + tail * 0.28 + halo;
+        float bx = uv.x;
+        float by = -uv.y;
+
+        float ax = abs(bx);
+        float halfSpan = 0.46;
+
+        // Long-flight flapping: a capped, speed-independent beat frequency,
+        // delivered in intermittent bursts separated by short glides.
+        float TAU = 6.2831853;
+        float cycle = fract(uTime * (0.34 + vRandom * 0.12) + vRandom);
+        float flapFraction = 0.62;
+        float flapEnv = smoothstep(0.0, 0.1, cycle) *
+          (1.0 - smoothstep(flapFraction - 0.12, flapFraction, cycle));
+        float flap = flapEnv * sin(uTime * (1.9 + vRandom * 0.4) * TAU + vRandom * TAU) * 0.5;
+
+        // Resting upward dihedral (a shallow V) plus the flap; tips move most.
+        float wingY = (0.14 + flap) * ax;
+
+        // Stroke traced along the wing line, tapering toward the tips.
+        float d = abs(by - wingY);
+        float thickness = mix(0.16, 0.045, ax / halfSpan);
+        float wing = smoothstep(thickness, thickness * 0.35, d);
+        wing *= smoothstep(halfSpan, halfSpan - 0.12, ax);
+
+        // Small upright body so the centre reads as more than crossing lines.
+        float bodyLump = smoothstep(0.2, 0.0, length(vec2(bx * 1.5, by)));
+
+        // Faint halo keeps the tiny silhouette from aliasing harshly.
+        float halo = smoothstep(0.5, 0.12, length(uv)) * 0.05;
+        float alpha = max(wing, bodyLump * 0.85) + halo;
         if (alpha < 0.03) discard;
 
         // Muted greys only (no hue). Compressed range so highlights read as
         // calm mid-grey rather than bright-white sparkle.
-        vec3 calmDark = vec3(0.5);
-        vec3 hotDark = vec3(0.68);
+        vec3 calmDark = vec3(0.66);
+        vec3 hotDark = vec3(0.86);
         vec3 calmLight = vec3(0.5);
         vec3 hotLight = vec3(0.34);
         vec3 calm = mix(calmLight, calmDark, uDark);
         vec3 hot = mix(hotLight, hotDark, uDark);
         vec3 color = mix(calm, hot, clamp(vSpeed * 1.2 + vRandom * 0.18, 0.0, 1.0));
 
-        // Light mode needs a touch more opacity to read against #fcfcfc.
-        float alphaScale = uAlphaScale * mix(1.05, 1.0, uDark);
+        // Dark mode needs more opacity to read against #1a1a1a.
+        float alphaScale = uAlphaScale * mix(1.05, 1.3, uDark);
         float particleReveal = smoothstep(vRandom * 0.9, vRandom * 0.9 + 0.34, uReveal);
         gl_FragColor = vec4(color, min(alpha * alphaScale, 1.0) * particleReveal);
       }
@@ -816,9 +843,11 @@ function imod(n, m) {
 
 const stage = document.querySelector("#boids-bg");
 if (stage) {
-  runOglBoids(stage).catch((error) => {
+  try {
+    runOglBoids(stage);
+  } catch (error) {
     // Background is decorative; never let a WebGL failure break the page.
     console.error("Boids background failed to start:", error);
     stage.remove();
-  });
+  }
 }
