@@ -1,0 +1,14 @@
+.about-photo {
+  float: right;
+  width: 200px;
+  margin: 0 0 1rem 1.5rem;
+  border-radius: 8px;
+}
+
+@media (max-width: 600px) {
+  .about-photo {
+    float: none;
+    display: block;
+    margin: 0 auto 1rem;
+  }
+}

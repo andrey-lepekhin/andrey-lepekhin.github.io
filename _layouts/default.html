@@ -5,7 +5,7 @@ layout: compress
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
-<body class="site{% if site.animated %} animated fade-in-down{% endif %}">
+<body class="site{% if site.animated %} animated fade-in-down{% endif %}{% if page.boids %} has-boids{% endif %}">
   {% if site.google_tag_manager %}
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -20,6 +20,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		  fjs.parentNode.insertBefore(js, fjs);
 		}(document, 'script', 'facebook-jssdk'));</script>
 	{% endif %}
+
+  {% if page.boids %}{% include boids-background.html %}{% endif %}
 
   <div class="site-wrap">
     {% include header.html %}

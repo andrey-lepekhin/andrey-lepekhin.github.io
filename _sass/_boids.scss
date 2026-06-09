@@ -1,0 +1,122 @@
+// Full-page boids particle background, enabled per-page via `boids: true`
+// front matter (which adds the `has-boids` class to <body>).
+
+#boids-bg {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  // Decorative + click-through so page text stays selectable and links work.
+  pointer-events: none;
+  opacity: 1;
+  transition: opacity 500ms ease;
+}
+
+#boids-bg.is-hidden {
+  opacity: 0;
+}
+
+#boids-bg canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+// Lift real content above the canvas. The body background colour still paints
+// behind the (transparent) canvas, so light/dark themes are preserved.
+.has-boids .site-wrap,
+.has-boids > footer {
+  position: relative;
+  z-index: 1;
+}
+
+.boids-toggle {
+  position: fixed;
+  right: 1rem;
+  bottom: 1rem;
+  z-index: 2;
+  padding: 0.35rem 0.55rem;
+  border: 1px solid rgba(26, 26, 26, 0.18);
+  border-radius: 999px;
+  background: rgba(252, 252, 252, 0.72);
+  color: rgba(26, 26, 26, 0.62);
+  font: inherit;
+  font-size: 0.75rem;
+  line-height: 1;
+  cursor: pointer;
+  opacity: 0;
+  transform: translateY(0.25rem);
+  transition:
+    opacity 700ms ease,
+    transform 700ms ease,
+    color 150ms ease,
+    border-color 150ms ease,
+    background-color 150ms ease;
+}
+
+.boids-toggle.is-visible {
+  opacity: 0.72;
+  transform: translateY(0);
+}
+
+.boids-toggle:hover,
+.boids-toggle:focus-visible {
+  opacity: 1;
+  color: $base-font-color;
+  border-color: rgba(26, 26, 26, 0.32);
+  background: rgba(252, 252, 252, 0.9);
+}
+
+.boids-toggle:focus-visible {
+  outline: 2px solid rgba(26, 26, 26, 0.35);
+  outline-offset: 2px;
+}
+
+// Scrim behind the body copy only (not the title or the top nav), so the
+// dense paragraphs stay legible while particles remain visible around the
+// header/title on every screen size. On mobile the body column is full-width,
+// so a smaller halo here avoids blanketing the whole top of the page.
+.has-boids [role="main"] .post-content {
+  background-color: $base-bg-color;
+  box-shadow: 0 0 40px 24px $base-bg-color;
+  border-radius: 8px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .has-boids [role="main"] .post-content {
+    background-color: $dark-mode-bg-color;
+    box-shadow: 0 0 40px 24px $dark-mode-bg-color;
+  }
+
+  .boids-toggle {
+    border-color: rgba(224, 224, 224, 0.2);
+    background: rgba(26, 26, 26, 0.72);
+    color: rgba(224, 224, 224, 0.62);
+  }
+
+  .boids-toggle:hover,
+  .boids-toggle:focus-visible {
+    color: $dark-mode-font-color;
+    border-color: rgba(224, 224, 224, 0.34);
+    background: rgba(26, 26, 26, 0.9);
+  }
+
+  .boids-toggle:focus-visible {
+    outline-color: rgba(224, 224, 224, 0.35);
+  }
+}
+
+@media (max-width: 600px) {
+  #boids-bg {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: auto;
+    left: 0;
+    height: var(--boids-mobile-height, 16rem);
+    overflow: hidden;
+  }
+
+  .boids-toggle {
+    display: none;
+  }
+}
