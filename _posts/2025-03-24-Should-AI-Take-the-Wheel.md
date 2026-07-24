@@ -5,77 +5,60 @@ categories: AI life-decisions philosophy
 excerpt_separator: <!--excerpt_separator-->
 ---
 
-When my wife asked, "_Which decisions should you **not** delegate to AI?_", I froze mid-thought.
+When my wife asked, "_Which decisions should you **not** delegate to AI?_", I stumbled.
 
 <!--excerpt_separator-->
 
-At that moment, it hit me just how much I'd already outsourced—maybe even too much. She noticed (quicker than I did!) that I'd become increasingly dependent on AI, whose capabilities seem to grow by the week.
+My wife had noticed  (quicker than I had!) that I was leaning on AI more often. The tools kept getting better, and the questions I gave them were getting less trivial.
 
-It started innocently enough. Small questions like:
+At first, it was:
 
-> What meal can I make with these leftovers?
+> What meal can I make with these ingredients in my fridge?
 
-quickly escalated to:
+It quickly escalated to:
 
 > Should we move to another city?
 
-Before long, decisions I'd usually ponder through journaling, or with trusted friends, had slowly become quick prompts to ChatGPT, answered instantly. Convenience quietly replaced reflection.
-
-So where is the line between getting help and letting the habit make me passive?
+That second question would once have sent me to my journal or to a friend who knows me well. Increasingly, I was opening ChatGPT first, with its convenient instant answers.
 
 ## Better decisions
 
-Recently, I chatted about this with a friend.[^conversation] We talked about how little practice we really get with life's biggest choices: leaving a job, ending a relationship, deciding to move abroad. These choices come up infrequently yet have massive stakes attached, no wonder we struggle with them.
+A friend and I recently discussed this.[^conversation] We talked about how little practice we really get with life's biggest choices: leaving a job, ending a relationship, or deciding to move abroad. These choices come up rarely but have massive stakes attached. No wonder we struggle with them — we don't have enough practice.
 
-That makes AI very tempting. It can draw on more examples than any one person has seen and is not caught up in my immediate mood.[^1] Could that sometimes make its advice better than my own?
+That makes AI very tempting. It can draw on more examples than any one person has seen and is not caught up in my immediate mood.[^1]
 
 ## Cheat code to life
 
-Even if the advice _is_ better, I might still lose something by always taking it.
+It reminds me of using cheat codes in video games as a child (`IDDQD`, anyone?). At first, cheating felt amazing. Not long after, I realized I wasn't having much fun. Without the challenge, reward was not... well, rewarding.
 
-It reminds me of using cheat codes in video games as a child (`IDDQD`, anyone?). At first, cheating felt amazing. Not long after, I realized I wasn't having much fun. Without the challenge, I stopped caring what happened.
+Relying on AI is similar in that it *can* suck the meaning out of life. Struggling over a choice develops the muscle needed to make good decisions; reaping the consequences, however good or dreadful, closes the feedback loop. Without that, do I learn anything? Without struggling over a choice, am I still the author of my life?
 
-Could relying on AI do something similar? Maybe some of the frustration I want to avoid is also where I learn patience or build character and empathy.
-
-I've resorted to cheats in games when they became frustratingly hard or when low mood got the best of me, _even_ when I knew it would spoil the fun longer-term. If I can't resist that temptation in gaming, how can I resist the allure of AI making my life easier?
+I used cheats most often when a game became frustrating or when I was in a low mood and needed a win, even though I knew they would drain the fun from the game soon after. AI offers a much larger shortcut, and I worry my willpower will not be enough to withstand the siren call of an easy life.
 
 ---
 
 The analogy breaks down, though.
 
-## Real life was not designed to be a satisfying game
+Some difficulties are not secretly lessons. Sometimes a situation is simply painful, or there is tedious work that needs to be done. Help is welcome there.
 
-Our daily challenges aren't necessarily meaningful or valuable. Some are simply painful, and getting through them teaches us nothing.
+Not all gain requires pain. I may also have given struggle too much credit. Curiosity and making things have shaped me at least as much as hardship has. AI may give me more room for both without adding misery for its own sake.
 
-In these circumstances, reducing unnecessary trauma and harm isn't "cheating"; it's just common sense.
+…but some gain definitely _is_ driven by pain. And with AI it might be easier to avoid the uncomfortable. A fast plausible AI answer can help me skip the marinating-in-my-misery part of the experience.
 
-### Not all gain requires pain
-
-And maybe I've overestimated the necessity of struggle and hardship for personal growth. Curiosity, play, and making things have shaped me too. AI could help with that kind of growth without sending me through avoidable misery.
-
-
-### …but some gain still might?
-
-The worry is what happens if I hand over _every_ difficult choice.
-
-Sometimes I need to sit with uncertainty, even when an AI can offer _a_ reasonable path. The discomfort may be part of working out what matters to me.
-
-## Local maxima trap
-
-There is another failure mode. An AI optimized for what I want right now might keep recommending the least uncomfortable option: stay in the tolerable job, avoid the hard conversation, postpone the move. Each suggestion could feel sensible on its own while the larger pattern leaves me stuck.[^2]
+There's also the local maximum trap. An AI optimized for what I want right now might keep recommending the least uncomfortable option: stay in the tolerable job, avoid the hard conversation, postpone the move. Years later, I could find that several _sensible_ decisions had kept me stuck.[^2]
 
 ## Convenience vs. Agency
 
-That is the part I keep coming back to. As AI improves, will using it make me feel less like the author of my own decisions?
+I want to be able to recognize the decision as mine.
 
-I don't know yet. What reassures me is my actual track record. Despite thinking of myself as the _instant gratification monkey_, I do leave my comfort zone and do things even when The Algorithm offers an easier distraction.
+For now, I don't have a fixed rule for this. But my own track record gives me some confidence. Despite thinking of myself as the _instant gratification monkey_, I do leave my comfort zone and do things even when The Algorithm offers an easier distraction.
 
-I expect AI to become more useful. I also trust that I can notice when its help starts making my life smaller, and change how I use it.
+I expect AI to become more useful, and harder to ignore. And also I trust that I can notice when its help starts making my life smaller, and change how I use it.
 
-I'd love to hear your thoughts, and I'm curious how future-me will reflect on another year of closer reliance on AI.
+---
 
 [^1]: To be clear, today's AIs carry _all the biases_ inherited from training data; the hope is that they balance each other out.
 
-[^2]: Current AIs are good at surface-level optimization but may fail to suggest difficult-in-the-moment but ultimately enriching decisions. Future models could potentially integrate secondary- and tertiary-level consequences, vectorize your preferences and _your whole psyche_, and ultimately be able to make decisions that are _just good for you_. But that is post-singularity AI, firmly in Speculationland.
+[^2]: Current AIs are good at surface-level optimization but may fail to suggest difficult-in-the-moment but ultimately enriching decisions. Future models could potentially integrate second- and third-order consequencess, vectorize your preferences and _your whole psyche_, and ultimately be able to make decisions that are _just good for you_. But that is post-singularity AI, firmly in Speculationland.
 
 [^conversation]: Thanks to [Aayush](https://x.com/Aay17ush) for the conversation that inspired this section.
