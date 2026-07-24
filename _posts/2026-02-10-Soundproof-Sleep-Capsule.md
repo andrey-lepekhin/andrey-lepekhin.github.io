@@ -4,7 +4,7 @@ title: 'I Tried to Build a Soundproof Sleep Capsule'
 categories: diy
 ---
 
-Sound leaves no evidence. There's no stain on the ceiling, no crack in the plaster — nothing you can point at and say *there*. An apartment can feel silent at noon and turn hostile at 2&nbsp;a.m., when a bass note rolls through the wall, not loud enough to complain about, just loud enough that your body is now *awake*. Your jaw clenches. The sound isn't dangerous. The problem is the helplessness: someone else unknowingly decides how your next day goes.
+Sound leaves no evidence. There's no stain on the ceiling — nothing you can point at and say *there*. An apartment can seem silent at noon and wake me at 2&nbsp;a.m., when a bass note comes through the wall, too faint to justify a complaint but enough to keep me awake. What got to me was having no control over it: someone else could ruin my next day without even knowing.
 
 For years I tried the usual arsenal: earplugs, white noise, therapy, bargaining with neighbors. Nothing worked. Actual silence is rare when you rent in a city.
 
@@ -62,7 +62,7 @@ I'd assumed plywood, drywall, and mineral wool were “cheap.” They are, until
 
 Then I ran into a harder problem: air.
 
-A sealed box is quiet. It's also a coffin.[^co2-risk] The moment you add ventilation, you add openings—and sound treats openings like invitations. It floods through the tiniest crack.[^gap-isolation]
+A sealed box might be quiet, but it's also a coffin.[^co2-risk] Ventilation requires openings, and even a tiny gap can sharply reduce sound isolation.[^gap-isolation]
 
 So the project stopped being "build heavy walls." It became "build heavy walls *and* somehow let air in."
 
@@ -88,7 +88,7 @@ This wasn't a lab-grade measurement. The test room had its own reflections and m
 
 I wanted to slam the laptop shut.
 
-At the low frequencies I cared about, the cube wasn't just ineffective — it was ~10&nbsp;dB[^decibels] *worse* than no cube at all. I'd built a giant guitar body: a resonance chamber that grabbed the bass and hummed along.
+At the low frequencies I cared about, the cube was ~10&nbsp;dB[^decibels] *worse* than no cube at all. It was acting like the body of a guitar, resonating with the bass instead of blocking it.
 
 At first I blamed my construction, then my testing setup. Later, theory explained one of the dips: at certain frequencies, the sound waves bounced back and forth inside the cube at exactly the right spacing to reinforce each other — like pushing a kid on a swing at just the right moment. The cube's internal dimensions were accidentally *tuned* to amplify the very frequencies I wanted to block.[^acoustic-modes] I never figured out the second, sub-300 Hz dip.
 
@@ -100,7 +100,7 @@ In retrospect, the pivot to metamaterials was partly genuine curiosity and partl
 
 Eventually I went looking for a different lever — something smarter than "add more plywood." That's how I found **acoustic metamaterials** — materials whose behavior comes less from what they're made of and more from how they're shaped.
 
-Jet engines can't be sealed, so they reduce noise with honeycomb structures that act like thousands of tiny [Helmholtz resonators](https://en.wikipedia.org/wiki/Helmholtz_resonance) tuned to eat specific tones. A Helmholtz resonator is simpler than it sounds: blow across a bottle top and you hear a note. That note is the air in the neck bouncing against the air trapped in the body, and the bottle absorbs energy at exactly that frequency. Change the bottle's shape, change the frequency it eats. Now imagine thousands of precisely shaped "bottles" embedded in a wall — each one swallowing a different slice of the noise spectrum.
+Jet engines can't be sealed, so they reduce noise with honeycomb structures that act like thousands of small [Helmholtz resonators](https://en.wikipedia.org/wiki/Helmholtz_resonance) tuned to specific frequencies. A Helmholtz resonator is simpler than it sounds: blow across a bottle top and you hear a note. That note is the air in the neck bouncing against the air trapped in the body, and the bottle absorbs energy at exactly that frequency. Change the bottle's shape, change the frequency it eats. Now imagine thousands of precisely shaped "bottles" embedded in a wall — each one swallowing a different slice of the noise spectrum.
 
 I read acoustics papers and kept running into the same seductive idea: attenuation without the weight. Could geometry replace some of what I'd been trying to purchase with sheer mass? [One paper (Hedayati et al., 2024)](https://www.mdpi.com/2683028) had enough data for me to reproduce the build.
 
@@ -108,35 +108,31 @@ This led to a delightful detour into parametric CAD — design software where ev
 
 ![3D-printed Helmholtz resonator prototypes]({{ "/assets/images/2026-02-10-Soundproof-Sleep-Capsule/3d-printed-helmholtz-resonators.jpg" | absolute_url }})
 
-Holding the first print felt like a victory. Then I did the math. To cover a capsule, I'd need hundreds. Filament cost and print time ballooned into months. I never tested a single one. The prototype now holds spent batteries on my shelf — a monument to parametric CAD, if nothing else.
+Holding the first print felt like a victory. Then I did the math. To cover a capsule, I'd need hundreds. Filament cost and print time ballooned into months. I never tested a single one. The prototype now holds spent batteries on my shelf.
 
 ## The Last Paper
 
-Then I found [a paper by Krasikova et al. (2023)](https://arxiv.org/abs/2307.15216) that captured my imagination. The authors used plastic plumbing tubes with cleverly cut holes to create paired Helmholtz resonators, and reported attenuation across a broad range. Most metamaterials target narrow bands (like a specific engine frequency), but my goal was broad attenuation. This paper promised exactly that — and claimed it didn't even require a hermetic seal.
+Then I found [a paper by Krasikova et al. (2023)](https://arxiv.org/abs/2307.15216). The authors used plastic plumbing tubes with cut holes to create paired Helmholtz resonators and reported attenuation across a broad range. Most metamaterials target narrow bands, such as a specific engine frequency; this design covered a broader range and did not even require a hermetic seal. Hurray!
 
-I emailed the author with clarifying questions (she replied!). Plastic tubes were light, cheap, and targeted the needed frequency range. For the first time in months, I fell asleep with peaceful visions of the completed project.
+I emailed the author with clarifying questions (she replied!). Plastic tubes were light, cheap, and targeted the needed frequency range. For the first time in months, the project looked buildable again.
 
 After three months and six emails, I was ready to build. I opened a spreadsheet to finalize the Bill of Materials.
 
-Each resonator tube needed a specific length to target a particular frequency. To cover a bed-sized enclosure — say, 5 meters of perimeter and 1 meter tall — I'd need six resonators per block, eight blocks per meter of wall. The sum at the bottom of the column stared back at me: **250&nbsp;meters of PVC**.
+Each resonator tube needed a specific length to target a particular frequency. To cover a bed-sized enclosure — say, 5 meters of perimeter and 1 meter tall — I'd need six resonators per block, eight blocks per meter of wall. The total was **250&nbsp;meters of PVC**.
 
 ![250 m of PVC pipes]({{ "/assets/images/2026-02-10-Soundproof-Sleep-Capsule/250-m-of-pvc.jpg" | absolute_url }})
 
-I'd optimized for "lightweight" while ignoring "how much." The resulting structure would still weigh over 500&nbsp;kg, but now it would be made of thousands of glued tubes instead of simple plywood. I'd spent months on acoustic metamaterials only to arrive back at the same brute-force truth: mass laws are non‑negotiable.
+I'd optimized for the weight of each part without adding up the whole structure. It would still weigh over 500&nbsp;kg, only now it would require thousands of glued tubes instead of simple plywood. The metamaterial design had not solved the mass problem; it had made the build more complicated.
 
 I closed the spreadsheet and, for the first time, didn't open another paper.
 
 ## The Door Slammed at 2&nbsp;a.m.
 
-When a recurring problem disappears without you changing anything, you don't relax — you brace for its return.
-
 My sleep improved, though I never isolated the variable. Recently a door slammed at 2&nbsp;a.m. I noticed. I rolled over. A year earlier, I would have stayed awake, jaw clenched.
 
-Maybe Finland's lower ambient stress finally settled into my nervous system[^relocation]. Or maybe the act of building — even building things that failed — gave back what I'd actually lost. Not quiet, but *agency*.
+Maybe Finland's lower ambient stress finally settled into my nervous system[^relocation]. The project may have helped too: after months of measuring and building, the noise felt less mysterious and less beyond my control.
 
-I disassembled the cube, reclaimed the plywood, and reused the CAD skills on my [next hobby project]({% post_url 2025-06-22-DIY-Door-Fan-to-Fix-My-Groggy-Mornings %}). In total I spent under 1,000&nbsp;euros — about 300 on the engineer, the rest on materials and tools — and a solid month of full-time effort. None of it produced silence. All of it mattered.
-
-Sound leaves no evidence. But the sawdust did.
+I disassembled the cube, reclaimed the plywood, and reused the CAD skills on my [next hobby project]({% post_url 2025-06-22-DIY-Door-Fan-to-Fix-My-Groggy-Mornings %}). In total I spent under 1,000&nbsp;euros — about 300 on the engineer, the rest on materials and tools — and a solid month of full-time effort.
 
 ---
 
