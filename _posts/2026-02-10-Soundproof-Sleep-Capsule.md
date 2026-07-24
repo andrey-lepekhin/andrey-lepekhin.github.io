@@ -14,7 +14,7 @@ Suffice to say, I did not jump to *designing a soundproof sleep capsule* right a
 
 ## Pillows on the Bathroom Tiles
 
-My rage was selective. Wind didn't bother me. But if a *human* made the noise — a hot spike of adrenaline.
+Wind didn't bother me. But if a *human* made the noise — a hot spike of adrenaline.
 
 I stopped trusting daylight viewings. Before signing a lease, I'd ask realtors to let me sleep there for a night.
 
@@ -24,9 +24,9 @@ Eventually I dragged my bedding onto the cold bathroom tiles — the only room w
 
 ## The Half-Ton Hypothesis
 
-If I couldn't control the building, maybe I could control the boundary between it and my bed. The plan: solve this mechanically, once and for all.
+If I couldn't control the building, maybe I could control the boundary between it and my bed. The plan was to solve this mechanically, once and for all.
 
-Recording studios solved this decades ago. The question was whether I could get studio-grade isolation in a renter-friendly, bed-sized package. I grabbed [the industry bible](https://www.goodreads.com/book/show/913144.Home_Recording_Studio) of studio construction, and immediately learned I had a lot of misconceptions.
+Recording studios solved this decades ago. The question was whether I could could fit studio-grade isolation into a renter-friendly enclosure around a bed. I grabbed [the industry bible](https://www.goodreads.com/book/show/913144.Home_Recording_Studio) of studio construction, and immediately learned I had a lot of misconceptions.
 
 My mental image was egg cartons and acoustic foam — the YouTube studio look. But that stuff is *absorption*: it reduces reflections and makes a room less echoey. What I needed was *isolation*: stopping my neighbor’s bass from reaching my pillow. Foam barely matters there; low-frequency energy just plows right through.
 
@@ -34,11 +34,11 @@ Bass was the target—the hardest to stop, and my main sleep problem. A bass not
 
 To stop low-frequency waves, acoustical engineering offers only two expensive tools: **mass** and **decoupling**. Mass is brute force: a heavier wall is harder to shake, the same way it's harder to push a parked truck than a shopping cart. Acousticians call this the mass law. Double the wall's mass, and you gain about 6&nbsp;dB[^decibels] of extra isolation — noticeable, but not dramatic.
 
-There's a deep unfairness in acoustics: making noise costs nothing, but stopping it costs a fortune. A neighbor's footstep is free; the mass required to block it weighs hundreds of kilograms.
+There's a deep unfairness in acoustics: making noise costs nothing, but stopping it costs a fortune. Blocking an ordinary footstep can require hundreds of kilograms of material.
 
-Decoupling is sneakier: you build an inner structure that floats free of the outer one, so vibrations lose their path. Hold a tuning fork in the air and it hums quietly; press it against a table and the whole surface becomes a speaker. Decoupling keeps the tuning fork in the air.
+Decoupling separates the inner structure from the outer one so vibrations lose their rigid path. Hold a tuning fork in the air and it hums quietly; press it against a table and the whole surface becomes a speaker. Decoupling tries to preserve that separation.
 
-The canonical approach is a "room within a room." In studios, the inner shell sits on rubber pads and doesn't touch the outer walls, floor, or ceiling — a box floating inside another box. In my case, I thought: what if the inner room is just… bed-sized?
+Studios often use a "room within a room." The inner shell sits on rubber pads and doesn't touch the outer walls, floor, or ceiling. That made me wonder whether the inner room could be only large enough for a bed.
 
 {% figure [caption:"SketchUp prototype I used to look for contractors."] %}
 ![Early draft design prototype sketch]({{ "/assets/images/2026-02-10-Soundproof-Sleep-Capsule/early-sketchup-prototype.png" | absolute_url }})
@@ -48,7 +48,7 @@ Once the requirements took shape, I hired Fehim (an engineer I found on Upwork) 
 
 A 100&nbsp;kg door is a crushing hazard. The simple rectangle in my sketch translated physically into a massive lever arm destined to rip its hinges out — or tip the whole structure.
 
-You don’t just “hang” a slab of mass-loaded vinyl (a thin, dense rubber sheet) and plywood; you build a steel cage to contain it. The deeper I dug, the more obvious my ignorance became.
+You don’t just “hang” a slab of mass-loaded vinyl (a thin, dense rubber sheet) and plywood; you build a steel cage to contain it. At that point, I realized how much structural engineering the design required.
 
 I'd assumed plywood, drywall, and mineral wool were “cheap.” They are, until you need *a lot* of them. Fehim pushed for a prototype first. I’d somehow become the "perfect on the first try" client, and he had to talk me into cutting scope. I’m glad he did.
 
@@ -60,7 +60,7 @@ I'd assumed plywood, drywall, and mineral wool were “cheap.” They are, until
 
 ## No Uncutting a Board
 
-Then I ran into a harder problem: air.
+The next constraint was ventilation.
 
 A sealed box might be quiet, but it's also a coffin.[^co2-risk] Ventilation requires openings, and even a tiny gap can sharply reduce sound isolation.[^gap-isolation]
 
@@ -68,13 +68,13 @@ So the project stopped being "build heavy walls." It became "build heavy walls *
 
 *Grime accumulation, emergency exit… Hermetic seal? A submarine CO₂ scrubber?* My project folder kept growing. But everything else would matter only if I could get the walls right.
 
-I started with basics: a half-meter prototype cube with heavy, decoupled double walls.[^cube-specs] I bought mineral wool for the cavities, but after realizing the hair-thin glass fibers would coat my apartment, I stuffed them with old clothes instead. The goal was simple — test whether mass + decoupling + sealing = real attenuation.
+I started with a half-meter prototype cube with heavy, decoupled double walls.[^cube-specs] I bought mineral wool for the cavities, but after realizing the hair-thin glass fibers would coat my apartment, I stuffed them with old clothes instead. The prototype's purpose was to test whether the wall assembly measurably reduced sound.
 
 I didn't have the tools, so I asked in a local chat. A stranger — Alex (thank you!)—offered his backyard and his workshop, helped source materials, and taught me a few saw tricks on the spot. Without him, the cube might've stayed a sketch.
 
 ![Building the prototype in Alex's workshop]({{ "/assets/images/2026-02-10-Soundproof-Sleep-Capsule/building-prototype-in-workshop.jpg" | absolute_url }})
 
-I assumed a plywood cube would be trivial. Then reality showed up: blades have thickness, wood has knots, and tiny errors add up until your "square" box needs quotation marks. And every fix removes more material — there's no uncutting a board.
+I assumed a plywood cube would be trivial. I hadn't accounted for blade thickness, wood knots, or how quickly small errors accumulate until your "square" box needs quotation marks. Every correction removes more material — there's no uncutting a board.
 
 ![The finished test cube prototype]({{ "/assets/images/2026-02-10-Soundproof-Sleep-Capsule/cube-prototype-assembled.jpg" | absolute_url }})
 
@@ -92,17 +92,17 @@ At the low frequencies I cared about, the cube was ~10&nbsp;dB[^decibels] *worse
 
 At first I blamed my construction, then my testing setup. Later, theory explained one of the dips: at certain frequencies, the sound waves bounced back and forth inside the cube at exactly the right spacing to reinforce each other — like pushing a kid on a swing at just the right moment. The cube's internal dimensions were accidentally *tuned* to amplify the very frequencies I wanted to block.[^acoustic-modes] I never figured out the second, sub-300 Hz dip.
 
-After that graph, I went into avoidance mode. For weeks the designs sat untouched, and "ambitious" started to feel like "delusional."
+After that graph, I avoided the designs for weeks. I started to doubt that a full-size capsule was realistic.
 
 In retrospect, the pivot to metamaterials was partly genuine curiosity and partly a refusal to sit with the failure.
 
 ## Thousands of Tiny Bottles
 
-Eventually I went looking for a different lever — something smarter than "add more plywood." That's how I found **acoustic metamaterials** — materials whose behavior comes less from what they're made of and more from how they're shaped.
+I started looking for a way to reduce the amount of plywood. That search led me to **acoustic metamaterials** — materials whose behavior comes less from what they're made of and more from how they're shaped.
 
-Jet engines can't be sealed, so they reduce noise with honeycomb structures that act like thousands of small [Helmholtz resonators](https://en.wikipedia.org/wiki/Helmholtz_resonance) tuned to specific frequencies. A Helmholtz resonator is simpler than it sounds: blow across a bottle top and you hear a note. That note is the air in the neck bouncing against the air trapped in the body, and the bottle absorbs energy at exactly that frequency. Change the bottle's shape, change the frequency it eats. Now imagine thousands of precisely shaped "bottles" embedded in a wall — each one swallowing a different slice of the noise spectrum.
+Jet engines can't be sealed, so some use honeycomb structures containing thousands of small [Helmholtz resonators](https://en.wikipedia.org/wiki/Helmholtz_resonance) tuned to specific frequencies. A Helmholtz resonator is simpler than it sounds: blow across a bottle top and you hear a note. That note is the air in the neck bouncing against the air trapped in the body, and the bottle absorbs energy at exactly that frequency. Change the bottle's shape, change the frequency it eats. Now imagine thousands of precisely shaped "bottles" embedded in a wall — each one swallowing a different slice of the noise spectrum.
 
-I read acoustics papers and kept running into the same seductive idea: attenuation without the weight. Could geometry replace some of what I'd been trying to purchase with sheer mass? [One paper (Hedayati et al., 2024)](https://www.mdpi.com/2683028) had enough data for me to reproduce the build.
+The papers kept returning to the possibility of attenuation with less mass. I wanted to know whether geometry could replace some of the plywood. [One paper (Hedayati et al., 2024)](https://www.mdpi.com/2683028) had enough data for me to reproduce the build.
 
 This led to a delightful detour into parametric CAD — design software where every dimension is a variable you can tweak, then regenerate the whole model. Unlike the cube, this could iterate without sawdust: tweak a dimension, regenerate, print again. I ended up building [a parametric generator](https://github.com/andrey-lepekhin/helmholtz-array-generator) and 3D-printing an array of Helmholtz resonators.
 
@@ -124,7 +124,7 @@ Each resonator tube needed a specific length to target a particular frequency. T
 
 I'd optimized for the weight of each part without adding up the whole structure. It would still weigh over 500&nbsp;kg, only now it would require thousands of glued tubes instead of simple plywood. The metamaterial design had not solved the mass problem; it had made the build more complicated.
 
-I closed the spreadsheet and, for the first time, didn't open another paper.
+That was where I stopped researching the capsule.
 
 ## The Door Slammed at 2&nbsp;a.m.
 
