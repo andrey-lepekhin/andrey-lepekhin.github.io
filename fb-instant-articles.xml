@@ -33,7 +33,7 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
                 <link>https://www.lepekhin.com/2026/02/10/Soundproof-Sleep-Capsule</link>
                 <content:encoded>
                     <![CDATA[
-                    <p>Sound leaves no evidence. There’s no stain on the ceiling, no crack in the plaster — nothing you can point at and say <em>there</em>. An apartment can feel silent at noon and turn hostile at 2 a.m., when a bass note rolls through the wall, not loud enough to complain about, just loud enough that your body is now <em>awake</em>. Your jaw clenches. The sound isn’t dangerous. The problem is the helplessness: someone else unknowingly decides how your next day goes.</p>
+                    <p>Sound leaves no evidence. There’s no stain on the ceiling — nothing you can point at and say <em>there</em>. An apartment can seem silent at noon and wake me at 2 a.m., when a bass note comes through the wall, too faint to justify a complaint but enough to keep me awake. What got to me was having no control over it: someone else could ruin my next day without even knowing.</p>
 
 <p>For years I tried the usual arsenal: earplugs, white noise, therapy, bargaining with neighbors. Nothing worked. Actual silence is rare when you rent in a city.</p>
 
@@ -93,7 +93,7 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
 
 <p>Then I ran into a harder problem: air.</p>
 
-<p>A sealed box is quiet. It’s also a coffin.<sup id="fnref:co2-risk"><a href="#fn:co2-risk" class="footnote" rel="footnote" role="doc-noteref">2</a></sup> The moment you add ventilation, you add openings—and sound treats openings like invitations. It floods through the tiniest crack.<sup id="fnref:gap-isolation"><a href="#fn:gap-isolation" class="footnote" rel="footnote" role="doc-noteref">3</a></sup></p>
+<p>A sealed box might be quiet, but it’s also a coffin.<sup id="fnref:co2-risk"><a href="#fn:co2-risk" class="footnote" rel="footnote" role="doc-noteref">2</a></sup> Ventilation requires openings, and even a tiny gap can sharply reduce sound isolation.<sup id="fnref:gap-isolation"><a href="#fn:gap-isolation" class="footnote" rel="footnote" role="doc-noteref">3</a></sup></p>
 
 <p>So the project stopped being “build heavy walls.” It became “build heavy walls <em>and</em> somehow let air in.”</p>
 
@@ -119,7 +119,7 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
 
 <p>I wanted to slam the laptop shut.</p>
 
-<p>At the low frequencies I cared about, the cube wasn’t just ineffective — it was ~10 dB<sup id="fnref:decibels:1"><a href="#fn:decibels" class="footnote" rel="footnote" role="doc-noteref">1</a></sup> <em>worse</em> than no cube at all. I’d built a giant guitar body: a resonance chamber that grabbed the bass and hummed along.</p>
+<p>At the low frequencies I cared about, the cube was ~10 dB<sup id="fnref:decibels:1"><a href="#fn:decibels" class="footnote" rel="footnote" role="doc-noteref">1</a></sup> <em>worse</em> than no cube at all. It was acting like the body of a guitar, resonating with the bass instead of blocking it.</p>
 
 <p>At first I blamed my construction, then my testing setup. Later, theory explained one of the dips: at certain frequencies, the sound waves bounced back and forth inside the cube at exactly the right spacing to reinforce each other — like pushing a kid on a swing at just the right moment. The cube’s internal dimensions were accidentally <em>tuned</em> to amplify the very frequencies I wanted to block.<sup id="fnref:acoustic-modes"><a href="#fn:acoustic-modes" class="footnote" rel="footnote" role="doc-noteref">6</a></sup> I never figured out the second, sub-300 Hz dip.</p>
 
@@ -131,7 +131,7 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
 
 <p>Eventually I went looking for a different lever — something smarter than “add more plywood.” That’s how I found <strong>acoustic metamaterials</strong> — materials whose behavior comes less from what they’re made of and more from how they’re shaped.</p>
 
-<p>Jet engines can’t be sealed, so they reduce noise with honeycomb structures that act like thousands of tiny <a href="https://en.wikipedia.org/wiki/Helmholtz_resonance">Helmholtz resonators</a> tuned to eat specific tones. A Helmholtz resonator is simpler than it sounds: blow across a bottle top and you hear a note. That note is the air in the neck bouncing against the air trapped in the body, and the bottle absorbs energy at exactly that frequency. Change the bottle’s shape, change the frequency it eats. Now imagine thousands of precisely shaped “bottles” embedded in a wall — each one swallowing a different slice of the noise spectrum.</p>
+<p>Jet engines can’t be sealed, so they reduce noise with honeycomb structures that act like thousands of small <a href="https://en.wikipedia.org/wiki/Helmholtz_resonance">Helmholtz resonators</a> tuned to specific frequencies. A Helmholtz resonator is simpler than it sounds: blow across a bottle top and you hear a note. That note is the air in the neck bouncing against the air trapped in the body, and the bottle absorbs energy at exactly that frequency. Change the bottle’s shape, change the frequency it eats. Now imagine thousands of precisely shaped “bottles” embedded in a wall — each one swallowing a different slice of the noise spectrum.</p>
 
 <p>I read acoustics papers and kept running into the same seductive idea: attenuation without the weight. Could geometry replace some of what I’d been trying to purchase with sheer mass? <a href="https://www.mdpi.com/2683028">One paper (Hedayati et al., 2024)</a> had enough data for me to reproduce the build.</p>
 
@@ -139,35 +139,31 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
 
 <p><img src="https://www.lepekhin.com/assets/images/2026-02-10-Soundproof-Sleep-Capsule/3d-printed-helmholtz-resonators.jpg" alt="3D-printed Helmholtz resonator prototypes" /></p>
 
-<p>Holding the first print felt like a victory. Then I did the math. To cover a capsule, I’d need hundreds. Filament cost and print time ballooned into months. I never tested a single one. The prototype now holds spent batteries on my shelf — a monument to parametric CAD, if nothing else.</p>
+<p>Holding the first print felt like a victory. Then I did the math. To cover a capsule, I’d need hundreds. Filament cost and print time ballooned into months. I never tested a single one. The prototype now holds spent batteries on my shelf.</p>
 
 <h2 id="the-last-paper">The Last Paper</h2>
 
-<p>Then I found <a href="https://arxiv.org/abs/2307.15216">a paper by Krasikova et al. (2023)</a> that captured my imagination. The authors used plastic plumbing tubes with cleverly cut holes to create paired Helmholtz resonators, and reported attenuation across a broad range. Most metamaterials target narrow bands (like a specific engine frequency), but my goal was broad attenuation. This paper promised exactly that — and claimed it didn’t even require a hermetic seal.</p>
+<p>Then I found <a href="https://arxiv.org/abs/2307.15216">a paper by Krasikova et al. (2023)</a>. The authors used plastic plumbing tubes with cut holes to create paired Helmholtz resonators and reported attenuation across a broad range. Most metamaterials target narrow bands, such as a specific engine frequency; this design covered a broader range and did not even require a hermetic seal. Hurray!</p>
 
-<p>I emailed the author with clarifying questions (she replied!). Plastic tubes were light, cheap, and targeted the needed frequency range. For the first time in months, I fell asleep with peaceful visions of the completed project.</p>
+<p>I emailed the author with clarifying questions (she replied!). Plastic tubes were light, cheap, and targeted the needed frequency range. For the first time in months, the project looked buildable again.</p>
 
 <p>After three months and six emails, I was ready to build. I opened a spreadsheet to finalize the Bill of Materials.</p>
 
-<p>Each resonator tube needed a specific length to target a particular frequency. To cover a bed-sized enclosure — say, 5 meters of perimeter and 1 meter tall — I’d need six resonators per block, eight blocks per meter of wall. The sum at the bottom of the column stared back at me: <strong>250 meters of PVC</strong>.</p>
+<p>Each resonator tube needed a specific length to target a particular frequency. To cover a bed-sized enclosure — say, 5 meters of perimeter and 1 meter tall — I’d need six resonators per block, eight blocks per meter of wall. The total was <strong>250 meters of PVC</strong>.</p>
 
 <p><img src="https://www.lepekhin.com/assets/images/2026-02-10-Soundproof-Sleep-Capsule/250-m-of-pvc.jpg" alt="250 m of PVC pipes" /></p>
 
-<p>I’d optimized for “lightweight” while ignoring “how much.” The resulting structure would still weigh over 500 kg, but now it would be made of thousands of glued tubes instead of simple plywood. I’d spent months on acoustic metamaterials only to arrive back at the same brute-force truth: mass laws are non‑negotiable.</p>
+<p>I’d optimized for the weight of each part without adding up the whole structure. It would still weigh over 500 kg, only now it would require thousands of glued tubes instead of simple plywood. The metamaterial design had not solved the mass problem; it had made the build more complicated.</p>
 
 <p>I closed the spreadsheet and, for the first time, didn’t open another paper.</p>
 
 <h2 id="the-door-slammed-at-2am">The Door Slammed at 2 a.m.</h2>
 
-<p>When a recurring problem disappears without you changing anything, you don’t relax — you brace for its return.</p>
-
 <p>My sleep improved, though I never isolated the variable. Recently a door slammed at 2 a.m. I noticed. I rolled over. A year earlier, I would have stayed awake, jaw clenched.</p>
 
-<p>Maybe Finland’s lower ambient stress finally settled into my nervous system<sup id="fnref:relocation"><a href="#fn:relocation" class="footnote" rel="footnote" role="doc-noteref">7</a></sup>. Or maybe the act of building — even building things that failed — gave back what I’d actually lost. Not quiet, but <em>agency</em>.</p>
+<p>Maybe Finland’s lower ambient stress finally settled into my nervous system<sup id="fnref:relocation"><a href="#fn:relocation" class="footnote" rel="footnote" role="doc-noteref">7</a></sup>. The project may have helped too: after months of measuring and building, the noise felt less mysterious and less beyond my control.</p>
 
-<p>I disassembled the cube, reclaimed the plywood, and reused the CAD skills on my <a href="/2025/06/22/DIY-Door-Fan-to-Fix-My-Groggy-Mornings">next hobby project</a>. In total I spent under 1,000 euros — about 300 on the engineer, the rest on materials and tools — and a solid month of full-time effort. None of it produced silence. All of it mattered.</p>
-
-<p>Sound leaves no evidence. But the sawdust did.</p>
+<p>I disassembled the cube, reclaimed the plywood, and reused the CAD skills on my <a href="/2025/06/22/DIY-Door-Fan-to-Fix-My-Groggy-Mornings">next hobby project</a>. In total I spent under 1,000 euros — about 300 on the engineer, the rest on materials and tools — and a solid month of full-time effort.</p>
 
 <hr />
 
@@ -368,77 +364,61 @@ While it isn’t <em>dangerous</em>, it still might’ve been the reason for my 
                 <link>https://www.lepekhin.com/2025/03/24/Should-AI-Take-the-Wheel</link>
                 <content:encoded>
                     <![CDATA[
-                    <p>When my wife asked, “<em>Which decisions should you <strong>not</strong> delegate to AI?</em>”, I froze mid-thought.</p>
+                    <p>When my wife asked, “<em>Which decisions should you <strong>not</strong> delegate to AI?</em>”, I stumbled.</p>
 
 <!--excerpt_separator-->
 
-<p>At that moment, it hit me just how much I’d already outsourced—maybe even too much. She noticed (quicker than I did!) that I’d become increasingly dependent on AI, whose capabilities seem to grow by the week.</p>
+<p>My wife had noticed  (quicker than I had!) that I was leaning on AI more often. The tools kept getting better, and the questions I gave them were getting less trivial.</p>
 
-<p>It started innocently enough. Small questions like:</p>
+<p>At first, it was:</p>
 
 <blockquote>
-  <p>What meal can I make with these leftovers?</p>
+  <p>What meal can I make with these ingredients in my fridge?</p>
 </blockquote>
 
-<p>quickly escalated to:</p>
+<p>It quickly escalated to:</p>
 
 <blockquote>
   <p>Should we move to another city?</p>
 </blockquote>
 
-<p>Before long, decisions I’d usually ponder through journaling, or with trusted friends, had slowly become quick prompts to ChatGPT, answered instantly. Convenience quietly replaced reflection.</p>
-
-<p>So where is the line between getting help and letting the habit make me passive?</p>
+<p>That second question would once have sent me to my journal or to a friend who knows me well. Increasingly, I was opening ChatGPT first, with its convenient instant answers.</p>
 
 <h2 id="better-decisions">Better decisions</h2>
 
-<p>Recently, I chatted about this with a friend.<sup id="fnref:conversation"><a href="#fn:conversation" class="footnote" rel="footnote" role="doc-noteref">1</a></sup> We talked about how little practice we really get with life’s biggest choices: leaving a job, ending a relationship, deciding to move abroad. These choices come up infrequently yet have massive stakes attached, no wonder we struggle with them.</p>
+<p>A friend and I recently discussed this.<sup id="fnref:conversation"><a href="#fn:conversation" class="footnote" rel="footnote" role="doc-noteref">1</a></sup> We talked about how little practice we really get with life’s biggest choices: leaving a job, ending a relationship, or deciding to move abroad. These choices come up rarely but have massive stakes attached. No wonder we struggle with them — we don’t have enough practice.</p>
 
-<p>That makes AI very tempting. It can draw on more examples than any one person has seen and is not caught up in my immediate mood.<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">2</a></sup> Could that sometimes make its advice better than my own?</p>
+<p>That makes AI very tempting. It can draw on more examples than any one person has seen and is not caught up in my immediate mood.<sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">2</a></sup></p>
 
 <h2 id="cheat-code-to-life">Cheat code to life</h2>
 
-<p>Even if the advice <em>is</em> better, I might still lose something by always taking it.</p>
+<p>It reminds me of using cheat codes in video games as a child (<code class="language-plaintext highlighter-rouge">IDDQD</code>, anyone?). At first, cheating felt amazing. Not long after, I realized I wasn’t having much fun. Without the challenge, reward was not… well, rewarding.</p>
 
-<p>It reminds me of using cheat codes in video games as a child (<code class="language-plaintext highlighter-rouge">IDDQD</code>, anyone?). At first, cheating felt amazing. Not long after, I realized I wasn’t having much fun. Without the challenge, I stopped caring what happened.</p>
+<p>Relying on AI is similar in that it <em>can</em> suck the meaning out of life. Struggling over a choice develops the muscle needed to make good decisions; reaping the consequences, however good or dreadful, closes the feedback loop. Without that, do I learn anything? Without struggling over a choice, am I still the author of my life?</p>
 
-<p>Could relying on AI do something similar? Maybe some of the frustration I want to avoid is also where I learn patience or build character and empathy.</p>
-
-<p>I’ve resorted to cheats in games when they became frustratingly hard or when low mood got the best of me, <em>even</em> when I knew it would spoil the fun longer-term. If I can’t resist that temptation in gaming, how can I resist the allure of AI making my life easier?</p>
+<p>I used cheats most often when a game became frustrating or when I was in a low mood and needed a win, even though I knew they would drain the fun from the game soon after. AI offers a much larger shortcut, and I worry my willpower will not be enough to withstand the siren call of an easy life.</p>
 
 <hr />
 
 <p>The analogy breaks down, though.</p>
 
-<h2 id="real-life-was-not-designed-to-be-a-satisfying-game">Real life was not designed to be a satisfying game</h2>
+<p>Some difficulties are not secretly lessons. Sometimes a situation is simply painful, or there is tedious work that needs to be done. Help is welcome there.</p>
 
-<p>Our daily challenges aren’t necessarily meaningful or valuable. Some are simply painful, and getting through them teaches us nothing.</p>
+<p>Not all gain requires pain. I may also have given struggle too much credit. Curiosity and making things have shaped me at least as much as hardship has. AI may give me more room for both without adding misery for its own sake.</p>
 
-<p>In these circumstances, reducing unnecessary trauma and harm isn’t “cheating”; it’s just common sense.</p>
+<p>…but some gain definitely <em>is</em> driven by pain. And with AI it might be easier to avoid the uncomfortable. A fast plausible AI answer can help me skip the marinating-in-my-misery part of the experience.</p>
 
-<h3 id="not-all-gain-requires-pain">Not all gain requires pain</h3>
-
-<p>And maybe I’ve overestimated the necessity of struggle and hardship for personal growth. Curiosity, play, and making things have shaped me too. AI could help with that kind of growth without sending me through avoidable misery.</p>
-
-<h3 id="but-some-gain-still-might">…but some gain still might?</h3>
-
-<p>The worry is what happens if I hand over <em>every</em> difficult choice.</p>
-
-<p>Sometimes I need to sit with uncertainty, even when an AI can offer <em>a</em> reasonable path. The discomfort may be part of working out what matters to me.</p>
-
-<h2 id="local-maxima-trap">Local maxima trap</h2>
-
-<p>There is another failure mode. An AI optimized for what I want right now might keep recommending the least uncomfortable option: stay in the tolerable job, avoid the hard conversation, postpone the move. Each suggestion could feel sensible on its own while the larger pattern leaves me stuck.<sup id="fnref:2"><a href="#fn:2" class="footnote" rel="footnote" role="doc-noteref">3</a></sup></p>
+<p>There’s also the local maximum trap. An AI optimized for what I want right now might keep recommending the least uncomfortable option: stay in the tolerable job, avoid the hard conversation, postpone the move. Years later, I could find that several <em>sensible</em> decisions had kept me stuck.<sup id="fnref:2"><a href="#fn:2" class="footnote" rel="footnote" role="doc-noteref">3</a></sup></p>
 
 <h2 id="convenience-vs-agency">Convenience vs. Agency</h2>
 
-<p>That is the part I keep coming back to. As AI improves, will using it make me feel less like the author of my own decisions?</p>
+<p>I want to be able to recognize the decision as mine.</p>
 
-<p>I don’t know yet. What reassures me is my actual track record. Despite thinking of myself as the <em>instant gratification monkey</em>, I do leave my comfort zone and do things even when The Algorithm offers an easier distraction.</p>
+<p>For now, I don’t have a fixed rule for this. But my own track record gives me some confidence. Despite thinking of myself as the <em>instant gratification monkey</em>, I do leave my comfort zone and do things even when The Algorithm offers an easier distraction.</p>
 
-<p>I expect AI to become more useful. I also trust that I can notice when its help starts making my life smaller, and change how I use it.</p>
+<p>I expect AI to become more useful, and harder to ignore. And also I trust that I can notice when its help starts making my life smaller, and change how I use it.</p>
 
-<p>I’d love to hear your thoughts, and I’m curious how future-me will reflect on another year of closer reliance on AI.</p>
+<hr />
 
 <div class="footnotes" role="doc-endnotes">
   <ol>
@@ -449,7 +429,7 @@ While it isn’t <em>dangerous</em>, it still might’ve been the reason for my 
       <p>To be clear, today’s AIs carry <em>all the biases</em> inherited from training data; the hope is that they balance each other out. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
     <li id="fn:2">
-      <p>Current AIs are good at surface-level optimization but may fail to suggest difficult-in-the-moment but ultimately enriching decisions. Future models could potentially integrate secondary- and tertiary-level consequences, vectorize your preferences and <em>your whole psyche</em>, and ultimately be able to make decisions that are <em>just good for you</em>. But that is post-singularity AI, firmly in Speculationland. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      <p>Current AIs are good at surface-level optimization but may fail to suggest difficult-in-the-moment but ultimately enriching decisions. Future models could potentially integrate second- and third-order consequencess, vectorize your preferences and <em>your whole psyche</em>, and ultimately be able to make decisions that are <em>just good for you</em>. But that is post-singularity AI, firmly in Speculationland. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
 </div>
