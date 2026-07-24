@@ -5,54 +5,40 @@
   border-radius: 8px;
 }
 
-.about-cards {
+.about-index {
   clear: both;
-  display: grid;
-  gap: 1rem;
   margin: 1.5rem 0 2rem;
+  border-bottom: 1px solid $border-color;
 }
 
-.about-card {
-  padding: 1rem 1.15rem;
-  border: 1px solid rgba(26, 26, 26, 0.08);
-  border-left: 4px solid rgba($blue, 0.55);
-  border-radius: 10px;
-  background: rgba(252, 252, 252, 0.82);
-  box-shadow: 0 10px 30px rgba(26, 26, 26, 0.05);
+.about-index-item {
+  display: grid;
+  grid-template-columns: 9rem minmax(0, 1fr);
+  gap: 1.5rem;
+  padding: 1.25rem 0;
+  border-top: 1px solid $border-color;
 }
 
-.about-card:nth-child(2) {
-  border-left-color: rgba($green, 0.55);
-}
-
-.about-card:nth-child(3) {
-  border-left-color: rgba($purple, 0.55);
-}
-
-.about-card:nth-child(4) {
-  border-left-color: rgba($orange, 0.65);
-}
-
-.about-card:nth-child(5) {
-  border-left-color: rgba($red, 0.55);
-}
-
-.about-card h3 {
-  margin-top: 0;
-  margin-bottom: 0.45rem;
+.about-index-item h3 {
+  margin: 0;
   font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.7;
+  color: $mid-gray;
 }
 
-.about-card p {
-  margin-top: 0;
-  margin-bottom: 0;
+.about-index-item p {
+  margin: 0;
 }
 
 @media (prefers-color-scheme: dark) {
-  .about-card {
-    border-color: rgba(224, 224, 224, 0.09);
-    background: rgba(26, 26, 26, 0.82);
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  .about-index,
+  .about-index-item {
+    border-color: #333;
+  }
+
+  .about-index-item h3 {
+    color: $dark-mode-nav-link-color;
   }
 }
 
@@ -63,7 +49,9 @@
     margin: 0 auto 1rem;
   }
 
-  .about-card {
-    padding: 0.9rem 1rem;
+  .about-index-item {
+    grid-template-columns: 1fr;
+    gap: 0.35rem;
+    padding: 1rem 0 1.15rem;
   }
 }
