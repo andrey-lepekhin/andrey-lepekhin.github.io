@@ -6,7 +6,7 @@ categories: diy
 
 Sound leaves no evidence. There's no stain on the ceiling — nothing you can point at and say *there*. An apartment can seem silent at noon and wake me at 2&nbsp;a.m., when a bass note comes through the wall, too faint to justify a complaint but enough to keep me awake. What got to me was having no control over it: someone else could ruin my next day without even knowing.
 
-For years I tried the usual arsenal: earplugs, white noise, therapy, bargaining with neighbors. Nothing worked. Actual silence is rare when you rent in a city.
+For years I tried the usual: earplugs, white noise, therapy, bargaining with neighbors — nothing worked long-term. Silence is rare in a city.
 
 Suffice to say, I did not jump to *designing a soundproof sleep capsule* right away.
 
@@ -14,7 +14,7 @@ Suffice to say, I did not jump to *designing a soundproof sleep capsule* right a
 
 ## Pillows on the Bathroom Tiles
 
-Wind didn't bother me. But if a *human* made the noise — a hot spike of adrenaline.
+Wind didn't bother me, but if a *human* made the noise — a hot spike of anger.
 
 I stopped trusting daylight viewings. Before signing a lease, I'd ask realtors to let me sleep there for a night.
 
@@ -48,9 +48,9 @@ Once the requirements took shape, I hired Fehim (an engineer I found on Upwork) 
 
 A 100&nbsp;kg door is a crushing hazard. The simple rectangle in my sketch translated physically into a massive lever arm destined to rip its hinges out — or tip the whole structure.
 
-You don’t just “hang” a slab of mass-loaded vinyl (a thin, dense rubber sheet) and plywood; you build a steel cage to contain it. At that point, I realized how much structural engineering the design required.
+You can't just “hang” a slab of mass-loaded vinyl (a thin, dense rubber sheet) and plywood like a regular door. At that point, I realized how much structural engineering the design required.
 
-I'd assumed plywood, drywall, and mineral wool were “cheap.” They are, until you need *a lot* of them. Fehim pushed for a prototype first. I’d somehow become the "perfect on the first try" client, and he had to talk me into cutting scope. I’m glad he did.
+Also, I'd assumed plywood, drywall, and mineral wool were “cheap.” They are, until you need *a lot* of them. Fehim pushed for a prototype first. I’d somehow become the "perfect on the first try" client, and he had to talk me into cutting scope. I’m glad he did.
 
 {% figure [caption:"CAD of the cube prototype"] %}
 <video controls width="100%" preload="metadata" loop autoplay muted playsinline>
@@ -58,19 +58,21 @@ I'd assumed plywood, drywall, and mineral wool were “cheap.” They are, until
 </video>
 {% endfigure %}
 
-## No Uncutting a Board
+## Need To Cut Scope
 
 The next constraint was ventilation.
 
-A sealed box might be quiet, but it's also a coffin.[^co2-risk] Ventilation requires openings, and even a tiny gap can sharply reduce sound isolation.[^gap-isolation]
+A sealed box is a quiet... coffin.[^co2-risk] Ventilation requires openings, and even a tiny gap can sharply reduce sound isolation.[^gap-isolation]
 
-So the project stopped being "build heavy walls." It became "build heavy walls *and* somehow let air in."
+So the project expanded from "build heavy walls" to "build heavy walls *and* somehow let air in."
 
 *Grime accumulation, emergency exit… Hermetic seal? A submarine CO₂ scrubber?* My project folder kept growing. But everything else would matter only if I could get the walls right.
 
-I started with a half-meter prototype cube with heavy, decoupled double walls.[^cube-specs] I bought mineral wool for the cavities, but after realizing the hair-thin glass fibers would coat my apartment, I stuffed them with old clothes instead. The prototype's purpose was to test whether the wall assembly measurably reduced sound.
+I started with a half-meter prototype cube with heavy, decoupled double walls.[^cube-specs] I bought mineral wool for the cavities, but after realizing the hair-thin glass fibers would coat my apartment, I stuffed the cube with old clothes instead. The prototype's purpose was to test whether the wall assembly measurably reduced sound.
 
 I didn't have the tools, so I asked in a local chat. A stranger — Alex (thank you!)—offered his backyard and his workshop, helped source materials, and taught me a few saw tricks on the spot. Without him, the cube might've stayed a sketch.
+
+## The Prototype
 
 ![Building the prototype in Alex's workshop]({{ "/assets/images/2026-02-10-Soundproof-Sleep-Capsule/building-prototype-in-workshop.jpg" | absolute_url }})
 
@@ -126,9 +128,9 @@ I'd optimized for the weight of each part without adding up the whole structure.
 
 That was where I stopped researching the capsule.
 
-## The Door Slammed at 2&nbsp;a.m.
+## 2&nbsp;a.m. Door Slam
 
-My sleep improved, though I never isolated the variable. Recently a door slammed at 2&nbsp;a.m. I noticed. I rolled over. A year earlier, I would have stayed awake, jaw clenched.
+My sleep improved, though I never isolated the variable. Recently a door slammed at 2&nbsp;a.m. I noticed. I rolled over and went back to sleep. A year earlier, I would have stayed awake, jaw clenched.
 
 Maybe Finland's lower ambient stress finally settled into my nervous system[^relocation]. The project may have helped too: after months of measuring and building, the noise felt less mysterious and less beyond my control.
 
