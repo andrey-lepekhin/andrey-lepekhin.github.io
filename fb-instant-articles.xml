@@ -35,7 +35,7 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
                     <![CDATA[
                     <p>Sound leaves no evidence. There’s no stain on the ceiling — nothing you can point at and say <em>there</em>. An apartment can seem silent at noon and wake me at 2 a.m., when a bass note comes through the wall, too faint to justify a complaint but enough to keep me awake. What got to me was having no control over it: someone else could ruin my next day without even knowing.</p>
 
-<p>For years I tried the usual arsenal: earplugs, white noise, therapy, bargaining with neighbors. Nothing worked. Actual silence is rare when you rent in a city.</p>
+<p>For years I tried the usual: earplugs, white noise, therapy, bargaining with neighbors — nothing worked long-term. Silence is rare in a city.</p>
 
 <p>Suffice to say, I did not jump to <em>designing a soundproof sleep capsule</em> right away.</p>
 
@@ -43,7 +43,7 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
 
 <h2 id="pillows-on-the-bathroom-tiles">Pillows on the Bathroom Tiles</h2>
 
-<p>Wind didn’t bother me. But if a <em>human</em> made the noise — a hot spike of adrenaline.</p>
+<p>Wind didn’t bother me, but if a <em>human</em> made the noise — a hot spike of anger.</p>
 
 <p>I stopped trusting daylight viewings. Before signing a lease, I’d ask realtors to let me sleep there for a night.</p>
 
@@ -78,9 +78,9 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
 
 <p>A 100 kg door is a crushing hazard. The simple rectangle in my sketch translated physically into a massive lever arm destined to rip its hinges out — or tip the whole structure.</p>
 
-<p>You don’t just “hang” a slab of mass-loaded vinyl (a thin, dense rubber sheet) and plywood; you build a steel cage to contain it. At that point, I realized how much structural engineering the design required.</p>
+<p>You can’t just “hang” a slab of mass-loaded vinyl (a thin, dense rubber sheet) and plywood like a regular door. At that point, I realized how much structural engineering the design required.</p>
 
-<p>I’d assumed plywood, drywall, and mineral wool were “cheap.” They are, until you need <em>a lot</em> of them. Fehim pushed for a prototype first. I’d somehow become the “perfect on the first try” client, and he had to talk me into cutting scope. I’m glad he did.</p>
+<p>Also, I’d assumed plywood, drywall, and mineral wool were “cheap.” They are, until you need <em>a lot</em> of them. Fehim pushed for a prototype first. I’d somehow become the “perfect on the first try” client, and he had to talk me into cutting scope. I’m glad he did.</p>
 
 <figure>
 <video controls="" width="100%" preload="metadata" loop="" autoplay="" muted="" playsinline="">
@@ -89,19 +89,21 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
   <figcaption>CAD of the cube prototype</figcaption>
 </figure>
 
-<h2 id="no-uncutting-a-board">No Uncutting a Board</h2>
+<h2 id="need-to-cut-scope">Need To Cut Scope</h2>
 
 <p>The next constraint was ventilation.</p>
 
-<p>A sealed box might be quiet, but it’s also a coffin.<sup id="fnref:co2-risk"><a href="#fn:co2-risk" class="footnote" rel="footnote" role="doc-noteref">2</a></sup> Ventilation requires openings, and even a tiny gap can sharply reduce sound isolation.<sup id="fnref:gap-isolation"><a href="#fn:gap-isolation" class="footnote" rel="footnote" role="doc-noteref">3</a></sup></p>
+<p>A sealed box is a quiet… coffin.<sup id="fnref:co2-risk"><a href="#fn:co2-risk" class="footnote" rel="footnote" role="doc-noteref">2</a></sup> Ventilation requires openings, and even a tiny gap can sharply reduce sound isolation.<sup id="fnref:gap-isolation"><a href="#fn:gap-isolation" class="footnote" rel="footnote" role="doc-noteref">3</a></sup></p>
 
-<p>So the project stopped being “build heavy walls.” It became “build heavy walls <em>and</em> somehow let air in.”</p>
+<p>So the project expanded from “build heavy walls” to “build heavy walls <em>and</em> somehow let air in.”</p>
 
 <p><em>Grime accumulation, emergency exit… Hermetic seal? A submarine CO₂ scrubber?</em> My project folder kept growing. But everything else would matter only if I could get the walls right.</p>
 
-<p>I started with a half-meter prototype cube with heavy, decoupled double walls.<sup id="fnref:cube-specs"><a href="#fn:cube-specs" class="footnote" rel="footnote" role="doc-noteref">4</a></sup> I bought mineral wool for the cavities, but after realizing the hair-thin glass fibers would coat my apartment, I stuffed them with old clothes instead. The prototype’s purpose was to test whether the wall assembly measurably reduced sound.</p>
+<p>I started with a half-meter prototype cube with heavy, decoupled double walls.<sup id="fnref:cube-specs"><a href="#fn:cube-specs" class="footnote" rel="footnote" role="doc-noteref">4</a></sup> I bought mineral wool for the cavities, but after realizing the hair-thin glass fibers would coat my apartment, I stuffed the cube with old clothes instead. The prototype’s purpose was to test whether the wall assembly measurably reduced sound.</p>
 
 <p>I didn’t have the tools, so I asked in a local chat. A stranger — Alex (thank you!)—offered his backyard and his workshop, helped source materials, and taught me a few saw tricks on the spot. Without him, the cube might’ve stayed a sketch.</p>
+
+<h2 id="the-prototype">The Prototype</h2>
 
 <p><img src="https://www.lepekhin.com/assets/images/2026-02-10-Soundproof-Sleep-Capsule/building-prototype-in-workshop.jpg" alt="Building the prototype in Alex's workshop" /></p>
 
@@ -157,9 +159,9 @@ Have fun! and ignore the ‘continue reading’ link (there’s nothing inside).
 
 <p>That was where I stopped researching the capsule.</p>
 
-<h2 id="the-door-slammed-at-2am">The Door Slammed at 2 a.m.</h2>
+<h2 id="2am-door-slam">2 a.m. Door Slam</h2>
 
-<p>My sleep improved, though I never isolated the variable. Recently a door slammed at 2 a.m. I noticed. I rolled over. A year earlier, I would have stayed awake, jaw clenched.</p>
+<p>My sleep improved, though I never isolated the variable. Recently a door slammed at 2 a.m. I noticed. I rolled over and went back to sleep. A year earlier, I would have stayed awake, jaw clenched.</p>
 
 <p>Maybe Finland’s lower ambient stress finally settled into my nervous system<sup id="fnref:relocation"><a href="#fn:relocation" class="footnote" rel="footnote" role="doc-noteref">7</a></sup>. The project may have helped too: after months of measuring and building, the noise felt less mysterious and less beyond my control.</p>
 
